@@ -1,0 +1,1970 @@
+[
+  {
+    "question": "¿Cuál es la finalidad principal de la lectura comprensiva?",
+    "options": [
+      "Memorizar todo el texto",
+      "Entender y reflexionar sobre el contenido",
+      "Leer rápidamente",
+      "Traducir frases al idioma nativo",
+      "Copiar el texto palabra por palabra"
+    ],
+    "answer": "Entender y reflexionar sobre el contenido"
+  },
+  {
+    "question": "¿Qué es una idea secundaria?",
+    "options": [
+      "La idea principal del texto",
+      "Una opinión del lector",
+      "Un detalle que apoya o explica la idea principal",
+      "El título del texto",
+      "Un error en la redacción"
+    ],
+    "answer": "Un detalle que apoya o explica la idea principal"
+  },
+  {
+    "question": "¿Dónde se encuentra usualmente la idea principal en un párrafo?",
+    "options": [
+      "Al final del párrafo",
+      "En la mitad del texto",
+      "Al principio del párrafo",
+      "En el título",
+      "En la conclusión"
+    ],
+    "answer": "Al principio del párrafo"
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es un tipo de párrafo?",
+    "options": [
+      "Descriptivo",
+      "Narrativo",
+      "Interrogativo",
+      "Argumentativo",
+      "Expositivo"
+    ],
+    "answer": "Interrogativo"
+  },
+  {
+    "question": "¿Qué característica debe tener un párrafo para ser coherente?",
+    "options": [
+      "Que tenga muchas oraciones",
+      "Que solo tenga oraciones simples",
+      "Que todas las oraciones estén relacionadas entre sí",
+      "Que tenga citas textuales",
+      "Que use palabras complicadas"
+    ],
+    "answer": "Que todas las oraciones estén relacionadas entre sí"
+  },
+  {
+    "question": "¿Qué tipo de preguntas se debe hacer para una buena lectura comprensiva?",
+    "options": [
+      "Preguntas de memoria exacta",
+      "Preguntas sobre el color del texto",
+      "Preguntas que ayuden a analizar y entender el texto",
+      "Preguntas sin respuesta",
+      "Preguntas que solo respondan con sí o no"
+    ],
+    "answer": "Preguntas que ayuden a analizar y entender el texto"
+  },
+  {
+    "question": "¿Cuál es la función de la oración temática en un párrafo?",
+    "options": [
+      "Dar ejemplos",
+      "Cerrar el párrafo",
+      "Presentar la idea principal",
+      "Describir personajes",
+      "Añadir un dato curioso"
+    ],
+    "answer": "Presentar la idea principal"
+  },
+  {
+    "question": "¿Qué se entiende por “cohesión” en un texto?",
+    "options": [
+      "El uso de mayúsculas",
+      "La conexión lógica entre oraciones y párrafos",
+      "La longitud del texto",
+      "El tamaño de la letra",
+      "La cantidad de imágenes"
+    ],
+    "answer": "La conexión lógica entre oraciones y párrafos"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones es una buena estrategia para mejorar la comprensión lectora?",
+    "options": [
+      "Leer sin pausas",
+      "Hacer resúmenes de lo leído",
+      "Leer solo los títulos",
+      "Memorizar párrafos completos",
+      "Ignorar palabras desconocidas"
+    ],
+    "answer": "Hacer resúmenes de lo leído"
+  },
+  {
+    "question": "¿Qué debe contener un párrafo conclusivo?",
+    "options": [
+      "Nuevas ideas",
+      "Un resumen o cierre de lo expuesto",
+      "Preguntas abiertas",
+      "Detalles secundarios",
+      "Datos irrelevantes"
+    ],
+    "answer": "Un resumen o cierre de lo expuesto"
+  },
+  {
+    "question": "¿Qué se considera un error al buscar la idea principal?",
+    "options": [
+      "Leer todo el texto",
+      "Subrayar palabras clave",
+      "Tomar una idea secundaria como principal",
+      "Analizar el título",
+      "Releer el párrafo"
+    ],
+    "answer": "Tomar una idea secundaria como principal"
+  },
+  {
+    "question": "¿Cuál de los siguientes textos presenta ideas principales claramente diferenciadas?",
+    "options": [
+      "Un poema abstracto",
+      "Un artículo científico",
+      "Una conversación informal",
+      "Una novela compleja",
+      "Un texto humorístico"
+    ],
+    "answer": "Un artículo científico"
+  },
+  {
+    "question": "¿Qué hace un lector crítico?",
+    "options": [
+      "Solo lee para aprobar un examen",
+      "Evalúa y cuestiona el contenido del texto",
+      "Lee rápidamente sin detenerse",
+      "Memoriza sin entender",
+      "Lee en voz alta sin análisis"
+    ],
+    "answer": "Evalúa y cuestiona el contenido del texto"
+  },
+  {
+    "question": "¿Qué es una inferencia en la lectura?",
+    "options": [
+      "Leer palabras complicadas",
+      "Deducir información no explícita",
+      "Subrayar frases importantes",
+      "Traducir el texto",
+      "Copiar ideas principales"
+    ],
+    "answer": "Deducir información no explícita"
+  },
+  {
+    "question": "¿Cuál es el orden correcto para construir un párrafo?",
+    "options": [
+      "Cierre, desarrollo, introducción",
+      "Desarrollo, introducción, cierre",
+      "Introducción, desarrollo, cierre",
+      "Oración temática, conclusión, ejemplo",
+      "Detalle, idea principal, conclusión"
+    ],
+    "answer": "Introducción, desarrollo, cierre"
+  },
+  {
+    "question": "¿Qué función cumple un conector adversativo?",
+    "options": [
+      "Indicar causa",
+      "Mostrar contraste",
+      "Enumerar ideas",
+      "Añadir información",
+      "Expresar consecuencia"
+    ],
+    "answer": "Mostrar contraste"
+  },
+  {
+    "question": "¿Por qué es importante identificar la idea central?",
+    "options": [
+      "Para repetirla en voz alta",
+      "Para comprender el mensaje principal del texto",
+      "Para copiarla en un resumen",
+      "Para memorizar sin entender",
+      "Para subrayar sin leer"
+    ],
+    "answer": "Para comprender el mensaje principal del texto"
+  },
+  {
+    "question": "¿Qué indica el uso correcto de signos de puntuación?",
+    "options": [
+      "Que el texto es largo",
+      "Claridad y orden en las ideas",
+      "Que el texto es informal",
+      "Que el texto es un poema",
+      "Que no hay errores"
+    ],
+    "answer": "Claridad y orden en las ideas"
+  },
+  {
+    "question": "¿Cuál es la diferencia entre párrafo expositivo y argumentativo?",
+    "options": [
+      "Ambos tienen la misma función",
+      "El expositivo explica y el argumentativo persuade",
+      "El argumentativo es más corto",
+      "El expositivo usa solo verbos en presente",
+      "No tienen diferencia"
+    ],
+    "answer": "El expositivo explica y el argumentativo persuade"
+  },
+  {
+    "question": "¿Qué debe evitarse para una buena comprensión lectora?",
+    "options": [
+      "Leer con atención",
+      "Saltar palabras desconocidas sin entenderlas",
+      "Subrayar ideas principales",
+      "Analizar el contexto",
+      "Hacer resúmenes"
+    ],
+    "answer": "Saltar palabras desconocidas sin entenderlas"
+  },
+  {
+    "question": "¿Cuál de estos adjetivos es un numeral ordinal?",
+    "options": [
+      "Tres",
+      "Segundo",
+      "Mucho",
+      "Algunas",
+      "Cada"
+    ],
+    "answer": "Segundo"
+  },
+  {
+    "question": "¿Qué tipo de adjetivo es “cuántos” en “¿Cuántos días faltan?”?",
+    "options": [
+      "Numeral",
+      "Posesivo",
+      "Interrogativo",
+      "Calificativo",
+      "Indefinido"
+    ],
+    "answer": "Interrogativo"
+  },
+  {
+    "question": "¿Cuál de los siguientes adjetivos es un numeral cardinal?",
+    "options": [
+      "Segundo",
+      "Uno",
+      "Algunos",
+      "Cuál",
+      "Vuestro"
+    ],
+    "answer": "Uno"
+  },
+  {
+    "question": "¿Cuál de los siguientes adjetivos está en grado positivo?",
+    "options": [
+      "Más claro",
+      "Clarísimo",
+      "Claro",
+      "Muy claro",
+      "Tan claro"
+    ],
+    "answer": "Claro"
+  },
+  {
+    "question": "¿Cuál de los siguientes artículos es indefinido?",
+    "options": [
+      "El",
+      "La",
+      "Los",
+      "Un",
+      "Las"
+    ],
+    "answer": "Un"
+  },
+  {
+    "question": "¿Cuál es el plural del artículo “el”?",
+    "options": [
+      "Les",
+      "Las",
+      "Losas",
+      "Ellos",
+      "Los"
+    ],
+    "answer": "Los"
+  },
+  {
+    "question": "¿Cuál es el artículo correcto para acompañar el sustantivo “agua” en la oración “___ agua estaba fría”?",
+    "options": [
+      "La",
+      "El",
+      "Una",
+      "Un",
+      "Las"
+    ],
+    "answer": "El"
+  },
+  {
+    "question": "¿Cuál de las siguientes palabras puede ser precedida por el artículo definido “la”?",
+    "options": [
+      "Agua",
+      "Ángel",
+      "Amiga",
+      "Árbol",
+      "Alma"
+    ],
+    "answer": "Amiga"
+  },
+  {
+    "question": "¿Cuál de los siguientes sustantivos requiere el uso especial de “el” en lugar de “la”?",
+    "options": [
+      "El casa",
+      "El amiga",
+      "El flor",
+      "El agua",
+      "El mesa"
+    ],
+    "answer": "El agua"
+  },
+  {
+    "question": "¿Qué oración muestra concordancia incorrecta entre artículo y sustantivo?",
+    "options": [
+      "La ventana",
+      "El problema",
+      "Unas casas",
+      "Las niño",
+      "Los perros"
+    ],
+    "answer": "Las niño"
+  },
+  {
+    "question": "¿Cuál es el artículo correcto para completar la oración: “___ alma noble ayuda a los demás”?",
+    "options": [
+      "La",
+      "El",
+      "Una",
+      "Un",
+      "Las"
+    ],
+    "answer": "El"
+  },
+  {
+    "question": "¿Cuál de los siguientes artículos es masculino singular?",
+    "options": [
+      "Las",
+      "La",
+      "Los",
+      "El",
+      "Unas"
+    ],
+    "answer": "El"
+  },
+  {
+    "question": "¿Cuál es el artículo correcto para “árbol”?",
+    "options": [
+      "El",
+      "La",
+      "Una",
+      "Las",
+      "Unas"
+    ],
+    "answer": "El"
+  },
+  {
+    "question": "¿Cuál es el artículo indefinido femenino singular?",
+    "options": [
+      "Un",
+      "El",
+      "La",
+      "Una",
+      "Unas"
+    ],
+    "answer": "Una"
+  },
+  {
+    "question": "¿Qué opción contiene solo artículos definidos?",
+    "options": [
+      "El, la, los, las",
+      "Un, una, unos, unas",
+      "Este, esa, aquel, aquellos",
+      "Su, sus, mi, tus",
+      "Lo, su, esa, aquel"
+    ],
+    "answer": "El, la, los, las"
+  },
+  {
+    "question": "¿Cuál es el plural de “una”?",
+    "options": [
+      "Unas",
+      "Unos",
+      "La",
+      "Las",
+      "Un"
+    ],
+    "answer": "Unas"
+  },
+  {
+    "question": "¿Qué oración muestra concordancia correcta entre artículo y sustantivo?",
+    "options": [
+      "El mesas grandes",
+      "Las puerta abierta",
+      "Un carro viejo",
+      "La casas limpias",
+      "Los niña estudian"
+    ],
+    "answer": "Un carro viejo"
+  },
+  {
+    "question": "¿Cuál es el artículo definido plural masculino?",
+    "options": [
+      "Unos",
+      "Las",
+      "Un",
+      "El",
+      "Los"
+    ],
+    "answer": "Los"
+  },
+  {
+    "question": "¿Qué opción contiene un artículo definido femenino singular?",
+    "options": [
+      "Un",
+      "La",
+      "El",
+      "Las",
+      "Unas"
+    ],
+    "answer": "La"
+  },
+  {
+    "question": "¿Cuál es el plural de “el alma”?",
+    "options": [
+      "Las almas",
+      "Los alma",
+      "El almas",
+      "Las alma",
+      "El alma"
+    ],
+    "answer": "Las almas"
+  },
+  {
+    "question": "¿Qué tipo de verbo es “ser”?",
+    "options": [
+      "Transitivo",
+      "Copulativo",
+      "Intransitivo",
+      "Auxiliar",
+      "Impersonal"
+    ],
+    "answer": "Copulativo"
+  },
+  {
+    "question": "¿Cuál es el modo que expresa órdenes o mandatos?",
+    "options": [
+      "Indicativo",
+      "Subjuntivo",
+      "Imperativo",
+      "Infinitivo",
+      "Gerundio"
+    ],
+    "answer": "Imperativo"
+  },
+  {
+    "question": "¿Qué tipo de verbo es “llover”?",
+    "options": [
+      "Transitivo",
+      "Intransitivo",
+      "Copulativo",
+      "Auxiliar",
+      "Modal"
+    ],
+    "answer": "Intransitivo"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un verbo irregular?",
+    "options": [
+      "Amar",
+      "Comer",
+      "Vivir",
+      "Ir",
+      "Estudiar"
+    ],
+    "answer": "Ir"
+  },
+  {
+    "question": "¿Cuál de los siguientes verbos es copulativo?",
+    "options": [
+      "Correr",
+      "Ser",
+      "Comer",
+      "Saltar",
+      "Escribir"
+    ],
+    "answer": "Ser"
+  },
+  {
+    "question": "¿Cuál es la forma correcta del verbo “ir” en primera persona del plural, presente indicativo?",
+    "options": [
+      "Voy",
+      "Va",
+      "Vamos",
+      "Iban",
+      "Iremos"
+    ],
+    "answer": "Vamos"
+  },
+  {
+    "question": "¿Qué modo verbal expresa deseo o posibilidad?",
+    "options": [
+      "Indicativo",
+      "Imperativo",
+      "Subjuntivo",
+      "Infinitivo",
+      "Gerundio"
+    ],
+    "answer": "Subjuntivo"
+  },
+  {
+    "question": "¿Cuál de los siguientes verbos es intransitivo?",
+    "options": [
+      "Comer",
+      "Correr",
+      "Leer",
+      "Escribir",
+      "Aprender"
+    ],
+    "answer": "Correr"
+  },
+  {
+    "question": "¿Qué tipo de verbo es “parecer” en la oración “Parece cansado”?",
+    "options": [
+      "Transitivo",
+      "Modal",
+      "Auxiliar",
+      "Intransitivo",
+      "Copulativo"
+    ],
+    "answer": "Copulativo"
+  },
+  {
+    "question": "En la oración “Si yo fuera rico, viajaría más”, ¿qué modo verbal está en “fuera”?",
+    "options": [
+      "Indicativo",
+      "Imperativo",
+      "Subjuntivo",
+      "Infinitivo",
+      "Gerundio"
+    ],
+    "answer": "Subjuntivo"
+  },
+  {
+    "question": "¿Qué tiempo verbal indica una acción futura que ya está planificada?",
+    "options": [
+      "Futuro simple",
+      "Futuro inmediato (perífrasis)",
+      "Presente",
+      "Condicional",
+      "Imperfecto"
+    ],
+    "answer": "Futuro inmediato (perífrasis)"
+  },
+  {
+    "question": "¿Qué modo verbal se utiliza para expresar órdenes?",
+    "options": [
+      "Indicativo",
+      "Subjuntivo",
+      "Imperativo",
+      "Infinitivo",
+      "Gerundio"
+    ],
+    "answer": "Imperativo"
+  },
+  {
+    "question": "¿Cuál de los siguientes verbos es irregular?",
+    "options": [
+      "Cantar",
+      "Beber",
+      "Salir",
+      "Caminar",
+      "Cocinar"
+    ],
+    "answer": "Salir"
+  },
+  {
+    "question": "¿Cuál es el verbo auxiliar que se usa para formar la voz pasiva?",
+    "options": [
+      "Ser",
+      "Estar",
+      "Haber",
+      "Ir",
+      "Tener"
+    ],
+    "answer": "Ser"
+  },
+  {
+    "question": "¿Qué tipo de verbo es “estar” en “Estoy cansado”?",
+    "options": [
+      "Copulativo",
+      "Transitivo",
+      "Auxiliar",
+      "Intransitivo",
+      "Modal"
+    ],
+    "answer": "Copulativo"
+  },
+  {
+    "question": "¿Cuál es el gerundio del verbo “correr”?",
+    "options": [
+      "Corrido",
+      "Corriendo",
+      "Corre",
+      "Corría",
+      "Corramos"
+    ],
+    "answer": "Corriendo"
+  },
+  {
+    "question": "¿Qué tipo de verbo es “parecer” en “Parece interesante”?",
+    "options": [
+      "Copulativo",
+      "Transitivo",
+      "Auxiliar",
+      "Intransitivo",
+      "Modal"
+    ],
+    "answer": "Copulativo"
+  },
+  {
+    "question": "¿Cuál es el futuro simple del verbo “comer” en segunda persona singular?",
+    "options": [
+      "Comiste",
+      "Comerás",
+      "Comes",
+      "Comías",
+      "Coma"
+    ],
+    "answer": "Comerás"
+  },
+  {
+    "question": "¿Qué tiempo verbal está en la oración “Mañana viajaré a la ciudad”?",
+    "options": [
+      "Futuro simple",
+      "Presente",
+      "Pretérito perfecto",
+      "Condicional",
+      "Imperfecto"
+    ],
+    "answer": "Futuro simple"
+  },
+  {
+    "question": "¿Cuál es la forma correcta del verbo “ser” en primera persona plural, presente indicativo?",
+    "options": [
+      "Soy",
+      "Somos",
+      "Son",
+      "Era",
+      "Fui"
+    ],
+    "answer": "Somos"
+  },
+  {
+    "question": "¿Cuál de estos pronombres es posesivo?",
+    "options": [
+      "Nosotros",
+      "Tú",
+      "Mío",
+      "Eso",
+      "Qué"
+    ],
+    "answer": "Mío"
+  },
+  {
+    "question": "¿Qué pronombre relativo se usa para unir oraciones?",
+    "options": [
+      "Quién",
+      "Que",
+      "Cuál",
+      "Qué",
+      "Ese"
+    ],
+    "answer": "Que"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un pronombre indefinido?",
+    "options": [
+      "Nosotros",
+      "Ellos",
+      "Alguien",
+      "Mío",
+      "Estos"
+    ],
+    "answer": "Alguien"
+  },
+  {
+    "question": "¿Cuál de estos pronombres es un pronombre personal de segunda persona singular?",
+    "options": [
+      "Yo",
+      "Tú",
+      "Él",
+      "Nosotros",
+      "Ellos"
+    ],
+    "answer": "Tú"
+  },
+  {
+    "question": "¿Cuál es el pronombre posesivo en la oración “Esa casa es suya”?",
+    "options": [
+      "Esa",
+      "Casa",
+      "Es",
+      "Suya",
+      "No hay posesivo"
+    ],
+    "answer": "Suya"
+  },
+  {
+    "question": "¿Qué pronombre relativo está en la oración “El hombre que vino es mi tío”?",
+    "options": [
+      "El",
+      "Que",
+      "Vino",
+      "Mi",
+      "Tío"
+    ],
+    "answer": "Que"
+  },
+  {
+    "question": "¿Cuál es el pronombre personal de primera persona plural?",
+    "options": [
+      "Yo",
+      "Tú",
+      "Nosotros",
+      "Ellos",
+      "Usted"
+    ],
+    "answer": "Nosotros"
+  },
+  {
+    "question": "¿Cuál de estos pronombres es un pronombre personal de tercera persona plural?",
+    "options": [
+      "Nosotros",
+      "Vosotros",
+      "Ellos",
+      "Tú",
+      "Él"
+    ],
+    "answer": "Ellos"
+  },
+  {
+    "question": "¿Qué pronombre relativo introduce una oración subordinada?",
+    "options": [
+      "Porque",
+      "Que",
+      "Pero",
+      "Cuando",
+      "Si"
+    ],
+    "answer": "Que"
+  },
+  {
+    "question": "¿Cuál es el pronombre personal de primera persona singular?",
+    "options": [
+      "Tú",
+      "Él",
+      "Yo",
+      "Nosotros",
+      "Ellos"
+    ],
+    "answer": "Yo"
+  },
+  {
+    "question": "¿Qué pronombre interrogativo se usa para preguntar por una persona?",
+    "options": [
+      "Qué",
+      "Cuánto",
+      "Cuál",
+      "Cómo",
+      "Quién"
+    ],
+    "answer": "Quién"
+  },
+  {
+    "question": "¿Cuál es el pronombre personal de segunda persona plural en España?",
+    "options": [
+      "Ustedes",
+      "Tú",
+      "Ellos",
+      "Vosotros",
+      "Vos"
+    ],
+    "answer": "Vosotros"
+  },
+  {
+    "question": "¿Cuál pronombre demostrativo indica mayor distancia?",
+    "options": [
+      "Este",
+      "Ese",
+      "Aquel",
+      "Esta",
+      "Ese"
+    ],
+    "answer": "Aquel"
+  },
+  {
+    "question": "¿Cuál de estos es un pronombre interrogativo?",
+    "options": [
+      "Ese",
+      "Aquella",
+      "Ello",
+      "Qué",
+      "Nuestros"
+    ],
+    "answer": "Qué"
+  },
+  {
+    "question": "¿Cuál es el pronombre personal de tercera persona plural?",
+    "options": [
+      "Nosotros",
+      "Vosotros",
+      "Ellos",
+      "Tú",
+      "Yo"
+    ],
+    "answer": "Ellos"
+  },
+  {
+    "question": "¿Cuál es el pronombre personal objeto directo en “Lo vi ayer”?",
+    "options": [
+      "Lo",
+      "Vi",
+      "Ayer",
+      "Él",
+      "Me"
+    ],
+    "answer": "Lo"
+  },
+  {
+    "question": "¿Cuál es el pronombre personal de tercera persona singular femenino?",
+    "options": [
+      "Él",
+      "Ella",
+      "Tú",
+      "Nosotros",
+      "Ellos"
+    ],
+    "answer": "Ella"
+  },
+  {
+    "question": "¿Qué pronombre posesivo corresponde a “yo” en singular?",
+    "options": [
+      "Mío",
+      "Tuya",
+      "Nuestro",
+      "Suya",
+      "Vuestra"
+    ],
+    "answer": "Mío"
+  },
+  {
+    "question": "¿Cuál es el pronombre personal de segunda persona singular?",
+    "options": [
+      "Yo",
+      "Ellos",
+      "Él",
+      "Nosotros",
+      "Tú"
+    ],
+    "answer": "Tú"
+  },
+  {
+    "question": "¿Qué pronombre personal indica primera persona plural?",
+    "options": [
+      "Ellos",
+      "Tú",
+      "Vosotros",
+      "Nosotros",
+      "Usted"
+    ],
+    "answer": "Nosotros"
+  },
+  {
+    "question": "¿Cuál es el pronombre relativo en “La casa que compré es grande”?",
+    "options": [
+      "La",
+      "Que",
+      "Compré",
+      "Es",
+      "Grande"
+    ],
+    "answer": "Que"
+  },
+  {
+    "question": "¿Cuál pronombre demuestra posesión en “Esta es tu mochila”?",
+    "options": [
+      "Esta",
+      "Es",
+      "Tu",
+      "Mochila",
+      "No hay pronombre"
+    ],
+    "answer": "Tu"
+  },
+  {
+    "question": "¿Qué pronombre interrogativo se utiliza para preguntar por la identidad?",
+    "options": [
+      "Qué",
+      "Quién",
+      "Cuál",
+      "Cómo",
+      "Cuánto"
+    ],
+    "answer": "Quién"
+  },
+  {
+    "question": "¿Cuál de estos pronombres es personal de tercera persona plural?",
+    "options": [
+      "Yo",
+      "Tú",
+      "Ellos",
+      "Nosotros",
+      "Vosotros"
+    ],
+    "answer": "Ellos"
+  },
+  {
+    "question": "¿Cuál es el pronombre posesivo en “El libro es suyo”?",
+    "options": [
+      "El",
+      "Libro",
+      "Es",
+      "Suyo",
+      "No hay pronombre posesivo"
+    ],
+    "answer": "Suyo"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un adverbio de tiempo?",
+    "options": [
+      "Rápidamente",
+      "Aquí",
+      "Mañana",
+      "Muy",
+      "No"
+    ],
+    "answer": "Mañana"
+  },
+  {
+    "question": "¿Qué adverbio indica negación?",
+    "options": [
+      "Nunca",
+      "Sí",
+      "Ayer",
+      "Aquí",
+      "Pronto"
+    ],
+    "answer": "Nunca"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un adverbio de lugar?",
+    "options": [
+      "Lejos",
+      "Pronto",
+      "Sí",
+      "Nunca",
+      "Tal vez"
+    ],
+    "answer": "Lejos"
+  },
+  {
+    "question": "¿Qué adverbio es de afirmación?",
+    "options": [
+      "No",
+      "Sí",
+      "Tal vez",
+      "Nunca",
+      "Ahora"
+    ],
+    "answer": "Sí"
+  },
+  {
+    "question": "¿Cuál es el adverbio de modo en la frase “Habla claramente”?",
+    "options": [
+      "Claramente",
+      "Habla",
+      "Ella",
+      "Allí",
+      "Nunca"
+    ],
+    "answer": "Claramente"
+  },
+  {
+    "question": "¿Cuál de los siguientes adverbios es de cantidad?",
+    "options": [
+      "Mucho",
+      "Aquí",
+      "Nunca",
+      "Sí",
+      "Tal vez"
+    ],
+    "answer": "Mucho"
+  },
+  {
+    "question": "¿Qué tipo de adverbio es “casi” en “Casi terminé”?",
+    "options": [
+      "Cantidad",
+      "Lugar",
+      "Tiempo",
+      "Modo",
+      "Afirmación"
+    ],
+    "answer": "Cantidad"
+  },
+  {
+    "question": "¿Cuál de estos adverbios es de lugar?",
+    "options": [
+      "Allí",
+      "Pronto",
+      "Muy",
+      "Sí",
+      "Nunca"
+    ],
+    "answer": "Allí"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un adverbio de modo?",
+    "options": [
+      "Aquí",
+      "Rápidamente",
+      "Nunca",
+      "Mañana",
+      "Sí"
+    ],
+    "answer": "Rápidamente"
+  },
+  {
+    "question": "¿Qué adverbio indica afirmación?",
+    "options": [
+      "No",
+      "Sí",
+      "Tal vez",
+      "Nunca",
+      "Aquí"
+    ],
+    "answer": "Sí"
+  },
+  {
+    "question": "¿Cuál de estos adverbios expresa duda?",
+    "options": [
+      "Quizás",
+      "Siempre",
+      "Aquí",
+      "Muy",
+      "No"
+    ],
+    "answer": "Quizás"
+  },
+  {
+    "question": "¿Cuál es el adverbio de cantidad en “Estoy bastante cansado”?",
+    "options": [
+      "Bastante",
+      "Aquí",
+      "Nunca",
+      "Sí",
+      "Pronto"
+    ],
+    "answer": "Bastante"
+  },
+  {
+    "question": "¿Qué adverbio indica lugar?",
+    "options": [
+      "Mañana",
+      "No",
+      "Muy",
+      "Aquí",
+      "Siempre"
+    ],
+    "answer": "Aquí"
+  },
+  {
+    "question": "¿Qué adverbio expresa afirmación?",
+    "options": [
+      "No",
+      "Sí",
+      "Tal vez",
+      "Nunca",
+      "Jamás"
+    ],
+    "answer": "Sí"
+  },
+  {
+    "question": "¿Qué tipo de adverbio es “demasiado” en “Trabaja demasiado”?",
+    "options": [
+      "Modo",
+      "Lugar",
+      "Tiempo",
+      "Cantidad",
+      "Negación"
+    ],
+    "answer": "Cantidad"
+  },
+  {
+    "question": "¿Cuál de estos adverbios es de negación?",
+    "options": [
+      "Nunca",
+      "Sí",
+      "Aquí",
+      "Mañana",
+      "Pronto"
+    ],
+    "answer": "Nunca"
+  },
+  {
+    "question": "¿Cuál es el adverbio de lugar en “Él está afuera”?",
+    "options": [
+      "Está",
+      "Él",
+      "Afuera",
+      "No hay",
+      "Ninguno"
+    ],
+    "answer": "Afuera"
+  },
+  {
+    "question": "¿Qué adverbio indica negación en “No quiero salir”?",
+    "options": [
+      "No",
+      "Sí",
+      "Tal vez",
+      "Nunca",
+      "Siempre"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "¿Qué adverbio expresa cantidad en “Estoy bastante cansado”?",
+    "options": [
+      "Bastante",
+      "Aquí",
+      "Nunca",
+      "Sí",
+      "Pronto"
+    ],
+    "answer": "Bastante"
+  },
+  {
+    "question": "¿Cuál adverbio indica duda?",
+    "options": [
+      "Quizás",
+      "Siempre",
+      "Aquí",
+      "Muy",
+      "No"
+    ],
+    "answer": "Quizás"
+  },
+  {
+    "question": "¿Cuál es el adverbio de lugar en “Él está afuera”?",
+    "options": [
+      "Está",
+      "Él",
+      "Afuera",
+      "No hay",
+      "Ninguno"
+    ],
+    "answer": "Afuera"
+  },
+  {
+    "question": "¿Cuál es la preposición en “Voy a la casa”?",
+    "options": [
+      "Voy",
+      "La",
+      "Casa",
+      "No hay preposición"
+    ],
+    "answer": "La"
+  },
+  {
+    "question": "¿Qué preposición indica negación o ausencia?",
+    "options": [
+      "Por",
+      "Sin",
+      "Sobre",
+      "En",
+      "Hacia"
+    ],
+    "answer": "Sin"
+  },
+  {
+    "question": "¿Cuál preposición indica dirección o destino?",
+    "options": [
+      "Desde",
+      "Por",
+      "Con",
+      "Para",
+      "Sobre"
+    ],
+    "answer": "Para"
+  },
+  {
+    "question": "¿Qué preposición se usa para indicar un punto en el tiempo?",
+    "options": [
+      "En",
+      "Por",
+      "Sin",
+      "Para",
+      "Con"
+    ],
+    "answer": "En"
+  },
+  {
+    "question": "¿Cuál preposición se usa para indicar finalidad?",
+    "options": [
+      "Por",
+      "Sin",
+      "Para",
+      "Con",
+      "Desde"
+    ],
+    "answer": "Para"
+  },
+  {
+    "question": "¿Qué preposición indica causa o razón en “Lo hice por ti”?",
+    "options": [
+      "Para",
+      "Con",
+      "Sin",
+      "Por",
+      "Desde"
+    ],
+    "answer": "Por"
+  },
+  {
+    "question": "¿Cuál preposición indica origen o punto de partida?",
+    "options": [
+      "Desde",
+      "Por",
+      "Sobre",
+      "Con",
+      "Para"
+    ],
+    "answer": "Desde"
+  },
+  {
+    "question": "¿Cuál preposición expresa causa o motivo en “Lo hice por amor”?",
+    "options": [
+      "Contra",
+      "Para",
+      "Con",
+      "Sin",
+      "Por"
+    ],
+    "answer": "Por"
+  },
+  {
+    "question": "¿Cuál preposición indica dirección o destino?",
+    "options": [
+      "Sin",
+      "Desde",
+      "Contra",
+      "Para",
+      "Por"
+    ],
+    "answer": "Para"
+  },
+  {
+    "question": "¿Qué preposición indica negación o ausencia?",
+    "options": [
+      "Sin",
+      "Con",
+      "De",
+      "En",
+      "Por"
+    ],
+    "answer": "Sin"
+  },
+  {
+    "question": "¿Qué preposición se utiliza para indicar inclusión o participación?",
+    "options": [
+      "De",
+      "Contra",
+      "Por",
+      "Sin",
+      "Entre"
+    ],
+    "answer": "Entre"
+  },
+  {
+    "question": "¿Cuál preposición indica dirección contraria?",
+    "options": [
+      "Contra",
+      "Con",
+      "Por",
+      "En",
+      "Sobre"
+    ],
+    "answer": "Contra"
+  },
+  {
+    "question": "¿Qué preposición indica causa en “Estoy cansado por el trabajo”?",
+    "options": [
+      "Con",
+      "Para",
+      "De",
+      "Por",
+      "Sin"
+    ],
+    "answer": "Por"
+  },
+  {
+    "question": "¿Qué preposición indica finalidad?",
+    "options": [
+      "Por",
+      "Para",
+      "Sin",
+      "Con",
+      "Desde"
+    ],
+    "answer": "Para"
+  },
+  {
+    "question": "¿Qué preposición indica causa o motivo?",
+    "options": [
+      "Para",
+      "Por",
+      "Con",
+      "Sin",
+      "Entre"
+    ],
+    "answer": "Por"
+  },
+  {
+    "question": "¿Cuál preposición indica ausencia o privación?",
+    "options": [
+      "Sin",
+      "Con",
+      "Por",
+      "En",
+      "Para"
+    ],
+    "answer": "Sin"
+  },
+  {
+    "question": "¿Qué preposición indica origen o punto de partida?",
+    "options": [
+      "Para",
+      "Desde",
+      "Contra",
+      "Por",
+      "Entre"
+    ],
+    "answer": "Desde"
+  },
+  {
+    "question": "¿Qué preposición expresa compañía o instrumento?",
+    "options": [
+      "Por",
+      "Sin",
+      "Para",
+      "Con",
+      "Hacia"
+    ],
+    "answer": "Con"
+  },
+  {
+    "question": "¿Cuál preposición indica comparación o contraposición?",
+    "options": [
+      "Contra",
+      "Para",
+      "Sin",
+      "Por",
+      "Entre"
+    ],
+    "answer": "Contra"
+  },
+  {
+    "question": "¿Cuál preposición se usa para expresar causa o razón?",
+    "options": [
+      "Para",
+      "Por",
+      "Con",
+      "Sin",
+      "Hacia"
+    ],
+    "answer": "Por"
+  },
+  {
+    "question": "¿Qué preposición indica un punto en el tiempo?",
+    "options": [
+      "En",
+      "Por",
+      "Con",
+      "Para",
+      "Sin"
+    ],
+    "answer": "En"
+  },
+  {
+    "question": "¿Cuál preposición expresa finalidad?",
+    "options": [
+      "Por",
+      "Con",
+      "Sin",
+      "Para",
+      "Desde"
+    ],
+    "answer": "Para"
+  },
+  {
+    "question": "¿Qué preposición indica causa o motivo en “Lo hice por ti”?",
+    "options": [
+      "Para",
+      "Sin",
+      "Por",
+      "Con",
+      "Desde"
+    ],
+    "answer": "Por"
+  },
+  {
+    "question": "¿Qué tipo de conjunción es “aunque”?",
+    "options": [
+      "Coordinante",
+      "Subordinante",
+      "Copulativa",
+      "Disyuntiva",
+      "Adversativa"
+    ],
+    "answer": "Subordinante"
+  },
+  {
+    "question": "En “El gato duerme”, ¿qué parte es el sujeto?",
+    "options": [
+      "El gato",
+      "Duerme",
+      "El",
+      "Gato",
+      "No hay sujeto"
+    ],
+    "answer": "El gato"
+  },
+  {
+    "question": "En la oración “María lee un libro”, ¿cuál es el complemento directo?",
+    "options": [
+      "María",
+      "Lee",
+      "Un libro",
+      "Ninguno",
+      "María lee"
+    ],
+    "answer": "Un libro"
+  },
+  {
+    "question": "En la oración “Juan da un regalo a María”, ¿cuál es el complemento indirecto?",
+    "options": [
+      "Juan",
+      "Da",
+      "Un regalo",
+      "A María",
+      "No hay CI"
+    ],
+    "answer": "A María"
+  },
+  {
+    "question": "¿Qué tipo de oración está formada por dos o más proposiciones unidas?",
+    "options": [
+      "Simple",
+      "Compuesta",
+      "Unimembre",
+      "Copulativa",
+      "Disyuntiva"
+    ],
+    "answer": "Compuesta"
+  },
+  {
+    "question": "¿Cuál es la forma verbal correcta para “Ella (cantar) ___ bien”?",
+    "options": [
+      "Cantar",
+      "Canto",
+      "Canta",
+      "Cantas",
+      "Cantó"
+    ],
+    "answer": "Canta"
+  },
+  {
+    "question": "¿Qué modo verbal se usa para expresar deseos, dudas o hipótesis?",
+    "options": [
+      "Indicativo",
+      "Imperativo",
+      "Subjuntivo",
+      "Infinitivo",
+      "Gerundio"
+    ],
+    "answer": "Subjuntivo"
+  },
+  {
+    "question": "¿Cuál es el modo verbal que indica una acción que aún no ocurre, pero se espera que ocurra?",
+    "options": [
+      "Indicativo",
+      "Imperativo",
+      "Subjuntivo",
+      "Infinitivo",
+      "Gerundio"
+    ],
+    "answer": "Subjuntivo"
+  },
+  {
+    "question": "¿Qué verbo es auxiliar en la frase “He comido”?",
+    "options": [
+      "He",
+      "Comido",
+      "Comer",
+      "Hablar",
+      "Haber"
+    ],
+    "answer": "He"
+  },
+  {
+    "question": "¿Qué verbo es intransitivo?",
+    "options": [
+      "Comer",
+      "Llegar",
+      "Leer",
+      "Escribir",
+      "Amar"
+    ],
+    "answer": "Llegar"
+  },
+  {
+    "question": "¿Cuál es el modo verbal que expresa mandato o petición?",
+    "options": [
+      "Indicativo",
+      "Subjuntivo",
+      "Imperativo",
+      "Infinitivo",
+      "Gerundio"
+    ],
+    "answer": "Imperativo"
+  },
+  {
+    "question": "¿Qué verbo en esta lista es copulativo?",
+    "options": [
+      "Ser",
+      "Correr",
+      "Comer",
+      "Saltar",
+      "Leer"
+    ],
+    "answer": "Ser"
+  },
+  {
+    "question": "¿Qué verbo es transitivo?",
+    "options": [
+      "Dormir",
+      "Leer",
+      "Caer",
+      "Morir",
+      "Nacer"
+    ],
+    "answer": "Leer"
+  },
+  {
+    "question": "¿Cuál es un ejemplo de verbo impersonal?",
+    "options": [
+      "Cantar",
+      "Llover",
+      "Comer",
+      "Escribir",
+      "Saltar"
+    ],
+    "answer": "Llover"
+  },
+  {
+    "question": "¿Qué verbo aparece en infinitivo?",
+    "options": [
+      "Cantó",
+      "Cantando",
+      "Cantamos",
+      "Canta",
+      "Cantar"
+    ],
+    "answer": "Cantar"
+  },
+  {
+    "question": "¿Cuál es el verbo típico de las oraciones pasivas?",
+    "options": [
+      "Ser + participio",
+      "Estar + gerundio",
+      "Haber + infinitivo",
+      "Ir + participio",
+      "Tener + gerundio"
+    ],
+    "answer": "Ser + participio"
+  },
+  {
+    "question": "¿Qué tipo de verbo es frecuente en oraciones impersonales?",
+    "options": [
+      "Transitivo",
+      "Copulativo",
+      "Impersonal",
+      "Auxiliar",
+      "Reflexivo"
+    ],
+    "answer": "Impersonal"
+  },
+  {
+    "question": "En la oración “El trabajo fue terminado”, ¿qué voz verbal está presente?",
+    "options": [
+      "Activa",
+      "Pasiva",
+      "Impersonal",
+      "Copulativa",
+      "Reflexiva"
+    ],
+    "answer": "Pasiva"
+  },
+  {
+    "question": "En la oración “La comida fue preparada por Ana”, ¿qué tipo de voz verbal es?",
+    "options": [
+      "Activa",
+      "Pasiva",
+      "Impersonal",
+      "Copulativa",
+      "Reflexiva"
+    ],
+    "answer": "Pasiva"
+  },
+  {
+    "question": "¿Cuál es un verbo copulativo?",
+    "options": [
+      "Comer",
+      "Ser",
+      "Correr",
+      "Saltar",
+      "Escribir"
+    ],
+    "answer": "Ser"
+  },
+  {
+    "question": "¿Qué modalidad expresa una acción segura y real?",
+    "options": [
+      "Indicativo",
+      "Subjuntivo",
+      "Imperativo",
+      "Infinitivo",
+      "Gerundio"
+    ],
+    "answer": "Indicativo"
+  },
+  {
+    "question": "¿Cuál es el modo verbal que expresa mandato o petición?",
+    "options": [
+      "Indicativo",
+      "Subjuntivo",
+      "Imperativo",
+      "Infinitivo",
+      "Gerundio"
+    ],
+    "answer": "Imperativo"
+  },
+  {
+    "question": "¿Cuál es el ordinal de “peteĩ”?",
+    "options": [
+      "Poteĩ",
+      "Mokoĩha",
+      "Peteĩha",
+      "Irundyha",
+      "Papy"
+    ],
+    "answer": "Peteĩha"
+  },
+  {
+    "question": "¿Qué palabra corresponde al vocabulario exclusivo masculino?",
+    "options": [
+      "ajapo",
+      "asapukái",
+      "ahayhu",
+      "ajukapa",
+      "ajapysaka"
+    ],
+    "answer": "ajukapa"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una enfermedad en guaraní?",
+    "options": [
+      "kavaju",
+      "resay",
+      "ai",
+      "tĩsyry",
+      "ryguasu"
+    ],
+    "answer": "tĩsyry"
+  },
+  {
+    "question": "¿Qué palabra pertenece al vocabulario del aula?",
+    "options": [
+      "Aranduka",
+      "Ka’i",
+      "Ñemongaru",
+      "Yvoty",
+      "Pytu’u"
+    ],
+    "answer": "Aranduka"
+  },
+  {
+    "question": "¿Qué palabra está relacionada con el vocabulario de clase?",
+    "options": [
+      "Amandaje",
+      "Mbo’ehára",
+      "Yva",
+      "Ñati’ũ",
+      "Ñe’ẽngatu"
+    ],
+    "answer": "Mbo’ehára"
+  },
+  {
+    "question": "¿Cuál es un nombre de mes en guaraní?",
+    "options": [
+      "Jasykõi",
+      "Takuára",
+      "Yvyra",
+      "Pindo",
+      "Aratiri"
+    ],
+    "answer": "Jasykõi"
+  },
+  {
+    "question": "¿Qué palabra forma parte del vocabulario de enfermedades?",
+    "options": [
+      "Pyta",
+      "Piru",
+      "Tĩsyry",
+      "Kavaju",
+      "Kuriu"
+    ],
+    "answer": "Tĩsyry"
+  },
+  {
+    "question": "¿Cuál de estas palabras es de uso exclusivo de la mujer?",
+    "options": [
+      "Karai",
+      "Ñandejára",
+      "Che memby",
+      "Ña",
+      "Chyryry"
+    ],
+    "answer": "Ña"
+  },
+  {
+    "question": "¿Cuál de los siguientes vocabularios es de uso exclusivo del hombre?",
+    "options": [
+      "Karai",
+      "Sy",
+      "Che rajy",
+      "Mitãkuña",
+      "Ña"
+    ],
+    "answer": "Karai"
+  },
+  {
+    "question": "¿Cuál es un número cardinal en guaraní?",
+    "options": [
+      "Peteĩha",
+      "Mokoĩha",
+      "Mbohapyha",
+      "Mokoĩ",
+      "Irundyha"
+    ],
+    "answer": "Mokoĩ"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un número ordinal?",
+    "options": [
+      "Irundy",
+      "Po",
+      "Mbohapyha",
+      "Mbohapy",
+      "Poteĩ"
+    ],
+    "answer": "Mbohapyha"
+  },
+  {
+    "question": "¿Cuál es un nombre de enfermedad en guaraní?",
+    "options": [
+      "Raka",
+      "Kuarahy",
+      "Arai",
+      "Haku",
+      "Pirevai"
+    ],
+    "answer": "Pirevai"
+  },
+  {
+    "question": "¿Qué término hace referencia al mes del año en guaraní?",
+    "options": [
+      "Jasykã",
+      "Irundy",
+      "Karai",
+      "Jagua",
+      "Ka’avo"
+    ],
+    "answer": "Jasykã"
+  },
+  {
+    "question": "¿Qué palabra pertenece al vocabulario común del hombre y la mujer?",
+    "options": [
+      "Mitã",
+      "Ña",
+      "Karai",
+      "Kuña",
+      "Tata"
+    ],
+    "answer": "Mitã"
+  },
+  {
+    "question": "¿Qué término corresponde a la categoría “ñe’ëndyarapokoindyrehegua”?",
+    "options": [
+      "Ára",
+      "Ararundy",
+      "Arapoteĩ",
+      "Arakõi",
+      "Pyhare"
+    ],
+    "answer": "Arapoteĩ"
+  },
+  {
+    "question": "¿Qué palabra es un “ñe’ëndyaravorehegua”?",
+    "options": [
+      "Jasy",
+      "Jasyapy",
+      "Jasypateĩ",
+      "Jasypakõi",
+      "Jasypoteĩ"
+    ],
+    "answer": "Jasyapy"
+  },
+  {
+    "question": "¿Cuál pertenece al grupo de los números cardinales?",
+    "options": [
+      "Paha",
+      "Ñe’ẽ",
+      "Mbohapyha",
+      "Mokõiha",
+      "Peteĩ"
+    ],
+    "answer": "Peteĩ"
+  },
+  {
+    "question": "¿Qué palabra es propia del vocabulario de aula?",
+    "options": [
+      "Pirevai",
+      "Jasy",
+      "Ka’i",
+      "Ñati’ũ",
+      "Aranduka"
+    ],
+    "answer": "Aranduka"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un ejemplo de tembi’u típico paraguayo?",
+    "options": [
+      "Pizza",
+      "Sushi",
+      "Sopa paraguaya",
+      "Tacos",
+      "Enchiladas"
+    ],
+    "answer": "Sopa paraguaya"
+  },
+  {
+    "question": "¿Qué elemento folklórico se refiere a la transmisión oral de cuentos fantásticos?",
+    "options": [
+      "Jeroky",
+      "Mombe’ugua’u",
+      "Tembi’u",
+      "Purahéi",
+      "Ka’avo"
+    ],
+    "answer": "Mombe’ugua’u"
+  },
+  {
+    "question": "¿Qué personaje es típico en los mombe’urã?",
+    "options": [
+      "San Juan",
+      "Tau y Keraná",
+      "Messi",
+      "Artigas",
+      "Goku"
+    ],
+    "answer": "Tau y Keraná"
+  },
+  {
+    "question": "¿Cuál de estos elementos culturales puede incluirse en un jeroky típico paraguayo?",
+    "options": [
+      "Rezos",
+      "Sombreros",
+      "Polleras y galopa",
+      "Fútbol",
+      "Publicidad"
+    ],
+    "answer": "Polleras y galopa"
+  },
+  {
+    "question": "¿Cuál es una característica de las jerovia guaraníes?",
+    "options": [
+      "Son textos legales",
+      "Son danzas religiosas",
+      "Son creencias sin base científica",
+      "Son himnos patrióticos",
+      "Son teorías matemáticas"
+    ],
+    "answer": "Son creencias sin base científica"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un alimento tradicional paraguayo?",
+    "options": [
+      "Pizza",
+      "Pastel mandi'o",
+      "Hamburguesa",
+      "Sushi",
+      "Ravioles"
+    ],
+    "answer": "Pastel mandi'o"
+  },
+  {
+    "question": "¿Cuál de estos personajes NO pertenece al mombe’ugua’u?",
+    "options": [
+      "Yasy Yateré",
+      "Kurupí",
+      "Moñái",
+      "San Juan",
+      "Pombero"
+    ],
+    "answer": "San Juan"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un ejemplo de purahéi?",
+    "options": [
+      "Chamamé",
+      "Jopara",
+      "Tereré",
+      "Asado",
+      "Moñái"
+    ],
+    "answer": "Chamamé"
+  },
+  {
+    "question": "¿Qué personaje es conocido por llevar un bastón y desaparecer cuando se lo nombra?",
+    "options": [
+      "Kurupi",
+      "Pombero",
+      "Moñái",
+      "Luisón",
+      "Teju Jagua"
+    ],
+    "answer": "Pombero"
+  },
+  {
+    "question": "¿Qué leyenda explica el origen del sol y la luna?",
+    "options": [
+      "Kurupi",
+      "Yasy yateré",
+      "Tau y Keraná",
+      "Luisón",
+      "Karai octubre"
+    ],
+    "answer": "Tau y Keraná"
+  }
+]

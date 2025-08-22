@@ -1,0 +1,5714 @@
+[
+  {
+    "id": "gen_cast_001",
+    "question": "¿Cuál es la oración correctamente escrita?",
+    "options": {
+      "a": "el Sol brilla",
+      "b": "El sol brilla",
+      "c": "El Sol brilla",
+      "d": "El sol Brilla"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_002",
+    "question": "¿Qué tipo de oración es “¡Qué hermosa mañana!”?",
+    "options": {
+      "a": "Declarativa",
+      "b": "Exclamativa",
+      "c": "Interrogativa",
+      "d": "Imperativa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_003",
+    "question": "¿Cuál es un verbo en tiempo presente?",
+    "options": {
+      "a": "Comeré",
+      "b": "Comí",
+      "c": "Como",
+      "d": "Comía"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_004",
+    "question": "¿Qué palabra es un sustantivo?",
+    "options": {
+      "a": "Bello",
+      "b": "Alegre",
+      "c": "Mesa",
+      "d": "Rápido"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_005",
+    "question": "¿Cuál es un adjetivo calificativo?",
+    "options": {
+      "a": "Alegre",
+      "b": "Mesa",
+      "c": "Rápido",
+      "d": "Jugar"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_006",
+    "question": "¿Qué tipo de palabra es “nosotros”?",
+    "options": {
+      "a": "Verbo",
+      "b": "Adjetivo",
+      "c": "Pronombre",
+      "d": "Sustantivo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_007",
+    "question": "¿Cuál de las siguientes es una oración simple?",
+    "options": {
+      "a": "“Pedro corre y salta”",
+      "b": "“Porque llueve, no salgo”",
+      "c": "“El niño que juega es mi hermano”",
+      "d": "“Salí temprano pero llegué tarde”"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_008",
+    "question": "¿Cuál de estas oraciones tiene sujeto tácito?",
+    "options": {
+      "a": "Vamos al cine.",
+      "b": "Ellos van al cine.",
+      "c": "Nosotros vamos al cine.",
+      "d": "Tú vas al cine."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_009",
+    "question": "¿Cuál de los siguientes es un sinónimo de “alegre”?",
+    "options": {
+      "a": "Triste",
+      "b": "Feliz",
+      "c": "Gritar",
+      "d": "Dormir"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_010",
+    "question": "¿Qué palabra es un antónimo de “fuerte”?",
+    "options": {
+      "a": "Poderoso",
+      "b": "Rígido",
+      "c": "Débil",
+      "d": "Valiente"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_011",
+    "question": "¿Cuál de las siguientes oraciones está en tiempo futuro?",
+    "options": {
+      "a": "Comí arroz",
+      "b": "Comeré arroz",
+      "c": "Como arroz",
+      "d": "Comía arroz"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_012",
+    "question": "¿Qué clase de oración es “Cierra la puerta”?",
+    "options": {
+      "a": "Interrogativa",
+      "b": "Exclamativa",
+      "c": "Declarativa",
+      "d": "Imperativa"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_013",
+    "question": "¿Qué palabra es un sustantivo abstracto?",
+    "options": {
+      "a": "Mesa",
+      "b": "Libro",
+      "c": "Belleza",
+      "d": "Flor"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_014",
+    "question": "¿Qué palabra es un adverbio de lugar?",
+    "options": {
+      "a": "Mañana",
+      "b": "Aquí",
+      "c": "Rápidamente",
+      "d": "Nunca"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_015",
+    "question": "¿Cuál es una oración bimembre?",
+    "options": {
+      "a": "Llueve.",
+      "b": "Salta.",
+      "c": "La casa es grande.",
+      "d": "¡Silencio!"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_016",
+    "question": "¿Cuál es una conjunción?",
+    "options": {
+      "a": "El",
+      "b": "Muy",
+      "c": "Y",
+      "d": "Está"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_017",
+    "question": "¿Qué palabra es un verbo en infinitivo?",
+    "options": {
+      "a": "Corro",
+      "b": "Corre",
+      "c": "Correr",
+      "d": "Corriendo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_018",
+    "question": "¿Cuál oración es interrogativa?",
+    "options": {
+      "a": "¡Qué calor hace!",
+      "b": "¿Vendrás mañana?",
+      "c": "Hoy es lunes.",
+      "d": "Ven aquí."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_019",
+    "question": "¿Qué es una palabra aguda?",
+    "options": {
+      "a": "Lleva tilde si termina en n, s o vocal",
+      "b": "Lleva tilde si termina en consonante distinta de n o s",
+      "c": "No lleva tilde",
+      "d": "Siempre lleva tilde"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_020",
+    "question": "¿Cuál es una palabra esdrújula?",
+    "options": {
+      "a": "Canción",
+      "b": "Rápidamente",
+      "c": "Camión",
+      "d": "Balón"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_021",
+    "question": "  ¿Cuál es la función principal del verbo en una oración?",
+    "options": {
+      "a": "Describir un objeto",
+      "b": "Nombrar personas o cosas",
+      "c": "Indicar una acción o estado",
+      "d": "Unir dos frases"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_022",
+    "question": "  ¿Qué tipo de sustantivo es “felicidad”?",
+    "options": {
+      "a": "Concreto",
+      "b": "Abstracto",
+      "c": "Común",
+      "d": "Propio"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_023",
+    "question": "  ¿Qué es un adjetivo?",
+    "options": {
+      "a": "Una palabra que reemplaza al sustantivo",
+      "b": "Una palabra que indica una acción",
+      "c": "Una palabra que describe al sustantivo",
+      "d": "Una palabra que conecta oraciones"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_024",
+    "question": "  ¿Cuál de estas palabras es un adverbio de tiempo?",
+    "options": {
+      "a": "Lejos",
+      "b": "Hoy",
+      "c": "Bien",
+      "d": "Siempre"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_025",
+    "question": "  ¿Cuál es una oración unimembre?",
+    "options": {
+      "a": "Ana estudia matemáticas.",
+      "b": "¡Fuego!",
+      "c": "Pedro juega al fútbol.",
+      "d": "Me gustan las frutas."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_026",
+    "question": "  ¿Qué oración es bimembre?",
+    "options": {
+      "a": "¡Silencio!",
+      "b": "¡Ay!",
+      "c": "Llueve.",
+      "d": "El perro ladra."
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_027",
+    "question": "  ¿Qué tipo de oración es “¿Cómo te llamás?”?",
+    "options": {
+      "a": "Exclamativa",
+      "b": "Imperativa",
+      "c": "Interrogativa",
+      "d": "Declarativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_028",
+    "question": "  ¿Cuál es un sinónimo de “rápido”?",
+    "options": {
+      "a": "Veloz",
+      "b": "Lento",
+      "c": "Pesado",
+      "d": "Débil"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_029",
+    "question": "  ¿Cuál es un antónimo de “alegre”?",
+    "options": {
+      "a": "Contenta",
+      "b": "Feliz",
+      "c": "Triste",
+      "d": "Animada"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_030",
+    "question": "  ¿Qué palabra es un pronombre personal?",
+    "options": {
+      "a": "Alegre",
+      "b": "Nosotros",
+      "c": "Mesa",
+      "d": "Rápido"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_031",
+    "question": "  ¿Cuál de las siguientes oraciones tiene verbo en pretérito imperfecto?",
+    "options": {
+      "a": "Comía pan",
+      "b": "Comeré pan",
+      "c": "He comido pan",
+      "d": "Como pan"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_032",
+    "question": "  ¿Cuál de estas palabras es un sustantivo propio?",
+    "options": {
+      "a": "Mujer",
+      "b": "Perro",
+      "c": "Pedro",
+      "d": "Gato"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_033",
+    "question": "  ¿Qué es una conjunción?",
+    "options": {
+      "a": "Palabra que nombra un objeto",
+      "b": "Palabra que indica lugar",
+      "c": "Palabra que une otras palabras u oraciones",
+      "d": "Palabra que expresa emociones"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_034",
+    "question": "  ¿Qué oración contiene un verbo en futuro?",
+    "options": {
+      "a": "Cocinaba sopa",
+      "b": "Cocinaré sopa",
+      "c": "Cocina sopa",
+      "d": "Cocinó sopa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_035",
+    "question": "  ¿Qué tipo de palabra es “nosotras”?",
+    "options": {
+      "a": "Verbo",
+      "b": "Pronombre",
+      "c": "Conjunción",
+      "d": "Adjetivo"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_036",
+    "question": "  ¿Cuál de las siguientes palabras es un adjetivo calificativo?",
+    "options": {
+      "a": "Jugar",
+      "b": "Feliz",
+      "c": "Yo",
+      "d": "Mesa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_037",
+    "question": "  ¿Qué palabra es un verbo en primera persona del singular en presente?",
+    "options": {
+      "a": "Caminás",
+      "b": "Caminan",
+      "c": "Camino",
+      "d": "Caminaba"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_038",
+    "question": "  ¿Qué tipo de oración es: “Lavate las manos”?",
+    "options": {
+      "a": "Exclamativa",
+      "b": "Declarativa",
+      "c": "Imperativa",
+      "d": "Interrogativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_039",
+    "question": "  ¿Qué oración tiene sujeto expreso?",
+    "options": {
+      "a": "Estudiamos mucho.",
+      "b": "Vamos a la plaza.",
+      "c": "María lee libros.",
+      "d": "Cantamos juntos."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_040",
+    "question": "  ¿Cuál es una palabra grave o llana?",
+    "options": {
+      "a": "Corazón",
+      "b": "Árbol",
+      "c": "Sofá",
+      "d": "Café"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_041",
+    "question": "¿Qué es una oración compuesta?",
+    "options": {
+      "a": "Una oración con un solo verbo",
+      "b": "Una oración con sujeto y predicado",
+      "c": "Una oración que tiene dos o más verbos unidos",
+      "d": "Una oración exclamativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_042",
+    "question": "¿Cuál es una oración interrogativa indirecta?",
+    "options": {
+      "a": "¿Vendrás mañana?",
+      "b": "Me preguntó si vendría mañana.",
+      "c": "¡Vendrás mañana!",
+      "d": "Vendrás mañana."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_043",
+    "question": "¿Qué función cumple el sujeto en la oración?",
+    "options": {
+      "a": "Expresa la acción",
+      "b": "Une palabras",
+      "c": "Indica quién realiza la acción",
+      "d": "Da énfasis"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_044",
+    "question": "¿Qué oración tiene sujeto tácito?",
+    "options": {
+      "a": "Yo corro todos los días.",
+      "b": "Corremos en la plaza.",
+      "c": "Pedro corre todos los días.",
+      "d": "María y Ana corren."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_045",
+    "question": "¿Cuál de estas palabras es un sustantivo colectivo?",
+    "options": {
+      "a": "Perro",
+      "b": "Bosque",
+      "c": "Árbol",
+      "d": "Flor"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_046",
+    "question": "¿Qué tipo de sujeto hay en la oración: “Los perros y los gatos duermen tranquilos”?",
+    "options": {
+      "a": "Sujeto tácito",
+      "b": "Sujeto simple",
+      "c": "Sujeto compuesto",
+      "d": "Sujeto inverosímil"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_047",
+    "question": "¿Qué tipo de predicado tiene la oración “El cielo está nublado”?",
+    "options": {
+      "a": "Verbal",
+      "b": "Nominal",
+      "c": "Compuesto",
+      "d": "Adjetival"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_048",
+    "question": "¿Cuál es un complemento circunstancial de lugar?",
+    "options": {
+      "a": "Rápidamente",
+      "b": "En la casa",
+      "c": "Por la tarde",
+      "d": "Con alegría"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_049",
+    "question": "¿Qué oración tiene un complemento directo?",
+    "options": {
+      "a": "Juan come manzanas.",
+      "b": "María estudia mucho.",
+      "c": "Vamos al cine.",
+      "d": "Camina rápido."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_050",
+    "question": "¿Cuál es el núcleo del sujeto en la oración “El gato negro duerme”?",
+    "options": {
+      "a": "El",
+      "b": "Gato",
+      "c": "Negro",
+      "d": "Duerme"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_051",
+    "question": "¿Qué tipo de oración es “¡Ayuda!”?",
+    "options": {
+      "a": "Declarativa",
+      "b": "Interrogativa",
+      "c": "Exclamativa",
+      "d": "Imperativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_052",
+    "question": "¿Qué función cumple el adjetivo en una oración?",
+    "options": {
+      "a": "Reemplaza al verbo",
+      "b": "Describe al sustantivo",
+      "c": "Nombra acciones",
+      "d": "Une palabras"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_053",
+    "question": "¿Qué palabra es un pronombre demostrativo?",
+    "options": {
+      "a": "Yo",
+      "b": "Nosotros",
+      "c": "Ese",
+      "d": "Tú"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_054",
+    "question": "¿Qué palabra tiene diptongo?",
+    "options": {
+      "a": "País",
+      "b": "Cielo",
+      "c": "Poeta",
+      "d": "Frío"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_055",
+    "question": "¿Qué oración contiene un complemento circunstancial de tiempo?",
+    "options": {
+      "a": "Estudia con atención.",
+      "b": "Camina despacio.",
+      "c": "Canta todos los días.",
+      "d": "Vive cerca."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_056",
+    "question": "¿Cuál es el sujeto de la oración “Llovía mucho en la ciudad”?",
+    "options": {
+      "a": "La ciudad",
+      "b": "Llovía",
+      "c": "Mucho",
+      "d": "No tiene sujeto expreso"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_057",
+    "question": "¿Cuál de estas oraciones tiene predicado verbal?",
+    "options": {
+      "a": "Juan es alegre.",
+      "b": "La niña está cansada.",
+      "c": "El perro ladra fuerte.",
+      "d": "El día está hermoso."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_058",
+    "question": "¿Qué es una oración pasiva?",
+    "options": {
+      "a": "El sujeto realiza la acción",
+      "b": "El verbo es reflexivo",
+      "c": "El sujeto recibe la acción",
+      "d": "El verbo está en infinitivo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_059",
+    "question": "¿Cuál de estas palabras lleva tilde por ser una esdrújula?",
+    "options": {
+      "a": "Silla",
+      "b": "Árbol",
+      "c": "Matemática",
+      "d": "León"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_060",
+    "question": "¿Cuál es un ejemplo de oración negativa?",
+    "options": {
+      "a": "No tengo hambre.",
+      "b": "Tengo mucha hambre.",
+      "c": "¿Tenés hambre?",
+      "d": "¡Qué hambre tengo!"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_061",
+    "question": "  ¿Qué tipo de oración es “No quiero que te vayas”?",
+    "options": {
+      "a": "Simple",
+      "b": "Compuesta subordinada",
+      "c": "Coordinada copulativa",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_062",
+    "question": "  ¿Qué palabra es una preposición?",
+    "options": {
+      "a": "Aunque",
+      "b": "Hacia",
+      "c": "Muy",
+      "d": "Esta"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_063",
+    "question": "  ¿Cuál es el complemento circunstancial de causa en “Lloró por tristeza”?",
+    "options": {
+      "a": "Por",
+      "b": "Tristeza",
+      "c": "Lloró",
+      "d": "Por tristeza"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_064",
+    "question": "  ¿Qué oración tiene estructura pasiva?",
+    "options": {
+      "a": "Se rompió el jarrón.",
+      "b": "El jarrón fue roto por el niño.",
+      "c": "Rompieron el jarrón.",
+      "d": "El niño rompe el jarrón."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_065",
+    "question": "  ¿Qué oración tiene un verbo en modo subjuntivo?",
+    "options": {
+      "a": "Yo canto bien.",
+      "b": "Ojalá vengas mañana.",
+      "c": "Tú corriste rápido.",
+      "d": "Vendré temprano."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_066",
+    "question": "  ¿Cuál oración expresa una condición?",
+    "options": {
+      "a": "Saldré aunque llueva.",
+      "b": "Si estudias, aprobarás.",
+      "c": "Vendrá porque quiere.",
+      "d": "Dijo que volvería."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_067",
+    "question": "  ¿Qué tipo de oración es “La casa que compró es grande”?",
+    "options": {
+      "a": "Simple",
+      "b": "Coordinada",
+      "c": "Subordinada adjetiva",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_068",
+    "question": "  ¿Qué tipo de oración es “Comé antes que se enfríe”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada consecutiva",
+      "c": "Subordinada temporal",
+      "d": "Subordinada final"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_069",
+    "question": "  ¿Cuál es el verbo en la oración “El alumno fue felicitado por su esfuerzo”?",
+    "options": {
+      "a": "Alumno",
+      "b": "Fue felicitado",
+      "c": "Esfuerzo",
+      "d": "Por"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_070",
+    "question": "  ¿Qué función cumple “de mis padres” en “Los consejos de mis padres son sabios”?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Complemento circunstancial",
+      "c": "Complemento del nombre",
+      "d": "Aposición"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_071",
+    "question": "  ¿Qué tipo de oración es: “¡Ojalá terminemos a tiempo!”?",
+    "options": {
+      "a": "Dubitativa",
+      "b": "Exhortativa",
+      "c": "Desiderativa",
+      "d": "Enunciativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_072",
+    "question": "  ¿Qué tipo de conector es “por lo tanto”?",
+    "options": {
+      "a": "Adversativo",
+      "b": "Concesivo",
+      "c": "Causal",
+      "d": "Consecutivo"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_073",
+    "question": "  ¿Qué tipo de subordinada es “que estudia medicina” en “La chica que estudia medicina es mi amiga”?",
+    "options": {
+      "a": "Sustantiva",
+      "b": "Adjetiva",
+      "c": "Adverbial",
+      "d": "Apositiva"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_074",
+    "question": "  ¿Cuál oración está correctamente puntuada?",
+    "options": {
+      "a": "Si vienes te espero.",
+      "b": "Te espero si vienes.",
+      "c": "Te espero, si vienes.",
+      "d": "Si vienes te espero, pero no tardes."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_075",
+    "question": "  ¿Qué oración tiene complemento circunstancial de compañía?",
+    "options": {
+      "a": "Viajó con sus amigos.",
+      "b": "Fue al cine.",
+      "c": "Escribió con tinta.",
+      "d": "Llegó por la lluvia."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_076",
+    "question": "  ¿Qué función cumple “que me diste” en “El libro que me diste es interesante”?",
+    "options": {
+      "a": "Sujeto",
+      "b": "Complemento directo",
+      "c": "Oración subordinada adjetiva",
+      "d": "Complemento circunstancial"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_077",
+    "question": "  ¿Cuál es el sustantivo abstracto?",
+    "options": {
+      "a": "Felicidad",
+      "b": "Mesa",
+      "c": "Árbol",
+      "d": "Niño"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_078",
+    "question": "  ¿Qué oración contiene una aposición explicativa?",
+    "options": {
+      "a": "Mi hermana Ana vino.",
+      "b": "Ana mi hermana vino.",
+      "c": "Ana, mi hermana, vino.",
+      "d": "Mi hermana es Ana."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_079",
+    "question": "  ¿Qué oración tiene predicado verbal simple?",
+    "options": {
+      "a": "Pedro corre.",
+      "b": "Pedro corre y salta.",
+      "c": "Pedro está feliz.",
+      "d": "Pedro es doctor."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_080",
+    "question": "  ¿Qué tipo de subordinada es “porque llovía”?",
+    "options": {
+      "a": "Consecutiva",
+      "b": "Concesiva",
+      "c": "Causal",
+      "d": "Condicional"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_081",
+    "question": "  ¿Qué tipo de oración es “Juan canta mientras Pedro estudia”?",
+    "options": {
+      "a": "Coordinada copulativa",
+      "b": "Subordinada adjetiva",
+      "c": "Coordinada disyuntiva",
+      "d": "Subordinada causal"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_082",
+    "question": "  ¿Qué palabra es un adverbio de lugar?",
+    "options": {
+      "a": "Ayer",
+      "b": "Aquí",
+      "c": "Rápidamente",
+      "d": "Pronto"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_083",
+    "question": "  ¿Cuál oración contiene una subordinada sustantiva?",
+    "options": {
+      "a": "Me dijo que vendría.",
+      "b": "María juega y canta.",
+      "c": "Cuando llueve, leo.",
+      "d": "Lo hizo como pudo."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_084",
+    "question": "  ¿Qué tipo de oración es “Estaba tan cansado que se durmió”?",
+    "options": {
+      "a": "Subordinada final",
+      "b": "Subordinada consecutiva",
+      "c": "Coordinada copulativa",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_085",
+    "question": "  ¿Qué es una oración enunciativa afirmativa?",
+    "options": {
+      "a": "¿Vendrás mañana?",
+      "b": "¡Qué bien te ves!",
+      "c": "No quiero salir.",
+      "d": "Pedro llegó temprano."
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_086",
+    "question": "  ¿Cuál es el conector condicional?",
+    "options": {
+      "a": "Porque",
+      "b": "Si",
+      "c": "Aunque",
+      "d": "Para que"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_087",
+    "question": "  ¿Qué tipo de palabra es “tuyo”?",
+    "options": {
+      "a": "Pronombre personal",
+      "b": "Adjetivo demostrativo",
+      "c": "Adjetivo posesivo",
+      "d": "Pronombre posesivo"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_088",
+    "question": "  ¿Cuál de estas palabras es un sustantivo colectivo?",
+    "options": {
+      "a": "Niño",
+      "b": "Gente",
+      "c": "Lápiz",
+      "d": "Agua"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_089",
+    "question": "  ¿Qué oración tiene una subordinada causal?",
+    "options": {
+      "a": "Si vienes, te invito.",
+      "b": "No salí porque llovía.",
+      "c": "Aunque llueva, saldré.",
+      "d": "Llegó cuando amanecía."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_090",
+    "question": "  ¿Qué oración contiene complemento circunstancial de tiempo?",
+    "options": {
+      "a": "Llegó tarde.",
+      "b": "Comió con su hermano.",
+      "c": "Vive en Paraguay.",
+      "d": "Hizo el examen por obligación."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_091",
+    "question": "  ¿Qué función cumple “de fútbol” en “La cancha de fútbol está vacía”?",
+    "options": {
+      "a": "Sujeto",
+      "b": "Complemento circunstancial",
+      "c": "Complemento del nombre",
+      "d": "Complemento de régimen"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_092",
+    "question": "  ¿Qué tipo de subordinada es “para que aprendas”?",
+    "options": {
+      "a": "Temporal",
+      "b": "Causal",
+      "c": "Final",
+      "d": "Condicional"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_093",
+    "question": "  ¿Cuál de estas oraciones tiene un complemento predicativo?",
+    "options": {
+      "a": "Juan llegó cansado.",
+      "b": "María compró pan.",
+      "c": "Escribo cartas.",
+      "d": "Ellos salieron tarde."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_094",
+    "question": "  ¿Qué palabra es una conjunción copulativa?",
+    "options": {
+      "a": "Pero",
+      "b": "Porque",
+      "c": "Y",
+      "d": "Aunque"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_095",
+    "question": "  ¿Qué tipo de oración es “María me dijo que estudiara”?",
+    "options": {
+      "a": "Compuesta coordinada",
+      "b": "Compuesta subordinada sustantiva",
+      "c": "Yuxtapuesta",
+      "d": "Imperativa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_096",
+    "question": "  ¿Cuál es la función de “rápidamente” en “Pedro corrió rápidamente”?",
+    "options": {
+      "a": "Verbo",
+      "b": "Adverbio de modo",
+      "c": "Adjetivo calificativo",
+      "d": "Sujeto"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_097",
+    "question": "  ¿Qué tipo de oración es “Si hubiera estudiado, habría aprobado”?",
+    "options": {
+      "a": "Condicional irreal",
+      "b": "Causal",
+      "c": "Final",
+      "d": "Apositiva"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_098",
+    "question": "  ¿Qué es el sujeto elíptico?",
+    "options": {
+      "a": "El que aparece antes del verbo",
+      "b": "El que aparece después del verbo",
+      "c": "El que no está expresado pero se sobreentiende",
+      "d": "El que tiene varias palabras"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_099",
+    "question": "  ¿Cuál de estas oraciones tiene un verbo en forma no personal?",
+    "options": {
+      "a": "Comer es necesario.",
+      "b": "Yo comí arroz.",
+      "c": "Tú comerás tarde.",
+      "d": "Ellos comen carne."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_100",
+    "question": "  ¿Qué oración contiene aposición especificativa?",
+    "options": {
+      "a": "Asunción, capital de Paraguay, es hermosa.",
+      "b": "Mi amigo José llegó.",
+      "c": "José, mi amigo, llegó.",
+      "d": "Mi madre es doctora."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_101",
+    "question": "¿Qué tipo de oración es “Aunque está cansado, sigue trabajando”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada concesiva",
+      "c": "Coordinada copulativa",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_102",
+    "question": "¿Cuál oración tiene sujeto tácito?",
+    "options": {
+      "a": "Pedro vino temprano.",
+      "b": "Cantamos con alegría.",
+      "c": "Ellos llegaron tarde.",
+      "d": "El niño juega fútbol."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_103",
+    "question": "¿Cuál es una oración desiderativa?",
+    "options": {
+      "a": "¡Qué sorpresa!",
+      "b": "Ojalá apruebe el examen.",
+      "c": "¿Vendrás mañana?",
+      "d": "Estoy muy feliz."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_104",
+    "question": "¿Qué palabra es un adjetivo calificativo?",
+    "options": {
+      "a": "Silla",
+      "b": "Rápido",
+      "c": "Correr",
+      "d": "Alegre"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_105",
+    "question": "¿Qué función tiene “de historia” en “Un libro de historia”?",
+    "options": {
+      "a": "Aposición",
+      "b": "Complemento directo",
+      "c": "Complemento del nombre",
+      "d": "Complemento circunstancial"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_106",
+    "question": "¿Cuál de estas oraciones es pasiva refleja?",
+    "options": {
+      "a": "Se venden libros.",
+      "b": "Vendieron libros.",
+      "c": "Libros se venden.",
+      "d": "Se ha vendido un libro."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_107",
+    "question": "¿Qué tipo de oración es “Juan corre y Pedro salta”?",
+    "options": {
+      "a": "Simple",
+      "b": "Subordinada adjetiva",
+      "c": "Coordinada copulativa",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_108",
+    "question": "¿Cuál es el complemento de régimen?",
+    "options": {
+      "a": "De eso no hablo.",
+      "b": "Caminamos despacio.",
+      "c": "Escribe un cuento.",
+      "d": "Se fue temprano."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_109",
+    "question": "¿Qué oración tiene predicado nominal?",
+    "options": {
+      "a": "El perro ladra.",
+      "b": "Pedro es médico.",
+      "c": "Llegó tarde.",
+      "d": "Cocinó sopa."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_110",
+    "question": "¿Cuál oración contiene un complemento circunstancial de lugar?",
+    "options": {
+      "a": "Estudia en su habitación.",
+      "b": "Estudia mucho.",
+      "c": "Estudia por gusto.",
+      "d": "Estudia todos los días."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_111",
+    "question": "¿Qué tipo de oración es “¡No me digas eso!”?",
+    "options": {
+      "a": "Enunciativa",
+      "b": "Exhortativa",
+      "c": "Dubitativa",
+      "d": "Exclamativa"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_112",
+    "question": "¿Qué tipo de subordinada es “porque no estudió”?",
+    "options": {
+      "a": "Causal",
+      "b": "Temporal",
+      "c": "Final",
+      "d": "Consecutiva"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_113",
+    "question": "¿Qué clase de adverbio es “todavía”?",
+    "options": {
+      "a": "Lugar",
+      "b": "Tiempo",
+      "c": "Modo",
+      "d": "Cantidad"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_114",
+    "question": "¿Cuál oración está en voz pasiva?",
+    "options": {
+      "a": "Se rompió el vidrio.",
+      "b": "El vidrio fue roto por Juan.",
+      "c": "Juan rompió el vidrio.",
+      "d": "Rompieron el vidrio."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_115",
+    "question": "¿Qué tipo de oración es “Come para estar fuerte”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada condicional",
+      "c": "Subordinada final",
+      "d": "Subordinada concesiva"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_116",
+    "question": "¿Qué tipo de palabra es “con”?",
+    "options": {
+      "a": "Conjunción",
+      "b": "Adverbio",
+      "c": "Preposición",
+      "d": "Determinante"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_117",
+    "question": "¿Cuál es un sustantivo abstracto?",
+    "options": {
+      "a": "Amistad",
+      "b": "Perro",
+      "c": "Libro",
+      "d": "Mesa"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_118",
+    "question": "¿Qué tipo de oración es “Estudia aunque esté cansado”?",
+    "options": {
+      "a": "Subordinada consecutiva",
+      "b": "Subordinada final",
+      "c": "Subordinada concesiva",
+      "d": "Coordinada copulativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_119",
+    "question": "¿Qué es el sujeto elíptico?",
+    "options": {
+      "a": "Que aparece al final de la oración",
+      "b": "Que se sobreentiende pero no se menciona",
+      "c": "Que tiene dos núcleos",
+      "d": "Que se refiere a una cosa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_120",
+    "question": "¿Qué oración tiene complemento predicativo?",
+    "options": {
+      "a": "El jugador salió cansado.",
+      "b": "María escribió la carta.",
+      "c": "Ellos viajaron ayer.",
+      "d": "Compramos fruta."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_121",
+    "question": "¿Qué tipo de oración es “No saldré, aunque me llames”?",
+    "options": {
+      "a": "Coordinada copulativa",
+      "b": "Subordinada concesiva",
+      "c": "Subordinada causal",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_122",
+    "question": "¿Cuál oración contiene un complemento circunstancial de finalidad?",
+    "options": {
+      "a": "Estudia para aprobar.",
+      "b": "Estudia mucho.",
+      "c": "Estudia con María.",
+      "d": "Estudia los sábados."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_123",
+    "question": "¿Cuál es el sujeto en “A Pedro le encantan los dulces”?",
+    "options": {
+      "a": "Pedro",
+      "b": "Le",
+      "c": "Los dulces",
+      "d": "Encantan"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_124",
+    "question": "¿Qué palabra funciona como adjetivo demostrativo?",
+    "options": {
+      "a": "Eso",
+      "b": "Mío",
+      "c": "Este",
+      "d": "Quién"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_125",
+    "question": "¿Qué tipo de oración es “Te escribo para que lo sepas”?",
+    "options": {
+      "a": "Causal",
+      "b": "Consecutiva",
+      "c": "Final",
+      "d": "Dubitativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_126",
+    "question": "¿Cuál de las siguientes oraciones contiene una aposición explicativa?",
+    "options": {
+      "a": "Juan mi hermano llegó.",
+      "b": "Juan, mi hermano, llegó.",
+      "c": "Mi hermano Juan llegó.",
+      "d": "Juan es mi hermano."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_127",
+    "question": "¿Qué tipo de adverbio es “mañana”?",
+    "options": {
+      "a": "Lugar",
+      "b": "Tiempo",
+      "c": "Cantidad",
+      "d": "Modo"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_128",
+    "question": "¿Qué clase de conjunción es “pero”?",
+    "options": {
+      "a": "Copulativa",
+      "b": "Disyuntiva",
+      "c": "Adversativa",
+      "d": "Causal"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_129",
+    "question": "¿Cuál es el núcleo del predicado en la oración “Los alumnos estudiaron en silencio”?",
+    "options": {
+      "a": "Alumnos",
+      "b": "Estudiaron",
+      "c": "En",
+      "d": "En silencio"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_130",
+    "question": "¿Qué oración es interrogativa indirecta?",
+    "options": {
+      "a": "¿Vendrás hoy?",
+      "b": "Me preguntó si vendría hoy.",
+      "c": "¡Vendrás hoy!",
+      "d": "Vendrás hoy."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_131",
+    "question": "¿Qué tipo de oración es “No solo estudia, sino que también trabaja”?",
+    "options": {
+      "a": "Coordinada copulativa",
+      "b": "Coordinada adversativa",
+      "c": "Coordinada disyuntiva",
+      "d": "Coordinada distributiva"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_132",
+    "question": "¿Cuál es el complemento directo en “Le dieron un premio a Juan”?",
+    "options": {
+      "a": "Juan",
+      "b": "Premio",
+      "c": "Le",
+      "d": "Dieron"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_133",
+    "question": "¿Qué oración contiene una construcción pasiva?",
+    "options": {
+      "a": "Juan rompió el vaso.",
+      "b": "El vaso fue roto por Juan.",
+      "c": "El vaso se rompió.",
+      "d": "Juan se rompió el vaso."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_134",
+    "question": "¿Qué tipo de palabra es “rápidamente”?",
+    "options": {
+      "a": "Verbo",
+      "b": "Adverbio",
+      "c": "Sustantivo",
+      "d": "Adjetivo"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_135",
+    "question": "¿Qué tipo de oración es “Aunque lo intentó, no ganó”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada final",
+      "c": "Subordinada concesiva",
+      "d": "Coordinada copulativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_136",
+    "question": "¿Cuál es el núcleo del sujeto en “La mayoría de los alumnos aprobó”?",
+    "options": {
+      "a": "Aprobó",
+      "b": "Alumnos",
+      "c": "La mayoría",
+      "d": "De los alumnos"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_137",
+    "question": "¿Qué palabra es un pronombre reflexivo?",
+    "options": {
+      "a": "Te",
+      "b": "Yo",
+      "c": "Este",
+      "d": "Quien"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_138",
+    "question": "¿Qué función cumple “a las nueve” en “Llegó a las nueve”?",
+    "options": {
+      "a": "Complemento del nombre",
+      "b": "Complemento de régimen",
+      "c": "Complemento circunstancial de tiempo",
+      "d": "Complemento predicativo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_139",
+    "question": "¿Qué tipo de oración es “Lo hizo como pudo”?",
+    "options": {
+      "a": "Subordinada adjetiva",
+      "b": "Subordinada de modo",
+      "c": "Subordinada condicional",
+      "d": "Coordinada"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_140",
+    "question": "¿Qué es una oración compuesta?",
+    "options": {
+      "a": "La que tiene un solo verbo",
+      "b": "La que tiene varios sujetos",
+      "c": "La que tiene más de una proposición",
+      "d": "La que tiene verbo en infinitivo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_141",
+    "question": "  ¿Cuál de las siguientes oraciones es compuesta coordinada adversativa?",
+    "options": {
+      "a": "María canta y baila.",
+      "b": "Estudio mucho, pero no apruebo.",
+      "c": "Pedro salió cuando llovía.",
+      "d": "Estudia para aprobar."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_142",
+    "question": "  ¿Cuál es el núcleo del sujeto en la oración “La mayoría de los estudiantes llegó tarde”?",
+    "options": {
+      "a": "Estudiantes",
+      "b": "Mayoría",
+      "c": "Llegó",
+      "d": "De los estudiantes"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_143",
+    "question": "  ¿Qué tipo de adjetivo es “hermoso” en “El paisaje hermoso me sorprendió”?",
+    "options": {
+      "a": "Especificativo",
+      "b": "Determinativo",
+      "c": "Calificativo",
+      "d": "Numeral"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_144",
+    "question": "  ¿Qué oración contiene un complemento directo?",
+    "options": {
+      "a": "Miré la película.",
+      "b": "Caminamos mucho.",
+      "c": "Habló con su madre.",
+      "d": "Viajó a Asunción."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_145",
+    "question": "  ¿Qué tipo de oración es “Vendré si me llamás”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada condicional",
+      "c": "Subordinada final",
+      "d": "Subordinada consecutiva"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_146",
+    "question": "  ¿Cuál es la función de “por la lluvia” en “No salimos por la lluvia”?",
+    "options": {
+      "a": "Complemento circunstancial de lugar",
+      "b": "Complemento de régimen",
+      "c": "Complemento circunstancial de causa",
+      "d": "Complemento directo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_147",
+    "question": "  ¿Qué palabra es una conjunción disyuntiva?",
+    "options": {
+      "a": "Y",
+      "b": "O",
+      "c": "Pero",
+      "d": "Porque"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_148",
+    "question": "  ¿Qué tipo de oración es “Pedro, que es mi hermano, vendrá hoy”?",
+    "options": {
+      "a": "Subordinada sustantiva",
+      "b": "Subordinada adjetiva explicativa",
+      "c": "Subordinada adverbial",
+      "d": "Coordinada copulativa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_149",
+    "question": "  ¿Qué es una oración yuxtapuesta?",
+    "options": {
+      "a": "Se une con nexos coordinantes",
+      "b": "Se une con nexos subordinantes",
+      "c": "Se une con signos de puntuación",
+      "d": "No se puede unir"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_150",
+    "question": "  ¿Cuál es el sujeto elíptico en esta oración: “Llegamos a tiempo”?",
+    "options": {
+      "a": "Tiempo",
+      "b": "Nosotros (implícito)",
+      "c": "Llegamos",
+      "d": "A tiempo"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_151",
+    "question": "  ¿Qué oración es enunciativa negativa?",
+    "options": {
+      "a": "¿Vendrás mañana?",
+      "b": "¡Qué frío hace!",
+      "c": "No tengo ganas de salir.",
+      "d": "Quizás venga."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_152",
+    "question": "  ¿Qué oración tiene predicado verbal?",
+    "options": {
+      "a": "Mi hermana es doctora.",
+      "b": "Él está en casa.",
+      "c": "Pedro corre rápido.",
+      "d": "Juan es un buen amigo."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_153",
+    "question": "  ¿Cuál de estas es una oración subordinada consecutiva?",
+    "options": {
+      "a": "Estudia para que apruebe.",
+      "b": "No comí porque estaba lleno.",
+      "c": "Estudió tanto que aprobó.",
+      "d": "Aunque llovía, salí."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_154",
+    "question": "  ¿Qué palabra es un pronombre interrogativo?",
+    "options": {
+      "a": "Mío",
+      "b": "Quién",
+      "c": "Éste",
+      "d": "Tú"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_155",
+    "question": "  ¿Qué tipo de oración es “Me alegra que hayas venido”?",
+    "options": {
+      "a": "Subordinada sustantiva",
+      "b": "Subordinada adjetiva",
+      "c": "Coordinada",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_156",
+    "question": "  ¿Cuál de estas oraciones está en voz pasiva?",
+    "options": {
+      "a": "María rompió la ventana.",
+      "b": "La ventana fue rota por María.",
+      "c": "Se rompió la ventana.",
+      "d": "María la rompió."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_157",
+    "question": "  ¿Qué función cumple “con entusiasmo” en “Resolvió el examen con entusiasmo”?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Complemento circunstancial de modo",
+      "c": "Aposición",
+      "d": "Complemento de régimen"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_158",
+    "question": "  ¿Qué tipo de adverbio es “bastante”?",
+    "options": {
+      "a": "Modo",
+      "b": "Cantidad",
+      "c": "Tiempo",
+      "d": "Lugar"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_159",
+    "question": "  ¿Qué palabra funciona como preposición?",
+    "options": {
+      "a": "Pero",
+      "b": "Si",
+      "c": "Desde",
+      "d": "Mucho"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_160",
+    "question": "  ¿Qué tipo de oración es “Corre más que yo”?",
+    "options": {
+      "a": "Subordinada comparativa",
+      "b": "Subordinada final",
+      "c": "Coordinada adversativa",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_161",
+    "question": "¿Qué tipo de oración es “Estudia aunque esté cansado”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada final",
+      "c": "Subordinada concesiva",
+      "d": "Coordinada copulativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_162",
+    "question": "¿Cuál de estas oraciones es pasiva refleja?",
+    "options": {
+      "a": "Se vendieron todos los boletos.",
+      "b": "Vendieron todos los boletos.",
+      "c": "Ellos venden boletos.",
+      "d": "Los boletos se vendieron solos."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_163",
+    "question": "¿Qué palabra es un sustantivo abstracto?",
+    "options": {
+      "a": "Dolor",
+      "b": "Silla",
+      "c": "Juan",
+      "d": "Computadora"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_164",
+    "question": "¿Cuál oración contiene una aposición explicativa?",
+    "options": {
+      "a": "Mi primo Andrés llegó ayer.",
+      "b": "Andrés, mi primo, llegó ayer.",
+      "c": "Llegó mi primo Andrés.",
+      "d": "Ayer vino Andrés."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_165",
+    "question": "¿Qué oración tiene predicado nominal?",
+    "options": {
+      "a": "El tren llegó puntual.",
+      "b": "La niña duerme.",
+      "c": "Mi madre es doctora.",
+      "d": "Cocinamos arroz."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_166",
+    "question": "¿Qué tipo de complemento es “a sus padres” en “Obedece a sus padres”?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Complemento indirecto",
+      "c": "Complemento de régimen",
+      "d": "Aposición"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_167",
+    "question": "¿Qué tipo de oración es “No solo cantó, sino que también bailó”?",
+    "options": {
+      "a": "Coordinada copulativa",
+      "b": "Coordinada disyuntiva",
+      "c": "Coordinada adversativa",
+      "d": "Coordinada distributiva"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_168",
+    "question": "¿Cuál de estas palabras es un adverbio de lugar?",
+    "options": {
+      "a": "Rápido",
+      "b": "Aquí",
+      "c": "Mañana",
+      "d": "Siempre"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_169",
+    "question": "¿Cuál oración contiene un complemento circunstancial de tiempo?",
+    "options": {
+      "a": "Estudiamos por la tarde.",
+      "b": "Estudiamos con María.",
+      "c": "Estudiamos con ganas.",
+      "d": "Estudiamos para aprobar."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_170",
+    "question": "¿Qué palabra funciona como pronombre posesivo?",
+    "options": {
+      "a": "Mío",
+      "b": "Quien",
+      "c": "Aquel",
+      "d": "Este"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_171",
+    "question": "¿Qué es una oración compuesta por subordinación?",
+    "options": {
+      "a": "Contiene varias proposiciones unidas sin nexos",
+      "b": "Las proposiciones están unidas por conjunciones copulativas",
+      "c": "Una proposición depende de otra",
+      "d": "Está formada por dos oraciones simples"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_172",
+    "question": "¿Qué tipo de oración es “Es tan inteligente que resuelve todo”?",
+    "options": {
+      "a": "Subordinada final",
+      "b": "Subordinada causal",
+      "c": "Subordinada consecutiva",
+      "d": "Subordinada condicional"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_173",
+    "question": "¿Qué palabra funciona como conjunción adversativa?",
+    "options": {
+      "a": "Porque",
+      "b": "Pero",
+      "c": "Y",
+      "d": "O"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_174",
+    "question": "¿Cuál es el núcleo del sujeto en “Las alumnas estudiosas aprobaron el examen”?",
+    "options": {
+      "a": "Estudiosas",
+      "b": "Alumnas",
+      "c": "Examen",
+      "d": "Aprobaron"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_175",
+    "question": "¿Qué tipo de oración es “No sé si vendrá”?",
+    "options": {
+      "a": "Subordinada sustantiva",
+      "b": "Subordinada adjetiva",
+      "c": "Subordinada adverbial",
+      "d": "Coordinada copulativa"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_176",
+    "question": "¿Qué tipo de complemento es “con alegría” en “Cantó con alegría”?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Complemento de régimen",
+      "c": "Complemento circunstancial de modo",
+      "d": "Aposición"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_177",
+    "question": "¿Qué oración está en voz pasiva?",
+    "options": {
+      "a": "Juan cerró la puerta.",
+      "b": "La puerta fue cerrada por Juan.",
+      "c": "Juan cerró.",
+      "d": "Cerró la puerta."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_178",
+    "question": "¿Qué tipo de adverbio es “ya”?",
+    "options": {
+      "a": "Tiempo",
+      "b": "Modo",
+      "c": "Cantidad",
+      "d": "Lugar"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_179",
+    "question": "¿Qué oración contiene sujeto tácito?",
+    "options": {
+      "a": "Vamos al cine.",
+      "b": "Ellos viajan hoy.",
+      "c": "Mi madre cocina.",
+      "d": "El alumno escribió."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_180",
+    "question": "¿Qué tipo de oración es “El libro que me prestaste es interesante”?",
+    "options": {
+      "a": "Subordinada sustantiva",
+      "b": "Subordinada adverbial",
+      "c": "Subordinada adjetiva especificativa",
+      "d": "Coordinada copulativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_181",
+    "question": "  ¿Qué tipo de oración es “No hablaron porque estaban enojados”?",
+    "options": {
+      "a": "Subordinada concesiva",
+      "b": "Subordinada causal",
+      "c": "Coordinada adversativa",
+      "d": "Subordinada final"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_182",
+    "question": "  ¿Qué oración tiene sujeto compuesto?",
+    "options": {
+      "a": "Juan estudia.",
+      "b": "Ana y Pedro juegan.",
+      "c": "María canta.",
+      "d": "Llovió toda la noche."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_183",
+    "question": "  ¿Qué clase de conjunción es “aunque”?",
+    "options": {
+      "a": "Copulativa",
+      "b": "Disyuntiva",
+      "c": "Concesiva",
+      "d": "Causal"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_184",
+    "question": "  ¿Qué oración expresa una opinión?",
+    "options": {
+      "a": "El agua hierve a 100 grados.",
+      "b": "Paraguay es un país de Sudamérica.",
+      "c": "En mi opinión, esta novela es aburrida.",
+      "d": "La Tierra gira alrededor del Sol."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_185",
+    "question": "  ¿Cuál de las siguientes oraciones está en voz activa?",
+    "options": {
+      "a": "El libro fue leído por la niña.",
+      "b": "Se comió el pastel.",
+      "c": "La niña leyó el libro.",
+      "d": "Se vendieron todas las entradas."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_186",
+    "question": "  ¿Cuál es la proposición subordinada en la oración “Me alegra que hayas venido”?",
+    "options": {
+      "a": "Me alegra",
+      "b": "Que hayas venido",
+      "c": "Hayas venido",
+      "d": "Me"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_187",
+    "question": "  ¿Qué palabra es un adverbio de modo?",
+    "options": {
+      "a": "Rápidamente",
+      "b": "Ayer",
+      "c": "Siempre",
+      "d": "Cerca"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_188",
+    "question": "  ¿Qué oración tiene un complemento de régimen?",
+    "options": {
+      "a": "Confío en vos.",
+      "b": "Llegamos temprano.",
+      "c": "Fuimos a la plaza.",
+      "d": "Camina con cuidado."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_189",
+    "question": "  ¿Qué oración contiene una subordinada sustantiva en función de sujeto?",
+    "options": {
+      "a": "Que vengas es importante.",
+      "b": "No vino porque llovía.",
+      "c": "Caminó como pudo.",
+      "d": "María juega y canta."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_190",
+    "question": "  ¿Qué tipo de oración es “Salí porque tenía prisa”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada final",
+      "c": "Subordinada comparativa",
+      "d": "Coordinada copulativa"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_191",
+    "question": "  ¿Qué clase de palabra es “nosotros”?",
+    "options": {
+      "a": "Adjetivo",
+      "b": "Verbo",
+      "c": "Pronombre personal",
+      "d": "Sustantivo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_192",
+    "question": "  ¿Cuál de estas palabras es un sustantivo colectivo?",
+    "options": {
+      "a": "Soldado",
+      "b": "Jauría",
+      "c": "Flor",
+      "d": "Mesa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_193",
+    "question": "  ¿Qué tipo de oración es “Te llamo para que vengas”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada consecutiva",
+      "c": "Subordinada final",
+      "d": "Subordinada condicional"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_194",
+    "question": "  ¿Qué función cumple “feliz” en “Ella está feliz”?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Núcleo del predicado",
+      "c": "Atributo",
+      "d": "Complemento de régimen"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_195",
+    "question": "  ¿Qué palabra funciona como adverbio de cantidad?",
+    "options": {
+      "a": "Nunca",
+      "b": "Bastante",
+      "c": "Allí",
+      "d": "Despacio"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_196",
+    "question": "  ¿Cuál de estas oraciones es exhortativa?",
+    "options": {
+      "a": "¡Qué bonito día!",
+      "b": "¿Has terminado la tarea?",
+      "c": "¡Salí ahora mismo!",
+      "d": "Tal vez venga más tarde."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_197",
+    "question": "  ¿Qué tipo de oración es “El joven, cansado, se durmió”?",
+    "options": {
+      "a": "Con sujeto simple",
+      "b": "Con predicado nominal",
+      "c": "Con complemento predicativo",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_198",
+    "question": "  ¿Qué palabra es un determinante demostrativo?",
+    "options": {
+      "a": "Ella",
+      "b": "Nuestro",
+      "c": "Ese",
+      "d": "Quien"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_199",
+    "question": "  ¿Qué tipo de oración es “Si estudias, aprobarás el examen”?",
+    "options": {
+      "a": "Causal",
+      "b": "Condicional",
+      "c": "Comparativa",
+      "d": "Final"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_200",
+    "question": "  ¿Qué es una oración coordinada copulativa?",
+    "options": {
+      "a": "Una que une proposiciones con “pero”",
+      "b": "Una que une ideas opuestas",
+      "c": "Una que une proposiciones con “y” o “ni”",
+      "d": "Una que depende de otra"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_201",
+    "question": "¿Cuál de las siguientes oraciones es compuesta subordinada adverbial de condición?",
+    "options": {
+      "a": "Si llueve, no saldré.",
+      "b": "Cuando vengas, te espero.",
+      "c": "Estudio para aprobar.",
+      "d": "Aunque no quiera, iré."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_202",
+    "question": "¿Qué tipo de oración es “Se rompió el florero”?",
+    "options": {
+      "a": "Pasiva",
+      "b": "Activa",
+      "c": "Pasiva refleja",
+      "d": "Reflexiva"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_203",
+    "question": "¿Qué tipo de palabra es “inteligente” en “Niños inteligentes aprueban”?",
+    "options": {
+      "a": "Sustantivo",
+      "b": "Verbo",
+      "c": "Adverbio",
+      "d": "Adjetivo calificativo"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_204",
+    "question": "¿Cuál es la proposición principal en “Me molesta que llegues tarde”?",
+    "options": {
+      "a": "Me",
+      "b": "Me molesta",
+      "c": "Que llegues tarde",
+      "d": "Llegues"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_205",
+    "question": "¿Qué clase de nexo es “por lo tanto”?",
+    "options": {
+      "a": "Copulativo",
+      "b": "Adversativo",
+      "c": "Causal",
+      "d": "Consecutivo"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_206",
+    "question": "¿Qué función cumple “por los ladrones” en “La casa fue saqueada por los ladrones”?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Complemento agente",
+      "c": "Sujeto",
+      "d": "Predicado"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_207",
+    "question": "¿Cuál de estas oraciones es interrogativa indirecta?",
+    "options": {
+      "a": "¿Vendrá hoy?",
+      "b": "No sé si vendrá hoy.",
+      "c": "¿Cuándo llegará?",
+      "d": "¡Ojalá venga!"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_208",
+    "question": "¿Qué palabra es una preposición?",
+    "options": {
+      "a": "A",
+      "b": "El",
+      "c": "Este",
+      "d": "Tal"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_209",
+    "question": "¿Qué tipo de oración es “Como no vino, suspendió el examen”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada final",
+      "c": "Coordinada copulativa",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_210",
+    "question": "¿Qué clase de complemento es “de matemáticas” en “Clase de matemáticas”?",
+    "options": {
+      "a": "Complemento circunstancial",
+      "b": "Complemento del nombre",
+      "c": "Complemento directo",
+      "d": "Complemento de régimen"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_211",
+    "question": "¿Cuál de las siguientes oraciones tiene sujeto tácito?",
+    "options": {
+      "a": "Salimos tarde.",
+      "b": "Pedro corre.",
+      "c": "Ana estudia.",
+      "d": "El perro duerme."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_212",
+    "question": "¿Qué función cumple “fácilmente” en la oración “Resolvió el problema fácilmente”?",
+    "options": {
+      "a": "Complemento de régimen",
+      "b": "Aposición",
+      "c": "Adverbio de modo",
+      "d": "Verbo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_213",
+    "question": "¿Qué tipo de oración es “Pedro estudia y Juan trabaja”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Coordinada copulativa",
+      "c": "Subordinada final",
+      "d": "Subordinada sustantiva"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_214",
+    "question": "¿Qué clase de conjunción es “pero”?",
+    "options": {
+      "a": "Causal",
+      "b": "Copulativa",
+      "c": "Adversativa",
+      "d": "Disyuntiva"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_215",
+    "question": "¿Qué tipo de oración es “El auto que compré es rojo”?",
+    "options": {
+      "a": "Subordinada sustantiva",
+      "b": "Subordinada adverbial",
+      "c": "Subordinada adjetiva especificativa",
+      "d": "Coordinada copulativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_216",
+    "question": "¿Cuál es la función del atributo en una oración copulativa?",
+    "options": {
+      "a": "Sujeto",
+      "b": "Núcleo del predicado",
+      "c": "Complemento que califica o identifica al sujeto",
+      "d": "Complemento directo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_217",
+    "question": "¿Cuál es un ejemplo de oración desiderativa?",
+    "options": {
+      "a": "¡Ojalá ganes!",
+      "b": "¿Vendrás mañana?",
+      "c": "No iré.",
+      "d": "Salió temprano."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_218",
+    "question": "¿Qué tipo de oración es “Habla más de lo que escucha”?",
+    "options": {
+      "a": "Subordinada final",
+      "b": "Subordinada causal",
+      "c": "Subordinada comparativa",
+      "d": "Coordinada adversativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_219",
+    "question": "¿Cuál de las siguientes oraciones es impersonal?",
+    "options": {
+      "a": "Se vive bien aquí.",
+      "b": "Ella trabaja.",
+      "c": "Juan estudia.",
+      "d": "Ellos comieron."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_220",
+    "question": "¿Qué oración tiene una aposición especificativa?",
+    "options": {
+      "a": "El escritor Cervantes escribió El Quijote.",
+      "b": "Cervantes, el escritor, escribió El Quijote.",
+      "c": "El hombre llegó.",
+      "d": "El gran escritor escribió una novela."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_221",
+    "question": "  ¿Qué tipo de oración es “Aunque no llueva, saldré igual”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada final",
+      "c": "Subordinada concesiva",
+      "d": "Coordinada adversativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_222",
+    "question": "  ¿Cuál es el núcleo del predicado en la oración “La casa estaba vacía”?",
+    "options": {
+      "a": "Casa",
+      "b": "Estaba",
+      "c": "Vacía",
+      "d": "Estaba vacía"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_223",
+    "question": "  ¿Cuál es la función del complemento directo?",
+    "options": {
+      "a": "Indicar el destinatario de la acción",
+      "b": "Nombrar al sujeto de la oración",
+      "c": "Recibir directamente la acción del verbo",
+      "d": "Indicar el tiempo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_224",
+    "question": "  ¿Qué tipo de oración es “No solo vino, sino que trajo comida”?",
+    "options": {
+      "a": "Coordinada adversativa",
+      "b": "Coordinada disyuntiva",
+      "c": "Coordinada copulativa",
+      "d": "Coordinada distributiva"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_225",
+    "question": "  ¿Qué tipo de adverbio es “tal vez”?",
+    "options": {
+      "a": "Modo",
+      "b": "Lugar",
+      "c": "Tiempo",
+      "d": "Duda"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_226",
+    "question": "  ¿Cuál es el sujeto de la oración “Hace calor”?",
+    "options": {
+      "a": "Calor",
+      "b": "Hace",
+      "c": "El clima",
+      "d": "Oración impersonal"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_227",
+    "question": "  ¿Qué tipo de conjunción es “aunque”?",
+    "options": {
+      "a": "Copulativa",
+      "b": "Causal",
+      "c": "Concesiva",
+      "d": "Consecutiva"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_228",
+    "question": "  ¿Qué oración tiene una estructura de oración compuesta por coordinación copulativa?",
+    "options": {
+      "a": "Pedro estudia y María trabaja.",
+      "b": "Estudia porque quiere aprobar.",
+      "c": "Si estudias, aprobarás.",
+      "d": "Estudia, entonces aprobarás."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_229",
+    "question": "  ¿Qué oración contiene un complemento circunstancial de lugar?",
+    "options": {
+      "a": "Estudia con entusiasmo.",
+      "b": "Estudia en la biblioteca.",
+      "c": "Estudia para aprobar.",
+      "d": "Estudia mucho."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_230",
+    "question": "  ¿Qué palabra es un sustantivo concreto?",
+    "options": {
+      "a": "Amor",
+      "b": "Felicidad",
+      "c": "Silla",
+      "d": "Envidia"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_231",
+    "question": "  ¿Cuál es la función del verbo “ser” en “María es doctora”?",
+    "options": {
+      "a": "Verbo principal",
+      "b": "Atributo",
+      "c": "Verbo copulativo",
+      "d": "Núcleo del sujeto"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_232",
+    "question": "  ¿Qué oración contiene una oración subordinada sustantiva en función de complemento directo?",
+    "options": {
+      "a": "Dijo que vendría.",
+      "b": "Aunque estudió, reprobó.",
+      "c": "Juan y Pedro corren.",
+      "d": "El tren pasa rápido."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_233",
+    "question": "  ¿Qué palabra es un determinante numeral?",
+    "options": {
+      "a": "Aquella",
+      "b": "Tres",
+      "c": "Poca",
+      "d": "Su"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_234",
+    "question": "  ¿Cuál es el predicado en la oración “Los niños juegan en el parque”?",
+    "options": {
+      "a": "Juegan",
+      "b": "En el parque",
+      "c": "Juegan en el parque",
+      "d": "Los niños"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_235",
+    "question": "  ¿Qué tipo de oración es “¿Vendrás mañana?”?",
+    "options": {
+      "a": "Exhortativa",
+      "b": "Exclamativa",
+      "c": "Enunciativa",
+      "d": "Interrogativa directa"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_236",
+    "question": "  ¿Qué función cumple “rojo” en la oración “El auto es rojo”?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Núcleo del predicado",
+      "c": "Atributo",
+      "d": "Predicado nominal"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_237",
+    "question": "  ¿Qué oración contiene un nexo causal?",
+    "options": {
+      "a": "No vino porque estaba enfermo.",
+      "b": "Si vienes, te ayudo.",
+      "c": "Estudia y trabaja.",
+      "d": "Aunque llueva, iremos."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_238",
+    "question": "  ¿Cuál es la proposición subordinada en “Me molesta que no vengas”?",
+    "options": {
+      "a": "Me molesta",
+      "b": "Que no vengas",
+      "c": "No vengas",
+      "d": "Molesta"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_239",
+    "question": "  ¿Qué tipo de sujeto tiene la oración “Se vive bien en esta ciudad”?",
+    "options": {
+      "a": "Sujeto simple",
+      "b": "Sujeto compuesto",
+      "c": "Sujeto explícito",
+      "d": "Sujeto impersonal"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_240",
+    "question": "  ¿Cuál es el núcleo del sujeto en la oración “Los libros nuevos llegaron hoy”?",
+    "options": {
+      "a": "Libros",
+      "b": "Nuevos",
+      "c": "Llegaron",
+      "d": "Hoy"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_241",
+    "question": "  ¿Qué tipo de oración es “Te ayudaré si me lo pides”?",
+    "options": {
+      "a": "Subordinada final",
+      "b": "Subordinada concesiva",
+      "c": "Subordinada condicional",
+      "d": "Subordinada causal"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_242",
+    "question": "  ¿Cuál es el núcleo del sujeto en “Los jóvenes responsables aprobaron”?",
+    "options": {
+      "a": "Jóvenes",
+      "b": "Responsables",
+      "c": "Aprobaron",
+      "d": "Los"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_243",
+    "question": "  ¿Qué tipo de oración es “Luis canta mientras cocina”?",
+    "options": {
+      "a": "Coordinada copulativa",
+      "b": "Subordinada adverbial de tiempo",
+      "c": "Coordinada disyuntiva",
+      "d": "Subordinada causal"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_244",
+    "question": "  ¿Qué función cumple “con entusiasmo” en “Escribió con entusiasmo”?",
+    "options": {
+      "a": "Complemento del nombre",
+      "b": "Complemento directo",
+      "c": "Complemento circunstancial de modo",
+      "d": "Aposición"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_245",
+    "question": "  ¿Qué clase de oración es “Se rompieron las ventanas durante la tormenta”?",
+    "options": {
+      "a": "Activa",
+      "b": "Pasiva refleja",
+      "c": "Impersonal",
+      "d": "Subordinada"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_246",
+    "question": "  ¿Qué palabra es una conjunción adversativa?",
+    "options": {
+      "a": "Porque",
+      "b": "Pero",
+      "c": "O",
+      "d": "Y"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_247",
+    "question": "  ¿Qué tipo de subordinada es “para que apruebes” en “Estudia para que apruebes”?",
+    "options": {
+      "a": "Sustantiva",
+      "b": "Causal",
+      "c": "Final",
+      "d": "Condicional"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_248",
+    "question": "  ¿Cuál es la proposición principal en “Es importante que estudies”?",
+    "options": {
+      "a": "Es importante",
+      "b": "Que estudies",
+      "c": "Importante",
+      "d": "Estudies"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_249",
+    "question": "  ¿Qué tipo de oración es “Cuando llegó, todos lo saludaron”?",
+    "options": {
+      "a": "Subordinada de condición",
+      "b": "Subordinada de tiempo",
+      "c": "Subordinada causal",
+      "d": "Coordinada copulativa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_250",
+    "question": "  ¿Qué función cumple “el mejor alumno” en “Pedro, el mejor alumno, fue premiado”?",
+    "options": {
+      "a": "Sujeto",
+      "b": "Aposición explicativa",
+      "c": "Complemento directo",
+      "d": "Núcleo del predicado"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_251",
+    "question": "  ¿Qué tipo de oración es “No solo vino, sino que también participó”?",
+    "options": {
+      "a": "Coordinada copulativa",
+      "b": "Coordinada adversativa",
+      "c": "Coordinada disyuntiva",
+      "d": "Coordinada distributiva"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_252",
+    "question": "  ¿Qué clase de pronombre es “algo”?",
+    "options": {
+      "a": "Personal",
+      "b": "Indefinido",
+      "c": "Demostrativo",
+      "d": "Interrogativo"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_253",
+    "question": "  ¿Qué función cumple “de física” en “Clase de física”?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Complemento del nombre",
+      "c": "Complemento circunstancial",
+      "d": "Aposición"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_254",
+    "question": "  ¿Qué tipo de oración es “¿Sabés si viene hoy?”?",
+    "options": {
+      "a": "Interrogativa directa",
+      "b": "Exclamativa",
+      "c": "Interrogativa indirecta",
+      "d": "Enunciativa negativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_255",
+    "question": "  ¿Qué oración contiene una subordinada sustantiva en función de complemento directo?",
+    "options": {
+      "a": "Me dijo que vendría.",
+      "b": "Cuando vino, saludó.",
+      "c": "Llegó corriendo.",
+      "d": "Salió sin decir nada."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_256",
+    "question": "  ¿Qué oración tiene una conjunción copulativa?",
+    "options": {
+      "a": "Estudia y trabaja.",
+      "b": "Estudia porque quiere.",
+      "c": "Estudia aunque está cansado.",
+      "d": "Estudia si puede."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_257",
+    "question": "  ¿Qué tipo de sujeto tiene la oración “Se dice que lloverá”?",
+    "options": {
+      "a": "Sujeto tácito",
+      "b": "Sujeto simple",
+      "c": "Sujeto impersonal",
+      "d": "Sujeto compuesto"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_258",
+    "question": "  ¿Cuál es el predicado en “Mi hermano mayor viajó a España”?",
+    "options": {
+      "a": "Mi hermano",
+      "b": "Mayor",
+      "c": "Viajó a España",
+      "d": "A España"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_259",
+    "question": "  ¿Qué tipo de adverbio es “allí”?",
+    "options": {
+      "a": "Tiempo",
+      "b": "Cantidad",
+      "c": "Modo",
+      "d": "Lugar"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_260",
+    "question": "  ¿Qué tipo de oración es “El auto fue reparado por el mecánico”?",
+    "options": {
+      "a": "Activa",
+      "b": "Reflexiva",
+      "c": "Pasiva",
+      "d": "Recíproca"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_261",
+    "question": "¿Qué tipo de oración es “No salió porque estaba enferma”?",
+    "options": {
+      "a": "Subordinada condicional",
+      "b": "Subordinada causal",
+      "c": "Subordinada final",
+      "d": "Coordinada adversativa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_262",
+    "question": "¿Cuál es el núcleo del predicado en “El perro dormía tranquilo”?",
+    "options": {
+      "a": "El",
+      "b": "Perro",
+      "c": "Dormía",
+      "d": "Tranquilo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_263",
+    "question": "¿Qué oración contiene un complemento de régimen?",
+    "options": {
+      "a": "Confío en ti.",
+      "b": "Estudia con disciplina.",
+      "c": "Viajó a España.",
+      "d": "Jugó bien."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_264",
+    "question": "¿Qué clase de oración es “No vino, aunque lo esperábamos”?",
+    "options": {
+      "a": "Coordinada copulativa",
+      "b": "Coordinada disyuntiva",
+      "c": "Coordinada adversativa",
+      "d": "Subordinada concesiva"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_265",
+    "question": "¿Qué función cumple “a tus padres” en “Saludá a tus padres”?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Complemento del nombre",
+      "c": "Complemento indirecto",
+      "d": "Complemento de régimen"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_266",
+    "question": "¿Cuál es la función del atributo en oraciones con verbos copulativos?",
+    "options": {
+      "a": "Definir al verbo",
+      "b": "Identificar o calificar al sujeto",
+      "c": "Complementar al objeto directo",
+      "d": "Repetir el verbo"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_267",
+    "question": "¿Qué tipo de oración es “Si me ayudas, terminaremos rápido”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada condicional",
+      "c": "Coordinada copulativa",
+      "d": "Subordinada consecutiva"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_268",
+    "question": "¿Qué tipo de oración es “Te lo digo para que entiendas”?",
+    "options": {
+      "a": "Subordinada final",
+      "b": "Subordinada causal",
+      "c": "Subordinada concesiva",
+      "d": "Subordinada temporal"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_269",
+    "question": "¿Qué oración contiene sujeto tácito?",
+    "options": {
+      "a": "Estudiamos mucho.",
+      "b": "Pedro juega fútbol.",
+      "c": "Ellos vendrán mañana.",
+      "d": "El tren pasa a las 7."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_270",
+    "question": "¿Cuál es la palabra con función de adjetivo calificativo?",
+    "options": {
+      "a": "Inteligente",
+      "b": "Muy",
+      "c": "Ayer",
+      "d": "Cerca"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_271",
+    "question": "¿Qué clase de adverbio es “quizás”?",
+    "options": {
+      "a": "Lugar",
+      "b": "Tiempo",
+      "c": "Modo",
+      "d": "Duda"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_272",
+    "question": "¿Qué función cumple “con rapidez” en “Corrió con rapidez”?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Complemento circunstancial de modo",
+      "c": "Complemento agente",
+      "d": "Aposición"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_273",
+    "question": "¿Qué tipo de oración es “Estudia, así aprobarás”?",
+    "options": {
+      "a": "Subordinada concesiva",
+      "b": "Subordinada causal",
+      "c": "Subordinada consecutiva",
+      "d": "Coordinada copulativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_274",
+    "question": "¿Qué clase de pronombre es “tuyo”?",
+    "options": {
+      "a": "Posesivo",
+      "b": "Personal",
+      "c": "Demostrativo",
+      "d": "Indefinido"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_275",
+    "question": "¿Cuál es el predicado de “Tus amigos vendrán temprano”?",
+    "options": {
+      "a": "Tus amigos",
+      "b": "Vendrán",
+      "c": "Vendrán temprano",
+      "d": "Temprano"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_276",
+    "question": "¿Qué oración presenta pasiva refleja?",
+    "options": {
+      "a": "Se construyó el puente.",
+      "b": "Él construyó el puente.",
+      "c": "El puente fue construido.",
+      "d": "Construyeron el puente."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_277",
+    "question": "¿Qué tipo de subordinada es “que leas” en “Es importante que leas”?",
+    "options": {
+      "a": "Subordinada adverbial",
+      "b": "Subordinada sustantiva",
+      "c": "Subordinada causal",
+      "d": "Subordinada condicional"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_278",
+    "question": "¿Qué palabra cumple la función de complemento directo?",
+    "options": {
+      "a": "A Pedro",
+      "b": "La tarea",
+      "c": "En el parque",
+      "d": "Con paciencia"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_279",
+    "question": "¿Qué tipo de oración es “¡Ojalá venga pronto!”?",
+    "options": {
+      "a": "Interrogativa directa",
+      "b": "Imperativa",
+      "c": "Desiderativa",
+      "d": "Exclamativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_280",
+    "question": "¿Qué tipo de adverbio es “ayer”?",
+    "options": {
+      "a": "Modo",
+      "b": "Cantidad",
+      "c": "Lugar",
+      "d": "Tiempo"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_281",
+    "question": "¿Qué tipo de oración es “Aunque llueva, iremos al parque”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada condicional",
+      "c": "Subordinada concesiva",
+      "d": "Coordinada adversativa"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_282",
+    "question": "¿Qué tipo de adverbio es “bien” en “Habló bien en público”?",
+    "options": {
+      "a": "Tiempo",
+      "b": "Lugar",
+      "c": "Modo",
+      "d": "Cantidad"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_283",
+    "question": "¿Qué oración presenta sujeto elíptico?",
+    "options": {
+      "a": "Ellos vinieron rápido.",
+      "b": "Nosotros iremos después.",
+      "c": "Fuimos al cine.",
+      "d": "Los niños corren."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_284",
+    "question": "¿Qué función cumple “rápidamente” en “Escribió rápidamente la carta”?",
+    "options": {
+      "a": "Complemento circunstancial de modo",
+      "b": "Núcleo del sujeto",
+      "c": "Complemento agente",
+      "d": "Predicado"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_285",
+    "question": "¿Qué oración está en voz pasiva?",
+    "options": {
+      "a": "Juan escribió el poema.",
+      "b": "El poema fue escrito por Juan.",
+      "c": "Escribieron el poema.",
+      "d": "El poema se escribió."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_286",
+    "question": "¿Qué tipo de oración es “Trabaja para que su familia esté bien”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada final",
+      "c": "Subordinada consecutiva",
+      "d": "Coordinada copulativa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_287",
+    "question": "¿Cuál es el núcleo del predicado en “Los estudiantes responsables presentaron el informe”?",
+    "options": {
+      "a": "Estudiantes",
+      "b": "Presentaron",
+      "c": "Informe",
+      "d": "Responsables"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_288",
+    "question": "¿Qué tipo de pronombre es “eso”?",
+    "options": {
+      "a": "Personal",
+      "b": "Posesivo",
+      "c": "Demostrativo",
+      "d": "Interrogativo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_289",
+    "question": "¿Qué tipo de complemento es “a su profesor” en “María saludó a su profesor”?",
+    "options": {
+      "a": "Complemento agente",
+      "b": "Complemento circunstancial",
+      "c": "Complemento directo",
+      "d": "Complemento indirecto"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_290",
+    "question": "¿Qué tipo de oración es “Dudo que lo haga”?",
+    "options": {
+      "a": "Subordinada sustantiva",
+      "b": "Subordinada causal",
+      "c": "Subordinada condicional",
+      "d": "Coordinada adversativa"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_291",
+    "question": "¿Qué oración contiene complemento circunstancial de tiempo?",
+    "options": {
+      "a": "Pedro trabaja por dinero.",
+      "b": "Viajaremos mañana.",
+      "c": "Vive en una casa grande.",
+      "d": "Jugó con sus amigos."
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_292",
+    "question": "¿Qué tipo de conjunción es “aunque”?",
+    "options": {
+      "a": "Copulativa",
+      "b": "Condicional",
+      "c": "Concesiva",
+      "d": "Causal"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_293",
+    "question": "¿Qué oración presenta aposición especificativa?",
+    "options": {
+      "a": "Mi hermano Luis llegó tarde.",
+      "b": "Luis, mi hermano, llegó tarde.",
+      "c": "Luis llegó con mi hermano.",
+      "d": "Mi hermano llegó tarde."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_294",
+    "question": "¿Qué tipo de oración es “Quiero que vengas”?",
+    "options": {
+      "a": "Subordinada adjetiva",
+      "b": "Subordinada causal",
+      "c": "Subordinada sustantiva",
+      "d": "Subordinada adverbial"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_295",
+    "question": "¿Qué función cumple “por los alumnos” en “El texto fue leído por los alumnos”?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Complemento de régimen",
+      "c": "Complemento agente",
+      "d": "Complemento circunstancial"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_296",
+    "question": "¿Qué clase de oración es “No solo estudió, sino que también aprobó”?",
+    "options": {
+      "a": "Coordinada copulativa",
+      "b": "Coordinada disyuntiva",
+      "c": "Coordinada adversativa",
+      "d": "Coordinada distributiva"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_297",
+    "question": "¿Qué tipo de oración es “Como no llegó, empezamos sin él”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada temporal",
+      "c": "Subordinada condicional",
+      "d": "Subordinada consecutiva"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_298",
+    "question": "¿Cuál es el predicado en “Tus padres llegaron temprano”?",
+    "options": {
+      "a": "Tus padres",
+      "b": "Llegaron",
+      "c": "Llegaron temprano",
+      "d": "Temprano"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_299",
+    "question": "¿Qué oración tiene estructura de pasiva refleja?",
+    "options": {
+      "a": "Se vendieron todas las entradas.",
+      "b": "Las entradas vendidas fueron muchas.",
+      "c": "Ellos vendieron todas las entradas.",
+      "d": "Vendieron todas las entradas."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_300",
+    "question": "¿Qué oración tiene un complemento del nombre?",
+    "options": {
+      "a": "Libro de historia",
+      "b": "Viajar a la playa",
+      "c": "Trabajar con esfuerzo",
+      "d": "Vivir en libertad"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_301",
+    "question": "El folklore guaraní incluye principalmente:",
+    "options": {
+      "a": "Códigos legales",
+      "b": "Textos escolares",
+      "c": "Elementos culturales como leyendas, música y comidas",
+      "d": "Reglas matemáticas"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_302",
+    "question": "¿Qué elemento del folklore se manifiesta con música y danza?",
+    "options": {
+      "a": "Mombe’urä",
+      "b": "Jerovia",
+      "c": "Jeroky",
+      "d": "Ñe’ẽndy"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_303",
+    "question": "¿Qué es un mombe’ugua’u?",
+    "options": {
+      "a": "Un texto escolar",
+      "b": "Un cuento ficticio o de fantasía",
+      "c": "Una fórmula mágica",
+      "d": "Un himno nacional"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_304",
+    "question": "¿Qué es jerovia según la cultura guaraní?",
+    "options": {
+      "a": "Un ritual",
+      "b": "Una creencia",
+      "c": "Una comida",
+      "d": "Un tipo de baile"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_305",
+    "question": "¿Cuál es una característica de las jerovia guaraníes?",
+    "options": {
+      "a": "Son textos legales",
+      "b": "Son danzas religiosas",
+      "c": "Son creencias sin base científica",
+      "d": "Son himnos patrióticos"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_306",
+    "question": "¿Qué característica tienen los mombe’ugua’u?",
+    "options": {
+      "a": "Son verdaderos y científicos",
+      "b": "Relatan hechos históricos",
+      "c": "Son cuentos de fantasía o ficción",
+      "d": "Solo se transmiten por escrito"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_307",
+    "question": "El Mombe’urã se transmite principalmente por:",
+    "options": {
+      "a": "Escritos",
+      "b": "Televisión",
+      "c": "Tradición oral",
+      "d": "Mensajes de texto"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_308",
+    "question": "¿Qué función tiene el mombe’urä en la cultura guaraní?",
+    "options": {
+      "a": "Relatar hechos ficticios solamente",
+      "b": "Reforzar la memoria histórica con moralejas",
+      "c": "Enseñar gramática",
+      "d": "Promover bailes"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_309",
+    "question": "¿Qué personaje es típico en los mombe’urã?",
+    "options": {
+      "a": "San Juan",
+      "b": "Tau y Keraná",
+      "c": "Messi",
+      "d": "Artigas"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_310",
+    "question": "¿Qué elemento folklórico se refiere a la transmisión oral de cuentos fantásticos?",
+    "options": {
+      "a": "Jeroky",
+      "b": "Mombe’ugua’u",
+      "c": "Tembi’u",
+      "d": "Purahéi"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_311",
+    "question": "¿Qué significa jeroky en el contexto folklórico?",
+    "options": {
+      "a": "Canto",
+      "b": "Juego",
+      "c": "Baile",
+      "d": "Rezo"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_312",
+    "question": "¿Cuál de los siguientes nombres es una parte del cuerpo masculino o animal?",
+    "options": {
+      "a": "Tesa",
+      "b": "Akã",
+      "c": "Jyva",
+      "d": "Tetyma"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_313",
+    "question": "¿Qué palabra es propia del vocabulario de aula?",
+    "options": {
+      "a": "Pirevai",
+      "b": "Jasy",
+      "c": "Ka’i",
+      "d": "Ñati’ũ"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_314",
+    "question": "¿Cuál de las siguientes palabras es un “papapy” (número cardinal)?",
+    "options": {
+      "a": "Paha",
+      "b": "Mokoĩ",
+      "c": "Mbohapyha",
+      "d": "Poteĩha"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_315",
+    "question": "¿Cuál es un nombre de un animal silvestre en guaraní?",
+    "options": {
+      "a": "Jaguarete",
+      "b": "Ñati’ũ",
+      "c": "Kapi’i",
+      "d": "Pirevai"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_316",
+    "question": "“Jasyapýte” indica el mes de:",
+    "options": {
+      "a": "Julio",
+      "b": "Agosto",
+      "c": "Septiembre",
+      "d": "Octubre"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_317",
+    "question": "¿Qué palabra hace referencia a una planta medicinal?",
+    "options": {
+      "a": "Karumbe",
+      "b": "Kapi’i katî",
+      "c": "Jaguarete",
+      "d": "Guasu"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_318",
+    "question": "¿Qué tipo de oración es “Como no llegó, empezamos sin él”?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada temporal",
+      "c": "Subordinada condicional",
+      "d": "Subordinada consecutiva"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_319",
+    "question": "  ¿Cuál de estas oraciones es exhortativa?",
+    "options": {
+      "a": "¡Qué bonito día!",
+      "b": "¿Has terminado la tarea?",
+      "c": "¡Salí ahora mismo!",
+      "d": "Tal vez venga más tarde."
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_320",
+    "question": "“Ryguasurape” se traduce como:",
+    "options": {
+      "a": "Huevo de gallina",
+      "b": "Gallina enferma",
+      "c": "Nido de gallina",
+      "d": "Alas de gallina"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_321",
+    "question": "¿Qué palabra forma parte del vocabulario de enfermedades?",
+    "options": {
+      "a": "Pyta",
+      "b": "Piru",
+      "c": "Tĩsyry",
+      "d": "Kavaju"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_322",
+    "question": "“Kurusu” es ejemplo de:",
+    "options": {
+      "a": "Vocabulario de clase",
+      "b": "Vocabulario religioso",
+      "c": "Vocabulario de enfermedad",
+      "d": "Vocabulario de partes del cuerpo"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_323",
+    "question": "¿Qué palabra está relacionada con el vocabulario de clase?",
+    "options": {
+      "a": "Amandaje",
+      "b": "Mbo’ehára",
+      "c": "Yva",
+      "d": "Ñati’ũ"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_324",
+    "question": "El mes “jasypo” corresponde a:",
+    "options": {
+      "a": "Abril",
+      "b": "Junio",
+      "c": "Agosto",
+      "d": "Octubre"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_325",
+    "question": "¿Qué número representa “poteĩ”?",
+    "options": {
+      "a": "Cuatro",
+      "b": "Cinco",
+      "c": "Seis",
+      "d": "Siete"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_326",
+    "question": "¿Cuál es el ordinal de “peteĩ”?",
+    "options": {
+      "a": "Poteĩ",
+      "b": "Mokoĩha",
+      "c": "Peteĩha",
+      "d": "Irundyha"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_327",
+    "question": "Ejapo peteĩ sinónimo de “he’ẽ”:",
+    "options": {
+      "a": "Haku",
+      "b": "Ro’y",
+      "c": "Ryguasu",
+      "d": "Heko porã"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_328",
+    "question": "Peteĩ ñe’ẽriregua ha’e:",
+    "options": {
+      "a": "Gueteri",
+      "b": "Ha",
+      "c": "Rupi",
+      "d": "Rehe"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_329",
+    "question": "¿Mba’épa ñe’ẽndýi?",
+    "options": {
+      "a": "Ñe’ẽ oipytyvõva mba’e rehe.",
+      "b": "Ñe’ẽ oñembohasa tero.",
+      "c": "Ñe’ẽ oñembohasa tekove.",
+      "d": "Ñe’ẽ oje’éva opu’ãhápe ñande remiandu."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_330",
+    "question": "Ñe’ẽtéva ha’e:",
+    "options": {
+      "a": "Ñe’ẽ oñembohasáva.",
+      "b": "Ñe’ẽ ojapóva peteĩ tembiapo.",
+      "c": "Ñe’ẽ ogueraháva tero.",
+      "d": "Ñe’ẽ oñembojoajúva teroja."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_331",
+    "question": "Mba’épa terarangue?",
+    "options": {
+      "a": "Ñe’ẽ ohendúva.",
+      "b": "Ñe’ẽ omombe’u tero.",
+      "c": "Ñe’ẽ ohechauka mávapa oñe’ẽ rehe.",
+      "d": "Ñe’ẽ omombe’u araka’épa."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_332",
+    "question": "¿Mba’eichagua terokuéra oĩ?",
+    "options": {
+      "a": "Teroetéva, teroñe’ẽme’ẽva.",
+      "b": "Teroete ha terova.",
+      "c": "Tero oñembohérava, tero oñembohapéva.",
+      "d": "Tero, teroja, ñe’ẽtéva."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_333",
+    "question": "Mba’éichapa ikatu jahechakuaa peteĩ ñe’ẽjoaju?",
+    "options": {
+      "a": "Oguereko tero ha teroja.",
+      "b": "Oguereko mba’e ha oñe’ẽ ñe’ẽ.",
+      "c": "Oguereko sujeto ha predicado.",
+      "d": "Oguereko mboyvegua."
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_334",
+    "question": "¿Mba’éichapa jaikuaa peteĩ ñe’ẽ omoheñóiva pytuvẽ?",
+    "options": {
+      "a": "Ñe’ẽ ombojoajúva ñe’ẽ",
+      "b": "Ñe’ẽ ojeipurúva ñemomarandu rehe",
+      "c": "Ñe’ẽndýi",
+      "d": "Ñe’ẽriregua"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_335",
+    "question": "¿Mba’épa ojapo peteĩ ñe’ẽjoajuha?",
+    "options": {
+      "a": "Ombojoaju ñe’ẽnguéra apytépe",
+      "b": "Omoherakuã mba’eporã",
+      "c": "Oipytyvõ ñe’ẽtéva rehe",
+      "d": "Ombopuku ñe’ẽ"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_336",
+    "question": "¿Mba’épa hína peteĩ ñe’ẽtéva?",
+    "options": {
+      "a": "Ñe’ẽ ombojoajúva tero",
+      "b": "Ñe’ẽ ojapóva térã ohechaukáva tembiapo",
+      "c": "Ñe’ẽ ohechaukáva pytuve",
+      "d": "Ñe’ẽ omoha’angáva yvoty"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_337",
+    "question": "¿Mba’épa he’ise ñe’ẽhe’ijojáva (sinónimo)?",
+    "options": {
+      "a": "Ñe’ẽ iñambueháicha oñembojoajúva",
+      "b": "Ñe’ẽ ombojoajúva rehegua",
+      "c": "Ñe’ẽ he’iséva peteĩchagua térã mba’epeteĩ",
+      "d": "Ñe’ẽ oiko jepi ñe’ẽndýi ramo"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_338",
+    "question": "¿Mba’épa hína peteĩ ñe’ẽndýi (interjección)?",
+    "options": {
+      "a": "Ñe’ẽ ojepurúva oñembojoaju hag̃ua",
+      "b": "Ñe’ẽ omombe’úva mba’e",
+      "c": "Ñe’ẽ ohechaukáva mba’embojoja",
+      "d": "Ñe’ẽ omyesakãva tembipota, pytuve, térã vy’apavẽ"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_339",
+    "question": "¿Mba’épa he’ise ñe’ẽhe’i’avýva (antónimo)?",
+    "options": {
+      "a": "Ñe’ẽ ohechaukáva mba’eporã",
+      "b": "Ñe’ẽ oguereko peteĩchagua he’iséva",
+      "c": "Ñe’ẽ ojeipuru vy’apavẽme",
+      "d": "Ñe’ẽ he’iséva ambueichagua térã he’iséva ijeroviaha"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_340",
+    "question": "¿Mba’épa hína peteĩ ñe’ẽjoajuha (conjunción)?",
+    "options": {
+      "a": "Ñe’ẽ oñembojoajúva tembiapo rehe",
+      "b": "Ñe’ẽ oñemohenda hag̃ua ñe’ẽme’ẽ",
+      "c": "Ñe’ẽ ohechaukáva pytuvẽ",
+      "d": "Ñe’ẽ ojepurúva arapokõindy rehegua"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_341",
+    "question": "¿Mba’éichapa oñemboja’ó umi ñe’ẽtéva?",
+    "options": {
+      "a": "Ojuehegua ha techapyrã",
+      "b": "Momarandu ha ñemomarandu",
+      "c": "Ára rupi: añetegua, ramo ha jeikuaa’ỹ",
+      "d": "Peteĩ ha mokõi ñe’ẽ"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_342",
+    "question": "¿Mba’épa hína peteĩ terarangue?",
+    "options": {
+      "a": "Ñe’ẽ ohechaukáva pytu",
+      "b": "Ñe’ẽ ohechaukáva tembiapo",
+      "c": "Ñe’ẽ ohechaukáva mávapa térã mávapa rehegua",
+      "d": "Ñe’ẽ ohechaukáva ñe’ẽme’ẽ"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_343",
+    "question": "¿Mba’épa hína peteĩ tero?",
+    "options": {
+      "a": "Ñe’ẽ omoheñóiva tembiapo",
+      "b": "Ñe’ẽ omoherakuãva mba’e térã tapicha réra",
+      "c": "Ñe’ẽ ombojoajúva ñe’ẽnguéra",
+      "d": "Ñe’ẽ ohechauka aravópe tembiapo"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_344",
+    "question": "¿Qué tipo de pu’ã se presenta en la palabra “ndaha’éi”?",
+    "options": {
+      "a": "Kangy",
+      "b": "Jurugua",
+      "c": "Tïgua",
+      "d": "Atã"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_345",
+    "question": "¿Qué es un pu’ã atã?",
+    "options": {
+      "a": "Sonido breve",
+      "b": "Sonido suave",
+      "c": "Sonido fuerte",
+      "d": "Letra nasal"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_346",
+    "question": "¿Cuál de los siguientes grupos contiene únicamente letras del achegety guaraní?",
+    "options": {
+      "a": "A, E, I, C, Ñ",
+      "b": "G, Q, Ñ, R, O",
+      "c": "Ch, Ñ, G̃, Y, Ĩ",
+      "d": "L, M, C, Y, E"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_347",
+    "question": "¿En qué palabra se observa el uso del pu’ã jurugua?",
+    "options": {
+      "a": "Guata",
+      "b": "Pyhare",
+      "c": "Sy",
+      "d": "Aña"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_348",
+    "question": "¿Qué es un pundie en guaraní?",
+    "options": {
+      "a": "Un conjunto de consonantes",
+      "b": "Un sonido nasal",
+      "c": "Una sílaba",
+      "d": "Una vocal aislada"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_349",
+    "question": "El pundiekõi tïgua se forma con:",
+    "options": {
+      "a": "Dos consonantes",
+      "b": "Una vocal y una consonante",
+      "c": "Una vocal fuerte y una vocal débil, nasalizadas",
+      "d": "Dos vocales nasales tïgua"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_350",
+    "question": "¿Cuál de estas palabras contiene un pundiekõi tïgua?",
+    "options": {
+      "a": "Aña",
+      "b": "Ñe’ẽ x",
+      "c": "Mbopi",
+      "d": "Porã"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_351",
+    "question": "El puso (’) se utiliza para:",
+    "options": {
+      "a": "Separar palabras",
+      "b": "Enfatizar sílabas",
+      "c": "Representar una pausa glotal o corte de voz",
+      "d": "Formar plurales"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_352",
+    "question": "¿Qué significa “Tembiapo rapete” en el contexto de maitei?",
+    "options": {
+      "a": "Saludo fuerte y directo",
+      "b": "Forma rápida de despedirse",
+      "c": "Expresión de enfado",
+      "d": "Saludo respetuoso y educado"
+    },
+    "correct_answer": "d",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_353",
+    "question": "¿Qué función cumple el maitei arapegua?",
+    "options": {
+      "a": "Saludar con ironía",
+      "b": "Saludo para festividades o fechas especiales",
+      "c": "Despedirse con enojo",
+      "d": "Saludo para llamadas"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_354",
+    "question": "¿Cuántas letras tiene el achegety guaraní (alfabeto)?",
+    "options": {
+      "a": "23",
+      "b": "27",
+      "c": "28",
+      "d": "25"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_355",
+    "question": "¿Cuál es una respuesta formal al saludo “Mba’etekoitepa”?",
+    "options": {
+      "a": "Añetehápe, iporã",
+      "b": "Che mba’e, añetehápe",
+      "c": "Iporaite, aguyjevete",
+      "d": "Aháta ko’ágã"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_356",
+    "question": "¿Qué tipo de maitei expresa cariño y cercanía emocional?",
+    "options": {
+      "a": "Mba’éichapa",
+      "b": "Maitei porãite ndéve",
+      "c": "Tapeguata",
+      "d": "Jepohecháta"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_357",
+    "question": "¿Cuál es el propósito principal del maitei en la cultura guaraní?",
+    "options": {
+      "a": "Despedirse con rapidez",
+      "b": "Empezar una oración",
+      "c": "Establecer comunicación y respeto",
+      "d": "Llamar la atención"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  }
+]

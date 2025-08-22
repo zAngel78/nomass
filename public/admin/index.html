@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Admin - App Ejército</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1><i class="fas fa-shield-alt"></i> Dashboard Administración</h1>
+            <p>Gestión de usuarios y materias - App Ejército</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="dashboard-grid">
+            <!-- Sección de Estadísticas -->
+            <section class="stats-section">
+                <h2><i class="fas fa-chart-bar"></i> Estadísticas</h2>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-number" id="totalUsers">0</div>
+                        <div class="stat-label">Total Usuarios</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number" id="totalQuestions">0</div>
+                        <div class="stat-label">Total Preguntas</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number" id="totalSubjects">0</div>
+                        <div class="stat-label">Materias Disponibles</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number" id="activeUsers">0</div>
+                        <div class="stat-label">Usuarios Activos</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Sección de Crear Usuario -->
+            <section class="create-user-section">
+                <h2><i class="fas fa-user-plus"></i> Crear Nuevo Usuario</h2>
+                <form id="createUserForm" class="user-form">
+                    <div class="form-group">
+                        <label for="userName">Nombre completo:</label>
+                        <input type="text" id="userName" required placeholder="Ej: Juan Pérez">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="userEmail">Email (opcional):</label>
+                        <input type="email" id="userEmail" placeholder="usuario@ejemplo.com">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="userGender">Género:</label>
+                        <select id="userGender" required>
+                            <option value="">Seleccionar...</option>
+                            <option value="masculino">Masculino</option>
+                            <option value="femenino">Femenino</option>
+                            <option value="otro">Otro</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="userAvatar">Avatar:</label>
+                        <select id="userAvatar" required>
+                            <option value="">Seleccionar avatar...</option>
+                            <option value="👨‍💼">👨‍💼 Oficial Hombre</option>
+                            <option value="👩‍💼">👩‍💼 Oficial Mujer</option>
+                            <option value="🪖">🪖 Soldado</option>
+                            <option value="⭐">⭐ Comandante</option>
+                            <option value="🎖️">🎖️ Veterano</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="passwordOption">Contraseña:</label>
+                        <select id="passwordOption" required>
+                            <option value="">Seleccionar opción...</option>
+                            <option value="auto">Generar automáticamente</option>
+                            <option value="custom">Asignar contraseña personalizada</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group" id="customPasswordGroup" style="display: none;">
+                        <label for="customPassword">Contraseña personalizada:</label>
+                        <div class="password-input-group">
+                            <input type="password" id="customPassword" placeholder="Mínimo 6 caracteres">
+                            <button type="button" class="btn-toggle-password" data-toggle-target="customPassword">
+                                <i class="fas fa-eye"></i>
+                            </button>
+                        </div>
+                        <small class="password-hint">La contraseña debe tener al menos 6 caracteres</small>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="canTakeGeneralExam">Puede tomar exámenes generales:</label>
+                        <input type="checkbox" id="canTakeGeneralExam">
+                    </div>
+                    
+                    <button type="submit" class="btn-primary">
+                        <i class="fas fa-plus"></i> Crear Usuario
+                    </button>
+                </form>
+            </section>
+
+            <!-- Sección de Materias -->
+            <section class="subjects-section">
+                <h2><i class="fas fa-book"></i> Materias y Preguntas</h2>
+                <div id="subjectsContainer" class="subjects-grid">
+                    <!-- Se cargarán dinámicamente -->
+                </div>
+            </section>
+
+            <!-- Sección de Usuarios -->
+            <section class="users-section">
+                <h2><i class="fas fa-users"></i> Lista de Usuarios</h2>
+                <div class="table-container">
+                    <table id="usersTable">
+                        <thead>
+                            <tr>
+                                <th>Avatar</th>
+                                <th>Nombre</th>
+                                <th>ID</th>
+                                <th>Puntos</th>
+                                <th>Nivel</th>
+                                <th>Último Login</th>
+                                <th>Examen General</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Se cargarán dinámicamente -->
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <!-- Modal para editar usuario -->
+    <div id="editModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3>Editar Usuario</h3>
+            <form id="editUserForm">
+                <input type="hidden" id="editUserId">
+                <div class="form-group">
+                    <label for="editUserName">Nombre:</label>
+                    <input type="text" id="editUserName" required>
+                </div>
+                <div class="form-group">
+                    <label for="editUserAvatar">Avatar:</label>
+                    <select id="editUserAvatar">
+                        <option value="👨‍💼">👨‍💼 Oficial Hombre</option>
+                        <option value="👩‍💼">👩‍💼 Oficial Mujer</option>
+                        <option value="🪖">🪖 Soldado</option>
+                        <option value="⭐">⭐ Comandante</option>
+                        <option value="🎖️">🎖️ Veterano</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="editCanTakeGeneralExam">Puede tomar exámenes generales:</label>
+                    <input type="checkbox" id="editCanTakeGeneralExam">
+                </div>
+                <button type="submit" class="btn-primary">Guardar Cambios</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal para mostrar credenciales -->
+    <div id="credentialsModal" class="modal">
+        <div class="modal-content">
+            <span class="close" id="closeCredentialsBtn">&times;</span>
+            <h3><i class="fas fa-key"></i> Credenciales de Usuario Creado</h3>
+            <div class="credentials-info">
+                <div class="credential-item">
+                    <label>Username:</label>
+                    <div class="credential-value">
+                        <span id="createdUserName"></span>
+                        <button class="btn-copy" data-copy-target="createdUserName">
+                            <i class="fas fa-copy"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="credential-item">
+                    <label>ID de Usuario:</label>
+                    <div class="credential-value">
+                        <code id="createdUserId"></code>
+                        <button class="btn-copy" data-copy-target="createdUserId">
+                            <i class="fas fa-copy"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="credential-item">
+                    <label>Contraseña:</label>
+                    <div class="credential-value">
+                        <span id="createdUserPassword" class="password-display"></span>
+                        <button class="btn-copy" data-copy-target="createdUserPassword">
+                            <i class="fas fa-copy"></i>
+                        </button>
+                        <button class="btn-toggle-password" data-toggle-target="createdUserPassword">
+                            <i class="fas fa-eye"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="credentials-warning">
+                <i class="fas fa-exclamation-triangle"></i>
+                <strong>Importante:</strong> Guarda estas credenciales de forma segura. La contraseña no se puede recuperar después de cerrar este modal.
+            </div>
+            <div class="credentials-actions">
+                <button class="btn-primary" id="printCredentialsBtn">
+                    <i class="fas fa-print"></i> Imprimir
+                </button>
+                <button class="btn-secondary" id="copyAllCredentialsBtn">
+                    <i class="fas fa-copy"></i> Copiar Todo
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Notificaciones -->
+    <div id="notifications"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

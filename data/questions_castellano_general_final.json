@@ -1,0 +1,280 @@
+[
+  {
+    "question": "¿Cuál es un verbo en tiempo presente?",
+    "options": [
+      "Comeré",
+      "Comí",
+      "Como",
+      "Comía"
+    ],
+    "answer": "Comía"
+  },
+  {
+    "question": "¿Qué palabra es un sustantivo?",
+    "options": [
+      "Bello",
+      "Alegre",
+      "Mesa",
+      "Rápido"
+    ],
+    "answer": "Mesa"
+  },
+  {
+    "question": "¿Qué elemento del folklore se manifiesta con música y danza?",
+    "options": [
+      "Jerovia",
+      "Jeroky",
+      "Ñe’ẽndy",
+      "Ka’avo"
+    ],
+    "answer": "Jeroky"
+  },
+  {
+    "question": "¿Cuál es una característica de las jerovia guaraníes?",
+    "options": [
+      "Son textos legales",
+      "Son danzas religiosas",
+      "Son creencias sin base científica",
+      "Son himnos patrióticos",
+      "Son teorías matemáticas"
+    ],
+    "answer": "Son creencias sin base científica"
+  },
+  {
+    "question": "¿Qué personaje es típico en los mombe’urã?",
+    "options": [
+      "San Juan",
+      "Tau y Keraná",
+      "Messi",
+      "Artigas",
+      "Goku"
+    ],
+    "answer": "Tau y Keraná"
+  },
+  {
+    "question": "¿Qué elemento folklórico se refiere a la transmisión oral de cuentos fantásticos?",
+    "options": [
+      "Jeroky",
+      "Mombe’ugua’u",
+      "Tembi’u",
+      "Purahéi",
+      "Ka’avo"
+    ],
+    "answer": "Mombe’ugua’u"
+  },
+  {
+    "question": "¿Qué significa jeroky en el contexto folklórico?",
+    "options": [
+      "Canto",
+      "Juego",
+      "Baile",
+      "Rezo",
+      "Comida"
+    ],
+    "answer": "Baile"
+  },
+  {
+    "question": "¿Cuál de los siguientes nombres es una parte del cuerpo masculino o animal?",
+    "options": [
+      "Tesa",
+      "Akã",
+      "Jyva",
+      "Tetyma",
+      "Továi"
+    ],
+    "answer": "Továi"
+  },
+  {
+    "question": "¿Qué palabra es propia del vocabulario de aula?",
+    "options": [
+      "Pirevai",
+      "Jasy",
+      "Ka’i",
+      "Ñati’ũ",
+      "Aranduka"
+    ],
+    "answer": "Aranduka"
+  },
+  {
+    "question": "¿Cuál de las siguientes palabras es un “papapy” (número cardinal)?",
+    "options": [
+      "Paha",
+      "Mokoĩ",
+      "Mbohapyha",
+      "Poteĩha",
+      "Jasykõi"
+    ],
+    "answer": "Mokoĩ"
+  },
+  {
+    "question": "¿Cuál es un nombre de un animal silvestre en guaraní?",
+    "options": [
+      "Jaguarete",
+      "Ñati’ũ",
+      "Kapi’i",
+      "Pirevai",
+      "Továi"
+    ],
+    "answer": "Jaguarete"
+  },
+  {
+    "question": "“Jasyapýte” indica el mes de:",
+    "options": [
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Octubre",
+      "Noviembre"
+    ],
+    "answer": "Agosto"
+  },
+  {
+    "question": "“Ryguasurape” se traduce como:",
+    "options": [
+      "Huevo de gallina",
+      "Gallina enferma",
+      "Alas de gallina",
+      "Pico de gallina"
+    ],
+    "answer": "Huevo de gallina"
+  },
+  {
+    "question": "¿Qué palabra forma parte del vocabulario de enfermedades?",
+    "options": [
+      "Pyta",
+      "Piru",
+      "Tĩsyry",
+      "Kavaju",
+      "Kuriu"
+    ],
+    "answer": "Tĩsyry"
+  },
+  {
+    "question": "¿Qué palabra está relacionada con el vocabulario de clase?",
+    "options": [
+      "Amandaje",
+      "Mbo’ehára",
+      "Yva",
+      "Ñati’ũ",
+      "Ñe’ẽngatu"
+    ],
+    "answer": "Mbo’ehára"
+  },
+  {
+    "question": "El mes “jasypo” corresponde a:",
+    "options": [
+      "Junio",
+      "Agosto",
+      "Octubre",
+      "Noviembre"
+    ],
+    "answer": "Octubre"
+  },
+  {
+    "question": "¿Qué número representa “poteĩ”?",
+    "options": [
+      "Cuatro",
+      "Seis",
+      "Siete",
+      "Ocho"
+    ],
+    "answer": "Seis"
+  },
+  {
+    "question": "¿Cuál es el ordinal de “peteĩ”?",
+    "options": [
+      "Poteĩ",
+      "Mokoĩha",
+      "Peteĩha",
+      "Irundyha",
+      "Papy"
+    ],
+    "answer": "Peteĩha"
+  },
+  {
+    "question": "Peteĩ ñe’ẽriregua ha’e:",
+    "options": [
+      "Gueteri",
+      "Ha",
+      "Rupi",
+      "Rehe",
+      "Umi"
+    ],
+    "answer": "Rupi"
+  },
+  {
+    "question": "¿Qué tipo de pu’ã se presenta en la palabra “ndaha’éi”?",
+    "options": [
+      "Kangy",
+      "Jurugua",
+      "Tïgua",
+      "Atã",
+      "Ñe’ẽpoty"
+    ],
+    "answer": "Tïgua"
+  },
+  {
+    "question": "¿Cuál de los siguientes grupos contiene únicamente letras del achegety guaraní?",
+    "options": [
+      "A, E, I, C, Ñ",
+      "G, Q, Ñ, R, O",
+      "Ch, Ñ, G̃, Y, Ĩ",
+      "L, M, C, Y, E",
+      "P, F, J, Ñ, W"
+    ],
+    "answer": "Ch, Ñ, G̃, Y, Ĩ"
+  },
+  {
+    "question": "¿En qué palabra se observa el uso del pu’ã jurugua?",
+    "options": [
+      "Guata",
+      "Pyhare",
+      "Sy",
+      "Aña",
+      "Ñe’ẽ"
+    ],
+    "answer": "Guata"
+  },
+  {
+    "question": "¿Qué es un pundie en guaraní?",
+    "options": [
+      "Un conjunto de consonantes",
+      "Un sonido nasal",
+      "Una sílaba",
+      "Una vocal aislada",
+      "Una palabra aguda"
+    ],
+    "answer": "Una vocal aislada"
+  },
+  {
+    "question": "¿Qué significa “Tembiapo rapete” en el contexto de maitei?",
+    "options": [
+      "Saludo fuerte y directo",
+      "Forma rápida de despedirse",
+      "Saludo respetuoso y educado",
+      "Saludo humorístico"
+    ],
+    "answer": "Saludo respetuoso y educado"
+  },
+  {
+    "question": "¿Cuántas letras tiene el achegety guaraní (alfabeto)?",
+    "options": [
+      "23",
+      "27",
+      "28",
+      "25",
+      "26"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "¿Cuál es el propósito principal del maitei en la cultura guaraní?",
+    "options": [
+      "Despedirse con rapidez",
+      "Establecer comunicación y respeto",
+      "Llamar la atención",
+      "Cambiar de tema"
+    ],
+    "answer": "Establecer comunicación y respeto"
+  }
+]

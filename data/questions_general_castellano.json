@@ -1,0 +1,162 @@
+[
+  {
+    "id": "gen_cast_001",
+    "question": "¿Cuál es la oración correctamente escrita?",
+    "options": {
+      "a": "el Sol brilla",
+      "b": "El sol brilla",
+      "c": "El Sol brilla",
+      "d": "El sol Brilla"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "Los nombres propios (Sol) deben escribirse con mayúscula inicial, así como el comienzo de oración.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_002",
+    "question": "¿Qué tipo de oración es '¡Qué hermosa mañana!'?",
+    "options": {
+      "a": "Declarativa",
+      "b": "Exclamativa",
+      "c": "Interrogativa",
+      "d": "Imperativa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "Las oraciones exclamativas expresan emociones o sentimientos y van entre signos de exclamación.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_003",
+    "question": "¿Cuál es el plural correcto de 'análisis'?",
+    "options": {
+      "a": "análisis",
+      "b": "análisises",
+      "c": "analisises",
+      "d": "análises"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 2,
+    "explanation": "Las palabras terminadas en -s que no son agudas mantienen la misma forma en singular y plural.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_004",
+    "question": "En guaraní, ¿cómo se dice 'agua'?",
+    "options": {
+      "a": "ysyry",
+      "b": "y",
+      "c": "ka'a",
+      "d": "ára"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "'Y' es la palabra guaraní para agua.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_005",
+    "question": "¿Cuál es la función del sujeto en la oración 'María estudia medicina'?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Predicado",
+      "c": "Realizar la acción del verbo",
+      "d": "Complemento indirecto"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 2,
+    "explanation": "El sujeto es quien realiza o padece la acción expresada por el verbo.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_006",
+    "question": "En guaraní, ¿qué significa 'mitã'?",
+    "options": {
+      "a": "Mujer",
+      "b": "Hombre",
+      "c": "Niño/niña",
+      "d": "Anciano"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "'Mitã' en guaraní significa niño o niña.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_007",
+    "question": "¿Cuál es el antónimo de 'bonito'?",
+    "options": {
+      "a": "Hermoso",
+      "b": "Feo",
+      "c": "Agradable",
+      "d": "Lindo"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "Los antónimos son palabras que expresan ideas opuestas. 'Feo' es lo contrario de 'bonito'.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_008",
+    "question": "¿Cuál es la forma correcta de escribir el número 'quinientos'?",
+    "options": {
+      "a": "500",
+      "b": "quinientos",
+      "c": "cincocientos",
+      "d": "quincentos"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "La forma correcta de escribir 500 en letras es 'quinientos'.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_009",
+    "question": "En la oración '¿Dónde vives?', ¿qué palabra es el adverbio interrogativo?",
+    "options": {
+      "a": "¿",
+      "b": "Dónde",
+      "c": "vives",
+      "d": "?"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 2,
+    "explanation": "'Dónde' es un adverbio interrogativo que pregunta por el lugar.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "gen_cast_010",
+    "question": "¿Cuál es el tiempo verbal de 'había estudiado'?",
+    "options": {
+      "a": "Pretérito perfecto",
+      "b": "Pretérito pluscuamperfecto",
+      "c": "Pretérito imperfecto",
+      "d": "Futuro perfecto"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 3,
+    "explanation": "El pretérito pluscuamperfecto se forma con el verbo 'haber' en pretérito imperfecto + participio.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z"
+  }
+]

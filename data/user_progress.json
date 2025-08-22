@@ -1,0 +1,185 @@
+[
+  {
+    "userId": "1",
+    "subject": "Matemáticas",
+    "examType": "normal",
+    "progress": {
+      "parte1": {
+        "completed": true,
+        "unlocked": true,
+        "score": 15,
+        "attempts": 1,
+        "bestScore": 15
+      },
+      "parte2": {
+        "completed": false,
+        "unlocked": true,
+        "score": 0,
+        "attempts": 0,
+        "bestScore": 0
+      }
+    },
+    "created_at": "2025-08-10T19:44:52.472Z",
+    "updated_at": "2025-08-10T19:45:08.904Z"
+  },
+  {
+    "userId": "506f769b-22d2-4b6e-8d83-36c2201a09e5",
+    "subject": "Matemáticas",
+    "examType": "general",
+    "progress": {
+      "parte1": {
+        "completed": false,
+        "unlocked": true,
+        "score": 0,
+        "attempts": 0,
+        "bestScore": 0
+      }
+    },
+    "created_at": "2025-08-10T22:12:28.807Z",
+    "updated_at": "2025-08-10T22:12:28.807Z"
+  },
+  {
+    "userId": "506f769b-22d2-4b6e-8d83-36c2201a09e5",
+    "subject": "Matemáticas",
+    "examType": "normal",
+    "progress": {
+      "parte1": {
+        "completed": false,
+        "unlocked": true,
+        "score": 0,
+        "attempts": 0,
+        "bestScore": 0
+      }
+    },
+    "created_at": "2025-08-10T22:12:37.244Z",
+    "updated_at": "2025-08-10T22:12:37.244Z"
+  },
+  {
+    "userId": "506f769b-22d2-4b6e-8d83-36c2201a09e5",
+    "subject": "Legislación",
+    "examType": "normal",
+    "progress": {
+      "parte1": {
+        "completed": false,
+        "unlocked": true,
+        "score": 0,
+        "attempts": 0,
+        "bestScore": 0
+      }
+    },
+    "created_at": "2025-08-10T22:12:45.302Z",
+    "updated_at": "2025-08-10T22:12:45.302Z"
+  },
+  {
+    "userId": "506f769b-22d2-4b6e-8d83-36c2201a09e5",
+    "subject": "Castellano y Guaraní",
+    "examType": "normal",
+    "progress": {
+      "parte1": {
+        "completed": false,
+        "unlocked": true,
+        "score": 0,
+        "attempts": 0,
+        "bestScore": 0
+      }
+    },
+    "created_at": "2025-08-10T22:14:29.728Z",
+    "updated_at": "2025-08-10T22:14:29.728Z"
+  },
+  {
+    "userId": "506f769b-22d2-4b6e-8d83-36c2201a09e5",
+    "subject": "Historia y Geografía",
+    "examType": "general",
+    "progress": {
+      "parte1": {
+        "completed": false,
+        "unlocked": true,
+        "score": 0,
+        "attempts": 0,
+        "bestScore": 0
+      }
+    },
+    "created_at": "2025-08-10T22:14:45.729Z",
+    "updated_at": "2025-08-10T22:14:45.729Z"
+  },
+  {
+    "userId": "a452650a-e961-4110-b24f-1306ba92fc55",
+    "subject": "Historia y Geografía",
+    "examType": "normal",
+    "progress": {
+      "parte1": {
+        "completed": false,
+        "unlocked": true,
+        "score": 0,
+        "attempts": 0,
+        "bestScore": 0
+      }
+    },
+    "created_at": "2025-08-12T22:17:35.750Z",
+    "updated_at": "2025-08-12T22:17:35.750Z"
+  },
+  {
+    "userId": "a452650a-e961-4110-b24f-1306ba92fc55",
+    "subject": "Matemáticas",
+    "examType": "normal",
+    "progress": {
+      "parte1": {
+        "completed": false,
+        "unlocked": true,
+        "score": 0,
+        "attempts": 0,
+        "bestScore": 0
+      }
+    },
+    "created_at": "2025-08-12T22:26:00.666Z",
+    "updated_at": "2025-08-12T22:26:00.666Z"
+  },
+  {
+    "userId": "a452650a-e961-4110-b24f-1306ba92fc55",
+    "subject": "Castellano y Guaraní",
+    "examType": "normal",
+    "progress": {
+      "parte1": {
+        "completed": false,
+        "unlocked": true,
+        "score": 0,
+        "attempts": 0,
+        "bestScore": 0
+      }
+    },
+    "created_at": "2025-08-12T22:27:08.398Z",
+    "updated_at": "2025-08-12T22:27:08.398Z"
+  },
+  {
+    "userId": "829db9bc-4dec-401f-b841-311434ec0dc4",
+    "subject": "Castellano y Guaraní",
+    "examType": "normal",
+    "progress": {
+      "parte1": {
+        "completed": false,
+        "unlocked": true,
+        "score": 0,
+        "attempts": 0,
+        "bestScore": 0
+      }
+    },
+    "created_at": "2025-08-22T21:05:58.886Z",
+    "updated_at": "2025-08-22T21:05:58.886Z"
+  },
+  {
+    "userId": "829db9bc-4dec-401f-b841-311434ec0dc4",
+    "subject": "Matemáticas",
+    "examType": "normal",
+    "progress": {
+      "parte1": {
+        "completed": false,
+        "unlocked": true,
+        "score": 0,
+        "attempts": 0,
+        "bestScore": 0
+      }
+    },
+    "created_at": "2025-08-22T21:06:05.124Z",
+    "updated_at": "2025-08-22T21:06:05.124Z"
+  }
+]

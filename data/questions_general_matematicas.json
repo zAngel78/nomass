@@ -1,0 +1,2825 @@
+[
+  {
+    "question": "Dos correos salen de dos ciudades, A y B, distantes entre sí 150 km, a las 7 a.m. y van uno hacia el otro. El que sale de A va a 8 km/h y el que sale de B va a 7 km/h. ¿A qué hora se encontrarán y a qué distancia de A?",
+    "options": [
+      "5 a.m. ; a 90 km",
+      "5 p.m. ; a 80 km",
+      "12:00 hs; a 100 km",
+      "17 hs; a 70 km",
+      "5 p.m.; a 70 km"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Si recibiera 157 000 gs, pagaría una deuda de 293 000 gs y aún me quedaría   90 000. ¿Cuántos gs Tengo?",
+    "options": [
+      "383 000",
+      "226 000",
+      "338 000",
+      "262 000",
+      "216 000"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un auto abierto costó 984 Gs, uno cerrado 195 Gs más que el abierto, y un camión tanto, como los dos autos juntos. En chapas se gastaron 56 Gs y en bocinas 35 Gs más que en las chapas. ¿En cuánto se vendieron si se obtuvo una ganancia de 1200 Gs?",
+    "options": [
+      "5 637 Gs",
+      "5 663 Gs",
+      "5 376 Gs",
+      "5 673 Gs",
+      "5 763 Gs"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Si el sustraendo es 36815 y el resto 9815, ¿Cuál es el minuendo?",
+    "options": [
+      "46 360",
+      "46 630",
+      "46 660",
+      "46 063",
+      "46 366"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿En cuánto excede la suma de 756 y 8134 a la diferencia entre 5234 y 1514?",
+    "options": [
+      "7 510",
+      "1 570",
+      "1 750",
+      "5 071",
+      "5 170"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Aníbal tiene 15 años; Beatriz, 2 años más que Aníbal; Carlos, 5 años menos que Aníbal y Beatriz juntos, y Dalma, 9 años menos que los tres anteriores juntos. ¿Cuál es la suma de las cuatro edades juntas?",
+    "options": [
+      "109",
+      "100",
+      "190",
+      "99",
+      "31"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Después de vender una casa perdiendo 3184 Gs, presté 2006 Gs, me quedé con 15184 Gs. ¿Cuánto me había costado la casa?",
+    "options": [
+      "20 473 Gs",
+      "20 347 Gs",
+      "20 743 Gs",
+      "20 374 Gs",
+      "23 437 Gs"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un estanque cuya capacidad es de 300 litros, estando vacío. ¿En cuánto tiempo se llenará si se abren en el mismo momento tres llaves que vierten, la 1ra, 36 litros en 3 minutos, la 2da, 48 litros en 6 minutos y la 3ra, 15 litros en 3 minutos?",
+    "options": [
+      "21 min",
+      "20 min",
+      "12 min",
+      "02 min",
+      "N.d.a."
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Se pierden 150 Gs en la venta de 50 barriles de aceite a 60 Gs cada uno. ¿Cuál fue el precio de cada barril?",
+    "options": [
+      "43 Gs",
+      "53 Gs",
+      "63 Gs",
+      "73 Gs",
+      "83 Gs"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Compré 14 trajes a 30 Gs; 22 sombreros a 2 Gs y 8 bastones a 5 Gs. Vendiendo los trajes por 560 Gs, cada sombrero a 1 Gs y cada bastón a 3 Gs, ¿ganó o pierdo, y cuánto?",
+    "options": [
+      "Pierdo 102 Gs",
+      "Gano 102 Gs",
+      "Pierdo 201 Gs",
+      "Gano 201 Gs",
+      "N.d.a."
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un ganadero compro 80 cabezas de ganado a 40 Gs cada uno Vendió 30 a 45 Gs y 25 a 48 Gs. ¿Cuánto debe obtener de las que quedan para que la ganancia total sea de 400 Gs?",
+    "options": [
+      "5 010 Gs",
+      "1 500 Gs",
+      "5 100 Gs",
+      "1 050 Gs",
+      "1 150 Gs"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Cuántos sacos tendrá una partida de víveres que compré por 144 Gs si al revender 12 de esos sacos por 72 Gs gano 2 Gs en cada uno?",
+    "options": [
+      "36",
+      "63",
+      "18",
+      "81",
+      "N.d.a."
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "La edad de un padre y la de su hijo suman 90 años. Si el hijo nació cuando el padre tenía 36 años. ¿Cuál es la edad actual del hijo?",
+    "options": [
+      "63",
+      "27",
+      "36",
+      "18",
+      "9"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un capataz contrata un obrero ofreciéndole 5 Gs por cada día que trabaje y 2 Gs por cada día que, a causa de la lluvia, no pueda trabajar. Al cabo de 23 días el obrero recibe 91 Gs. ¿Cuántos días trabajó y cuántos no trabajó?",
+    "options": [
+      "Trabajó 20 días, no trabajó 3 días",
+      "Trabajó 3 días, no trabajó 20 días",
+      "Trabajó 15 días, no trabajó 8 días",
+      "Trabajó 8 días, no trabajó 15 días",
+      "N.d.a."
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "La temperatura desciende 0,65°C por cada 100 metros que nos elevamos sobre la superficie terrestre. Si al nivel del suelo tenemos una temperatura de 25°C. ¿Cuál sería la temperatura que podemos esperar en la cumbre de un cerro de 1200 m. de altura?",
+    "options": [
+      "78°C",
+      "7,8°C",
+      "10,8°C",
+      "3,4°C",
+      "17,2°C"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Marta y Gilda escalaron un cerro y se dieron cuenta que por cada 100 metros que subían, la temperatura bajaba 0,65°C. Si a los 2000 metros de altura la temperatura era de 21°C, ¿cuál era la temperatura a nivel del suelo?",
+    "options": [
+      "21°C",
+      "24°C",
+      "26°C",
+      "34°C",
+      "42°C"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Sara ve en la pizarra la siguiente lista de números 2, 4, 6, 10, 16, 26, □ y la profesora le explica que se escribieron siguiendo una cierta regla. Sara se rasca la cabeza y luego escribe dentro del cuadrado el número que sigue en la lista. ¿qué número escribió Elena?",
+    "options": [
+      "32",
+      "42",
+      "36",
+      "38",
+      "46"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "En una excursión viajan 330 personas. En el ómnibus grande viajan 50 personas más que en el ómnibus chico. ¿Cuántas personas viajan en el ómnibus grande?",
+    "options": [
+      "280",
+      "50",
+      "140",
+      "190",
+      "230"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "En un campo hay una plantación con 1830 plantas de zanahoria. En el campo vive una pareja de conejos. Si cada conejo come por día una zanahoria y media y cada 90 días el número de conejos se cuadruplica. ¿Para cuántos días alcanzará la plantación de zanahorias?",
+    "options": [
+      "175",
+      "160",
+      "210",
+      "170",
+      "190"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Si un obrero tiene un salario de 40 000 Gs por 10 días. ¿Cuántos Gs es el salario total de dos meses, si le descuentan 6 días durante los cuales no asistió a su trabajo?",
+    "options": [
+      "384 000",
+      "480 000",
+      "322 000",
+      "216 000",
+      "23 000"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Se compran 40 lápices por 2 Gs. ¿Cuánto se ganará si se venden todos a 72 cts. la docena?",
+    "options": [
+      "0,1 Gs",
+      "0,2 Gs",
+      "0,3 Gs",
+      "0,4 Gs",
+      "0,5 Gs"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Cambio un terreno de 12 caballerías a 5 000 Gs una, por otro que vale a 15 000 Gs la caballería. ¿Cuántas caballerías tiene éste?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Dos autos salen de dos ciudades, A y B, situadas a 1 400 Kms. de distancia, y van uno hacia el otro. El de A sale a las 6 a.m. a 100 Kms/h y el de B sale a las 8 a.m. y va a 50 Kms/h. ¿A qué hora se encontrarán y a qué distancia de los puntos A y B?",
+    "options": [
+      "16 p.m.; 1 000 kms de A y 400 kms de B",
+      "4 a.m.; 1 000 kms de A y 400 kms de B",
+      "4 p.m.; 1 100 kms de A y 300 kms de B",
+      "16 p.m.; 900 kms de A y 500 kms de B",
+      "4 p.m.; 1 000 kms de A y 400 kms de B"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "A las 6 a.m. sale un auto de A a 60 km/h y va al encuentro de otro que sale de B a 80 km/h, a la misma hora. Sabiendo que se encuentran a las 11 a.m. ¿Cuál es la distancia (km) entre A y B?",
+    "options": [
+      "100",
+      "300",
+      "500",
+      "700",
+      "900"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Dos autos salen a las 9 a.m. de dos puntos, A y B (B está al este de A), distantes entre sí 60 kms y van ambos hacia el este. El de A va a 25 km/h y el de B a 15 km/h. ¿A qué hora se encontrarán y a que distancia de B?",
+    "options": [
+      "3 p.m.; a 90 km",
+      "6 p.m.; a 90 km",
+      "6 a.m.; a 150 km",
+      "3 p.m.; a 150 km",
+      "15 hs; a 60 km"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un hacendado lleva al banco tres bolsas con dinero. La primera y la segunda juntas tienen 350 Gs; la segunda y la tercera juntas, 300 Gs, y la primera y la tercera juntas, 250 Gs. ¿Cuánto tiene la segunda bolsa?",
+    "options": [
+      "150 Gs",
+      "200 Gs",
+      "100 Gs",
+      "450 Gs",
+      "900 Gs"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Multiplico un número por 6 y añado 15 al producto; resto 40 de esta suma y la diferencia la divido por 25, obteniendo como cociente 71. ¿Cuál es el número?",
+    "options": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un depósito se puede llenar por dos llaves. Una vierte 150 litros en 5 minutos y el otro 180 litros en 9 minutos. ¿Cuánto tiempo tardará en llenarse el depósito, estando vacío y cerrado el desagüe, si se abren a un tiempo las dos llaves, sabiendo que su capacidad es de 500 litros?",
+    "options": [
+      "8 min",
+      "9 min",
+      "10 min",
+      "11 min",
+      "12 min"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Con el dinero que tengo puedo comprar 6 periódicos y me sobran 5 cts., pero si quisiera comprar 13 periódicos me faltarían 30 cts. ¿Cuánto vale cada periódico?",
+    "options": [
+      "2 cts.",
+      "5 cts.",
+      "8 cts.",
+      "11 cts.",
+      "14 cts."
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una rueda de 27 dientes engrana con otra de 12 dientes. Dando la primera 836 vueltas por minuto. ¿Cuántas vueltas dará, por hora, la segunda?",
+    "options": [
+      "1 881",
+      "112 860",
+      "8 881",
+      "121 860",
+      "1 188"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un depósito puede ser llenado por medio de dos grifos. Cada grifo, funcionando solo, llena el depósito en 21 horas 15 minutos y 11 horas 15 minutos, respectivamente. El segundo grifo suministra, por minuto, 24 litros de agua más que el primer grifo. ¿Cuál es la capacidad del depósito?",
+    "options": [
+      "34 420 lts.",
+      "34 425 lts.",
+      "34 430 lts.",
+      "34 435 lts.",
+      "N.d.a."
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Si tuviera 35 caballos más de lo que tengo tendría 216. ¿Cuántos caballos tiene mi hermano si el número de los míos excede al número de los suyos en 89?",
+    "options": [
+      "92",
+      "94",
+      "96",
+      "98",
+      "100"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Dos postulantes obtuvieron 48 y 56 puntos en el examen de Matemática. Estos postulantes, muy curiosos, preguntan a otro postulante cuánto había hecho, y éste contesta: ‘‘Mi puntaje está comprendido entre los vuestros y si dividen mi puntaje entre 3; 4 u 8 siempre tendrán 2 de resto’’. ¿Cuál es el puntaje del tercer postulante?",
+    "options": [
+      "24",
+      "52",
+      "54",
+      "50",
+      "48"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Al dividir un número entre 12, entre 15 ó entre 48 siempre sobra 10. Si el número es el menor posible. ¿Cuántos divisores tiene ese número?",
+    "options": [
+      "10",
+      "12",
+      "18",
+      "24",
+      "8"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "La Prof. De Carolina le pide que escriba todos los números comprendidos entre 210 y 900 que sean divisibles al mismo tiempo por 4, 5, 8. ¿Cuántos números escribió Carolina?",
+    "options": [
+      "16\t\tb.     15\t\tc.     40\t\td.     17\t\te.     20",
+      "El menor número que al dividirlo por 12; 36 ó 48 da por resto 7 es:",
+      "103",
+      "19",
+      "148"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un obrero debe abrir una zanja de 65 metros de largo. Ha hecho primero los 2/13 de la misma y luego el duplo de lo que ha hecho. ¿Cuántos metros faltan?",
+    "options": [
+      "35 m",
+      "10 m",
+      "20 m",
+      "65 m",
+      "56 m"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "María gastó en el supermercado las tres cuartas partes del dinero que llevaba. Después fue a la zapatería y quiso comprar tres pares de zapatillas a 9,90 Gs cada una, pero le faltaban 6,50 Gs. ¿Cuánto dinero tenía al entrar al supermercado?",
+    "options": [
+      "16,14 Gs",
+      "161,4 Gs",
+      "9,28 Gs",
+      "1614 Gs",
+      "92,80 Gs"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una persona recibirá los 7/20 de 2 000 000 Gs. Si recibiera ½ de ¼ DE LOS 2 000 000 Gs. ¿Cuántos Gs sería la diferencia?",
+    "options": [
+      "250 000",
+      "520 000",
+      "300 000",
+      "540 000",
+      "450 000"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tenía un capital de 1120000. Perdí los 5/7 del mismo. Presté a un amigo los 3/8 de lo que me quedó. ¿Cuál es el saldo final?",
+    "options": [
+      "800 000",
+      "150 000",
+      "320 000",
+      "200 000",
+      "240 000"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un cadete de policía leyó 0,16 de su libro de 120 páginas. ¿Cuántas páginas le falta leer?",
+    "options": [
+      "5/6",
+      "100",
+      "1/8",
+      "2/5",
+      "20"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "El valor de un inmueble de 120 000 000 Gs. Una persona es propietaria de la tercera parte del mismo. ¿Cuántos Gs recibiría si vendiese los 7/16 de ¼ de su parte?",
+    "options": [
+      "4 000 000",
+      "4 375 000",
+      "437 500",
+      "4 750 000",
+      "375 000"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "De una finca de 4200 há, se venden los 2/3 de 1/7 y se alquilan los ¾ de los 4/5 de la finca. ¿Cuántas hectáreas quedan?",
+    "options": [
+      "1189,3",
+      "1280,3",
+      "1280",
+      "1820",
+      "2920"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "La señora Lamantis compra un acondicionador de aire por 2 800 000 Gs. Paga la décima parte al contado y el resto tendrá que abonarlo en 15 cuotas mensuales. ¿Cuántos Gs tendrá que abonar cada mes?",
+    "options": [
+      "186 000",
+      "186 666",
+      "233 333",
+      "168 000",
+      "223 333"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Si añadimos 1 al numerador y 3 al denominador de ¾. ¿Aumenta o disminuye este quebrado y cuánto?",
+    "options": [
+      "Disminuye 5/28",
+      "Aumenta 9/20",
+      "Aumenta 5/28",
+      "Disminuye 9/20",
+      "Aumenta 1"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Por cuál número se multiplica 5/6 cuando se convierte en ?",
+    "options": [
+      "25/42",
+      "35/102",
+      "1",
+      "2",
+      "2"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tenía 900 Gs. Perdí los 3/5 y presté 5/6 del resto. ¿Cuánto me queda?",
+    "options": [
+      "54 Gs",
+      "60 Gs",
+      "6 Gs",
+      "450 Gs",
+      "45 Gs"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "De los 2000 Gs que tenía di a mi hermano los 3/5; a mi primo Juan los 3/8 del resto y a mi Sobrino los 3/5 del nuevo resto. ¿Cuánto me queda?",
+    "options": [
+      "27 Gs",
+      "320 Gs",
+      "315 Gs",
+      "270 Gs",
+      "200 Gs"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una persona es dueña de los 3/10 de un terreno valuado en 10 000 Gs. ¿Cuánto recibirá si vende los 7/10 de ½ de su parte?",
+    "options": [
+      "1 050 Gs",
+      "5 100 Gs",
+      "1 500 Gs",
+      "5 010 Gs",
+      "5 000 Gs"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿En cuánto se aumenta el número 20/3 al aumentar 7 al numerador y 1 al denominador?",
+    "options": [
+      "27/4",
+      "161/12",
+      "27/3",
+      "20/7",
+      "1/12"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tenía ahorrados 1 120 Gs. En enero invertí la mitad de esa cantidad; en febrero la mitad de lo que me quedaba; en marzo la mitad de lo que tenía después de los gastos anteriores, y en abril la mitad de lo que tenía después de los gastos anteriores. Si con lo que me quedaba compré en mayo un caballo, ¿Cuánto me costó el caballo?",
+    "options": [
+      "45 Gs",
+      "50 Gs",
+      "55 Gs",
+      "75 Gs",
+      "70 Gs"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un reloj adelanta por hora los 2/5 de los ¾ de 40 minutos. ¿Cuánto adelantará en 10 horas?",
+    "options": [
+      "6 hs",
+      "5 hs",
+      "4 hs",
+      "3 hs",
+      "2 hs"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una persona debe recorrer 12,3 kilómetros y ha caminado 7850 metros. ¿Cuánto le falta recorrer?",
+    "options": [
+      "4,45 km",
+      "4,55 km",
+      "5,55 km",
+      "5,45 km",
+      "5,25 km"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Si 4 libros cuestan 20 Gs, ¿cuántos constarán 3 docenas de libros?",
+    "options": [
+      "810 Gs",
+      "51 Gs",
+      "15 Gs",
+      "180 Gs \t\te.  N.d.a.",
+      "Los 4/7 de la capacidad de una piscina son 8136 litros. La capacidad de la piscina es de:"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una guarnición de 1300 hombres tiene víveres para 4 meses. Si se quiere que los víveres duren 10 días más. ¿Cuántos hombres habrá que rebajar de la guarnición?",
+    "options": [
+      "520\t\tb.  10\t\tc.  130\t\td.  100\t\te.  N.d.a.",
+      "Un obrero tarda  días en hace 7/12 de una obra. ¿Cuánto tiempo necesitará para terminar la obra?",
+      "9 días",
+      "8 días"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una cuadrilla de 30 obreros debe hacer un trabajo de 30 días. Transcurridos 12 días del comienzo de esta se incorporan otros 6 obreros. ¿Cuánto tiempo durará el trabajo?",
+    "options": [
+      "10 días",
+      "12 días",
+      "15 días",
+      "1 día",
+      "27 días"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Para llenar una jarra se vuelcan cuatro tazas. ¿Cuántos pocillos se necesitarán para llenar la jarra si la capacidad de cada pocillo es 1/3 de la capacidad de la taza?",
+    "options": [
+      "4",
+      "12",
+      "3",
+      "10",
+      "N.d.a."
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Para alfombrar una habitación de 3m por 4,80 m se pagarán 8064 Gs. ¿Cuánto costará alfombrar una sala de 4 m por 7,20 m con alfombra del mismo precio?",
+    "options": [
+      "4 032 Gs",
+      "16 812 Gs",
+      "16 218 Gs",
+      "16 821 Gs",
+      "16 128 Gs"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un lingote de oro de 7 cm de ancho por 3,6 cm de alto y 10 cm de longitud tiene el mismo peso que otro lingote de igual material de 4,2 cm de ancho por 5 cm de altura. ¿Cuál es la longitud del segundo lingote?",
+    "options": [
+      "1,2 cm",
+      "120 cm",
+      "12 mm",
+      "12 cm",
+      "1,2 mm"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Cinco peones trabajan 10 horas por día para construir 500 m de una autopista y logran terminar el trabajo en 20 días. ¿Cuántas horas por día deberán trabajar 6 obreros durante 19 días para construir 456m?",
+    "options": [
+      "10 hs.",
+      "16 hs.",
+      "4 hs.",
+      "12 hs.",
+      "8 hs."
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Dos obreros cobraron 87000 Gs por un trabajo. Uno de ellos trabajó 8 horas y el otro 6,5 horas. ¿Cuánto cobró el que trabajó menos horas?",
+    "options": [
+      "7 000 Gs",
+      "39 000 Gs",
+      "27 000 Gs",
+      "17 000 Gs",
+      "48 000 Gs"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una persona consume 168 kg de trigo al año. Un molino muele 3600 kg por día. ¿Cuántos molinos se necesitarán para moler en 245 días lo que necesitarán 84000 personas en un año?",
+    "options": [
+      "714",
+      "417 000",
+      "17",
+      "16",
+      "147 000"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una calle peatonal de 50 m de largo y 8 m de ancho se halla pavimentada con 20 000 adoquines. ¿Cuántos adoquines serán necesarios para pavimentar otra calle de 100 m de largo y 6 de ancho?",
+    "options": [
+      "20 000",
+      "3 000",
+      "23 000",
+      "2 000",
+      "30 000"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Doce obreros, trabajando 6 horas diarias, realizaron los 3/8 de una obra en 27 días. Si se agregan 3 obreros más, trabajando ahora la totalidad 8 horas diarias. ¿En cuánto tiempo terminarán la obra?",
+    "options": [
+      "15 días",
+      "27 días",
+      "17 días",
+      "N.d.a."
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Treinta obreros se comprometieron realizar una obra en 15 días. A los 9 días de trabajo hicieron los 3/7 de la obra. ¿Cuántos obreros necesitarán incorporar al grupo para terminar en el tiempo que aún disponen?",
+    "options": [
+      "60",
+      "30",
+      "10",
+      "42",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Se emplean 10 hombres durante 5 días, trabajando 4 horas diarias, para cavar una zanja de 10 m. de largo; 6 m de ancho y 4 m de profundidad. ¿Cuántos días necesitarán 6 hombres, trabajando 3 horas diarias, para cavar otra zanja de 15 m de largo, 3 m de ancho y 8 m de profundidad, en un terreno de doble dificultad?",
+    "options": [
+      "56 días",
+      "48 días",
+      "33,3 días",
+      "45,5 días",
+      "N.d.a."
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿De qué número es 16 el ¼ %?",
+    "options": [
+      "6400",
+      "4",
+      "40",
+      "64",
+      "N.d.a."
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Qué % de 1950 es 156?",
+    "options": [
+      "9%",
+      "8%",
+      "7%",
+      "6%",
+      "N.d.a."
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Qué porcentaje de 5,6 es 0,007?",
+    "options": [
+      "1/8 %",
+      "8%",
+      "1/7%",
+      "7%",
+      "N.d.a."
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿De qué número es 265 el 6% más?",
+    "options": [
+      "250",
+      "15,9",
+      "249,1",
+      "15",
+      "N.d.a."
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "157,50 es el  más que, ¿cuál número?",
+    "options": [
+      "19,69",
+      "17,5",
+      "137,81",
+      "140",
+      "N.d.a."
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿De qué número es 168 el 4% menos?",
+    "options": [
+      "104",
+      "175",
+      "6,72",
+      "174,72",
+      "N.d.a."
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "798 es el ¼% menos que, ¿cuál número?",
+    "options": [
+      "1,99",
+      "800",
+      "199",
+      "80",
+      "N.d.a."
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "De los 80 libros que tenía un librero, vendió el 45% a 2500 Gs cada uno; el 75% del resto a 12 000 Gs cada uno y el resto a 10 000 Gs cada uno. ¿Cuál es el importe total de la venta?",
+    "options": [
+      "816 666 Gs",
+      "796 000 Gs",
+      "853 000 Gs",
+      "956 000 Gs",
+      "596 000 Gs"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una camioneta contó 10 500 Gs, cantidad de dinero que corresponde al 25 % de los ahorros del comprador. Posteriormente este comprador lo vendió con una ganancia de 20 % sobre el precio de venta. Esta ganancia, ¿qué porcentaje representa del dinero que quedó luego de comprar la camioneta?",
+    "options": [
+      "5%",
+      "1%",
+      "5,57%",
+      "6,25%",
+      "8,33%"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Si han salido el 84% de los alumnos de un colegio, y permanecen en el mismo 20 alumnos, entonces, ¿cuántos alumnos son becados si el número de estos equivale al 20 % menos de los alumnos que han salido, disminuido en el 50% más que los que permanecieron en el colegio?",
+    "options": [
+      "24",
+      "54",
+      "74",
+      "104",
+      "84"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Por cuánto debes vender lo que te ha costado 680 Gs para ganar el 15% del costo?",
+    "options": [
+      "700 Gs",
+      "702 Gs",
+      "720 Gs",
+      "750 Gs",
+      "782 Gs"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Dos hermanos adquieren una lancha en 800 000 Gs y la venden en 1 150 000 Gs. Si los capitales portados son directamente proporcionales a los números 3 y 5, ¿cuánto ganó el de mayor aporte?",
+    "options": [
+      "431 250 Gs",
+      "131 250 Gs",
+      "718 750 Gs",
+      "218 750 Gs",
+      "500 000 Gs"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una finca de 3,57 há se ha repartido en tres lotes que son directamente proporcionales a 2/5; ¾ Y 5/6. ¿Cuál es la superficie, en dam2, del lote menor?",
+    "options": [
+      "72 dam2",
+      "0,72 dam2",
+      "7200 dam2",
+      "1,2 dam2",
+      "150 dam2"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Repartiendo 467 000 Gs en partes inversamente proporcionales a los cuadrados de 5, ½ y 3, ¿cuál es la mayor parte?",
+    "options": [
+      "404 135 Gs",
+      "338 406 Gs",
+      "450 000 Gs",
+      "340 879 Gs",
+      "467 000 Gs"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Repartir 30 500 000 Gs entre tres personas, de modo que a la segunda le corresponda 5% menos que la primera y a la tercera, 10 % más que la primera. ¿Cuántos Gs recibe la segunda persona?",
+    "options": [
+      "10 106",
+      "28 975 103",
+      "11 106",
+      "95 105",
+      "10 166 667"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Repartir un capital de 1 536 000 Gs entre tres personas A, B y C de modo que la parte de la persona B sea el triple de la A y la parte de la persona C, el cuádruple de la B. ¿Cuánto es la pate de la persona B?",
+    "options": [
+      "96 000 Gs",
+      "288 000 Gs",
+      "1 152 000 Gs",
+      "69 000 Gs",
+      "828 000 Gs"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Adriana, Bettina y Carolina son miembros de una familia y deciden comprar un departamento que deben pagar en cuotas. Adriana paga 15 cuotas de 600 000 Gs; Bettina paga 18 cuotas de 900 000 Gs, y Carolina 12 cuotas de 1 000 000 Gs. Si venden el departamento en 46 500 000 Gs y deciden repartir la ganancia en forma directamente proporcional a lo pagado por cada una de ellas, ¿cuánto Gs gana Adriana?",
+    "options": [
+      "11 250 000",
+      "2 250 000",
+      "11 160 000",
+      "20 250 000",
+      "12 150 000"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Repartir un capital de 46 000 Gs en partes directamente proporcionales a ¾ y 2/5. ¿Cuánto es el capital menor?",
+    "options": [
+      "30 000 Gs",
+      "32 000 Gs",
+      "15 000 Gs",
+      "16 000 Gs",
+      "20 000 Gs"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tres personas poseen juntos un capital de 1 750 Gs. Los capitales correspondientes a los dos primeros son iguales. El capital de la tercera persona es 4/5 de lo que le corresponde a uno de los anteriores. ¿Cuánto es el capital de la tercera persona?",
+    "options": [
+      "625 Gs",
+      "652 Gs",
+      "50 Gs",
+      "500 Gs",
+      "800 Gs"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Repartir un capital de 8 400 000 Gs en partes inversamente proporcionales a la edades de los niños de 3 años y 7 años. ¿Cuánto Gs es la parte del niño de 7 años?",
+    "options": [
+      "5 880 000",
+      "588 000",
+      "2 520 000",
+      "252 000",
+      "2 250 000"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "El área de un terreno rectangular es de . Si uno de sus lados es igual a (x + 4) m, ¿Cuánto mide el otro lado?",
+    "options": [
+      "Un jardín triangular tiene (2x² + 12x +18)m². ¿Cuánto mide su base si su altura mide (x + 3)m?",
+      "(4x + 12)m",
+      "(2x + 6)m",
+      "(8x + 24)m",
+      "(x³ + 7,7x² + 27x + 27)m"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "de las aves de una granja son gallos, 2/13 son gallinas, 5/143 son palomas y las 206 aves restantes son patos. ¿Cuántas aves hay en la granja?",
+    "options": [
+      "20",
+      "40",
+      "10",
+      "30",
+      "50"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "El dinero de Inés es el doble del dinero que tiene Noelia; el dinero de Matías es igual al dinero de Inés y Noelia reunidos. Si entre los tres suman 972.000 Gs. ¿Cuánto dinero tiene Inés?",
+    "options": [
+      "162 000",
+      "972 000",
+      "486 000",
+      "324 000",
+      "N.d.a."
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Pedro tiene 5.000 Gs más que Miguel y Miguel tiene 1.000 Gs menos que Raquel. Entre los tres tienen 48.000 Gs. ¿Cuánto tiene Miguel?",
+    "options": [
+      "14 000",
+      "19 000",
+      "15 000",
+      "17 000",
+      "12 000"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "La mitad del 25% del dinero que tengo es 50 000 Gs ¿cuánto es el 50% de la cuarta parte de mi dinero?",
+    "options": [
+      "25 000",
+      "200 000",
+      "400 000",
+      "100 000",
+      "50 000"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tres canastos contienen, en total, 575 naranjas. El primer canasto tiene 10 naranjas más que el segundo, y 15 más que el tercer canasto. ¿Cuántas naranjas hay en el tercer canasto?",
+    "options": [
+      "185",
+      "200",
+      "190",
+      "75",
+      "N.d.a."
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un hotel de dos pisos tiene en total 48 habitaciones. El número de habitaciones del segundo piso es la mitad del número de habitaciones del primer piso. ¿Cuántas habitaciones tiene el segundo piso?",
+    "options": [
+      "16",
+      "61",
+      "48",
+      "32",
+      "23"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un obrero gana 30 600 Gs diarios, pero debe abonar 15 300 Gs por cada día que falta al trabajo. Al cabo de 58 días recibe 1 591 200 Gs. ¿Cuántos días ha trabajado?",
+    "options": [
+      "54",
+      "4",
+      "50",
+      "8",
+      "N.d.a."
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Enrique tiene 50 Gs y Ernesto 22 Gs, luego que ambos recibieron una misma suma de dinero, Ernesto pasó a tener los 3/5 de lo de Enrique. ¿Cuál es la suma de dinero recibida?",
+    "options": [
+      "75 Gs",
+      "92 Gs",
+      "20 Gs",
+      "30 Gs",
+      "550 Gs"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Compré un caballo, un perro y un buey. El buey costó 100 Gs. El perro y el buey me costaron el doble que el caballo; y el caballo y el buey me costaron 5 veces lo que el perro. ¿Cuánto me costó el caballo y cuánto me costó el perro?",
+    "options": [
+      "60 y 20",
+      "55 y 10",
+      "65 y 30",
+      "25 y 70",
+      "65 y 20"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "El capital de Aníbal es el triple del de Beatriz. Si Aníbal entregara 30 000 Gs a Beatriz, Aníbal tendría los 3/5 de lo que tendría entonces Beatriz. ¿Cuánto es el capital inicial de Aníbal?",
+    "options": [
+      "30 000",
+      "50 000",
+      "120 000",
+      "60 000",
+      "210 000"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Fabiola tiene gatos y pájaros en su casa, siendo 24 el número total de sus patas. Si en total tienen 9 animales, ¿cuántos gatos tiene Fabiola?",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "3",
+      "1"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Dos números están en la relación 3 a 4. Si el menor se aumenta en 2 y el mayor se disminuye en 9, la relación es de 4 a 3. ¿Cuál es el número mayor?",
+    "options": [
+      "64",
+      "20",
+      "18",
+      "24",
+      "32"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "En una fábrica trabajan 90 operarios entre técnicos y obreros. El jornal del técnico es de 115 000 Gs y el del obrero, de 80 000 Gs. La empresa pagó, en total, por 24 días de trabajo 229 920 000 Gs. ¿Cuántos técnicos tiene la fábrica?",
+    "options": [
+      "22",
+      "18",
+      "68",
+      "24",
+      "48"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "En un gallinero los pollitos están en peligro, pues unos malditos gatitos han entrado para acabar con estas indefensas aves. Un observador, a lo lejos, distingue 32 cabezas y 88 patas. ¿Cuántos gatitos entraron al gallinero?",
+    "options": [
+      "10",
+      "22",
+      "15",
+      "20",
+      "12"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Se tienen 120 Gs en 33 billetes de a 5 Gs y de a 2 Gs. ¿Cuántos billetes son de 5 Gs?",
+    "options": [
+      "15",
+      "18",
+      "33",
+      "81",
+      "51"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Si Augusto le da a Blas 2 Gs, ambos tendrán igual suma, y si Blas le da a Augusto 2 Gs, Augusto tendrá el triplo de lo que le queda a Blas. ¿Cuánto tienen entre los dos?",
+    "options": [
+      "4 Gs",
+      "2 Gs",
+      "6 Gs",
+      "10 Gs",
+      "16 Gs"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una muchacha tiene 32 bolas entre las dos manos y en la derecha tiene 6 bolas más que en la izquierda. ¿Cuántas bolas tiene en la mano derecha?",
+    "options": [
+      "17",
+      "19",
+      "15",
+      "21",
+      "13"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un padre da a su hijo 160 Gs, a otro 150 Gs y a otro 120 Gs, para repartir entre los pobres, de modo que todos den a cada pobre la misma cantidad. ¿Cuál es la mayor cantidad que podrán dar a cada pobre y cuántos pobres serán socorridos?",
+    "options": [
+      "5 Gs y 45 pobres",
+      "10 Gs y 43 pobres",
+      "15 Gs y 35 pobres",
+      "43 Gs y 10 pobres",
+      "13 Gs y 40 pobres"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tres aviones salen de una misma ciudad con una periodicidad de 4 días y 10 días, respectivamente. Si la última vez que salieron juntos fue el 14 de julio. ¿Cuál será la fecha más próxima en que volverán a salir juntos?",
+    "options": [
+      "1 de agosto",
+      "2 de agosto",
+      "5 de agosto",
+      "4 de agosto",
+      "3 de agosto"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un meteorito de 80 000 kg de peso entra en la atmósfera terrestre. Al entrar, la cuarta parte del meteorito se desprende y rebota en la atmósfera retomando al espacio (no entrando en la atmósfera). Lo restante entra en la atmósfera y llega a la tierra. ¿Cuánto pesa la parte del meteorito que colisiona con la Tierra?",
+    "options": [
+      "60 000 Kg",
+      "50 000 Kg",
+      "40 000 Kg",
+      "30 000 kg",
+      "200 kg"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "El Mauna Kea es la montaña más alta de la Tierra y mide 10 000 metros de altura. La montaña más alta de Marte mide 24 km de altura. ¿Qué fracción de la montaña más alta de Marte es la montaña más alta de la Tierra?",
+    "options": [
+      "5/8",
+      "5/9",
+      "5/11",
+      "5/12",
+      "5/13"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Cuántos números enteros positivos de 4 cifras se pueden dividir exactamente entre 1200?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Al inicio del cursillo probatorio de ingreso al ISEPOL en la Unidad de Estudios Tte. Rojas Silva, Marta, Analía y Gilda fueron a una librería. Cada una compró tres cuadernos, dos escuadras y cinco marcadores. ¿Cuál de las siguientes puedo ser la cuenta total que pagaron en Gs?",
+    "options": [
+      "39 200",
+      "35 200",
+      "38 200",
+      "37 200",
+      "36 200"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Rafael está leyendo un libro cuyas páginas están numeradas desde el 1 en adelante: 1,2,3,4,5,6… Él cuenta solamente las páginas que son múltiplos de 6 y encuentra 23 de estas páginas. ¿Cuál es la mayor cantidad de páginas que puede tener el libro?",
+    "options": [
+      "138",
+      "143",
+      "144",
+      "145",
+      "137"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Elena ve en la pizarra la siguiente lista de números y la profesora le explica que se escribieron siguiendo una cierta regla. Elena se rasca la cabeza y luego escribe dentro del cuadrado el número que sigue en la lista. ¿Qué número escribió Elena?",
+    "options": [
+      "2,\t4,\t6,\t10,\t16,\t26,\t□",
+      "32",
+      "42",
+      "36",
+      "38"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tenemos tres peceras y 56 peces. Los tamaños de las peceras son pequeño, mediano y grande, siendo la pequeña la mitad de la mediana y la grande el doble. Como no tenemos ninguna referencia en cuanto al reparto de los peces, decidimos que en cada una de ellas haya una cantidad de peces proporcional al tamaño de cada pecera. ¿Cuántos peces pondremos en cada pecera?",
+    "options": [
+      "4; 8 y 44",
+      "22; 19 y 15",
+      "9; 18 y 29",
+      "10 ; 20 y 26",
+      "8; 16 y 32"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "La tercera parte de las cucharas de la casa estaban en el lavaplatos y las restantes en el cajón. Pero la mitad de las cucharas del cajón, 15, se llevan a la mesa. ¿Cuántas cucharas hay en el lavaplatos?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Se emplean 14 hombres en hacer 45 m de una obra, trabajando durante 20 días. ¿Cuánto tiempo empleará la mitad de esos hombres en hacer 16 m de la misma obra, habiendo en esta otra triple dificultad y cuádruple motivación para realizar el trabajo?",
+    "options": [
+      "42.666 días",
+      "170.666 días",
+      "10.666 días",
+      "15 días",
+      "12 días"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una persona tiene tres propiedades, la superficie de la primera es los 3/5 de la segunda y ésta los 5/8 de la tercera. Siendo 7.20 há la superficie de la tercera. ¿Cuántos Gs recibirá esta persona si los vende todas en 3,2 Gs el á?",
+    "options": [
+      "2 140",
+      "3 540",
+      "2 750",
+      "4 608",
+      "4 806"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un padre reparte su fortuna entre sus tres hijos: al primero da ¼ de lo que posee; al segundo 3 000 Gs más que al primero: al tercero tanto como al primero .Si al padre le queda 2 000 Gs. ¿Cuántos Gs recibirán juntos el primer y el tercer hijo?",
+    "options": [
+      "8 000",
+      "10 000",
+      "5 000",
+      "2 000",
+      "13 000"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una guarnición de 340 hombres tenía víveres para 55 días, cuando recibió otros 85 hombres; entonces se redujo la ración a los 11/15 de que era antes. ¿Cuántos días durarán todavía los víveres?",
+    "options": [
+      "50",
+      "60",
+      "40",
+      "30",
+      "10"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Se vende el 20% de una finca de 400 000 m², se alquila el 50% del resto y se cultiva el 25% del nuevo resto. Si lo que se cultiva en la finca se puede vender a 5 Gs el m². ¿Cuánto dinero se puede obtener?",
+    "options": [
+      "200 000 Gs",
+      "2 000 000 Gs",
+      "200 Gs",
+      "20 000 Gs",
+      "20 Gs"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿A cómo hay que vender lo que ha costado 680 Gs para ganar el 15% del costo?",
+    "options": [
+      "700 Gs",
+      "702 Gs",
+      "720 Gs",
+      "750 Gs",
+      "782 Gs"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "La mitad de lo que me quedó de gaseosa en la botella es igual a la tercera parte de lo que tomé. Si vuelvo a tomar la cuarta parte de lo que me quedaba, ¿qué fracción de toda la gaseosa habré tomado?",
+    "options": [
+      "7/10",
+      "1/10",
+      "3/5",
+      "3/20",
+      "2/5"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Cuál es la menor cantidad de dinero que necesito para comprar un número exacto de trajes de a 30 Gs, 45 Gs o 50 Gs cada uno si quiero que en cada caso me sobren 25 Gs?",
+    "options": [
+      "400 Gs",
+      "450 Gs",
+      "30 Gs",
+      "100 Gs",
+      "475 Gs"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "En un acuario hay 200 peces. El 1% de ellos es azul, los restantes son amarillos. ¿Cuántos peces amarillos hay que quitar del acuario para que los peces azules representen el 2% de todos los peces del acuario?",
+    "options": [
+      "2",
+      "50",
+      "100",
+      "20",
+      "4"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un ganadero reparte uso terrenos entre sus dos hijos de 16 y 10 años de manera proporcional a sus edades. Si el hijo mayor recibe 9 terrenos más que el hijo menor. ¿Cuántos terrenos recibió cada hijo?",
+    "options": [
+      "20 y 19",
+      "22 y 17",
+      "26 y 13",
+      "24 y 15",
+      "29 y 17"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tres agricultoras Mirna, Nora y Emily entran en una misma agencia de la cooperativa de algodoneros con el fin de adquirir semillas para sus cultivos. Mirna compra 28 bolsas de semillas. Nora compra 50 bolsas de semillas y Emily 20 bolsas de semillas. Si en total pagaron 107800 Gs. ¿Cuánto pagó la agricultura Nora?",
+    "options": [
+      "55 000 Gs",
+      "60 000 Gs",
+      "65 000 Gs",
+      "70 000 Gs",
+      "75 000 Gs"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un grupo de 5 excursionistas tienen víveres para 0 días con una ración de 900 g por día. ¿Cuál debe ser la ración diaria, si al iniciar la excursión se incrementa el grupo en cinco personas y se amplía el tiempo a 2 meses?",
+    "options": [
+      "540 g",
+      "545 g",
+      "550 g",
+      "555 g",
+      "560 g"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un comerciante compra cierto artículo a 40 guaraníes la docena y las vende con un 25% de ganancia por docena, ¿cuánto gana en la venta de 225 docenas?",
+    "options": [
+      "2150 Gs",
+      "2200 Gs",
+      "2250 Gs",
+      "2300 Gs",
+      "2350 Gs"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una guarnición de 400 soldados situados en un fuerte tiene víveres para 180 días y consumen 900 gramos por hombre y por día. Si recibe un refuerzo de 100 soldados, pero no recibirá víveres antes de 240 días. ¿Cuál deberá ser la ración de un hombre por día para que los víveres puedan alcanzarles?",
+    "options": [
+      "540 g",
+      "720 g",
+      "420 g",
+      "450 g",
+      "675 g"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un metro de tela cuesta 1 500 Gs. ¿Por cuánto lo debes vender para ganar el 20% de la venta?",
+    "options": [
+      "1 620",
+      "1 520",
+      "1 800",
+      "2 100",
+      "1 875"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un grupo de 20 mujeres debe ordeñar n vacas en 10 días. Luego de 4 días, se les unen 5 mujeres doblemente eficientes. ¿Cuántos días antes logran ordeñar todas las vacas?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un tractor cargado de aceituna pesa 8 t 5 q 4 mag 8 kg. El tractor descarga las aceitunas y una vez vacío pesa 3.876 kg. ¿Cuántos kg pesan las aceitunas?",
+    "options": [
+      "4.172 kg",
+      "4.972 kg",
+      "4.872 kg",
+      "4.772 kg",
+      "4.672 kg"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una cuadrilla de 24 obreros puede terminar una obra en 18 días, trabajando 8 horas diarias. Después de trabajar 12 días, se retiran 3 obreros y no son reemplazados sino al cabo de 3 días. ¿Cuántas horas diarias trabajaran en los días que faltan para terminar a obra en el tiempo establecido?",
+    "options": [
+      "6",
+      "9",
+      "7",
+      "5",
+      "10"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Cuántos kg pesa el agua que puede contener n depósito cuyo ancho es la mitad de su altura y cuya longitud es tres veces sus ancho, siendo sus altura 2m 6cm?",
+    "options": [
+      "6 556,362",
+      "6,556362",
+      "65,56362",
+      "65 563,62",
+      "6 556 362"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Con un jarro de jugo se alcanza a llenar 36 vasos, ¿cuántos de estos vasos se podrán servir si sólo son llenados hasta ¾ de su capacidad?",
+    "options": [
+      "27",
+      "35",
+      "45",
+      "48",
+      "50"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "48 obreros construyen un puente en 5 meses y 10 días trabajando 9 horas al día. ¿En qué tiempo habrían concluido este trabajo 72 obreros, trabajando 10 horas diarias, si las condiciones climáticas eran las mismas?",
+    "options": [
+      "3 meses 6 días",
+      "7 meses 6 días",
+      "8,888… meses",
+      "6 meses 7 días",
+      "3 meses 9 días"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Queremos repartir 510 caramelos entre un grupo de 3 niños, de tal forma que dos de ellos tengan la mitad de los caramelos pero que uno de estos dos tenga la mitad de caramelos que el otro. ¿Cuántos caramelos tendrá cada niño?",
+    "options": [
+      "255; 125 y 126",
+      "170; 170 y 170",
+      "170; 140 y 200",
+      "170; 190 y 150",
+      "255; 170 y 85"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un libro de matemáticas tiene 820 páginas (410 hojas) de 35 cm de largo cada página. Si se colocan las hojas de 20 000 de estos libros una a continuación de la otra, a lo largo. ¿Qué longitud se alcanzará en km?",
+    "options": [
+      "2 870",
+      "870",
+      "2 000",
+      "1 780",
+      "3 456"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una cuadrilla de 90 obreros tiene víveres para 70 días, al inicio del día 35 se retiran 10 obreros. ¿Cuántos días después de lo previsto se acabarán los víveres?",
+    "options": [
+      "2,5",
+      "4,5",
+      "5,5",
+      "3,75",
+      "15"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Se emplean 12 obreros durante 5 días, trabajando 4 horas diarias para cavar una zanja de 240 m³. ¿Cuántos días necesitarán 6 obreros, trabajando 3 horas diarias, para cavar otra zanja de 360 m³ en un terreno de triple dificultad?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Vendí dos automóviles a 72 000 000 Gs cada uno. En uno perdí el 25% del precio de venta y en el otro gané el 25% del costo. ¿Cuánto gane o perdí en total?",
+    "options": [
+      "Gané 3 600 000 Gs",
+      "Perdí 6 300 000 Gs",
+      "Gané 3 300 000 Gs",
+      "Gané 6 300 000 Gs",
+      "Perdí 3 600 000 Gs"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una obra fue construida por tres cuadrillas de obreros. La primera que estaba compuesta por 10 hombres, trabajó 6 días, a razón de 8 horas diarias; la segunda de 9 hombres, trabajó 5 días a razón de 6 horas diarias y la tercera de 7 hombres, trabajó 3 días a razón de 5 horas diarias. Si la obra costó en total 4 275 000 Gs. ¿Cuántos guaraníes correspondió a la segunda cuadrilla?",
+    "options": [
+      "2 400 000 Gs",
+      "1 350 000 Gs",
+      "525 000 Gs",
+      "1 530 000 Gs",
+      "255 000 Gs"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un depósito se llena hasta su cuarta parte por medio de tres llaves (simultáneamente) en 3 horas. Si una de ellas vierte 8 litros por minuto, otra 14 decalitros en 2 minutos y la tercera 6 hectolitros en 20 minutos. ¿Cuál es la mitad de la capacidad del depósito: (en litros)?",
+    "options": [
+      "19 440",
+      "77 760",
+      "38 880",
+      "58 320",
+      "112"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una embotelladora de refrescos necesita despachar los contenidos de tres toneles de 448 litros, de 128 litros y de 160 litros en la menor cantidad de envases posibles, de la misma capacidad. ¿Qué contenido debe tener cada envase y cuántos se necesitan en total?",
+    "options": [
+      "25 lts; 23",
+      "32 lts; 23",
+      "32 lts; 73",
+      "21 lts; 12",
+      "21 lts; 41"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un brioso postulante al ISEPOL tiene que resolver 30 problemas. Un día resuelve los 3/10 y al día siguiente los 4/7 del resto. ¿Cuántos problemas le faltan por resolver aún?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12",
+      "15"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un terreno rectangular de 18 Hm 34 dm de largo y 3 Dm 9 m de ancho se desea cercar y dividirlo en 3 parcelas rectangulares de dimensiones iguales a 18 Hm 34 dm de largo y 13 m de ancho. Si el cercado cuesta 8 500 guaraníes el metro. ¿Cuánto costará el cercado en guaraníes?",
+    "options": [
+      "9 100 000",
+      "1 400 000",
+      "61 978 600",
+      "2 450 000",
+      "7 119 600"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un padre repartió 12 504 000 Gs entre sus tres hijos A, B y C, proporcionalmente a sus deudas: la de A igual a los ¾ de la de B y la de C igual a los 2/5 de la B, e inversamente proporcionales a sus salarios: el de A el 20% menos que el de C y el de B 20% más que el de C. ¿Cuánto Gs correspondió a hijo C?",
+    "options": [
+      "2 304 000",
+      "5 400 000",
+      "4 800 000",
+      "4 500 000",
+      "840 000"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Miro mi reloj y observo que, en este momento, los 2/3 de lo que queda del día es igual al tiempo transcurrido. ¿Qué hora es?",
+    "options": [
+      "2 h 24 min",
+      "14 h 24 min",
+      "10 h 36 min",
+      "9 h 36 min",
+      "8 h 9 min"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un joven vive en el último piso de una casa. En una de sus salidas baja los escalones de dos en dos y los sube de tres en tres, dando un total de 100 pasos. ¿Cuántos peldaños tiene la escalera?",
+    "options": [
+      "100",
+      "110",
+      "120",
+      "130",
+      "140"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Cuando dos bombas actúan a la vez, tardan 15 horas en agotar un pozo. Si funcionara sólo la menor, emplearía en agotarlo 16 horas más que si funcionara sólo la mayor. ¿Cuánto tiempo emplearía trabajando sólo la mayor?",
+    "options": [
+      "20 h",
+      "21 h",
+      "22 h",
+      "23 h",
+      "24 h"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Trabajando 11 horas diarias durante 20 días, 7 obreros han hecho una obra cuya dificultad está representada por 7 y la actividad de los trabajadores por 9. ¿Cuántos días necesitarán 12 obreros, trabajando 10 horas diarias, para hacer una obra que será los 5/4 de la anterior, si la actividad se representase por 11 y la dificultad por 8?",
+    "options": [
+      "15 días",
+      "16 días",
+      "17 días",
+      "18 días",
+      "19 días"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un operario puede hacer un trabajo en 12 días, trabajando 5 horas diarias. Otro operario puede hacerlo en 15 días, trabajando 6 horas diarias. ¿En cuánto tiempo, expresado en días y horas, lo harían los dos juntos si trabajaran 8 horas diarias?",
+    "options": [
+      "4 días 4 horas",
+      "5 días 5 horas",
+      "6 días 6 horas",
+      "7 días 7 horas"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Dos obreros A y B, trabajando juntos, emplearán 3 días para hacer una obra. Después del primer día de trabajo, B continúa solo y termina la obra en 6 días más. ¿En cuántos días haría la obra en obrero A trabajando solo?",
+    "options": [
+      "9 días",
+      "4 días",
+      "9,5 días",
+      "4,5 días",
+      "5 días"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Dos grifos pueden llenar con agua un depósito, cuya forma es la de un cilindro de revolución, en 8 horas y en 12 horas, mientras que un tubo de desagüe lo vacía en 15 horas. Estando el nivel del agua a 1/3 de la altura del depósito, se abren al mismo tiempo los grifos y el tubo de desagüe durante una hora. ¿Qué parte de la altura del depósito queda por llenar?",
+    "options": [
+      "19/40",
+      "17/40",
+      "2/40",
+      "21/40",
+      "27/40"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un contratista dispone de tres cuadrillas de obreros para el empedrado de u calle. El primer grupo sólo emplearía 60 días en hacer el trabajo; el segundo grupo, 40 días y el tercer grupo, 30 días. Si se emplea los ¾ del primer grupo, los 2/3 del segundo grupo y todos los del tercer grupo. ¿Cuántos días durará la obra?",
+    "options": [
+      "12 días",
+      "13 días",
+      "14 días",
+      "15 días",
+      "16 días"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Ciriaco es el triple de rápido que Eduardo. Si juntos pueden hacer un trabajo en 12 días. ¿cuánto tiempo le tomará a Ciriaco hacer solo el mismo Trabajo?",
+    "options": [
+      "12 días",
+      "14 días",
+      "16 días",
+      "18 días",
+      "20 días"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "El vino de un tonel pesa 1 962 kg. Si cada litro de vino pesa 0,981 kg. ¿Cuántos litros contiene el tonel?",
+    "options": [
+      "1 924,7 lts",
+      "1 924 lts",
+      "200 lts",
+      "2 000 lts",
+      "N.d.a."
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una caja de herramientas mide 20 cm de ancho, 25 cm de largo y 30 cm de altura. Se desea obtener compartimientos cúbicos lo más grandes posibles por medio de bandejas y divisiones. ¿Cuánto debe medir la arista de cada compartimiento? ¿Cuántos se pueden obtener?",
+    "options": [
+      "52 cm; 50",
+      "120 cm; 50",
+      "5 cm; 120",
+      "25 cm; 1500",
+      "N.d.a."
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un depósito se llena a través de 3 grifos. Una vierte 8 lts por min; otra 14 Dls en 3 min y la tercera 6 Hls en 20 min. ¿Cuál será la capacidad del depósito si abriendo los 3 grifos tarda en llenarse 8 horas?",
+    "options": [
+      "51 840 lts",
+      "51 840 Dls",
+      "51 840 Kls",
+      "51 840 Hls",
+      "N.d.a."
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "En 4 días un hombre recorrió 120 km. Si cada día recorrió 1/3 de lo que recorrió el día anterior, ¿cuántos km recorrió el tercer día?",
+    "options": [
+      "3",
+      "9",
+      "27",
+      "81",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un cubo vacío pesa 65 hg y lleno de agua 14 kg 6 hg. ¿cuánto pesa si vacía 1/3 del agua?",
+    "options": [
+      "1,19 kg",
+      "0,119 kg",
+      "119 kg",
+      "11,9 kg",
+      "1190 kg"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tres cuadrillas de obreros han realizado un trabajo por e que sea pagado 516 Gs. La primera cuadrilla constaba de 10 hombres y trabajó durante 12 días; la segunda, de 6 hombres trabajó 8 días y la tercera, de 5 hombres trabajó 18 días. ¿Cuánto debe recibir la tercera cuadrilla?",
+    "options": [
+      "122,8 Gs",
+      "240 Gs",
+      "96 Gs",
+      "180 Gs",
+      "90 Gs"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "En una sala de cine hay 500 personas entre niños/as y adultos viendo la película ‘’Corazón Valiente’’. Sabiendo que cada adulto pagó 20 Gs y casa niño/a 8Gs. A recaudación total obtenido es de 5200 Gs. ¿Cuántos niños/as participaron de la función?",
+    "options": [
+      "250",
+      "125",
+      "100",
+      "400",
+      "375"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Se han comprado dos automóviles por 3 400 Gs y se ha pagado en razón directa a la velocidad que pueden desarrollar, que es proporcional a los números 60 y 70 e inversamente proporcional a su tiempo de servicio, 3 y 5 años, respectivamente. ¿Cuánto se ha pagado por el automóvil más caro?",
+    "options": [
+      "3 000Gs",
+      "2 400 Gs",
+      "2 000 Gs",
+      "5 000 Gs",
+      "1 400 Gs"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un estanque tiene agua hasta su tercera parte. Si se abriesen una llave que echa 119 litros en 7 minutos y un desagua por el cual se libera 280 litros en 8 minutos, el depósito se vaciará en 53 minutos ¿Cuá es la capacidad del estanque (en litros)?",
+    "options": [
+      "2682",
+      "2628",
+      "2862",
+      "2826",
+      "2286"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Noemí y Romina trabajan en una línea de ensamble, inspeccionando calculadoras electrónicas. Noemí inspecciona las partes electrónicas de cada decimosexta calculadora mientras Romina inspecciona el armado de cada trigésimo sexta calculadora. Si las dos comienzan a trabajar al mismo tiempo. ¿Cuál será la primera calculadora que ambas inspeccionen juntas?",
+    "options": [
+      "La 120",
+      "La 72",
+      "La 144",
+      "La 4",
+      "La 13"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Repartir un capital de 175 000 Gs entre dos personas A y B de modo que la parte de A sea a la de B como ¾ es a 2/9. ¿Cuánto s la parte de la persona B?",
+    "options": [
+      "135 000 Gs",
+      "153 000 Gs",
+      "40 000 Gs",
+      "45 000 Gs",
+      "35 000 Gs"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Cuántos son los divisores, simples y compuestos, del número 360?",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Cuántos son los divisores, simples y compuestos, de los números 1560; 2400; 6600?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20",
+      "22"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Cuántos divisores cuadrados perfectos tiene el número 5292?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿En cuánto tiempo se llenará el depósito?",
+    "options": [
+      "425 lts y 20 h",
+      "427 lts y 21 h",
+      "429 lts y 22 h",
+      "431 lts y 23 h"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un obrero cavó un pozo en 14 días. Si hubiera trabajado 3 horas menos por día, hubiera empleado 66 días más para realizar el mismo trabajo. ¿Cuántas horas por día trabajó el obrero?",
+    "options": [
+      "7 h/d",
+      "8 h/d",
+      "9 h/d",
+      "10 h/d",
+      "11 h/d"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Al multiplicar , se obtiene un polinomio cuyo grado absoluto coincide con el opuesto del triple del término independiente. ¿Cuánto vale N?",
+    "options": [
+      "3",
+      "1",
+      "0",
+      "-1",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Se quiere plantar árboles en ambos lados de una carretera de 20 km. ¿En cuánto ascenderá el costo, sabiendo que cada docena de árboles cuesta 300 centavos y colocándolos a 5 m de distancia cada uno?",
+    "options": [
+      "2000",
+      "8000",
+      "5000",
+      "1000",
+      "3000"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Al dividir un polinomio F por  se obtiene como cociente  y resto  ¿cuál es el resto de la división del polinomio F por x – 1?",
+    "options": [
+      "2",
+      "20",
+      "10",
+      "2x"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "En un salón de clases, antes del recreo el número de hombres el al número de mujeres 9 es a 5. Si después del recreo, hay 8 hombres y 4 mujeres menos, con lo cual la razón de hombres a mujeres es 7/4, entonces, ¿cuántas mujeres había antes del recreo?",
+    "options": [
+      "20",
+      "32",
+      "16",
+      "12",
+      "46"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un muchacho tiene 32 bolas entre las dos manos y en la derecha tiene 6 bolas más que en la izquierda. ¿Cuántas bolas tiene en la mano derecha?",
+    "options": [
+      "17",
+      "19",
+      "15",
+      "21",
+      "13"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "El lunes perdí 40 Gs; el martes gané 125 Gs; el miércoles gané el doble de lo que tenía el martes y el jueves, después de perder la mitad de lo que tenía, me quedan 465 Gs. ¿Cuánto tenía al principio?",
+    "options": [
+      "200 Gs",
+      "225 Gs",
+      "300 Gs",
+      "350 Gs",
+      "400 Gs"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Si tengo 25 Gs y hago compras por los 6/5 de esa cantidad. ¿Cuánto debo?",
+    "options": [
+      "5 Gs",
+      "10 Gs",
+      "15 Gs",
+      "20 Gs",
+      "25 Gs"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un hacendado tenía una finca de 200 hectáreas y vendió 1/6 de 48 hectáreas. ¿Qué parte de la finca le queda?",
+    "options": [
+      "8",
+      "25/24",
+      "1/25",
+      "24825",
+      "192"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Las edades de Pedro, Juan y Enrique que son tres números enteros consecutivos, suman 87 años. Si Enrique es el menor y Pedro el Mayor. ¿Cuál es la edad de Juan?",
+    "options": [
+      "15",
+      "28",
+      "30",
+      "29",
+      "31"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Se tienen cuatro rollos grandes de alambre de 2 275; 2 366 y 2 093 metros de longitud y se pretende sacar de estos, rollos idénticos más pequeños que ellos, cuya longitud sea lo mayor posible sin desperdiciar nada de alambre. ¿Cuántos de estos rollos más pequeños de podrán sacar en total?",
+    "options": [
+      "91",
+      "23",
+      "102",
+      "105",
+      "43"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Dos mensajeros han trabajado el mismo número de días; el primero cobró 252 000 Gs y el segundo 180 000 Gs. Si el primer mensajero recibe 3 000 Gs más por día que el segundo, ¿cuánto gana por día?",
+    "options": [
+      "10 000 Gs",
+      "12 000 Gs",
+      "15 000 Gs",
+      "10 500 Gs",
+      "11 500 Gs"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un padre da a un hijo 80 cts., a otro 75 cts. y a otro 60 cts., para repartir entre los pobres, de modo que todos den a cada pobre la misma cantidad. ¿Cuál es la mayor cantidad que podrán dar a cada pobre y cuántos los pobres socorridos?",
+    "options": [
+      "1 cts.;215 pobres",
+      "5 cts.; 43 pobres",
+      "10 cts.; 21 pobres",
+      "15 cts.;15 pobres",
+      "20 cts.;10 pobres"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Cuál es la menor capacidad de un estanque que se puede llenar en un número exacto de segundos por cualquiera de tres llaves que vierten: la primera, 2 litros por segundo; la segunda, 30 litros en 2 segundos y la tercera, ¿48 litros en 3 segundos?",
+    "options": [
+      "560 litros",
+      "60 litros",
+      "120 litros",
+      "240 litros",
+      "480 litros"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "La cuarta parte del día la emplea un niño en estudiar, la sexta parte en hacer ejercicios y la novena en divertirse. ¿Qué parte del día le queda libre?",
+    "options": [
+      "10 hs",
+      "15/34",
+      "3/14",
+      "1",
+      "17/36"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un hombre vende 1/3 de su finca, alquila 1/8 del resto y lo restante lo cultiva. ¿Qué porción de la finca cultiva?",
+    "options": [
+      "13/54",
+      "7/12",
+      "8/15",
+      "1/3",
+      "2/7"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Aumenta o disminuye 9/7 y cuánto al restar 3 a sus dos términos?",
+    "options": [
+      "Disminuye 3/14",
+      "Aumenta 5/14",
+      "Aumenta 3/14",
+      "Disminuye 5/14",
+      "Aumenta 3/34"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una baldosa pesa 4 kg más media baldosa. ¿Cuánto pesan dos baldosas y media?",
+    "options": [
+      "El doble de 20 kg",
+      "El triple del doble de 5 kg",
+      "La mitad de 40 kg",
+      "El triple de 20 kg",
+      "Una decena del doble de 10 kg"
+    ],
+    "correctAnswer": 2,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "22 personas iban a comprar una finca que vale 429 000 Gs, contribuyendo por partes iguales. Se suman otros amigos y deciden formar pare de la sociedad, con lo cual cada uno aporta 3 000 Gs menos que antes. ¿Cuántos fueron los que se sumaron a los primeros?",
+    "options": [
+      "1",
+      "5",
+      "2",
+      "4",
+      "3"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Una persona muy metódica, preocupada por su salud, organizó una agenda de asistencia al dentista, clínico y oftalmólogo. Habiéndose hecho todos los exámenes en las tres especialidades en enero de 2001, tiene pensado ir al dentista cada 4 meses, al clínico cada 6 meses y al oftalmólogo cada 8 meses. ¿En qué mes y año visitará a los tres especialistas simultáneamente?",
+    "options": [
+      "Febrero de 2003",
+      "Enero de 2003",
+      "Marzo de 2004",
+      "Marzo de 2003",
+      "Enero de 2004"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "La colilla de un cigarrillo representa ¼ de su longitud. Si un fumador consume los 7/8 de la parte fumable y en cada pitada consume 1/64 de la mencionada parte. ¿Cuántas pitadas dará el fumador?",
+    "options": [
+      "64",
+      "48",
+      "56",
+      "42",
+      "46"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un señor compra un artículo por 59 400 guaraníes, pero el vendedor le dice que si compra 3 le hacen una rebaja, por lo que paga 88 506 guaraníes más. ¿Qué porcentaje del precio real representa la rebaja?",
+    "options": [
+      "10%",
+      "15%",
+      "18%",
+      "17%",
+      "20%"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "En una granja se tiene gallinas, patos, pavos, vacas y cerdos, en relación de 1:2:3:4:5 respectivamente. Si todos los animales fueran pavos, se tendrían 2160 patas menos que si todos fueran cerdos. ¿Cuántas vacas se tiene en la granja?",
+    "options": [
+      "1 080",
+      "360",
+      "216",
+      "288",
+      "72"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Un hombre que gana 80 Gs semanales, gasta 25. ¿Qué parte de su sueldo ahorra?",
+    "options": [
+      "5/16",
+      "7/16",
+      "13/16",
+      "13/16",
+      "11/16"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Qué parte de un cargamento de arroz que vale 4 500 Gs podré comprar si vendo 7 caballos a 500 cada uno?",
+    "options": [
+      "7/9",
+      "8/10",
+      "9/11",
+      "2/9",
+      "11/13"
+    ],
+    "correctAnswer": 0,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tenía 90 Gs. Perdí los 3/5 y presté 5/6 del resto. ¿Cuánto me queda?",
+    "options": [
+      "2 Gs",
+      "4 Gs",
+      "6 Gs",
+      "8 Gs",
+      "10 Gs"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Qué parte del costo pierdo cuando vendo por 65 Gs lo que me había costado 80 Gs?",
+    "options": [
+      "13/16",
+      "3/16",
+      "15/16",
+      "25/16",
+      "15"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "De una ciudad a otra hay una distancia de 210 kms. Un día ando 3/7 de esa distancia, otro día los 2/21 y un tercer día los 7/30. ¿A qué distancia estoy entonces del punto de llegada?",
+    "options": [
+      "17/70",
+      "53/79",
+      "159 kms",
+      "51 kms",
+      "180 kms"
+    ],
+    "correctAnswer": 3,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tenía 96 Gs. Con los 5/12 de esta cantidad compré libros y con los 3/8 de lo que me quedó compré un traje. ¿Cuántos Gs me queda?",
+    "options": [
+      "5/24",
+      "20 Gs",
+      "61 Gs",
+      "35 Gs",
+      "42 Gs"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Qué hora es cuando el reloj señala los 2/3 de ½ del doble de las 6 de la mañana?",
+    "options": [
+      "2 a.m.",
+      "4 a.m.",
+      "6 a.m.",
+      "8 a.m.",
+      "10 a.m."
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Si vendo una casa por los 3/8 de los 5/9 de 7200 Gs y un caballo por ½ de 1/3 de ¼ de 2400 Gs, ¿cuánto recibiré en total?",
+    "options": [
+      "1 400 Gs",
+      "1 600 Gs",
+      "1 800 Gs",
+      "2 000 Gs",
+      "800 Gs"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Se corta un pedazo de 36 cms de una varilla. Si ese pedazo cortado es los ¾ de los 4/5 de la varilla. ¿Cuál será la longitud de ésta?",
+    "options": [
+      "21,6 cms",
+      "55,8 cms",
+      "12 cms",
+      "40 cms",
+      "60 cms"
+    ],
+    "correctAnswer": 4,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Los 5/9 de una pieza de tela importa 65 Gs. ¿Cuánto vale los 7/13 de la pieza?",
+    "options": [
+      "117 Gs",
+      "63 Gs",
+      "120 Gs",
+      "70 Gs",
+      "100 GS"
+    ],
+    "correctAnswer": 1,
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "category": "General"
+  }
+]

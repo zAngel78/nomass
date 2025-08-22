@@ -1,0 +1,799 @@
+[
+  {
+    "question": "¿Cuál es la oración correctamente escrita?",
+    "options": {
+      "a": "el Sol brilla",
+      "b": "El sol brilla",
+      "c": "El Sol brilla",
+      "d": "El sol Brilla"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué tipo de oración es “¡Qué hermosa mañana!”?",
+    "options": {
+      "a": "Declarativa",
+      "b": "Exclamativa",
+      "c": "Interrogativa",
+      "d": "Imperativa"
+    }
+  },
+  {
+    "question": "¿Cuál es un verbo en tiempo presente?",
+    "options": {
+      "a": "Comeré",
+      "b": "Comí",
+      "c": "Como",
+      "d": "Comía"
+    }
+  },
+  {
+    "question": "¿Qué palabra es un sustantivo?",
+    "options": {
+      "a": "Bello",
+      "b": "Alegre",
+      "c": "Mesa",
+      "d": "Rápido"
+    }
+  },
+  {
+    "question": "¿Cuál es un adjetivo calificativo?",
+    "options": {
+      "a": "Alegre",
+      "b": "Mesa",
+      "c": "Rápido",
+      "d": "Jugar"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "¿Qué tipo de palabra es “nosotros”?",
+    "options": {
+      "a": "Verbo",
+      "b": "Adjetivo",
+      "c": "Pronombre",
+      "d": "Sustantivo"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una oración simple?",
+    "options": {
+      "a": "Pedro corre y salta",
+      "b": "Porque llueve, no salgo",
+      "c": "El niño que juega es mi hermano",
+      "d": "Salí temprano pero llegué tarde"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "¿Cuál de estas oraciones tiene sujeto tácito?",
+    "options": {
+      "a": "Vamos al cine.",
+      "b": "Ellos van al cine.",
+      "c": "Nosotros vamos al cine.",
+      "d": "Tú vas al cine."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un sinónimo de “alegre”?",
+    "options": {
+      "a": "Triste",
+      "b": "Feliz",
+      "c": "Gritar",
+      "d": "Dormir"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué palabra es un antónimo de “fuerte”?",
+    "options": {
+      "a": "Poderoso",
+      "b": "Rígido",
+      "c": "Débil",
+      "d": "Valiente"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál de las siguientes oraciones está en tiempo futuro?",
+    "options": {
+      "a": "Comí arroz",
+      "b": "Comeré arroz",
+      "c": "Como arroz",
+      "d": "Comía arroz"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué clase de oración es “Cierra la puerta”?",
+    "options": {
+      "a": "Interrogativa",
+      "b": "Exclamativa",
+      "c": "Declarativa",
+      "d": "Imperativa"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "¿Qué palabra es un sustantivo abstracto?",
+    "options": {
+      "a": "Mesa",
+      "b": "Libro",
+      "c": "Belleza",
+      "d": "Flor"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué palabra es un adverbio de lugar?",
+    "options": {
+      "a": "Mañana",
+      "b": "Aquí",
+      "c": "Rápidamente",
+      "d": "Nunca"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Cuál es una oración bimembre?",
+    "options": {
+      "a": "Llueve.",
+      "b": "Salta.",
+      "c": "La casa es grande.",
+      "d": "¡Silencio!"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál es una conjunción?",
+    "options": {
+      "a": "El",
+      "b": "Muy",
+      "c": "Y",
+      "d": "Está"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué palabra es un verbo en infinitivo?",
+    "options": {
+      "a": "Corro",
+      "b": "Corre",
+      "c": "Correr",
+      "d": "Corriendo"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál oración es interrogativa?",
+    "options": {
+      "a": "¡Qué calor hace!",
+      "b": "¿Vendrás mañana?",
+      "c": "Hoy es lunes.",
+      "d": "Ven aquí."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué es una palabra aguda?",
+    "options": {
+      "a": "Lleva tilde si termina en n, s o vocal",
+      "b": "Lleva tilde si termina en consonante distinta de n o s",
+      "c": "No lleva tilde",
+      "d": "Siempre lleva tilde"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "¿Cuál es una palabra esdrújula?",
+    "options": {
+      "a": "Canción",
+      "b": "Rápidamente",
+      "c": "Camión",
+      "d": "Balón"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Cuál es la función principal del verbo en una oración?",
+    "options": {
+      "a": "Describir un objeto",
+      "b": "Nombrar personas o cosas",
+      "c": "Indicar una acción o estado",
+      "d": "Unir dos frases"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué tipo de sustantivo es “felicidad”?",
+    "options": {
+      "a": "Concreto",
+      "b": "Abstracto",
+      "c": "Común",
+      "d": "Propio"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué es un adjetivo?",
+    "options": {
+      "a": "Una palabra que reemplaza al sustantivo",
+      "b": "Una palabra que indica una acción",
+      "c": "Una palabra que describe al sustantivo",
+      "d": "Una palabra que conecta oraciones"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál de estas palabras es un adverbio de tiempo?",
+    "options": {
+      "a": "Lejos",
+      "b": "Hoy",
+      "c": "Bien",
+      "d": "Siempre"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Cuál es una oración unimembre?",
+    "options": {
+      "a": "Ana estudia matemáticas.",
+      "b": "¡Fuego!",
+      "c": "Pedro juega al fútbol.",
+      "d": "Me gustan las frutas."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué oración es bimembre?",
+    "options": {
+      "a": "¡Silencio!",
+      "b": "¡Ay!",
+      "c": "Llueve.",
+      "d": "El perro ladra."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "¿Qué tipo de oración es “¿Cómo te llamás?”?",
+    "options": {
+      "a": "Exclamativa",
+      "b": "Imperativa",
+      "c": "Interrogativa",
+      "d": "Declarativa"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál es un sinónimo de “rápido”?",
+    "options": {
+      "a": "Veloz",
+      "b": "Lento",
+      "c": "Pesado",
+      "d": "Débil"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "¿Cuál es un antónimo de “alegre”?",
+    "options": {
+      "a": "Contenta",
+      "b": "Feliz",
+      "c": "Triste",
+      "d": "Animada"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué palabra es un pronombre personal?",
+    "options": {
+      "a": "Alegre",
+      "b": "Nosotros",
+      "c": "Mesa",
+      "d": "Rápido"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Cuál de las siguientes oraciones tiene verbo en pretérito imperfecto?",
+    "options": {
+      "a": "Comía pan",
+      "b": "Comeré pan",
+      "c": "He comido pan",
+      "d": "Como pan"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "¿Cuál de estas palabras es un sustantivo propio?",
+    "options": {
+      "a": "Mujer",
+      "b": "Perro",
+      "c": "Pedro",
+      "d": "Gato"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué es una conjunción?",
+    "options": {
+      "a": "Palabra que nombra un objeto",
+      "b": "Palabra que indica lugar",
+      "c": "Palabra que une otras palabras u oraciones",
+      "d": "Palabra que expresa emociones"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué oración contiene un verbo en futuro?",
+    "options": {
+      "a": "Cocinaba sopa",
+      "b": "Cocinaré sopa",
+      "c": "Cocina sopa",
+      "d": "Cocinó sopa"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué tipo de palabra es “nosotras”?",
+    "options": {
+      "a": "Verbo",
+      "b": "Pronombre",
+      "c": "Conjunción",
+      "d": "Adjetivo"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Cuál de las siguientes palabras es un adjetivo calificativo?",
+    "options": {
+      "a": "Jugar",
+      "b": "Feliz",
+      "c": "Yo",
+      "d": "Mesa"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué palabra es un verbo en primera persona del singular en presente?",
+    "options": {
+      "a": "Caminás",
+      "b": "Caminan",
+      "c": "Camino",
+      "d": "Caminaba"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué tipo de oración es: “Lavate las manos”?",
+    "options": {
+      "a": "Exclamativa",
+      "b": "Declarativa",
+      "c": "Imperativa",
+      "d": "Interrogativa"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué oración tiene sujeto expreso?",
+    "options": {
+      "a": "Estudiamos mucho.",
+      "b": "Vamos a la plaza.",
+      "c": "María lee libros.",
+      "d": "Cantamos juntos."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál es una palabra grave o llana?",
+    "options": {
+      "a": "Corazón",
+      "b": "Árbol",
+      "c": "Sofá",
+      "d": "Café"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué es una oración compuesta?",
+    "options": {
+      "a": "Una oración con un solo verbo",
+      "b": "Una oración con sujeto y predicado",
+      "c": "Una oración que tiene dos o más verbos unidos",
+      "d": "Una oración exclamativa"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál es una oración interrogativa indirecta?",
+    "options": {
+      "a": "¿Vendrás mañana?",
+      "b": "Me preguntó si vendría mañana.",
+      "c": "¡Vendrás mañana!",
+      "d": "Vendrás mañana."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué función cumple el sujeto en la oración?",
+    "options": {
+      "a": "Expresa la acción",
+      "b": "Une palabras",
+      "c": "Indica quién realiza la acción",
+      "d": "Da énfasis"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué oración tiene sujeto tácito?",
+    "options": {
+      "a": "Yo corro todos los días.",
+      "b": "Corremos en la plaza.",
+      "c": "Pedro corre todos los días.",
+      "d": "María y Ana corren."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Cuál de estas palabras es un sustantivo colectivo?",
+    "options": {
+      "a": "Perro",
+      "b": "Bosque",
+      "c": "Árbol",
+      "d": "Flor"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué tipo de sujeto hay en la oración: “Los perros y los gatos duermen tranquilos”?",
+    "options": {
+      "a": "Sujeto tácito",
+      "b": "Sujeto simple",
+      "c": "Sujeto compuesto",
+      "d": "Sujeto inverosímil"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué tipo de predicado tiene la oración “El cielo está nublado”?",
+    "options": {
+      "a": "Verbal",
+      "b": "Nominal",
+      "c": "Compuesto",
+      "d": "Adjetival"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Cuál es un complemento circunstancial de lugar?",
+    "options": {
+      "a": "Rápidamente",
+      "b": "En la casa",
+      "c": "Por la tarde",
+      "d": "Con alegría"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué oración tiene un complemento directo?",
+    "options": {
+      "a": "Juan come manzanas.",
+      "b": "María estudia mucho.",
+      "c": "Vamos al cine.",
+      "d": "Camina rápido."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "¿Cuál es el núcleo del sujeto en la oración “El gato negro duerme”?",
+    "options": {
+      "a": "El",
+      "b": "Gato",
+      "c": "Negro",
+      "d": "Duerme"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué tipo de oración es “¡Ayuda!”?",
+    "options": {
+      "a": "Declarativa",
+      "b": "Interrogativa",
+      "c": "Exclamativa",
+      "d": "Imperativa"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué función cumple el adjetivo en una oración?",
+    "options": {
+      "a": "Reemplaza al verbo",
+      "b": "Describe al sustantivo",
+      "c": "Nombra acciones",
+      "d": "Une palabras"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué palabra es un pronombre demostrativo?",
+    "options": {
+      "a": "Yo",
+      "b": "Nosotros",
+      "c": "Ese",
+      "d": "Tú"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué palabra tiene diptongo?",
+    "options": {
+      "a": "País",
+      "b": "Cielo",
+      "c": "Poeta",
+      "d": "Frío"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué oración contiene un complemento circunstancial de tiempo?",
+    "options": {
+      "a": "Estudia con atención.",
+      "b": "Camina despacio.",
+      "c": "Canta todos los días.",
+      "d": "Vive cerca."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál es el sujeto de la oración “Llovía mucho en la ciudad”?",
+    "options": {
+      "a": "La ciudad",
+      "b": "Llovía",
+      "c": "Mucho",
+      "d": "No tiene sujeto expreso"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "¿Cuál de estas oraciones tiene predicado verbal?",
+    "options": {
+      "a": "Juan es alegre.",
+      "b": "La niña está cansada.",
+      "c": "El perro ladra fuerte.",
+      "d": "El día está hermoso."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué es una oración pasiva?",
+    "options": {
+      "a": "El sujeto realiza la acción",
+      "b": "El verbo es reflexivo",
+      "c": "El sujeto recibe la acción",
+      "d": "El verbo está en infinitivo"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál de estas palabras lleva tilde por ser una esdrújula?",
+    "options": {
+      "a": "Silla",
+      "b": "Árbol",
+      "c": "Matemática",
+      "d": "León"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál es un ejemplo de oración negativa?",
+    "options": {
+      "a": "No tengo hambre.",
+      "b": "Tengo mucha hambre.",
+      "c": "¿Tenés hambre?",
+      "d": "¡Qué hambre tengo!"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "¿Qué tipo de oración es \"No quiero que te vayas\"?",
+    "options": {
+      "a": "Simple",
+      "b": "Compuesta subordinada",
+      "c": "Coordinada copulativa",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué palabra es una preposición?",
+    "options": {
+      "a": "Aunque",
+      "b": "Hacia",
+      "c": "Muy",
+      "d": "Esta"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Cuál es el complemento circunstancial de causa en \"Lloró por tristeza\"?",
+    "options": {
+      "a": "Por",
+      "b": "Tristeza",
+      "c": "Lloró",
+      "d": "Por tristeza"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "¿Qué oración tiene estructura pasiva?",
+    "options": {
+      "a": "Se rompió el jarrón.",
+      "b": "El jarrón fue roto por el niño.",
+      "c": "Rompieron el jarrón.",
+      "d": "El niño rompe el jarrón."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué oración tiene un verbo en modo subjuntivo?",
+    "options": {
+      "a": "Yo canto bien.",
+      "b": "Ojalá vengas mañana.",
+      "c": "Tú corriste rápido.",
+      "d": "Vendré temprano."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Cuál oración expresa una condición?",
+    "options": {
+      "a": "Saldré aunque llueva.",
+      "b": "Si estudias, aprobarás.",
+      "c": "Vendrá porque quiere.",
+      "d": "Dijo que volvería."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué tipo de oración es \"La casa que compró es grande\"?",
+    "options": {
+      "a": "Simple",
+      "b": "Coordinada",
+      "c": "Subordinada adjetiva",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué tipo de oración es \"Comé antes que se enfríe\"?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada consecutiva",
+      "c": "Subordinada temporal",
+      "d": "Subordinada final"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál es el verbo en la oración \"El alumno fue felicitado por su esfuerzo\"?",
+    "options": {
+      "a": "Alumno",
+      "b": "Fue felicitado",
+      "c": "Esfuerzo",
+      "d": "Por"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué función cumple \"de mis padres\" en \"Los consejos de mis padres son sabios\"?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Complemento circunstancial",
+      "c": "Complemento del nombre",
+      "d": "Aposición"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué tipo de oración es: \"¡Ojalá terminemos a tiempo!\"?",
+    "options": {
+      "a": "Dubitativa",
+      "b": "Exhortativa",
+      "c": "Desiderativa",
+      "d": "Enunciativa"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué tipo de conector es \"por lo tanto\"?",
+    "options": {
+      "a": "Adversativo",
+      "b": "Concesivo",
+      "c": "Causal",
+      "d": "Consecutivo"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "¿Qué tipo de subordinada es \"que estudia medicina\" en \"La chica que estudia medicina es mi amiga\"?",
+    "options": {
+      "a": "Sustantiva",
+      "b": "Adjetiva",
+      "c": "Adverbial",
+      "d": "Apositiva"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Cuál oración está correctamente puntuada?",
+    "options": {
+      "a": "Si vienes te espero.",
+      "b": "Te espero si vienes.",
+      "c": "Te espero, si vienes.",
+      "d": "Si vienes te espero, pero no tardes."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "¿Qué oración tiene complemento circunstancial de compañía?",
+    "options": {
+      "a": "Viajó con sus amigos.",
+      "b": "Fue al cine.",
+      "c": "Escribió con tinta.",
+      "d": "Llegó por la lluvia."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "¿Qué función cumple \"que me diste\" en \"El libro que me diste es interesante\"?",
+    "options": {
+      "a": "Sujeto",
+      "b": "Complemento directo",
+      "c": "Oración subordinada adjetiva",
+      "d": "Complemento circunstancial"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Cuál es el sustantivo abstracto?",
+    "options": {
+      "a": "Felicidad",
+      "b": "Mesa",
+      "c": "Árbol",
+      "d": "Niño"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "¿Qué oración contiene una aposición explicativa?",
+    "options": {
+      "a": "Mi hermana Ana vino.",
+      "b": "Ana mi hermana vino.",
+      "c": "Ana, mi hermana, vino.",
+      "d": "Mi hermana es Ana."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "¿Qué oración tiene predicado verbal simple?",
+    "options": {
+      "a": "Pedro corre.",
+      "b": "Pedro corre y salta.",
+      "c": "Pedro está feliz.",
+      "d": "Pedro es doctor."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "¿Qué tipo de subordinada es \"porque llovía\"?",
+    "options": {
+      "a": "Consecutiva",
+      "b": "Concesiva",
+      "c": "Causal",
+      "d": "Condicional"
+    },
+    "correct_answer": "c"
+  }
+]

@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "7185165e-5d1b-4ee4-8aba-30f82a0f9d1c",
+    "question": "¿Cuál es la oración correctamente escrita?",
+    "options": {
+      "a": "el Sol brilla",
+      "b": "El sol brilla",
+      "c": "El Sol brilla",
+      "d": "El sol Brilla"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "9f2a9416-cacc-4309-892b-13d74e4adc41",
+    "question": "¿Qué tipo de oración es “¡Qué hermosa mañana!”?",
+    "options": {
+      "a": "Declarativa",
+      "b": "Exclamativa",
+      "c": "Interrogativa",
+      "d": "Imperativa"
+    },
+    "correct_answer": null,
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "2945a1ec-f212-4566-807f-44e9847861c3",
+    "question": "¿Cuál es un verbo en tiempo presente?",
+    "options": {
+      "a": "Comeré",
+      "b": "Comí",
+      "c": "Como",
+      "d": "Comía"
+    },
+    "correct_answer": null,
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "9d9231bd-9a8f-49a9-80f4-bd5d1cd8be8e",
+    "question": "¿Qué palabra es un sustantivo?",
+    "options": {
+      "a": "Bello",
+      "b": "Alegre",
+      "c": "Mesa",
+      "d": "Rápido"
+    },
+    "correct_answer": null,
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "7b9bdb15-19b7-4608-ab5e-0940b2860f85",
+    "question": "¿Cuál es un adjetivo calificativo?",
+    "options": {
+      "a": "Alegre",
+      "b": "Mesa",
+      "c": "Rápido",
+      "d": "Jugar"
+    },
+    "correct_answer": "a",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "48ea9e76-3377-4b8c-aa60-655bd58b9c25",
+    "question": "¿Qué tipo de palabra es “nosotros”?",
+    "options": {
+      "a": "Verbo",
+      "b": "Adjetivo",
+      "c": "Pronombre",
+      "d": "Sustantivo"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "9759e2ab-4668-4d7c-a7e8-73b6b2152744",
+    "question": "¿Cuál de las siguientes es una oración simple?",
+    "options": {
+      "a": "Pedro corre y salta",
+      "b": "Porque llueve, no salgo",
+      "c": "El niño que juega es mi hermano",
+      "d": "Salí temprano pero llegué tarde"
+    },
+    "correct_answer": "a",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "750a32e8-44f8-49ff-88eb-ddbe42f5f851",
+    "question": "¿Cuál de estas oraciones tiene sujeto tácito?",
+    "options": {
+      "a": "Vamos al cine.",
+      "b": "Ellos van al cine.",
+      "c": "Nosotros vamos al cine.",
+      "d": "Tú vas al cine."
+    },
+    "correct_answer": "a",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "48dc22ab-3b5f-41ae-a209-90dd7d2aa745",
+    "question": "¿Cuál de los siguientes es un sinónimo de “alegre”?",
+    "options": {
+      "a": "Triste",
+      "b": "Feliz",
+      "c": "Gritar",
+      "d": "Dormir"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "b89f6755-5b6b-4adf-97a2-1d2bae80fdfd",
+    "question": "¿Qué palabra es un antónimo de “fuerte”?",
+    "options": {
+      "a": "Poderoso",
+      "b": "Rígido",
+      "c": "Débil",
+      "d": "Valiente"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "cd3cd803-060f-4e09-a829-57e4577a036e",
+    "question": "¿Cuál de las siguientes oraciones está en tiempo futuro?",
+    "options": {
+      "a": "Comí arroz",
+      "b": "Comeré arroz",
+      "c": "Como arroz",
+      "d": "Comía arroz"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "5de086b1-6971-4c0c-8350-3bd36d3a1787",
+    "question": "¿Qué clase de oración es “Cierra la puerta”?",
+    "options": {
+      "a": "Interrogativa",
+      "b": "Exclamativa",
+      "c": "Declarativa",
+      "d": "Imperativa"
+    },
+    "correct_answer": "d",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "c595b7e8-9e8b-4238-bf24-3a47e7dce5f7",
+    "question": "¿Qué palabra es un sustantivo abstracto?",
+    "options": {
+      "a": "Mesa",
+      "b": "Libro",
+      "c": "Belleza",
+      "d": "Flor"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "d07f43ff-bf65-4402-bb8b-f3e7b95ea96d",
+    "question": "¿Qué palabra es un adverbio de lugar?",
+    "options": {
+      "a": "Mañana",
+      "b": "Aquí",
+      "c": "Rápidamente",
+      "d": "Nunca"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "1d8b05fe-07b7-4b2f-a23c-28614a540514",
+    "question": "¿Cuál es una oración bimembre?",
+    "options": {
+      "a": "Llueve.",
+      "b": "Salta.",
+      "c": "La casa es grande.",
+      "d": "¡Silencio!"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "4d16dc86-09e6-495d-950a-a9164793fbbd",
+    "question": "¿Cuál es una conjunción?",
+    "options": {
+      "a": "El",
+      "b": "Muy",
+      "c": "Y",
+      "d": "Está"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "2c207608-5afd-4ac2-9a14-753496dd2369",
+    "question": "¿Qué palabra es un verbo en infinitivo?",
+    "options": {
+      "a": "Corro",
+      "b": "Corre",
+      "c": "Correr",
+      "d": "Corriendo"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "328a19b8-0b4a-49da-af27-295dd02b72d9",
+    "question": "¿Cuál oración es interrogativa?",
+    "options": {
+      "a": "¡Qué calor hace!",
+      "b": "¿Vendrás mañana?",
+      "c": "Hoy es lunes.",
+      "d": "Ven aquí."
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "f2e3b10e-1a88-4237-9d50-9f6bc88b4ead",
+    "question": "¿Qué es una palabra aguda?",
+    "options": {
+      "a": "Lleva tilde si termina en n, s o vocal",
+      "b": "Lleva tilde si termina en consonante distinta de n o s",
+      "c": "No lleva tilde",
+      "d": "Siempre lleva tilde"
+    },
+    "correct_answer": "a",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "fa4e4fa6-829c-4659-90b7-a397527bcefa",
+    "question": "¿Cuál es una palabra esdrújula?",
+    "options": {
+      "a": "Canción",
+      "b": "Rápidamente",
+      "c": "Camión",
+      "d": "Balón"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "5385576a-2222-46cf-a0dd-6bb6463d2574",
+    "question": "¿Cuál es la función principal del verbo en una oración?",
+    "options": {
+      "a": "Describir un objeto",
+      "b": "Nombrar personas o cosas",
+      "c": "Indicar una acción o estado",
+      "d": "Unir dos frases"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "c3491d26-f73b-4350-82f0-7e6065fc0047",
+    "question": "¿Qué tipo de sustantivo es “felicidad”?",
+    "options": {
+      "a": "Concreto",
+      "b": "Abstracto",
+      "c": "Común",
+      "d": "Propio"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "e5166c86-2f8e-4b8c-8811-82d24e7ff4fc",
+    "question": "¿Qué es un adjetivo?",
+    "options": {
+      "a": "Una palabra que reemplaza al sustantivo",
+      "b": "Una palabra que indica una acción",
+      "c": "Una palabra que describe al sustantivo",
+      "d": "Una palabra que conecta oraciones"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "7847e912-566d-46d7-8f16-122542750634",
+    "question": "¿Cuál de estas palabras es un adverbio de tiempo?",
+    "options": {
+      "a": "Lejos",
+      "b": "Hoy",
+      "c": "Bien",
+      "d": "Siempre"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "12eb8bf8-6751-4163-b481-ce694956e9c1",
+    "question": "¿Cuál es una oración unimembre?",
+    "options": {
+      "a": "Ana estudia matemáticas.",
+      "b": "¡Fuego!",
+      "c": "Pedro juega al fútbol.",
+      "d": "Me gustan las frutas."
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "f10e49d0-4e81-401d-a7ff-fdf68e29ac86",
+    "question": "¿Qué oración es bimembre?",
+    "options": {
+      "a": "¡Silencio!",
+      "b": "¡Ay!",
+      "c": "Llueve.",
+      "d": "El perro ladra."
+    },
+    "correct_answer": "d",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "72a5c4bc-b3fd-4e58-9ce3-857ffb4f8065",
+    "question": "¿Qué tipo de oración es “¿Cómo te llamás?”?",
+    "options": {
+      "a": "Exclamativa",
+      "b": "Imperativa",
+      "c": "Interrogativa",
+      "d": "Declarativa"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "92988d5c-ed8f-4e8e-8416-56f817ac4fa9",
+    "question": "¿Cuál es un sinónimo de “rápido”?",
+    "options": {
+      "a": "Veloz",
+      "b": "Lento",
+      "c": "Pesado",
+      "d": "Débil"
+    },
+    "correct_answer": "a",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "d1246b2f-bec0-4cb8-8e2d-f229495ddc85",
+    "question": "¿Cuál es un antónimo de “alegre”?",
+    "options": {
+      "a": "Contenta",
+      "b": "Feliz",
+      "c": "Triste",
+      "d": "Animada"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "70164060-5b98-4e0f-bd6b-aac7a4d243ab",
+    "question": "¿Qué palabra es un pronombre personal?",
+    "options": {
+      "a": "Alegre",
+      "b": "Nosotros",
+      "c": "Mesa",
+      "d": "Rápido"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "1fca414c-81a2-4bc9-adf7-7691029e617c",
+    "question": "¿Cuál de las siguientes oraciones tiene verbo en pretérito imperfecto?",
+    "options": {
+      "a": "Comía pan",
+      "b": "Comeré pan",
+      "c": "He comido pan",
+      "d": "Como pan"
+    },
+    "correct_answer": "a",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "a0378874-7fac-416a-a8b2-f4976f5bdfd8",
+    "question": "¿Cuál de estas palabras es un sustantivo propio?",
+    "options": {
+      "a": "Mujer",
+      "b": "Perro",
+      "c": "Pedro",
+      "d": "Gato"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "0e1b38f2-1a91-4cc5-9e73-eafd2a9b275c",
+    "question": "¿Qué es una conjunción?",
+    "options": {
+      "a": "Palabra que nombra un objeto",
+      "b": "Palabra que indica lugar",
+      "c": "Palabra que une otras palabras u oraciones",
+      "d": "Palabra que expresa emociones"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "13d21f82-17e4-41e9-a0ed-5f67749c4139",
+    "question": "¿Qué oración contiene un verbo en futuro?",
+    "options": {
+      "a": "Cocinaba sopa",
+      "b": "Cocinaré sopa",
+      "c": "Cocina sopa",
+      "d": "Cocinó sopa"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "4714739e-6482-4d86-a5c8-a0f7fe460da4",
+    "question": "¿Qué tipo de palabra es “nosotras”?",
+    "options": {
+      "a": "Verbo",
+      "b": "Pronombre",
+      "c": "Conjunción",
+      "d": "Adjetivo"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "31a8be5f-3272-4406-a1da-39761b129221",
+    "question": "¿Cuál de las siguientes palabras es un adjetivo calificativo?",
+    "options": {
+      "a": "Jugar",
+      "b": "Feliz",
+      "c": "Yo",
+      "d": "Mesa"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "1e8ff82e-976e-4f62-83c1-d4897a0288c2",
+    "question": "¿Qué palabra es un verbo en primera persona del singular en presente?",
+    "options": {
+      "a": "Caminás",
+      "b": "Caminan",
+      "c": "Camino",
+      "d": "Caminaba"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "4e2ae4f3-a56c-4cb5-a96c-cdcad01323ea",
+    "question": "¿Qué tipo de oración es: “Lavate las manos”?",
+    "options": {
+      "a": "Exclamativa",
+      "b": "Declarativa",
+      "c": "Imperativa",
+      "d": "Interrogativa"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "b66231ad-275c-46b2-baf1-64cdd3ea1b13",
+    "question": "¿Qué oración tiene sujeto expreso?",
+    "options": {
+      "a": "Estudiamos mucho.",
+      "b": "Vamos a la plaza.",
+      "c": "María lee libros.",
+      "d": "Cantamos juntos."
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "c4d113ee-8170-40a1-846f-ab34e386576f",
+    "question": "¿Cuál es una palabra grave o llana?",
+    "options": {
+      "a": "Corazón",
+      "b": "Árbol",
+      "c": "Sofá",
+      "d": "Café"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "cc349a83-cd18-420b-ac77-4a391d503cdb",
+    "question": "¿Qué es una oración compuesta?",
+    "options": {
+      "a": "Una oración con un solo verbo",
+      "b": "Una oración con sujeto y predicado",
+      "c": "Una oración que tiene dos o más verbos unidos",
+      "d": "Una oración exclamativa"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "8bed3436-022d-4c79-8d14-f1d64da3790e",
+    "question": "¿Cuál es una oración interrogativa indirecta?",
+    "options": {
+      "a": "¿Vendrás mañana?",
+      "b": "Me preguntó si vendría mañana.",
+      "c": "¡Vendrás mañana!",
+      "d": "Vendrás mañana."
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "25a05218-e8a0-4e6a-bdad-b571a98b69e6",
+    "question": "¿Qué función cumple el sujeto en la oración?",
+    "options": {
+      "a": "Expresa la acción",
+      "b": "Une palabras",
+      "c": "Indica quién realiza la acción",
+      "d": "Da énfasis"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "ea481114-630e-4af5-a283-6c9d43899f70",
+    "question": "¿Qué oración tiene sujeto tácito?",
+    "options": {
+      "a": "Yo corro todos los días.",
+      "b": "Corremos en la plaza.",
+      "c": "Pedro corre todos los días.",
+      "d": "María y Ana corren."
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "9991372f-56d6-4b47-b723-a894b477dc05",
+    "question": "¿Cuál de estas palabras es un sustantivo colectivo?",
+    "options": {
+      "a": "Perro",
+      "b": "Bosque",
+      "c": "Árbol",
+      "d": "Flor"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "2b1e456e-524a-4175-89a7-3ab6b560e1fb",
+    "question": "¿Qué tipo de sujeto hay en la oración: “Los perros y los gatos duermen tranquilos”?",
+    "options": {
+      "a": "Sujeto tácito",
+      "b": "Sujeto simple",
+      "c": "Sujeto compuesto",
+      "d": "Sujeto inverosímil"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "293d6655-5853-484d-8d38-044dfb6e62db",
+    "question": "¿Qué tipo de predicado tiene la oración “El cielo está nublado”?",
+    "options": {
+      "a": "Verbal",
+      "b": "Nominal",
+      "c": "Compuesto",
+      "d": "Adjetival"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "8fb89b79-623f-411c-8478-0feffbc7d0ac",
+    "question": "¿Cuál es un complemento circunstancial de lugar?",
+    "options": {
+      "a": "Rápidamente",
+      "b": "En la casa",
+      "c": "Por la tarde",
+      "d": "Con alegría"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "00b52906-3155-4b5f-8d6c-56ab8a5fb097",
+    "question": "¿Qué oración tiene un complemento directo?",
+    "options": {
+      "a": "Juan come manzanas.",
+      "b": "María estudia mucho.",
+      "c": "Vamos al cine.",
+      "d": "Camina rápido."
+    },
+    "correct_answer": "a",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "492f1657-4898-4549-8db1-edafb068c77e",
+    "question": "¿Cuál es el núcleo del sujeto en la oración “El gato negro duerme”?",
+    "options": {
+      "a": "El",
+      "b": "Gato",
+      "c": "Negro",
+      "d": "Duerme"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "2a101382-e39b-4468-bb55-d5d390850321",
+    "question": "¿Qué tipo de oración es “¡Ayuda!”?",
+    "options": {
+      "a": "Declarativa",
+      "b": "Interrogativa",
+      "c": "Exclamativa",
+      "d": "Imperativa"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "f97a5507-c90d-4e14-8e4b-0d67d891d793",
+    "question": "¿Qué función cumple el adjetivo en una oración?",
+    "options": {
+      "a": "Reemplaza al verbo",
+      "b": "Describe al sustantivo",
+      "c": "Nombra acciones",
+      "d": "Une palabras"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "8ca8c1f3-5987-44fd-8ac4-f88c295b9a9a",
+    "question": "¿Qué palabra es un pronombre demostrativo?",
+    "options": {
+      "a": "Yo",
+      "b": "Nosotros",
+      "c": "Ese",
+      "d": "Tú"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "37be895b-d013-4fe3-b2f5-608b3d48af06",
+    "question": "¿Qué palabra tiene diptongo?",
+    "options": {
+      "a": "País",
+      "b": "Cielo",
+      "c": "Poeta",
+      "d": "Frío"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "32c17d3a-10a3-4f78-b1c7-4d752d0c5679",
+    "question": "¿Qué oración contiene un complemento circunstancial de tiempo?",
+    "options": {
+      "a": "Estudia con atención.",
+      "b": "Camina despacio.",
+      "c": "Canta todos los días.",
+      "d": "Vive cerca."
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "c3e2b87e-d050-4206-b566-3d1b6d19e951",
+    "question": "¿Cuál es el sujeto de la oración “Llovía mucho en la ciudad”?",
+    "options": {
+      "a": "La ciudad",
+      "b": "Llovía",
+      "c": "Mucho",
+      "d": "No tiene sujeto expreso"
+    },
+    "correct_answer": "d",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "ca0738d2-2c19-47cf-bbc7-217897213cae",
+    "question": "¿Cuál de estas oraciones tiene predicado verbal?",
+    "options": {
+      "a": "Juan es alegre.",
+      "b": "La niña está cansada.",
+      "c": "El perro ladra fuerte.",
+      "d": "El día está hermoso."
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "40c7e85d-a0d4-4b31-8962-e9b00a05a701",
+    "question": "¿Qué es una oración pasiva?",
+    "options": {
+      "a": "El sujeto realiza la acción",
+      "b": "El verbo es reflexivo",
+      "c": "El sujeto recibe la acción",
+      "d": "El verbo está en infinitivo"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "95ad22a1-d9d0-419d-87b5-a4ccabc2b5f1",
+    "question": "¿Cuál de estas palabras lleva tilde por ser una esdrújula?",
+    "options": {
+      "a": "Silla",
+      "b": "Árbol",
+      "c": "Matemática",
+      "d": "León"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "ca3cbf11-7a2e-4271-81cf-82baf44d6166",
+    "question": "¿Cuál es un ejemplo de oración negativa?",
+    "options": {
+      "a": "No tengo hambre.",
+      "b": "Tengo mucha hambre.",
+      "c": "¿Tenés hambre?",
+      "d": "¡Qué hambre tengo!"
+    },
+    "correct_answer": "a",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "7ac0b0af-133d-49d4-bf88-e0222785d4db",
+    "question": "¿Qué tipo de oración es \"No quiero que te vayas\"?",
+    "options": {
+      "a": "Simple",
+      "b": "Compuesta subordinada",
+      "c": "Coordinada copulativa",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "13202e68-4783-41c3-ab57-3cd1b1edd07b",
+    "question": "¿Qué palabra es una preposición?",
+    "options": {
+      "a": "Aunque",
+      "b": "Hacia",
+      "c": "Muy",
+      "d": "Esta"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "db479d7b-05b3-4d75-9234-9adc1dff5bb0",
+    "question": "¿Cuál es el complemento circunstancial de causa en \"Lloró por tristeza\"?",
+    "options": {
+      "a": "Por",
+      "b": "Tristeza",
+      "c": "Lloró",
+      "d": "Por tristeza"
+    },
+    "correct_answer": "d",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "2134c530-b485-4e8f-be28-3961b38b32ad",
+    "question": "¿Qué oración tiene estructura pasiva?",
+    "options": {
+      "a": "Se rompió el jarrón.",
+      "b": "El jarrón fue roto por el niño.",
+      "c": "Rompieron el jarrón.",
+      "d": "El niño rompe el jarrón."
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "6ac589ec-a7c1-4e4d-9ef9-80d807aa3e9a",
+    "question": "¿Qué oración tiene un verbo en modo subjuntivo?",
+    "options": {
+      "a": "Yo canto bien.",
+      "b": "Ojalá vengas mañana.",
+      "c": "Tú corriste rápido.",
+      "d": "Vendré temprano."
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "df399658-7b16-45f3-bb54-296c4f9d9fd4",
+    "question": "¿Cuál oración expresa una condición?",
+    "options": {
+      "a": "Saldré aunque llueva.",
+      "b": "Si estudias, aprobarás.",
+      "c": "Vendrá porque quiere.",
+      "d": "Dijo que volvería."
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "9c2ad51f-101b-4cc5-ae13-365e71c9a353",
+    "question": "¿Qué tipo de oración es \"La casa que compró es grande\"?",
+    "options": {
+      "a": "Simple",
+      "b": "Coordinada",
+      "c": "Subordinada adjetiva",
+      "d": "Yuxtapuesta"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "ae13ea78-29b7-4433-8a20-c89aaa0c4223",
+    "question": "¿Qué tipo de oración es \"Comé antes que se enfríe\"?",
+    "options": {
+      "a": "Subordinada causal",
+      "b": "Subordinada consecutiva",
+      "c": "Subordinada temporal",
+      "d": "Subordinada final"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "64110fb9-8620-4d95-b1c5-ed45d741e193",
+    "question": "¿Cuál es el verbo en la oración \"El alumno fue felicitado por su esfuerzo\"?",
+    "options": {
+      "a": "Alumno",
+      "b": "Fue felicitado",
+      "c": "Esfuerzo",
+      "d": "Por"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "3ceb7381-5cf9-4fb1-a665-8f28209cd8ee",
+    "question": "¿Qué función cumple \"de mis padres\" en \"Los consejos de mis padres son sabios\"?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Complemento circunstancial",
+      "c": "Complemento del nombre",
+      "d": "Aposición"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "a81e4bd1-1355-40e6-8240-107d3f4ec380",
+    "question": "¿Qué tipo de oración es: \"¡Ojalá terminemos a tiempo!\"?",
+    "options": {
+      "a": "Dubitativa",
+      "b": "Exhortativa",
+      "c": "Desiderativa",
+      "d": "Enunciativa"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "15294498-de4d-4745-9c3b-bde08f5ba3db",
+    "question": "¿Qué tipo de conector es \"por lo tanto\"?",
+    "options": {
+      "a": "Adversativo",
+      "b": "Concesivo",
+      "c": "Causal",
+      "d": "Consecutivo"
+    },
+    "correct_answer": "d",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "8247963e-6ec0-411f-abe2-736502e15077",
+    "question": "¿Qué tipo de subordinada es \"que estudia medicina\" en \"La chica que estudia medicina es mi amiga\"?",
+    "options": {
+      "a": "Sustantiva",
+      "b": "Adjetiva",
+      "c": "Adverbial",
+      "d": "Apositiva"
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "2c423ace-0228-4d93-8ea9-b117994f7388",
+    "question": "¿Cuál oración está correctamente puntuada?",
+    "options": {
+      "a": "Si vienes te espero.",
+      "b": "Te espero si vienes.",
+      "c": "Te espero, si vienes.",
+      "d": "Si vienes te espero, pero no tardes."
+    },
+    "correct_answer": "b",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "14e23cdc-62f0-4bcf-a7cb-505e50804a19",
+    "question": "¿Qué oración tiene complemento circunstancial de compañía?",
+    "options": {
+      "a": "Viajó con sus amigos.",
+      "b": "Fue al cine.",
+      "c": "Escribió con tinta.",
+      "d": "Llegó por la lluvia."
+    },
+    "correct_answer": "a",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "3306ca7e-d1a4-493f-beb9-f8c28484c985",
+    "question": "¿Qué función cumple \"que me diste\" en \"El libro que me diste es interesante\"?",
+    "options": {
+      "a": "Sujeto",
+      "b": "Complemento directo",
+      "c": "Oración subordinada adjetiva",
+      "d": "Complemento circunstancial"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.194Z",
+    "imported_at": "2025-08-08T17:38:52.194Z",
+    "source": "import_script"
+  },
+  {
+    "id": "96371318-5972-409b-b5de-bf348eb5065c",
+    "question": "¿Cuál es el sustantivo abstracto?",
+    "options": {
+      "a": "Felicidad",
+      "b": "Mesa",
+      "c": "Árbol",
+      "d": "Niño"
+    },
+    "correct_answer": "a",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.194Z",
+    "updated_at": "2025-08-08T17:38:52.195Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "be2f723b-6e0b-4904-9b7a-b229e3a52ae1",
+    "question": "¿Qué oración contiene una aposición explicativa?",
+    "options": {
+      "a": "Mi hermana Ana vino.",
+      "b": "Ana mi hermana vino.",
+      "c": "Ana, mi hermana, vino.",
+      "d": "Mi hermana es Ana."
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.195Z",
+    "updated_at": "2025-08-08T17:38:52.195Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "cbb06df2-2ef8-424d-aae9-ba9b761f8496",
+    "question": "¿Qué oración tiene predicado verbal simple?",
+    "options": {
+      "a": "Pedro corre.",
+      "b": "Pedro corre y salta.",
+      "c": "Pedro está feliz.",
+      "d": "Pedro es doctor."
+    },
+    "correct_answer": "a",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.195Z",
+    "updated_at": "2025-08-08T17:38:52.195Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "aa4e39c0-f759-4389-ad2d-324867b99238",
+    "question": "¿Qué tipo de subordinada es \"porque llovía\"?",
+    "options": {
+      "a": "Consecutiva",
+      "b": "Concesiva",
+      "c": "Causal",
+      "d": "Condicional"
+    },
+    "correct_answer": "c",
+    "subject": "Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "",
+    "created_at": "2025-08-08T17:38:52.195Z",
+    "updated_at": "2025-08-08T17:38:52.195Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "gen_cast_001",
+    "question": "¿Cuál es la oración correctamente escrita?",
+    "options": {
+      "a": "el Sol brilla",
+      "b": "El sol brilla",
+      "c": "El Sol brilla",
+      "d": "El sol Brilla"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "Los nombres propios (Sol) deben escribirse con mayúscula inicial, así como el comienzo de oración.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "gen_cast_002",
+    "question": "¿Qué tipo de oración es '¡Qué hermosa mañana!'?",
+    "options": {
+      "a": "Declarativa",
+      "b": "Exclamativa",
+      "c": "Interrogativa",
+      "d": "Imperativa"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "Las oraciones exclamativas expresan emociones o sentimientos y van entre signos de exclamación.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "gen_cast_003",
+    "question": "¿Cuál es el plural correcto de 'análisis'?",
+    "options": {
+      "a": "análisis",
+      "b": "análisises",
+      "c": "analisises",
+      "d": "análises"
+    },
+    "correct_answer": "a",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 2,
+    "explanation": "Las palabras terminadas en -s que no son agudas mantienen la misma forma en singular y plural.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "gen_cast_004",
+    "question": "En guaraní, ¿cómo se dice 'agua'?",
+    "options": {
+      "a": "ysyry",
+      "b": "y",
+      "c": "ka'a",
+      "d": "ára"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "'Y' es la palabra guaraní para agua.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "gen_cast_005",
+    "question": "¿Cuál es la función del sujeto en la oración 'María estudia medicina'?",
+    "options": {
+      "a": "Complemento directo",
+      "b": "Predicado",
+      "c": "Realizar la acción del verbo",
+      "d": "Complemento indirecto"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 2,
+    "explanation": "El sujeto es quien realiza o padece la acción expresada por el verbo.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "gen_cast_006",
+    "question": "En guaraní, ¿qué significa 'mitã'?",
+    "options": {
+      "a": "Mujer",
+      "b": "Hombre",
+      "c": "Niño/niña",
+      "d": "Anciano"
+    },
+    "correct_answer": "c",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "'Mitã' en guaraní significa niño o niña.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "gen_cast_007",
+    "question": "¿Cuál es el antónimo de 'bonito'?",
+    "options": {
+      "a": "Hermoso",
+      "b": "Feo",
+      "c": "Agradable",
+      "d": "Lindo"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "Los antónimos son palabras que expresan ideas opuestas. 'Feo' es lo contrario de 'bonito'.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "gen_cast_008",
+    "question": "¿Cuál es la forma correcta de escribir el número 'quinientos'?",
+    "options": {
+      "a": "500",
+      "b": "quinientos",
+      "c": "cincocientos",
+      "d": "quincentos"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 1,
+    "explanation": "La forma correcta de escribir 500 en letras es 'quinientos'.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "gen_cast_009",
+    "question": "En la oración '¿Dónde vives?', ¿qué palabra es el adverbio interrogativo?",
+    "options": {
+      "a": "¿",
+      "b": "Dónde",
+      "c": "vives",
+      "d": "?"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 2,
+    "explanation": "'Dónde' es un adverbio interrogativo que pregunta por el lugar.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  },
+  {
+    "id": "gen_cast_010",
+    "question": "¿Cuál es el tiempo verbal de 'había estudiado'?",
+    "options": {
+      "a": "Pretérito perfecto",
+      "b": "Pretérito pluscuamperfecto",
+      "c": "Pretérito imperfecto",
+      "d": "Futuro perfecto"
+    },
+    "correct_answer": "b",
+    "subject": "Examen General Castellano y Guaraní",
+    "difficulty": 3,
+    "explanation": "El pretérito pluscuamperfecto se forma con el verbo 'haber' en pretérito imperfecto + participio.",
+    "created_at": "2025-01-08T00:00:00.000Z",
+    "updated_at": "2025-01-08T00:00:00.000Z",
+    "imported_at": "2025-08-08T17:38:52.195Z",
+    "source": "import_script"
+  }
+]

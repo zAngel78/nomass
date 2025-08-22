@@ -1,0 +1,254 @@
+[
+  {
+    "question": "1. ¿Cuál es la finalidad principal de la lectura comprensiva?",
+    "options": [
+      "Memorizar todo el texto",
+      "Entender y reflexionar sobre el contenido",
+      "Leer rápidamente",
+      "Traducir frases al idioma nativo",
+      "Copiar el texto palabra por palabra"
+    ],
+    "correctAnswer": 1,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "3. ¿Dónde se encuentra usualmente la idea principal en un párrafo?",
+    "options": [
+      "Al final del párrafo",
+      "En la mitad del texto",
+      "Al principio del párrafo",
+      "En el título",
+      "En la conclusión"
+    ],
+    "correctAnswer": 2,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "4. ¿Cuál de los siguientes NO es un tipo de párrafo?",
+    "options": [
+      "Descriptivo",
+      "Narrativo",
+      "Interrogativo",
+      "Argumentativo",
+      "Expositivo"
+    ],
+    "correctAnswer": 2,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "5. ¿Qué característica debe tener un párrafo para ser coherente?",
+    "options": [
+      "Que tenga muchas oraciones",
+      "Que solo tenga oraciones simples",
+      "Que todas las oraciones estén relacionadas entre sí",
+      "Que tenga citas textuales",
+      "Que use palabras complicadas"
+    ],
+    "correctAnswer": 2,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "6. ¿Qué tipo de preguntas se debe hacer para una buena lectura comprensiva?",
+    "options": [
+      "Preguntas de memoria exacta",
+      "Preguntas sobre el color del texto",
+      "Preguntas que ayuden a analizar y entender el texto",
+      "Preguntas sin respuesta",
+      "Preguntas que solo respondan con sí o no"
+    ],
+    "correctAnswer": 2,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "7. ¿Cuál es la función de la oración temática en un párrafo?",
+    "options": [
+      "Dar ejemplos",
+      "Cerrar el párrafo",
+      "Presentar la idea principal",
+      "Describir personajes",
+      "Añadir un dato curioso"
+    ],
+    "correctAnswer": 2,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "8. ¿Qué se entiende por “cohesión” en un texto?",
+    "options": [
+      "El uso de mayúsculas",
+      "La conexión lógica entre oraciones y párrafos",
+      "La longitud del texto",
+      "El tamaño de la letra",
+      "La cantidad de imágenes"
+    ],
+    "correctAnswer": 1,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "9. ¿Cuál de las siguientes opciones es una buena estrategia para mejorar la comprensión lectora?",
+    "options": [
+      "Leer sin pausas",
+      "Hacer resúmenes de lo leído",
+      "Leer solo los títulos",
+      "Memorizar párrafos completos",
+      "Ignorar palabras desconocidas"
+    ],
+    "correctAnswer": 1,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "10. ¿Qué debe contener un párrafo conclusivo?",
+    "options": [
+      "Nuevas ideas",
+      "Un resumen o cierre de lo expuesto",
+      "Preguntas abiertas",
+      "Detalles secundarios",
+      "Datos irrelevantes"
+    ],
+    "correctAnswer": 1,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "11. ¿Qué se considera un error al buscar la idea principal?",
+    "options": [
+      "Leer todo el texto",
+      "Subrayar palabras clave",
+      "Tomar una idea secundaria como principal",
+      "Analizar el título",
+      "Releer el párrafo"
+    ],
+    "correctAnswer": 2,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "12. ¿Cuál de los siguientes textos presenta ideas principales claramente diferenciadas?",
+    "options": [
+      "Un poema abstracto",
+      "Un artículo científico",
+      "Una conversación informal",
+      "Una novela compleja",
+      "Un texto humorístico"
+    ],
+    "correctAnswer": 1,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "14. ¿Qué es una inferencia en la lectura?",
+    "options": [
+      "Leer palabras complicadas",
+      "Deducir información no explícita",
+      "Subrayar frases importantes",
+      "Traducir el texto",
+      "Copiar ideas principales"
+    ],
+    "correctAnswer": 1,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "15. ¿Cuál es el orden correcto para construir un párrafo?",
+    "options": [
+      "Cierre, desarrollo, introducción",
+      "Desarrollo, introducción, cierre",
+      "Introducción, desarrollo, cierre",
+      "Oración temática, conclusión, ejemplo",
+      "Detalle, idea principal, conclusión"
+    ],
+    "correctAnswer": 2,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "16. ¿Qué función cumple un conector adversativo?",
+    "options": [
+      "Indicar causa",
+      "Mostrar contraste",
+      "Enumerar ideas",
+      "Añadir información",
+      "Expresar consecuencia"
+    ],
+    "correctAnswer": 1,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "17. ¿Por qué es importante identificar la idea central?",
+    "options": [
+      "Para repetirla en voz alta",
+      "Para comprender el mensaje principal del texto",
+      "Para copiarla en un resumen",
+      "Para memorizar sin entender",
+      "Para subrayar sin leer"
+    ],
+    "correctAnswer": 1,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "18. ¿Qué indica el uso correcto de signos de puntuación?",
+    "options": [
+      "Que el texto es largo",
+      "Claridad y orden en las ideas",
+      "Que el texto es informal",
+      "Que el texto es un poema",
+      "Que no hay errores"
+    ],
+    "correctAnswer": 1,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "19. ¿Cuál es la diferencia entre párrafo expositivo y argumentativo?",
+    "options": [
+      "Ambos tienen la misma función",
+      "El expositivo explica y el argumentativo persuade",
+      "El argumentativo es más corto",
+      "El expositivo usa solo verbos en presente",
+      "No tienen diferencia"
+    ],
+    "correctAnswer": 1,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  },
+  {
+    "question": "20. ¿Qué debe evitarse para una buena comprensión lectora?",
+    "options": [
+      "Leer con atención",
+      "Saltar palabras desconocidas sin entenderlas",
+      "Subrayar ideas principales",
+      "Analizar el contexto",
+      "Hacer resúmenes"
+    ],
+    "correctAnswer": 1,
+    "subject": "Castellano y Guaraní",
+    "difficulty": "normal",
+    "category": "Normal"
+  }
+]
