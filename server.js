@@ -13,6 +13,7 @@ const authRouter = require('./routes/auth');
 const statsRouter = require('./routes/stats');
 const badgesRouter = require('./routes/badges');
 const partsRouter = require('./routes/parts');
+const subscriptionsRouter = require('./routes/subscriptions');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -50,6 +51,7 @@ app.use('/api/auth', authRouter);
 app.use('/api/stats', statsRouter);
 app.use('/api/badges', badgesRouter);
 app.use('/api/parts', partsRouter);
+app.use('/api/subscriptions', subscriptionsRouter);
 
 // Ruta de salud
 app.get('/api/health', (req, res) => {
@@ -72,7 +74,8 @@ app.get('/', (req, res) => {
       '/api/ranking',
       '/api/quiz',
       '/api/stats',
-      '/api/badges'
+      '/api/badges',
+      '/api/subscriptions'
     ],
     admin: {
       dashboard: '/admin',
