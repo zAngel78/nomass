@@ -338,12 +338,14 @@ router.get('/user/:userId/total-points', async (req, res) => {
 
         // Obtener todos los puntos de partes del usuario
         const totalPoints = await examPartsManager.getUserTotalPoints(userId);
+        const todayPoints = await examPartsManager.getUserTodayPoints(userId);
 
         res.json({
             success: true,
             data: {
                 userId,
                 totalPoints,
+                todayPoints,
                 lastUpdated: new Date().toISOString()
             }
         });

@@ -390,6 +390,39 @@ class ExamPartsManager {
             return 0;
         }
     }
+
+    // Obtener puntos ganados hoy por un usuario
+    async getUserTodayPoints(userId) {
+        try {
+            // Leer resultados de partes del día actual
+            const partResults = await fileStorage.readFile('part_results');
+            const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+            
+            const todayResults = partResults.filter(result => 
+                result.userId === userId && 
+                result.completedAt.startsWith(today) &&
+                result.metadata?.partCompleted === true
+            );
+            
+            let todayPoints = 0;
+            
+            for (const result of todayResults) {
+                // Calcular puntos para este resultado
+                const allQuestions = await require('./questionLoader').getQuestionsBySubjectAndType(result.subject, result.examType);
+                const totalParts = this.calculateTotalParts(allQuestions.length, result.subject);
+                const pointsPerPart = 20 / totalParts;
+                
+                todayPoints += pointsPerPart;
+            }
+            
+            console.log(`📊 Puntos ganados hoy por usuario ${userId}: ${todayPoints.toFixed(2)}`);
+            return Math.round(todayPoints * 100) / 100; // Redondear a 2 decimales
+            
+        } catch (error) {
+            console.error('Error calculando puntos de hoy:', error);
+            return 0;
+        }
+    }
 }
 
 module.exports = new ExamPartsManager();
