@@ -1011,6 +1011,20 @@
     "correctAnswer": "13\t\tb.  13/5\t\tc.   1/5\t\td.   5\t\te.   1/13"
   },
   {
+    "id": "math_norm_117",
+    "question": "733 250\t\tb.   659 925   \t c.   53 325\t\td.   73 325\t\te.   216 750",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "El resultado obtenido al efectuar las operaciones indicadas:",
+      "35/32",
+      "175/184",
+      "95/92"
+    ],
+    "correctAnswer": "El resultado obtenido al efectuar las operaciones indicadas:"
+  },
+  {
     "id": "math_norm_118",
     "question": "Si al resultado de:  le adicionamos  obtenemos:",
     "subject": "Matemáticas",
@@ -2356,6 +2370,20 @@
     "correctAnswer": "1/6"
   },
   {
+    "id": "math_norm_258",
+    "question": "Ordena el polinomio en forma descendente y calcula el cociente:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "Efectuar:",
+      "ab",
+      "Divide aplicando el método de Ruffini:",
+      "Ninguna de las anteriores"
+    ],
+    "correctAnswer": "Efectuar:"
+  },
+  {
     "id": "math_norm_259",
     "question": "Divide aplicando el método de Ruffini:",
     "subject": "Matemáticas",
@@ -2503,6 +2531,20 @@
     "correctAnswer": "1"
   },
   {
+    "id": "math_norm_272",
+    "question": "Al efectuar:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "0",
+      "1",
+      "Al sumar:  resulta:",
+      "2/ab"
+    ],
+    "correctAnswer": "0"
+  },
+  {
     "id": "math_norm_274",
     "question": "Simplificar:",
     "subject": "Matemáticas",
@@ -2517,6 +2559,20 @@
     "correctAnswer": "N.d.a."
   },
   {
+    "id": "math_norm_275",
+    "question": "La expresión simplificada de:  es:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "Al efectuar la operación indicada y simplificar",
+      "Multiplicar:",
+      "d.a.",
+      "Ninguna de las anteriores"
+    ],
+    "correctAnswer": "Al efectuar la operación indicada y simplificar"
+  },
+  {
     "id": "math_norm_276",
     "question": "Al simplificar la siguiente expresión el resultado obtenido es el opuesto de:",
     "subject": "Matemáticas",
@@ -2527,6 +2583,20 @@
       "8",
       "Ninguna de las anteriores",
       "No se puede determinar"
+    ],
+    "correctAnswer": "N.d.a."
+  },
+  {
+    "id": "math_norm_277",
+    "question": "Al simplificar la expresión ; se obtiene:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "N.d.a.",
+      "Efectuando:",
+      "(a+b)/ab",
+      "Ninguna de las anteriores"
     ],
     "correctAnswer": "N.d.a."
   },
