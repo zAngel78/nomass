@@ -207,8 +207,15 @@ class ExamPartsManager {
             }
             
             // Calcular puntos ganados
+            console.log('🔍 Calculando puntos:');
+            console.log('   totalQuestions (del parámetro):', totalQuestions);
+            console.log('   subject:', subject);
+            
             const totalParts = this.calculateTotalParts(totalQuestions, subject);
+            console.log('   totalParts calculadas:', totalParts);
+            
             const pointsPerPart = 20 / totalParts; // 20 puntos total dividido entre todas las partes
+            console.log('   pointsPerPart:', pointsPerPart);
             let pointsEarned = 0;
             let allPartsCompleted = false;
             
