@@ -10,15 +10,15 @@ class QuestionLoader {
         general: 'questions_matematicas_general_final.json'
       },
       castellano: {
-        normal: 'questions_castellano_guarani.json',
+        normal: 'questions_castellano_normal_agresivo.json',
         general: 'questions_castellano_general_completo.json'
       },
       historia: {
-        normal: 'questions_historia_geografia.json',
+        normal: 'questions_historia_geografia_normal_mejorado.json',
         general: 'questions_historia_geografia_general.json'
       },
       legislacion: {
-        normal: 'questions_legislacion.json',
+        normal: 'questions_legislacion_normal.json',
         general: 'questions_legislacion_general.json'
       }
     };
