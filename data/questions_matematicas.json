@@ -75,49 +75,6 @@
     "correctAnswer": "35"
   },
   {
-    "id": "math_norm_032",
-    "question": "Si recibiera 157 000 gs, pagaría una deuda de 293 000 gs y aún me quedaría   90 000. ¿Cuántos gs Tengo?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "383 000",
-      "226 000",
-      "338 000",
-      "262 000",
-      "216 000"
-    ],
-    "correctAnswer": "383 000"
-  },
-  {
-    "id": "math_norm_033",
-    "question": "Un transportista carga en su camión 4 televisores y 3 minicomponentes musicales. Si cada televisor pesa como 3 minicomponentes y en total ha cargado 75 kg. ¿Cuánto pesa cada televisor?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "10 kg\tb.     5 kg\t\tc.     20 kg\t\td.     25 kg\t\te.     15 kg",
-      "¿Cuánto Gs costó lo que al venderse en 12517 Gs deja una pérdida de 1318 Gs?",
-      "13 538\tb.     13 853\tc.     13 358\td.     13 385\te.     13 835",
-      "1967\tb.     1968\t\tc.     1969\t\td.     1970\t\te.     1966"
-    ],
-    "correctAnswer": "10 kg\tb.     5 kg\t\tc.     20 kg\t\td.     25 kg\t\te.     15 kg"
-  },
-  {
-    "id": "math_norm_034",
-    "question": "1967\tb.     1968\t\tc.     1969\t\td.     1970\t\te.     1966",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Un auto abierto costó 984 Gs, uno cerrado 195 Gs más que el abierto, y un camión tanto, como los dos autos juntos. En chapas se gastaron 56 Gs y en bocinas 35 Gs más que en las chapas. ¿En cuánto se vendieron si se obtuvo una ganancia de 1200 Gs?",
-      "5 663 Gs",
-      "5 376 Gs",
-      "5 673 Gs"
-    ],
-    "correctAnswer": "Un auto abierto costó 984 Gs, uno cerrado 195 Gs más que el abierto, y un camión tanto, como los dos autos juntos. En chapas se gastaron 56 Gs y en bocinas 35 Gs más que en las chapas. ¿En cuánto se vendieron si se obtuvo una ganancia de 1200 Gs?"
-  },
-  {
     "id": "math_norm_035",
     "question": "Si el sustraendo es 36815 y el resto 9815, ¿Cuál es el minuendo?",
     "subject": "Matemáticas",
@@ -523,21 +480,6 @@
     "correctAnswer": "25 y 13"
   },
   {
-    "id": "math_norm_064",
-    "question": "4 p.m.; 1 000 kms de A y 400 kms de B",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "A las 6 a.m. sale un auto de A a 60 km/h y va al encuentro de otro que sale de B a 80 km/h, a la misma hora. Sabiendo que se encuentran a las 11 a.m. ¿Cuál es la distancia (km) entre A y B?",
-      "100",
-      "300",
-      "500",
-      "700"
-    ],
-    "correctAnswer": "A las 6 a.m. sale un auto de A a 60 km/h y va al encuentro de otro que sale de B a 80 km/h, a la misma hora. Sabiendo que se encuentran a las 11 a.m. ¿Cuál es la distancia (km) entre A y B?"
-  },
-  {
     "id": "math_norm_066",
     "question": "Un hacendado lleva al banco tres bolsas con dinero. La primera y la segunda juntas tienen 350 Gs; la segunda y la tercera juntas, 300 Gs, y la primera y la tercera juntas, 250 Gs. ¿Cuánto tiene la segunda bolsa?",
     "subject": "Matemáticas",
@@ -581,35 +523,6 @@
       "12 min"
     ],
     "correctAnswer": "8 min"
-  },
-  {
-    "id": "math_norm_069",
-    "question": "Un comerciante compró 30 trajes a 20 Gs cada uno. Vendió 20 trajes a 18 Gs cada uno. ¿A cómo tiene que vender los restantes para no perder?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "16 Gs\tb.     18 Gs\t\tc.     20 Gs\t\td.     22 Gs\t\te.     24 Gs",
-      "5",
-      "10",
-      "15\td.    20\t\te.     25"
-    ],
-    "correctAnswer": "16 Gs\tb.     18 Gs\t\tc.     20 Gs\t\td.     22 Gs\t\te.     24 Gs"
-  },
-  {
-    "id": "math_norm_070",
-    "question": "15\td.    20\t\te.     25",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Con el dinero que tengo puedo comprar 6 periódicos y me sobran 5 cts., pero si quisiera comprar 13 periódicos me faltarían 30 cts. ¿Cuánto vale cada periódico?",
-      "2 cts.",
-      "5 cts.",
-      "8 cts.",
-      "11 cts."
-    ],
-    "correctAnswer": "Con el dinero que tengo puedo comprar 6 periódicos y me sobran 5 cts., pero si quisiera comprar 13 periódicos me faltarían 30 cts. ¿Cuánto vale cada periódico?"
   },
   {
     "id": "math_norm_071",
@@ -687,36 +600,6 @@
     "correctAnswer": "Todos son primos absolutos."
   },
   {
-    "id": "math_norm_076",
-    "question": "Son números primos dos a dos",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Si los números A, B y C son primos relativos, pero no son primos dos a dos, entonces el MCD entre ellos necesariamente es:",
-      "0",
-      "2",
-      "1",
-      "A, B, C"
-    ],
-    "correctAnswer": "Si los números A, B y C son primos relativos, pero no son primos dos a dos, entonces el MCD entre ellos necesariamente es:"
-  },
-  {
-    "id": "math_norm_077",
-    "question": "El número de postulantes a cadetes del ISEPOL es tal que, si los contamos de 100 en 100, de 150 en 150 y de 200 en 200, siempre faltan 4 postulantes para que la división sea exacta. El menor número de postulantes posibles es de:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "604",
-      "596",
-      "600",
-      "620",
-      "624"
-    ],
-    "correctAnswer": "604"
-  },
-  {
     "id": "math_norm_079",
     "question": "Dos postulantes obtuvieron 48 y 56 puntos en el examen de Matemática. Estos postulantes, muy curiosos, preguntan a otro postulante cuánto había hecho, y éste contesta: ‘‘Mi puntaje está comprendido entre los vuestros y si dividen mi puntaje entre 3; 4 u 8 siempre tendrán 2 de resto’’. ¿Cuál es el puntaje del tercer postulante?",
     "subject": "Matemáticas",
@@ -747,36 +630,6 @@
     "correctAnswer": "10"
   },
   {
-    "id": "math_norm_082",
-    "question": "La suma de los divisores comunes de 94 y 800 es igual a:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "3",
-      "2",
-      "0",
-      "1",
-      "175"
-    ],
-    "correctAnswer": "3"
-  },
-  {
-    "id": "math_norm_083",
-    "question": "El MCD entre 2085, 3955, 1005 es igual al doble de:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "15",
-      "2,5",
-      "30",
-      "10",
-      "5"
-    ],
-    "correctAnswer": "15"
-  },
-  {
     "id": "math_norm_084",
     "question": "Calcular el producto que se obtiene al multiplicar el máximo común divisor por el mínimo común múltiplo de los números 168 y 252",
     "subject": "Matemáticas",
@@ -790,77 +643,6 @@
       "32363"
     ],
     "correctAnswer": "840"
-  },
-  {
-    "id": "math_norm_086",
-    "question": "2 opciones son correctas",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Se sabe que una persona consulta con un oftalmólogo cada 90 días y con el odontólogo cada 30 días. Si el 10 de enero coincidió sus citas con ambos profesionales, determina la fecha más próxima en que coinciden nuevamente las citas.",
-      "10 de VI",
-      "9 de VII",
-      "Otra fecha"
-    ],
-    "correctAnswer": "Se sabe que una persona consulta con un oftalmólogo cada 90 días y con el odontólogo cada 30 días. Si el 10 de enero coincidió sus citas con ambos profesionales, determina la fecha más próxima en que coinciden nuevamente las citas."
-  },
-  {
-    "id": "math_norm_088",
-    "question": "Luego de dividir un número de jóvenes en grupos de 11, o grupos de 17, o grupos de 19 siempre faltan 3 jóvenes para completar otro grupo. Sabiendo que de estos jóvenes 355 son mujeres, entonces el número de hombres, es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "2850\tb.     3195\t\tc.     3201\t\td.     3553\t\te.     3550",
-      "Al dividir 203; 502 y 1104 entre un mismo número se obtienen los restos respectivos 3, 2 y 4. Determine el mayor número que cumple con esa condición.",
-      "25\tb.     50\t\tc.     100\t\td.     10 \t\te.      Otro valor",
-      "30 000 km\t\tb.     60 000 km\tc.     7 500 km\td.     15 000 km\te.     10 000 km"
-    ],
-    "correctAnswer": "2850\tb.     3195\t\tc.     3201\t\td.     3553\t\te.     3550"
-  },
-  {
-    "id": "math_norm_089",
-    "question": "30 000 km\t\tb.     60 000 km\tc.     7 500 km\td.     15 000 km\te.     10 000 km",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Una página de diario dedicada a los avisos clasificados mide 36 cm. de largo y 24 cm. de ancho. Se desea dividirla en cuadrados de la mayor medida posible, para llenar cada uno de ellos con un aviso. Averigua cuanto debe medir el lado de cada cuadrado y cuántos avisos se podrán publicar en esa página.",
-      "72 cuadrados de 2 cm de lado",
-      "6 cuadrados de 12 cm de lado",
-      "36 cuadrados de 24 cm de lado"
-    ],
-    "correctAnswer": "Una página de diario dedicada a los avisos clasificados mide 36 cm. de largo y 24 cm. de ancho. Se desea dividirla en cuadrados de la mayor medida posible, para llenar cada uno de ellos con un aviso. Averigua cuanto debe medir el lado de cada cuadrado y cuántos avisos se podrán publicar en esa página."
-  },
-  {
-    "id": "math_norm_090",
-    "question": "36 cuadrados de 24 cm de lado",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "N.d.a.",
-      "45\t\tb.     90\t\tc.     80\t\td.     40\t\te.    32",
-      "La Prof. De Carolina le pide que escriba todos los números comprendidos entre 210 y 900 que sean divisibles al mismo tiempo por 4, 5, 8. ¿Cuántos números escribió Carolina?",
-      "16\t\tb.     15\t\tc.     40\t\td.     17\t\te.     20"
-    ],
-    "correctAnswer": "N.d.a."
-  },
-  {
-    "id": "math_norm_091",
-    "question": "16\t\tb.     15\t\tc.     40\t\td.     17\t\te.     20",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "El menor número que al dividirlo por 12; 36 ó 48 da por resto 7 es:",
-      "103",
-      "19",
-      "148",
-      "151"
-    ],
-    "correctAnswer": "El menor número que al dividirlo por 12; 36 ó 48 da por resto 7 es:"
   },
   {
     "id": "math_norm_092",
@@ -922,36 +704,6 @@
     "correctAnswer": "Un número compuesto divisible entre 4"
   },
   {
-    "id": "math_norm_110",
-    "question": "Luego de resolver la expresión:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "; se puede afirmar que lo siguiente, EXCEPTO:",
-      "El denominador de la fracción resultante es un número primo",
-      "El numerador de la fracción resultante es un número primo",
-      "La suma entre el numerador y el denominador es un número primo",
-      "La diferencia positiva entre numerador y denominador es un número primo"
-    ],
-    "correctAnswer": "; se puede afirmar que lo siguiente, EXCEPTO:"
-  },
-  {
-    "id": "math_norm_111",
-    "question": "La diferencia positiva entre numerador y denominador es un número primo",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "El denominador y el numerador son números primos consecutivos",
-      "Una persona recibirá los 7/20 de 2 000 000 Gs. Si recibiera ½ de ¼ DE LOS 2 000 000 Gs. ¿Cuántos Gs sería la diferencia?",
-      "250 000",
-      "520 000",
-      "300 000"
-    ],
-    "correctAnswer": "El denominador y el numerador son números primos consecutivos"
-  },
-  {
     "id": "math_norm_113",
     "question": "Un cadete de policía leyó 0,16 de su libro de 120 páginas. ¿Cuántas páginas le falta leer?",
     "subject": "Matemáticas",
@@ -965,51 +717,6 @@
       "20"
     ],
     "correctAnswer": "5/6"
-  },
-  {
-    "id": "math_norm_118",
-    "question": "Si al resultado de:  le adicionamos  obtenemos:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "-1",
-      "0",
-      "1",
-      "2",
-      "El recíproco de la novena parte de: 3÷ es:"
-    ],
-    "correctAnswer": "-1"
-  },
-  {
-    "id": "math_norm_119",
-    "question": "El recíproco de la novena parte de: 3÷ es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "7",
-      "3",
-      "1/7",
-      "2",
-      "7/3"
-    ],
-    "correctAnswer": "7"
-  },
-  {
-    "id": "math_norm_120",
-    "question": "El inverso del resultado de 1, es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "6/43",
-      "-45/68",
-      "68/45",
-      "45/68",
-      "-43/6"
-    ],
-    "correctAnswer": "6/43"
   },
   {
     "id": "math_norm_123",
@@ -1057,36 +764,6 @@
     "correctAnswer": "45 Gs"
   },
   {
-    "id": "math_norm_136",
-    "question": "La suma entre numerador y denominador de la fracción simplificada de:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Un número compuesto",
-      "Un número par",
-      "Un número imaginario",
-      "Un número primo",
-      "Un número irracional"
-    ],
-    "correctAnswer": "Un número compuesto"
-  },
-  {
-    "id": "math_norm_137",
-    "question": "Determina la diferencia entre el MCM y el MCD de A y B",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "2\tb.  4\tc.  61\td.  18\te.  44",
-      "Luego de resolver:",
-      "y simplificamos al máximo el resultado, obtenemos la fracción m/n. Entonces es correcto afirmar que:",
-      "Tanto ‘’m’’ como ‘’n’’ son números enteros, primos y naturales",
-      "Sólo ‘’n’’ es un número primo absoluto, en tanto ‘’m’’ es un número compuesto"
-    ],
-    "correctAnswer": "2\tb.  4\tc.  61\td.  18\te.  44"
-  },
-  {
     "id": "math_norm_138",
     "question": "Sólo ‘’n’’ es un número primo absoluto, en tanto ‘’m’’ es un número compuesto",
     "subject": "Matemáticas",
@@ -1100,20 +777,6 @@
       ", entonces es correcto afirmar que A es un número:"
     ],
     "correctAnswer": "‘’m’’ es un número compuesto y es divisible por dos números primos"
-  },
-  {
-    "id": "math_norm_139",
-    "question": ", entonces es correcto afirmar que A es un número:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Decimal periódico\t    b.  Compuesto\tc.  2 son correctas\t      d.  Primo\te.  Par",
-      "; tiene como numerador y denominador, respectivamente, a:",
-      "Un número impar y a un número par",
-      "Un número primo absoluto y un número compuesto"
-    ],
-    "correctAnswer": "Decimal periódico\t    b.  Compuesto\tc.  2 son correctas\t      d.  Primo\te.  Par"
   },
   {
     "id": "math_norm_140",
@@ -1146,51 +809,6 @@
     "correctAnswer": "La fracción generatriz de: , es igual a , por tanto, el MCD entre los números (a – b) y (a + b) es igual a:"
   },
   {
-    "id": "math_norm_143",
-    "question": "El resultado de la simplificación de:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Un número racional",
-      "Un número decimal exacto",
-      "Un número natural",
-      "Un número no periódico",
-      "Un número real"
-    ],
-    "correctAnswer": "Un número racional"
-  },
-  {
-    "id": "math_norm_144",
-    "question": "La suma entre el numerador y el denominador de la expresión simplificada de:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "; es igual a:",
-      "18",
-      "21",
-      "23",
-      "27"
-    ],
-    "correctAnswer": "; es igual a:"
-  },
-  {
-    "id": "math_norm_145",
-    "question": "0,134\tb.  0,000134\tc.  134000\t\td.  134\t\te.  0,00134",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Reducir 456,789 cm a m.",
-      "45678,9 m\tb.  456,789 m\tc.  45,6789 m\td.  4567890 m\te.  4,56789 m",
-      "Reducir 12,003 kl a dl.",
-      "12003 dl\t\tb.  120030 dl\tc.  120030 kl\td.  1200,3 dl\te.  0,0120 dl",
-      "Reducir 114,05 Gg a Kg"
-    ],
-    "correctAnswer": "Reducir 456,789 cm a m."
-  },
-  {
     "id": "math_norm_146",
     "question": "Reducir 114,05 Gg a Kg",
     "subject": "Matemáticas",
@@ -1204,21 +822,6 @@
       "N.d.a."
     ],
     "correctAnswer": "11405 kg"
-  },
-  {
-    "id": "math_norm_147",
-    "question": "18,00 m²\t\tb.   180000 m²\t\te.  N.d.a.",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Reducir 3456,789 mm² a Dm²",
-      "0,00003456789 Dm²",
-      "0,3456789 Dm²",
-      "34567890 Dm²",
-      "3,456789 Dm²"
-    ],
-    "correctAnswer": "Reducir 3456,789 mm² a Dm²"
   },
   {
     "id": "math_norm_148",
@@ -1264,21 +867,6 @@
       "3 km 4 Hm 5 Dm 7 m 8 cm"
     ],
     "correctAnswer": "345 Hm 7 Dm 8 m"
-  },
-  {
-    "id": "math_norm_151",
-    "question": "3 km 4 Hm 5 Dm 7 m 8 cm",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Descomponer 98006 dm",
-      "9 Km 8 Hm 6 Dm",
-      "9 km 8 Hm 6 dm",
-      "9 Dm 8 m 6 dm",
-      "986 dm"
-    ],
-    "correctAnswer": "Descomponer 98006 dm"
   },
   {
     "id": "math_norm_152",
@@ -1371,21 +959,6 @@
     "correctAnswer": "9 168 m²"
   },
   {
-    "id": "math_norm_158",
-    "question": "Un mechero consume 1 hl de gas por hora. Si el m³ de gas cuesta 1,30 Gs; el gasto anual de 3 mecheros encendidos 4 horas diarias será:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1 460,8 Gs",
-      "2 021 Gs",
-      "202,18 Gs",
-      "5 616 Gs",
-      "561,6 Gs"
-    ],
-    "correctAnswer": "1 460,8 Gs"
-  },
-  {
     "id": "math_norm_159",
     "question": "Una persona debe recorrer 12,3 kilómetros y ha caminado 7850 metros. ¿Cuánto le falta recorrer?",
     "subject": "Matemáticas",
@@ -1431,124 +1004,6 @@
     "correctAnswer": "905 760 Gs"
   },
   {
-    "id": "math_norm_162",
-    "question": "Un cubo vacío pesa 12 hg y lleno de agua pea 8 kg, 6 hg. Si se derrama la mitad del contenido, la cantidad de agua que queda en el cubo es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "7 lts 4 dl",
-      "3 lts 7 dl",
-      "3 dal 7 lts",
-      "7 dal 4 lts",
-      "3,7 dal"
-    ],
-    "correctAnswer": "7 lts 4 dl"
-  },
-  {
-    "id": "math_norm_163",
-    "question": "Un barril con aceite pesa 4 kg 3 hg 2 dag 5 g y cuesta 14 500 Gs. Si el barril vacío cuesta 2 500 Gs y pesa 8 dag 5 g, el costo de cada gramo de aceite en Gs, es de:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "4,05",
-      "3,82",
-      "2,83",
-      "3,00",
-      "4,36"
-    ],
-    "correctAnswer": "4,05"
-  },
-  {
-    "id": "math_norm_164",
-    "question": "El producto entre 45 hm² 32 dam² 10 m² por 1 hm 2 dam 5 m, es igual a:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "56 hm 651 dam 250 m",
-      "560 hm³ 651 dam³ 250 m³",
-      "56 hm³ 651 dam³ 250 m³",
-      "566 hm³ 512 dam³ 500 m³"
-    ],
-    "correctAnswer": "56 hm 651 dam 250 m"
-  },
-  {
-    "id": "math_norm_165",
-    "question": "566 hm³ 512 dam³ 500 m³",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Un alambre tiene un peso de 0,48 gramos por centímetro. Entonces 1 ¼ m de este alambre pesa:",
-      "60 hg",
-      "60 g",
-      "600 kg",
-      "6 mg"
-    ],
-    "correctAnswer": "Un alambre tiene un peso de 0,48 gramos por centímetro. Entonces 1 ¼ m de este alambre pesa:"
-  },
-  {
-    "id": "math_norm_168",
-    "question": "100\t\tb.  0,06\t\tc.  96\t\td.  69\t\te.  600",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Un depósito de agua de 10 m3 está vacío. ¿En qué tiempo se llenará hasta su octava parte si se abriesen al mismo tiempo 3 grifos que vierten, el primero 45 litro en 9 min, el segundo 25 litros en 5 min y el tercero 100 litros en 10 min?",
-      "Si A= 9 hg 8 dag 7 g y B= 1 hg 34 g; entonces A+B es igual a:",
-      "11,21 hg\t\tb.  1 121 kg\tc.  110,21 g\td.  11 210 g\te.  1,121 dag",
-      "De un terreno de 10 há 60 á 50 cá, se venden el 66,66…% se alquila el 20% y el resto se destina a la construcción de una clínica. El número de m2 destinado a la clínica es:"
-    ],
-    "correctAnswer": "Un depósito de agua de 10 m3 está vacío. ¿En qué tiempo se llenará hasta su octava parte si se abriesen al mismo tiempo 3 grifos que vierten, el primero 45 litro en 9 min, el segundo 25 litros en 5 min y el tercero 100 litros en 10 min?"
-  },
-  {
-    "id": "math_norm_169",
-    "question": "De un terreno de 10 há 60 á 50 cá, se venden el 66,66…% se alquila el 20% y el resto se destina a la construcción de una clínica. El número de m2 destinado a la clínica es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "14,14\t\tb.  1 414\t\tc.  91,91\t\td.  9 191\t\te.  14 140",
-      "Con 92 250 Gs se compraron 5 terrenos de 20,5 á cada uno. ¿En cuántos Gs deben venderse 3 de ellos, con 50 m2 menos cada uno, para ganar 6000 Gs?",
-      "55 350\t\tb.  72 000\t\tc.  26 000\t\td.  60 000\t\te.  61 350",
-      "Un corredor hace 100 m en 10 s y otro 200 m en 22 s. En una carrera de 50 000 dm, ¿qué tiempo de ventaja sacará el ganador al vencido?",
-      "10 s\t\tb.  100 s\t\tc.  50 s \t\td.  5 s\t\te.  20 s"
-    ],
-    "correctAnswer": "14,14\t\tb.  1 414\t\tc.  91,91\t\td.  9 191\t\te.  14 140"
-  },
-  {
-    "id": "math_norm_170",
-    "question": "10 s\t\tb.  100 s\t\tc.  50 s \t\td.  5 s\t\te.  20 s",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Si se compran 36 kg de un artículo a razón de 0,6 Gs el hg. ¿A cuántos centavos hay que vender el dag, para ganar en total 36 Gs?",
-      "3\t\tb.  7 \t\tc.  0,7\t\td.  0,03\t\te.  0,07",
-      "Se administra a un paciente suero a razón de 50 gotas por minuto. Si cada gota es de 0,02 ml, el tiempo requerido para administrar ¼ de litro es:",
-      "25 min",
-      "300 min"
-    ],
-    "correctAnswer": "Si se compran 36 kg de un artículo a razón de 0,6 Gs el hg. ¿A cuántos centavos hay que vender el dag, para ganar en total 36 Gs?"
-  },
-  {
-    "id": "math_norm_172",
-    "question": "Halla el término desconocido en:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "71",
-      "12",
-      "21",
-      "17",
-      "N.d.a."
-    ],
-    "correctAnswer": "71"
-  },
-  {
     "id": "math_norm_174",
     "question": "Hallar el término medio diferencial entre: 26 y 14",
     "subject": "Matemáticas",
@@ -1564,51 +1019,6 @@
     "correctAnswer": "20"
   },
   {
-    "id": "math_norm_175",
-    "question": "Hallar el término medio diferencial entre:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "0,17",
-      "0,28",
-      "2,803",
-      "0,017",
-      "N.d.a."
-    ],
-    "correctAnswer": "0,17"
-  },
-  {
-    "id": "math_norm_176",
-    "question": "Hallar el término desconocido en:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "20",
-      "5/3",
-      "60",
-      "3/5",
-      "N.d.a."
-    ],
-    "correctAnswer": "20"
-  },
-  {
-    "id": "math_norm_177",
-    "question": "Halar el término desconocido en:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "4/217",
-      "13/24",
-      "N.d.a.",
-      "Hallar el término medio proporcional entre: 64 y 25",
-      "800"
-    ],
-    "correctAnswer": "4/217"
-  },
-  {
     "id": "math_norm_179",
     "question": "Si 4 libros cuestan 20 Gs, ¿cuántos constarán 3 docenas de libros?",
     "subject": "Matemáticas",
@@ -1622,36 +1032,6 @@
       "Los 4/7 de la capacidad de una piscina son 8136 litros. La capacidad de la piscina es de:"
     ],
     "correctAnswer": "810 Gs"
-  },
-  {
-    "id": "math_norm_181",
-    "question": "4 hombres hacen una obra en 12 días. ¿En cuántos días podrían hacer la obra 7 hombres?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "21 días",
-      "N.d.a.",
-      "Dos individuos arriendan una finca. El primero ocupa los 5/11 de la finca y paga 6000 pesos de alquiler al año. ¿Cuántos pesos paga de alquiler anual el segundo?",
-      "7200 \tb.  13200\t\tc.  6000\t\td.  12300\t\te.  N.d.a.",
-      "Una guarnición de 1300 hombres tiene víveres para 4 meses. Si se quiere que los víveres duren 10 días más. ¿Cuántos hombres habrá que rebajar de la guarnición?"
-    ],
-    "correctAnswer": "21 días"
-  },
-  {
-    "id": "math_norm_182",
-    "question": "Una guarnición de 1300 hombres tiene víveres para 4 meses. Si se quiere que los víveres duren 10 días más. ¿Cuántos hombres habrá que rebajar de la guarnición?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "520\t\tb.  10\t\tc.  130\t\td.  100\t\te.  N.d.a.",
-      "Un obrero tarda  días en hace 7/12 de una obra. ¿Cuánto tiempo necesitará para terminar la obra?",
-      "9 días",
-      "8 días",
-      "días"
-    ],
-    "correctAnswer": "520\t\tb.  10\t\tc.  130\t\td.  100\t\te.  N.d.a."
   },
   {
     "id": "math_norm_183",
@@ -1773,20 +1153,6 @@
     "correctAnswer": "20 000"
   },
   {
-    "id": "math_norm_195",
-    "question": "Se han pintado 80 m de largo de una muralla de 90 cm de altura con 12 tarros de pintura de ¾ kg cada tarro. La cantidad de tarros de 3 kg necesaria para pintar otra muralla de 1,20 m de altura y 200 m de largo es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "160",
-      "1,6",
-      "5,6\t\td.  0,8\t\te.  10",
-      "56 días"
-    ],
-    "correctAnswer": "160"
-  },
-  {
     "id": "math_norm_196",
     "question": "Determina el 20 % de 1612",
     "subject": "Matemáticas",
@@ -1877,21 +1243,6 @@
     "correctAnswer": "250"
   },
   {
-    "id": "math_norm_202",
-    "question": "157,50 es el  más que, ¿cuál número?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "19,69",
-      "17,5",
-      "137,81",
-      "140",
-      "N.d.a."
-    ],
-    "correctAnswer": "19,69"
-  },
-  {
     "id": "math_norm_203",
     "question": "¿De qué número es 168 el 4% menos?",
     "subject": "Matemáticas",
@@ -1907,36 +1258,6 @@
     "correctAnswer": "104"
   },
   {
-    "id": "math_norm_204",
-    "question": "798 es el ¼% menos que, ¿cuál número?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1,99",
-      "800",
-      "199",
-      "80",
-      "N.d.a."
-    ],
-    "correctAnswer": "1,99"
-  },
-  {
-    "id": "math_norm_205",
-    "question": "En un grupo de 30 estudiantes, el 50% tiene buenas notas, el 40% tiene notas regulares y el resto tienen notas, deficientes. Entonces, los estudiantes con notas deficientes son:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "13",
-      "10",
-      "9",
-      "7",
-      "3"
-    ],
-    "correctAnswer": "13"
-  },
-  {
     "id": "math_norm_206",
     "question": "De los 80 libros que tenía un librero, vendió el 45% a 2500 Gs cada uno; el 75% del resto a 12 000 Gs cada uno y el resto a 10 000 Gs cada uno. ¿Cuál es el importe total de la venta?",
     "subject": "Matemáticas",
@@ -1950,51 +1271,6 @@
       "596 000 Gs"
     ],
     "correctAnswer": "816 666 Gs"
-  },
-  {
-    "id": "math_norm_208",
-    "question": "Se reparten las utilidades de un negocio entre 3 socios; si el 1ro, recibió 40%; el 2do, el 35% y el 3ro recibió 360 000 Gs. Entonces:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Las utilidades fueron de 1 080 000 Gs",
-      "Uno de los socios recibió 600 000 Gs",
-      "Entre los tres ganaron 1 440 000 Gs",
-      "El socio que más ganó obtuvo 580 000 Gs",
-      "Una inmobiliaria vende una propiedad en 63 000 000 Gs y gana el 15 % de la venta. La cantidad en Gs que recibe el propietario es:"
-    ],
-    "correctAnswer": "Las utilidades fueron de 1 080 000 Gs"
-  },
-  {
-    "id": "math_norm_209",
-    "question": "Una inmobiliaria vende una propiedad en 63 000 000 Gs y gana el 15 % de la venta. La cantidad en Gs que recibe el propietario es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "59,45.106",
-      "62,45.106",
-      "53,55.106",
-      "54,7826.106",
-      "55 530 000"
-    ],
-    "correctAnswer": "59,45.106"
-  },
-  {
-    "id": "math_norm_211",
-    "question": "El salario de un empleado es de 500 Gs por semana más 6% de comisión por ventas que sobrepasen 150 Gs. Para ganar 851 Gs en una semana, debe vender por una cantidad, en Gs, igual a:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "6 500",
-      "5 500",
-      "6 600",
-      "6 000",
-      "600"
-    ],
-    "correctAnswer": "6 500"
   },
   {
     "id": "math_norm_212",
@@ -2040,36 +1316,6 @@
       "782 Gs"
     ],
     "correctAnswer": "700 Gs"
-  },
-  {
-    "id": "math_norm_215",
-    "question": "Si María tuviese un 16% menos de la edad que tiene, tendría 21 años. ¿Qué edad tendrá María dentro de 5 años?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "29 años\t\tb.  30 años\t\tc.  31 años\t\td.  32 años\t\te.  33 años",
-      "Un niño repartió 40 dulces entre sus amigos. A Juan le dio 2/5 del total, a Mario el 25% del resto y a Claudio 50 % del nuevo resto. ¿Con cuántos dulces se quedó el niño?",
-      "9\t\tb.  7\t\tc.  5\t\td.  4\t\te.  3",
-      "Si el lado de un cuadrado aumenta el doble. ¿En qué porcentaje aumentó su área?",
-      "100 %\t\tb.  200 %\t\tc.  300 %\t\td.  400 %\t\te.  800 %"
-    ],
-    "correctAnswer": "29 años\t\tb.  30 años\t\tc.  31 años\t\td.  32 años\t\te.  33 años"
-  },
-  {
-    "id": "math_norm_216",
-    "question": "100 %\t\tb.  200 %\t\tc.  300 %\t\td.  400 %\t\te.  800 %",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Una persona tiene 52 Gs para costear su cena en un restaurante, si debe pagar 10% de impuestos por ventas y desea dejar un 20 % de propina, el recio máximo de consumo que puede ordenar es:",
-      "50",
-      "400",
-      "8",
-      "40"
-    ],
-    "correctAnswer": "Una persona tiene 52 Gs para costear su cena en un restaurante, si debe pagar 10% de impuestos por ventas y desea dejar un 20 % de propina, el recio máximo de consumo que puede ordenar es:"
   },
   {
     "id": "math_norm_217",
@@ -2207,21 +1453,6 @@
     "correctAnswer": "11 250 000"
   },
   {
-    "id": "math_norm_228",
-    "question": "Una organización dispone de 9 900 000 Gs para distribuir entre tres atletas mejor clasificados en una prueba. Si el reparto se realiza en forma proporcional al orden de clasificación. Entonces al segundo clasificado le corresponde un premio de:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "330 000",
-      "2 700 000",
-      "3 300 000",
-      "540 000",
-      "270 000"
-    ],
-    "correctAnswer": "330 000"
-  },
-  {
     "id": "math_norm_231",
     "question": "Repartir un capital de 8 400 000 Gs en partes inversamente proporcionales a la edades de los niños de 3 años y 7 años. ¿Cuánto Gs es la parte del niño de 7 años?",
     "subject": "Matemáticas",
@@ -2237,95 +1468,6 @@
     "correctAnswer": "5 880 000"
   },
   {
-    "id": "math_norm_232",
-    "question": "Repartir 32 000 Gs en dos partes que sean a la vez directamente proporcionales a 2 y 4 e inversamente proporcionales a 5 y 6. La mayor parte es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "28 000 Gs",
-      "25 000 Gs",
-      "32 000 Gs",
-      "20 000 Gs\t\t\te.  12 000 Gs",
-      "Siendo a= 4; b= -2 y c= 2, hallar el valor numérico de la expresión algebraica:"
-    ],
-    "correctAnswer": "28 000 Gs"
-  },
-  {
-    "id": "math_norm_249",
-    "question": "Al sumar algebraicamente , se obtiene:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Resta  de  y suma la diferencia con el resultado de restar  de , se tiene:",
-      "Dado los polinomios  entonces la expresión algebraica A + B + C es un polinomio cuyo grado es:",
-      "3",
-      "5",
-      "4"
-    ],
-    "correctAnswer": "Resta  de  y suma la diferencia con el resultado de restar  de , se tiene:"
-  },
-  {
-    "id": "math_norm_257",
-    "question": "Al sumar  al cociente de dividir  entre , se obtiene como término independiente:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1/6",
-      "7/6",
-      "-5/6",
-      "-6/5",
-      "2/3"
-    ],
-    "correctAnswer": "1/6"
-  },
-  {
-    "id": "math_norm_259",
-    "question": "Divide aplicando el método de Ruffini:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "c= \tr= -6",
-      "c= \tr= 6",
-      "c= \t\tr= 6",
-      "Divide aplicando la regla de Ruffini:  entre"
-    ],
-    "correctAnswer": "c= \tr= -6"
-  },
-  {
-    "id": "math_norm_260",
-    "question": "Divide aplicando la regla de Ruffini:  entre",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "c=",
-      "Aplica el teorema del resto, y halla el mismo:",
-      "-28",
-      "8",
-      "2"
-    ],
-    "correctAnswer": "c="
-  },
-  {
-    "id": "math_norm_261",
-    "question": "Halla el resto de esta división mediante el teorema del resto:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "770",
-      "-770",
-      "77",
-      "-77",
-      "17"
-    ],
-    "correctAnswer": "770"
-  },
-  {
     "id": "math_norm_262",
     "question": "Calcular el término independiente K de modo que el polinomio sea divisible por el binomio",
     "subject": "Matemáticas",
@@ -2339,168 +1481,6 @@
       "K= -78"
     ],
     "correctAnswer": "K= 78"
-  },
-  {
-    "id": "math_norm_263",
-    "question": "Calcular el término independiente K de modo que el polinomio  sea divisible por el binomio",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "K= -4",
-      "K= 4",
-      "K= -3",
-      "K= 3",
-      "K= -6"
-    ],
-    "correctAnswer": "K= -4"
-  },
-  {
-    "id": "math_norm_264",
-    "question": "La división  arroja un resultado tal como está en:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Al resolver la división  se obtiene:",
-      "c=x^4+2x^3+x^2+2x+8;   r= -10",
-      "c=x^4+2x^3-x^2+2x-8;    r=10",
-      "c=x^4-2x^3+x^2-2x+8;    r=10"
-    ],
-    "correctAnswer": "Al resolver la división  se obtiene:"
-  },
-  {
-    "id": "math_norm_266",
-    "question": "Los factores de la expresión  son:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "El resultado de:  es:",
-      "-(7+5x)(5x+3)",
-      "(7+5x)(5x-3)",
-      "-(7+5x)(3-5x)",
-      "Ninguno"
-    ],
-    "correctAnswer": "El resultado de:  es:"
-  },
-  {
-    "id": "math_norm_268",
-    "question": "Hallar el máximo común divisor de los polinomios:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1",
-      "1 – a",
-      "1 + a",
-      "(1 – a)²",
-      "Hallar el mínimo común múltiplo de los monomios:"
-    ],
-    "correctAnswer": "1"
-  },
-  {
-    "id": "math_norm_269",
-    "question": "Hallar el mínimo común múltiplo de los monomios:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "5x",
-      "5 x²y²",
-      "30x",
-      "30x²y²",
-      "1"
-    ],
-    "correctAnswer": "5x"
-  },
-  {
-    "id": "math_norm_270",
-    "question": "Hallar el mínimo común múltiplo de los polinomios:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1",
-      "Hallar el mínimo común múltiplo de los polinomios:",
-      "El cociente de la división entre el MCM y el MCD de los siguientes polinomios: P(1)= \t\tP(2)= \t\tP(3)=  es:",
-      "N.d.a."
-    ],
-    "correctAnswer": "1"
-  },
-  {
-    "id": "math_norm_276",
-    "question": "Al simplificar la siguiente expresión el resultado obtenido es el opuesto de:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "N.d.a.",
-      "8",
-      "Ninguna de las anteriores",
-      "No se puede determinar"
-    ],
-    "correctAnswer": "N.d.a."
-  },
-  {
-    "id": "math_norm_278",
-    "question": "La expresión resultante de: , es un:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Binomio",
-      "Trinomio",
-      "Cuatrinomio",
-      "Monomio",
-      "N.d.a."
-    ],
-    "correctAnswer": "Binomio"
-  },
-  {
-    "id": "math_norm_279",
-    "question": "Al factorizar completamente la expresión:  resulta el cuadrado de:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "2x",
-      "3",
-      "4",
-      "1",
-      "N.d.a."
-    ],
-    "correctAnswer": "2x"
-  },
-  {
-    "id": "math_norm_280",
-    "question": "Al simplificar el denominador es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Xy",
-      "-2xy",
-      "2xy",
-      "-xy",
-      "N.d.a."
-    ],
-    "correctAnswer": "Xy"
-  },
-  {
-    "id": "math_norm_281",
-    "question": "Al simplificar: ; el numerador es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "de las aves de una granja son gallos, 2/13 son gallinas, 5/143 son palomas y las 206 aves restantes son patos. ¿Cuántas aves hay en la granja?",
-      "20",
-      "40",
-      "10",
-      "30"
-    ],
-    "correctAnswer": "de las aves de una granja son gallos, 2/13 son gallinas, 5/143 son palomas y las 206 aves restantes son patos. ¿Cuántas aves hay en la granja?"
   },
   {
     "id": "math_norm_282",
@@ -2608,21 +1588,6 @@
     "correctAnswer": "3/5"
   },
   {
-    "id": "math_norm_290",
-    "question": "El número cuya cuarta parte sumada con quita parte da 27 es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "N.d.a.",
-      "243/2",
-      "20",
-      "60",
-      "540"
-    ],
-    "correctAnswer": "N.d.a."
-  },
-  {
     "id": "math_norm_291",
     "question": "Un obrero gana 30 600 Gs diarios, pero debe abonar 15 300 Gs por cada día que falta al trabajo. Al cabo de 58 días recibe 1 591 200 Gs. ¿Cuántos días ha trabajado?",
     "subject": "Matemáticas",
@@ -2636,36 +1601,6 @@
       "N.d.a."
     ],
     "correctAnswer": "54"
-  },
-  {
-    "id": "math_norm_293",
-    "question": "Un joven tiene 6 000 Gs en 830 monedas de 5 Gs y monedas de 10 Gs. El número de monedas de 5 Gs es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "640",
-      "460",
-      "370",
-      "730",
-      "680"
-    ],
-    "correctAnswer": "640"
-  },
-  {
-    "id": "math_norm_294",
-    "question": "La diferencia de dos número es 14 y ¼ de su suma es 13. Los números son:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "33 Y 29",
-      "33 Y 19",
-      "23 Y 19",
-      "23 Y 29",
-      "39 Y 13"
-    ],
-    "correctAnswer": "33 Y 29"
   },
   {
     "id": "math_norm_295",
@@ -2696,21 +1631,6 @@
       "1"
     ],
     "correctAnswer": "6"
-  },
-  {
-    "id": "math_norm_299",
-    "question": "La suma de las cifras de un número de dos cifras es 5, y la cifra de las decenas es tres más que la cifra de las unidades. El número mencionado es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "41",
-      "32",
-      "23",
-      "50",
-      "14"
-    ],
-    "correctAnswer": "41"
   },
   {
     "id": "math_norm_301",
@@ -2788,20 +1708,6 @@
     "correctAnswer": "4 Gs"
   },
   {
-    "id": "math_norm_307",
-    "question": "2000 excede en 788 a la diferencia de dos números y en 1995 a su cociente. Hallar los números.",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1414 y 606",
-      "1717 y 505",
-      "1616 y 404",
-      "1515 y 303"
-    ],
-    "correctAnswer": "1414 y 606"
-  },
-  {
     "id": "math_norm_310",
     "question": "Una muchacha tiene 32 bolas entre las dos manos y en la derecha tiene 6 bolas más que en la izquierda. ¿Cuántas bolas tiene en la mano derecha?",
     "subject": "Matemáticas",
@@ -2817,20 +1723,6 @@
     "correctAnswer": "17"
   },
   {
-    "id": "math_norm_313",
-    "question": "Calcula la media proporcional y la media diferencial de: 2 y 32",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Un padre da a su hijo 160 Gs, a otro 150 Gs y a otro 120 Gs, para repartir entre los pobres, de modo que todos den a cada pobre la misma cantidad. ¿Cuál es la mayor cantidad que podrán dar a cada pobre y cuántos pobres serán socorridos?",
-      "10 Gs y 43 pobres",
-      "15 Gs y 35 pobres",
-      "43 Gs y 10 pobres"
-    ],
-    "correctAnswer": "Un padre da a su hijo 160 Gs, a otro 150 Gs y a otro 120 Gs, para repartir entre los pobres, de modo que todos den a cada pobre la misma cantidad. ¿Cuál es la mayor cantidad que podrán dar a cada pobre y cuántos pobres serán socorridos?"
-  },
-  {
     "id": "math_norm_314",
     "question": "Tres aviones salen de una misma ciudad con una periodicidad de 4 días y 10 días, respectivamente. Si la última vez que salieron juntos fue el 14 de julio. ¿Cuál será la fecha más próxima en que volverán a salir juntos?",
     "subject": "Matemáticas",
@@ -2844,20 +1736,6 @@
       "3 de agosto"
     ],
     "correctAnswer": "1 de agosto"
-  },
-  {
-    "id": "math_norm_315",
-    "question": "Calcula la media geométrica x en:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Un meteorito de 80 000 kg de peso entra en la atmósfera terrestre. Al entrar, la cuarta parte del meteorito se desprende y rebota en la atmósfera retomando al espacio (no entrando en la atmósfera). Lo restante entra en la atmósfera y llega a la tierra. ¿Cuánto pesa la parte del meteorito que colisiona con la Tierra?",
-      "50 000 Kg",
-      "40 000 Kg",
-      "30 000 kg"
-    ],
-    "correctAnswer": "Un meteorito de 80 000 kg de peso entra en la atmósfera terrestre. Al entrar, la cuarta parte del meteorito se desprende y rebota en la atmósfera retomando al espacio (no entrando en la atmósfera). Lo restante entra en la atmósfera y llega a la tierra. ¿Cuánto pesa la parte del meteorito que colisiona con la Tierra?"
   },
   {
     "id": "math_norm_316",
@@ -2918,21 +1796,6 @@
       "137"
     ],
     "correctAnswer": "138"
-  },
-  {
-    "id": "math_norm_320",
-    "question": "Elena ve en la pizarra la siguiente lista de números y la profesora le explica que se escribieron siguiendo una cierta regla. Elena se rasca la cabeza y luego escribe dentro del cuadrado el número que sigue en la lista. ¿Qué número escribió Elena?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "2,\t4,\t6,\t10,\t16,\t26,\t□",
-      "32",
-      "42",
-      "36",
-      "38"
-    ],
-    "correctAnswer": "2,\t4,\t6,\t10,\t16,\t26,\t□"
   },
   {
     "id": "math_norm_321",
@@ -3010,36 +1873,6 @@
     "correctAnswer": "8 000"
   },
   {
-    "id": "math_norm_331",
-    "question": "Sabiendo que ´´a´´ y ´´b´´ son primos relativos, se concluye que:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "El mayor común divisor entre ‘’a’’ y ‘’b’’ es el producto.",
-      "Al dividir ‘’a’’ entre ‘’b’’, el cociente que resulta es un número entero",
-      "El menor común múltiplo es el producto de ‘’a’’ y ‘’b’’.",
-      "El producto entre ‘’a’’ y ‘’b’’ es un número primo.",
-      "De las afirmaciones anteriores:"
-    ],
-    "correctAnswer": "El mayor común divisor entre ‘’a’’ y ‘’b’’ es el producto."
-  },
-  {
-    "id": "math_norm_332",
-    "question": "De las afirmaciones anteriores:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Una es falsa",
-      "Dos son falsas",
-      "Tres son falsas",
-      "Todas son falsas",
-      "Todas son verdaderas"
-    ],
-    "correctAnswer": "Una es falsa"
-  },
-  {
     "id": "math_norm_333",
     "question": "Se contratan 12 modistas para confeccionar uniformes en 20 días trabajando 5 horas diarias. Pero al término del quinto día, 2 de ellas se enferman y dejan de trabajar, y las que quedan deben trabajar ahora 9 horas diarias. Entonces, terminan el trabajo.",
     "subject": "Matemáticas",
@@ -3070,36 +1903,6 @@
     "correctAnswer": "356 Días"
   },
   {
-    "id": "math_norm_336",
-    "question": "Siendo A y B el mcd y mcm respectivamente de los polinomios  Hallando el producto de A y B resulta:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Solamente un binomio al cubo",
-      "Un polinomio de cuarto grado",
-      "Un cuatrinomio",
-      "Un polinomio de tercer grado con relación a ‘’y’’",
-      "De las afirmaciones anteriores es o son falsas:"
-    ],
-    "correctAnswer": "Solamente un binomio al cubo"
-  },
-  {
-    "id": "math_norm_337",
-    "question": "De las afirmaciones anteriores es o son falsas:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Sólo el II",
-      "Sólo el III",
-      "Sólo el I",
-      "Sólo el IV",
-      "Sólo el II y IV"
-    ],
-    "correctAnswer": "Sólo el II"
-  },
-  {
     "id": "math_norm_339",
     "question": "Se vende el 20% de una finca de 400 000 m², se alquila el 50% del resto y se cultiva el 25% del nuevo resto. Si lo que se cultiva en la finca se puede vender a 5 Gs el m². ¿Cuánto dinero se puede obtener?",
     "subject": "Matemáticas",
@@ -3128,21 +1931,6 @@
       "782 Gs"
     ],
     "correctAnswer": "700 Gs"
-  },
-  {
-    "id": "math_norm_341",
-    "question": "Una persona tiene 10,25 y se sentó en un restaurante. Si debe pagar 7% de impuestos por ventas y desea dejar un 15% de propina, el precio máximo de consumo que puede ordenar es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "5,25 Gs",
-      "8,5 Gs",
-      "8,78 Gs",
-      "8,4 Gs",
-      "10 Gs"
-    ],
-    "correctAnswer": "5,25 Gs"
   },
   {
     "id": "math_norm_343",
@@ -3235,21 +2023,6 @@
     "correctAnswer": "55 000 Gs"
   },
   {
-    "id": "math_norm_349",
-    "question": "Dos tanques de 2000 y 1600 litros de capacidad se encuentran llenos con un combustible. El número de litros que se debe sacar del tanque de mayor capacidad para que la relación entre las cantidades de combustible del mayor a menor sea 6 a 5, es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "80",
-      "200",
-      "400",
-      "800",
-      "150"
-    ],
-    "correctAnswer": "80"
-  },
-  {
     "id": "math_norm_350",
     "question": "Un grupo de 5 excursionistas tienen víveres para 0 días con una ración de 900 g por día. ¿Cuál debe ser la ración diaria, si al iniciar la excursión se incrementa el grupo en cinco personas y se amplía el tiempo a 2 meses?",
     "subject": "Matemáticas",
@@ -3278,21 +2051,6 @@
       "10"
     ],
     "correctAnswer": "4 000"
-  },
-  {
-    "id": "math_norm_352",
-    "question": "Resta  Suma las diferencias y halla el cuádruplo de dicha suma.",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "81/210",
-      "87/210",
-      "89/210",
-      "91/210",
-      "83/210"
-    ],
-    "correctAnswer": "81/210"
   },
   {
     "id": "math_norm_353",
@@ -3370,36 +2128,6 @@
     "correctAnswer": "7 hs"
   },
   {
-    "id": "math_norm_360",
-    "question": "Determine el menor número que al dividir por 12,15 y 18 de 5 de resto. El número es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Es un número múltiplo de 9",
-      "Es un número primo dos a dos con 80",
-      "Es un número primo",
-      "Es un número divisible entre 5",
-      "Dos son correctas"
-    ],
-    "correctAnswer": "Es un número múltiplo de 9"
-  },
-  {
-    "id": "math_norm_361",
-    "question": "El resultado de , es un número natural que es primo dos a dos con:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "11; 17 y 46",
-      "25; 15 y 31",
-      "1; 13 y 45",
-      "49; 11 y 17",
-      "5; 11 y 23"
-    ],
-    "correctAnswer": "11; 17 y 46"
-  },
-  {
     "id": "math_norm_362",
     "question": "Un grupo de 20 mujeres debe ordeñar n vacas en 10 días. Luego de 4 días, se les unen 5 mujeres doblemente eficientes. ¿Cuántos días antes logran ordeñar todas las vacas?",
     "subject": "Matemáticas",
@@ -3415,21 +2143,6 @@
     "correctAnswer": "1"
   },
   {
-    "id": "math_norm_363",
-    "question": "Un barril lleno de aceite pesa 315,08 kg y el peso del barril vacío es de 45 080 g. La tercera parte del contenido del barril corresponde a:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "90 lts de aceite.",
-      "1 kg de agua",
-      "900 hg de aceite",
-      "1800 hl de agua\t\te. 9dg de aceite",
-      "Queremos vender una finca de 2 ha 25 a 60 ca por 48 000 Gs. Calcula el precio del metro cuadrado."
-    ],
-    "correctAnswer": "90 lts de aceite."
-  },
-  {
     "id": "math_norm_364",
     "question": "Queremos vender una finca de 2 ha 25 a 60 ca por 48 000 Gs. Calcula el precio del metro cuadrado.",
     "subject": "Matemáticas",
@@ -3443,20 +2156,6 @@
       "3,13 Gs"
     ],
     "correctAnswer": "7,13 Gs"
-  },
-  {
-    "id": "math_norm_365",
-    "question": "Un agricultor con conocimientos de Álgebra sabe que se pueden cosechar  quintales métricos de trigo por cada hectárea sembrada. ¿Cuántos quintales obtendrá si siembra 2 terrenos, uno de 5 000 m² y otro de 35 000 m²?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "En una venta por liquidación, los muebles se venden al 40% de su precio regular, además los artículos para dormitorios tienen un descuento de 20 Gs adicionales. Si una cama se adquiere en 120 Gs, el precio regular mencionado es:",
-      "350",
-      "325",
-      "275"
-    ],
-    "correctAnswer": "En una venta por liquidación, los muebles se venden al 40% de su precio regular, además los artículos para dormitorios tienen un descuento de 20 Gs adicionales. Si una cama se adquiere en 120 Gs, el precio regular mencionado es:"
   },
   {
     "id": "math_norm_366",
@@ -3489,36 +2188,6 @@
     "correctAnswer": "5 600 Gs"
   },
   {
-    "id": "math_norm_368",
-    "question": "Sabiendo que  representa el exceso de A sobre la unidad principal, entonces B es una fracción…",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Decimal periódica pura",
-      "Impropia",
-      "Decimal exacta",
-      "Decimal periódica y cuya parte no periódica es cero",
-      "Decimal periódica mixta de periodo 55"
-    ],
-    "correctAnswer": "Decimal periódica pura"
-  },
-  {
-    "id": "math_norm_369",
-    "question": "Decimal periódica mixta de periodo 55",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Un tractor cargado de aceituna pesa 8 t 5 q 4 mag 8 kg. El tractor descarga las aceitunas y una vez vacío pesa 3.876 kg. ¿Cuántos kg pesan las aceitunas?",
-      "4.172 kg",
-      "4.972 kg",
-      "4.872 kg",
-      "4.772 kg"
-    ],
-    "correctAnswer": "Un tractor cargado de aceituna pesa 8 t 5 q 4 mag 8 kg. El tractor descarga las aceitunas y una vez vacío pesa 3.876 kg. ¿Cuántos kg pesan las aceitunas?"
-  },
-  {
     "id": "math_norm_370",
     "question": "Una cuadrilla de 24 obreros puede terminar una obra en 18 días, trabajando 8 horas diarias. Después de trabajar 12 días, se retiran 3 obreros y no son reemplazados sino al cabo de 3 días. ¿Cuántas horas diarias trabajaran en los días que faltan para terminar a obra en el tiempo establecido?",
     "subject": "Matemáticas",
@@ -3549,21 +2218,6 @@
     "correctAnswer": "6 556,362"
   },
   {
-    "id": "math_norm_372",
-    "question": "Un comerciante ofrece un 30% de descuento al precio marcado de un artículo y aún obtiene una ganancia de un 10% si al comerciante el artículo le cuesta 35 Gs entonces el precio marcado es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "45",
-      "55",
-      "38,5",
-      "50",
-      "66"
-    ],
-    "correctAnswer": "45"
-  },
-  {
     "id": "math_norm_373",
     "question": "Con un jarro de jugo se alcanza a llenar 36 vasos, ¿cuántos de estos vasos se podrán servir si sólo son llenados hasta ¾ de su capacidad?",
     "subject": "Matemáticas",
@@ -3579,21 +2233,6 @@
     "correctAnswer": "27"
   },
   {
-    "id": "math_norm_374",
-    "question": "48 obreros construyen un puente en 5 meses y 10 días trabajando 9 horas al día. ¿En qué tiempo habrían concluido este trabajo 72 obreros, trabajando 10 horas diarias, si las condiciones climáticas eran las mismas?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "3 meses 6 días",
-      "7 meses 6 días",
-      "8,888… meses",
-      "6 meses 7 días",
-      "3 meses 9 días"
-    ],
-    "correctAnswer": "3 meses 6 días"
-  },
-  {
     "id": "math_norm_375",
     "question": "Queremos repartir 510 caramelos entre un grupo de 3 niños, de tal forma que dos de ellos tengan la mitad de los caramelos pero que uno de estos dos tenga la mitad de caramelos que el otro. ¿Cuántos caramelos tendrá cada niño?",
     "subject": "Matemáticas",
@@ -3607,21 +2246,6 @@
       "255; 170 y 85"
     ],
     "correctAnswer": "255; 125 y 126"
-  },
-  {
-    "id": "math_norm_376",
-    "question": "Sean . Indica La afirmación correcta:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "‘’A’’ es una fracción propia, ‘’B’’ es una fracción decimal y ‘’C’’ es un número natural",
-      "‘’A’’ es un decimal exacto, ‘’B’’ es una fracción impropia ‘’C’’ es un número primo.",
-      "‘’A’’ es una fracción impropia, ‘’B’’ es una fracción decimal y ‘’C’’ es un número entero.",
-      "‘’A’’ es una fracción impropia, ‘’B’’ es un decimal periódico y ‘’C’’ es un número racional.",
-      "‘’A’’ es un decimal exacto, ‘’B’’ es una fracción propia y ‘’C’’ es un número par."
-    ],
-    "correctAnswer": "‘’A’’ es una fracción propia, ‘’B’’ es una fracción decimal y ‘’C’’ es un número natural"
   },
   {
     "id": "math_norm_377",
@@ -3654,36 +2278,6 @@
     "correctAnswer": "4"
   },
   {
-    "id": "math_norm_380",
-    "question": "La edad de A es igual al menor número primo y la edad de B es igual al menor número natural compuesto. Entonces la suma entre A y B es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correctAnswer": "3"
-  },
-  {
-    "id": "math_norm_381",
-    "question": "Sobre el valor numérico de la siguiente expresión , es correcto afirmar que:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "El mismo se puede expresar como el producto de dos números primos pares.",
-      "El mismo es un número primo, racional, entero, impar y completo.",
-      "El mismo es un número real divisible entre dos números primos.",
-      "El mismo no puede ser divisible entre ningún número compuesto.",
-      "Más de una opción es correcta."
-    ],
-    "correctAnswer": "El mismo se puede expresar como el producto de dos números primos pares."
-  },
-  {
     "id": "math_norm_382",
     "question": "Más de una opción es correcta.",
     "subject": "Matemáticas",
@@ -3697,36 +2291,6 @@
       "17"
     ],
     "correctAnswer": "El número primo antecesor al numerador de la fracción simplificada de  es igual a:"
-  },
-  {
-    "id": "math_norm_383",
-    "question": "La suma entre el numerador y denominador de la fracción simplificada de  es igual a ‘’M’’, por lo tanto ‘’M’’ es un número:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Divisor de 5",
-      "Potencia de 5",
-      "Primo",
-      "Par",
-      "2 son correctas"
-    ],
-    "correctAnswer": "Divisor de 5"
-  },
-  {
-    "id": "math_norm_384",
-    "question": "Dado que , entones es correcto afirmar que:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "A y B son números primos absolutos",
-      "(B – A) es un número primo, como lo es A",
-      "A y B son números impares, primos entre sí",
-      "El MCD entre A y B son igual a un número primo.",
-      "A es un divisor de B, por tanto, B es múltiplo de A."
-    ],
-    "correctAnswer": "A y B son números primos absolutos"
   },
   {
     "id": "math_norm_385",
@@ -3759,51 +2323,6 @@
     "correctAnswer": "2,5"
   },
   {
-    "id": "math_norm_389",
-    "question": "Una vendedora gana un salario base de 600 Gs por mes, más una comisión del 10 % de las ventas que haga. Si le toma 1  horas realizar ventas por valor de 100 Gs, entonces deberá trabajar cada mes para percibir ingresos de 2 000 Gs una cantidad de horas igual a:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "210",
-      "240",
-      "70",
-      "140",
-      "280"
-    ],
-    "correctAnswer": "210"
-  },
-  {
-    "id": "math_norm_390",
-    "question": "Un libro se vende en una liquidación por 54 000 Gs, con lo cual se pierde el 20% del precio del costo, entonces para ganar el 25% del precio de venta se hubiera vendido por:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "67 500",
-      "90 000",
-      "84 375",
-      "60 000",
-      "100 000"
-    ],
-    "correctAnswer": "67 500"
-  },
-  {
-    "id": "math_norm_391",
-    "question": "¿Qué se obtiene al determinar el 20% menos del triple del número obtenido al efectuar",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "El 15% de 48",
-      "La mitad del 50% de 120",
-      "El 12% del doble de 60",
-      "Dos de las opciones son correctas",
-      "Dos grifos abiertos simultáneamente pueden llenar un tanque en 8 horas. Si uno de los grifos llena el tanque en 12 hora. ¿En cuántas horas lo llenará el otro grifo?"
-    ],
-    "correctAnswer": "El 15% de 48"
-  },
-  {
     "id": "math_norm_392",
     "question": "Dos grifos abiertos simultáneamente pueden llenar un tanque en 8 horas. Si uno de los grifos llena el tanque en 12 hora. ¿En cuántas horas lo llenará el otro grifo?",
     "subject": "Matemáticas",
@@ -3817,66 +2336,6 @@
       "1/24 hs"
     ],
     "correctAnswer": "4 hs"
-  },
-  {
-    "id": "math_norm_393",
-    "question": "Un número es divisible por 7 cuando separando la última cifra, multiplicada por:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "3",
-      "7",
-      "2",
-      "5",
-      "11"
-    ],
-    "correctAnswer": "3"
-  },
-  {
-    "id": "math_norm_394",
-    "question": "Al repartir un número en forma directamente proporcional a tres números primos entre sí, se obtienen las partes siguientes: 720, 1.080 y 1.800. La suma de los tres números primos es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "8",
-      "11",
-      "9",
-      "10",
-      "15"
-    ],
-    "correctAnswer": "8"
-  },
-  {
-    "id": "math_norm_395",
-    "question": "De las siguientes afirmaciones:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Una fracción está definida siempre, si su denominador es distinto de cero",
-      "Una fracción está en su forma simple o es irreducible siempre que sus términos sean equivalentes.",
-      "Dos o más fracciones son equivalentes si sus resultados (cocientes) son iguales",
-      "Cambiar de signo a una fracción, es cambiar de signo a sus términos",
-      "Se deduce que es (son) falsa (s):"
-    ],
-    "correctAnswer": "Una fracción está definida siempre, si su denominador es distinto de cero"
-  },
-  {
-    "id": "math_norm_397",
-    "question": "Un vendedor de frutas compró cierto número de naranjas por 15 600 Gs, a 130 cada uno, y por cada 12 naranjas que compró le regalaron 1. Vendió 60 naranjas, ganando 50 en cada uno; 30 naranjas, perdiendo 50 en cada uno; se le echaron a perder 6 naranjas y el resto lo vendió perdiendo 30 en cada uno. Entonces el frutero:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "No perdió ni ganó",
-      "Ganó 240 Gs",
-      "Perdió 380 Gs",
-      "Ganó 420 Gs",
-      "Perdió 240 Gs"
-    ],
-    "correctAnswer": "No perdió ni ganó"
   },
   {
     "id": "math_norm_399",
@@ -3937,141 +2396,6 @@
     "correctAnswer": "2 400 000 Gs"
   },
   {
-    "id": "math_norm_403",
-    "question": "Hallar el valor de ‘’k’’ para que  sea divisible entre",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "correctAnswer": "5"
-  },
-  {
-    "id": "math_norm_404",
-    "question": "Determinar el valor de ‘’a’’ en el polinomio  de modo que sea divisible por",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "17",
-      "18",
-      "19",
-      "20",
-      "21"
-    ],
-    "correctAnswer": "17"
-  },
-  {
-    "id": "math_norm_405",
-    "question": "Luego de simplificar la expresión:  el resultado tiene por denominador:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Luego de simplificar la expresión:  resulta como numerador la expresión:",
-      "Luego de simplificar:  la suma de los coeficientes del resultado es:",
-      "Al simplificar:  el numerador es",
-      "1",
-      "2"
-    ],
-    "correctAnswer": "Luego de simplificar la expresión:  resulta como numerador la expresión:"
-  },
-  {
-    "id": "math_norm_406",
-    "question": "Al simplificar  nos queda como denominador:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correctAnswer": "1"
-  },
-  {
-    "id": "math_norm_407",
-    "question": "Al descomponer en factores las expresiones siguientes:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "La(s) descomposición(es) correcta(s) es o son:",
-      "Sólo II",
-      "Sólo I",
-      "I y II",
-      "Sólo III"
-    ],
-    "correctAnswer": "La(s) descomposición(es) correcta(s) es o son:"
-  },
-  {
-    "id": "math_norm_408",
-    "question": "Una finca de 4,1 há se divide en dos lotes cuyas áreas son directamente proporcionales a:  Calcular el área del lote menor en metros cuadrados.",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "29750",
-      "11250",
-      "1,125",
-      "2,975",
-      "N.d.a."
-    ],
-    "correctAnswer": "29750"
-  },
-  {
-    "id": "math_norm_410",
-    "question": "Determina la suma entre el numerador y denominador de la fracción generatriz de:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "2 143",
-      "5 680",
-      "6 587",
-      "1 471",
-      "879"
-    ],
-    "correctAnswer": "2 143"
-  },
-  {
-    "id": "math_norm_412",
-    "question": "Al hallar el valor numérico de la expresión  para , se obtiene a un número:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Negativo",
-      "Par primo",
-      "Que posee más de dos factores",
-      "Múltiplo de 3",
-      "Racional"
-    ],
-    "correctAnswer": "Negativo"
-  },
-  {
-    "id": "math_norm_413",
-    "question": "Un comerciante compró cierta cantidad de vino por 270 Gs, pagando 1,8 Gs por cada decalitro. La cantidad de vino que se compró es igual a:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1 500 litros",
-      "1 500 kg",
-      "A y B son correctas",
-      "15 kg",
-      "15 litros"
-    ],
-    "correctAnswer": "1 500 litros"
-  },
-  {
     "id": "math_norm_415",
     "question": "Una embotelladora de refrescos necesita despachar los contenidos de tres toneles de 448 litros, de 128 litros y de 160 litros en la menor cantidad de envases posibles, de la misma capacidad. ¿Qué contenido debe tener cada envase y cuántos se necesitan en total?",
     "subject": "Matemáticas",
@@ -4085,51 +2409,6 @@
       "21 lts; 41"
     ],
     "correctAnswer": "25 lts; 23"
-  },
-  {
-    "id": "math_norm_416",
-    "question": "Un terreno de 1,02 hectáreas se quiere fraccionar en lotes de 10 m por 30 m. El número de lotes que se obtendrá es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "32",
-      "34",
-      "36",
-      "40",
-      "N.d.a."
-    ],
-    "correctAnswer": "32"
-  },
-  {
-    "id": "math_norm_418",
-    "question": "Más de una opción es correcta",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Si para moler 8 sacos de trigo de un hectolitro y medio cada uno se han empleado 6 horas y cuarto, entonces, el tiempo necesario para moler 12 decalitros cada uno será:",
-      "7 h 30 min",
-      "5 h 15 min",
-      "3 h 45 min",
-      "8 h"
-    ],
-    "correctAnswer": "Si para moler 8 sacos de trigo de un hectolitro y medio cada uno se han empleado 6 horas y cuarto, entonces, el tiempo necesario para moler 12 decalitros cada uno será:"
-  },
-  {
-    "id": "math_norm_419",
-    "question": "Se compran 4 decalitros 6 litros de agua destilada por 920 Gs. Entonces, el precio de 1 g de agua, es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "0,02 Gs",
-      "200 Gs",
-      "2000 Gs",
-      "2 Gs",
-      "0,2 Gs"
-    ],
-    "correctAnswer": "0,02 Gs"
   },
   {
     "id": "math_norm_420",
@@ -4147,51 +2426,6 @@
     "correctAnswer": "1 812 lts"
   },
   {
-    "id": "math_norm_421",
-    "question": "Una persona A recorre en la semana lo que es equivalente al doble de lo que recorre otra persona B. Si B recorre una distancia tal, que, si lo contamos de 18 en 18 km, de 20 en 20 km y de 75 en 75 km, siempre faltan 4 km. Qué cantidad recorre A, en promedio por día:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "256 km",
-      "128 km",
-      "900 km",
-      "1 800 km",
-      "1 792 km"
-    ],
-    "correctAnswer": "256 km"
-  },
-  {
-    "id": "math_norm_422",
-    "question": "Al dividir un número por 23 se obtiene como residuo 19, al dividirlo por 19 el residuo es 15, y al dividirlo por 15, el residuo es 11. El mínimo valor que cumple con esa condición es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "6 551",
-      "6 555",
-      "72 105",
-      "72 501",
-      "72 101"
-    ],
-    "correctAnswer": "6 551"
-  },
-  {
-    "id": "math_norm_423",
-    "question": "En una ciudad votan en una elección de gobernantes 31 347 personas y en otra ciudad 176 128 personas, para lo cual se habilitaran la mínima cantidad de urnas, para que en cada una de ellas se pueda contener la máxima cantidad de votos. Si esta distribución fuese perfecta, el número de urnas necesarias es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "4 825",
-      "22",
-      "2 518",
-      "86",
-      "43"
-    ],
-    "correctAnswer": "4 825"
-  },
-  {
     "id": "math_norm_425",
     "question": "Tres caños, que suministran la misma cantidad de agua por segundo, han llenado un depósito de 220 hl de capacidad. El primero estuvo abierto 40 minutos, el segundo, 2 horas y el tercero, 1 día. Calcular la cantidad de agua suministrada por el tercer caño.",
     "subject": "Matemáticas",
@@ -4205,51 +2439,6 @@
       "165 hl"
     ],
     "correctAnswer": "5,5 hl"
-  },
-  {
-    "id": "math_norm_427",
-    "question": "Dos tanques de 2 000 y 1 600 litros de capacidad se encuentran llenos con un combustible. El número de litros que se debe sacar del tanque de mayor capacidad para que la relación entre las cantidades de combustible de mayor al menor sea 6 a 5, es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "80",
-      "200",
-      "400",
-      "800",
-      "150"
-    ],
-    "correctAnswer": "80"
-  },
-  {
-    "id": "math_norm_428",
-    "question": "Al efectuar y simplificar:  se obtiene a un polinomio:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Divisible entre x – 1",
-      "Cuyo término independiente es una decena y cinco unidades",
-      "Cuya suma de sus coeficientes numéricos es tres decenas",
-      "De segundo grado",
-      "Múltiplo de x + 1"
-    ],
-    "correctAnswer": "Divisible entre x – 1"
-  },
-  {
-    "id": "math_norm_429",
-    "question": "Factorizando la expresión , un factor es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "3",
-      "y²",
-      "z²",
-      "x²",
-      "x"
-    ],
-    "correctAnswer": "3"
   },
   {
     "id": "math_norm_430",
@@ -4267,51 +2456,6 @@
     "correctAnswer": "9 100 000"
   },
   {
-    "id": "math_norm_431",
-    "question": "Un hacendado desea alambrar con 5 hilos un terreno de forma rectangular, cuyo fondo no es necesario alambrar porque limita por un estero. Las medidas del terreno son de 0, 75 km ¼ hm 25 m de frente y de lateral mide el producto de 1 millar por . La longitud de alambre a utilizar es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "11 000 m",
-      "5 500 m",
-      "4 001,5 m",
-      "7 000 m",
-      "9 500 m"
-    ],
-    "correctAnswer": "11 000 m"
-  },
-  {
-    "id": "math_norm_433",
-    "question": "Al hallar el valor numérico de la expresión  para , se obtiene un número:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Negativo",
-      "Par primo",
-      "Que posee más de dos factores",
-      "Múltiplo de 3",
-      "Que posee solamente dos divisiones"
-    ],
-    "correctAnswer": "Negativo"
-  },
-  {
-    "id": "math_norm_434",
-    "question": "Que posee solamente dos divisiones",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Si la diferencia de y , se resta de , luego el resultado se multiplica por , se obtiene:",
-      "Una diferencia de cubos perfectos",
-      "Una suma de cubos perfectos",
-      "Una suma de cuadrados perfectos",
-      "Una diferencia de cuadrados perfectos"
-    ],
-    "correctAnswer": "Si la diferencia de y , se resta de , luego el resultado se multiplica por , se obtiene:"
-  },
-  {
     "id": "math_norm_435",
     "question": "Una diferencia de cuadrados perfectos",
     "subject": "Matemáticas",
@@ -4325,125 +2469,6 @@
       "9"
     ],
     "correctAnswer": "Un trinomio cuadrado perfecto"
-  },
-  {
-    "id": "math_norm_439",
-    "question": "Si dos números son primos entre sí, necesariamente:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Ambos números son primos absolutos",
-      "Su mcm es su producto",
-      "No tiene mcd",
-      "Su mcd es la unidad",
-      "De las opciones anteriores son falsas:"
-    ],
-    "correctAnswer": "Ambos números son primos absolutos"
-  },
-  {
-    "id": "math_norm_440",
-    "question": "De las opciones anteriores son falsas:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Uno",
-      "Dos",
-      "Tres",
-      "Todos",
-      "Ninguno"
-    ],
-    "correctAnswer": "Uno"
-  },
-  {
-    "id": "math_norm_442",
-    "question": "De las sentencias anteriores son falsas:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Una",
-      "Dos",
-      "Tres",
-      "Todas",
-      "Ninguna"
-    ],
-    "correctAnswer": "Una"
-  },
-  {
-    "id": "math_norm_443",
-    "question": "Un ganadero vende 118 caballos a 700 000 Gs cada uno y cierto número de vacas a 600 000 Gs cada una. Con el importe total de la venta compro una casa de 146 560 000 Gs y le sobraron 3 240 000 Gs. La cantidad de vacas que vendió el ganado es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "211",
-      "312",
-      "212",
-      "112",
-      "114"
-    ],
-    "correctAnswer": "211"
-  },
-  {
-    "id": "math_norm_444",
-    "question": "El dividendo y el resto de una división inexacta son 580 y 21 respectivamente. Al determinar el valor del cociente por exceso, se tiene como resultado:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "13",
-      "14",
-      "15",
-      "43",
-      "44"
-    ],
-    "correctAnswer": "13"
-  },
-  {
-    "id": "math_norm_445",
-    "question": "Tres ciclistas parten simultáneamente de un mismo punto de largada. Uno de los ciclistas de un vuelta cada 45 segundos, otro cada 20 segundos y el tercero cada 25 segundos. Los tres ciclistas juntos, cruzan por primera vez el punto de largada, a los:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "5 segundos",
-      "18 segundos",
-      "90 segundos",
-      "30 segundos",
-      "900 segundos"
-    ],
-    "correctAnswer": "5 segundos"
-  },
-  {
-    "id": "math_norm_446",
-    "question": "Del polinomio , se deduce que:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "La suma de sus coeficientes numéricos es cero",
-      "Es de grado 6",
-      "Su término independiente es 10",
-      "El grado relativo de b es 4",
-      "Es (son) falsa (s):"
-    ],
-    "correctAnswer": "La suma de sus coeficientes numéricos es cero"
-  },
-  {
-    "id": "math_norm_448",
-    "question": "Si P y Q representan el mcm y mcd, respectivamente de  y , entonces el cociente entre P y Q, es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "(y-2z)(y-3z)",
-      "2 400",
-      "1 800",
-      "1 200"
-    ],
-    "correctAnswer": "(y-2z)(y-3z)"
   },
   {
     "id": "math_norm_450",
@@ -4536,21 +2561,6 @@
     "correctAnswer": "20 h"
   },
   {
-    "id": "math_norm_460",
-    "question": "Descomponer 264 en partes directamente proporcionales a   y",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "70; 82 y 100",
-      "68; 80 y 98",
-      "78; 84 y 102",
-      "80; 86 y 104",
-      "N.d.a."
-    ],
-    "correctAnswer": "70; 82 y 100"
-  },
-  {
     "id": "math_norm_461",
     "question": "Un pintor puede terminar una obra en 6 horas y su ayudante en 10 horas. El pintor comienza la tarea y al cabo de 2 horas se incorpora su ayudante, trabajando juntos hasta terminar la obra. Calcular la duración total del trabajo.",
     "subject": "Matemáticas",
@@ -4609,21 +2619,6 @@
     "correctAnswer": "9 días"
   },
   {
-    "id": "math_norm_467",
-    "question": "La suma entre los coeficientes del trinomio que se obtiene al resolver: ; es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "2",
-      "4",
-      "-6",
-      "-4",
-      "0"
-    ],
-    "correctAnswer": "2"
-  },
-  {
     "id": "math_norm_468",
     "question": "Ciriaco es el triple de rápido que Eduardo. Si juntos pueden hacer un trabajo en 12 días. ¿cuánto tiempo le tomará a Ciriaco hacer solo el mismo Trabajo?",
     "subject": "Matemáticas",
@@ -4652,36 +2647,6 @@
       "N.d.a."
     ],
     "correctAnswer": "1 924,7 lts"
-  },
-  {
-    "id": "math_norm_470",
-    "question": "Isabel camina un número exacto de pasos andando 800 cm; 560 cm y 320 cm. La mayor longitud posible de cada paso es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "40 cm",
-      "800 cm",
-      "400 cm",
-      "80 cm",
-      "160 cm"
-    ],
-    "correctAnswer": "40 cm"
-  },
-  {
-    "id": "math_norm_471",
-    "question": "A la velocidad de 60 km por hora un automóvil emplea 8 horas en ir de Encarnación a Ciudad del Este. Si la velocidad hubiese sido el doble se hubiera tardado:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1 h",
-      "4 hs",
-      "8 hs",
-      "16 hs",
-      "120 hs"
-    ],
-    "correctAnswer": "1 h"
   },
   {
     "id": "math_norm_472",
@@ -4744,36 +2709,6 @@
     "correctAnswer": "60 000 Gs"
   },
   {
-    "id": "math_norm_477",
-    "question": "Hallar dos números sabiendo que su suma es igual a 21 y que uno de ellos es igual al doble del otro. El número mayor es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "7",
-      "14",
-      "9",
-      "18",
-      "16"
-    ],
-    "correctAnswer": "7"
-  },
-  {
-    "id": "math_norm_480",
-    "question": "Resolviendo el sistema  ; el producto de x.y es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Un decimal periódico puro",
-      "Un decimal periódico Mixto",
-      "Un número entero negativo",
-      "Un número entero positivo",
-      "Un número decimal exacto"
-    ],
-    "correctAnswer": "Un decimal periódico puro"
-  },
-  {
     "id": "math_norm_481",
     "question": "Un número decimal exacto",
     "subject": "Matemáticas",
@@ -4804,81 +2739,6 @@
     "correctAnswer": "-24"
   },
   {
-    "id": "math_norm_484",
-    "question": "El coeficiente numérico de x2 de la división  entre  es igual a:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "6",
-      "-2",
-      "2",
-      "23",
-      "-6"
-    ],
-    "correctAnswer": "6"
-  },
-  {
-    "id": "math_norm_485",
-    "question": "El valor de ‘’K’’ para que  sea divisible entre  es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "7,5",
-      "3,5",
-      "5,7",
-      "5,3",
-      "2"
-    ],
-    "correctAnswer": "7,5"
-  },
-  {
-    "id": "math_norm_487",
-    "question": "6 obreros trabajando 9 días, a razón de 8 horas por día, han hecho 37,5% de una obra. Si se refuerza la cuadrilla con un número de obreros igual a la mitad de los anteriores, más uno y ahora trabajan seis horas diarias, entonces el número de días que se utiliza en la obra es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "9",
-      "21",
-      "18",
-      "26",
-      "12"
-    ],
-    "correctAnswer": "9"
-  },
-  {
-    "id": "math_norm_488",
-    "question": "Efectuando  resulta una fracción cuyo denominador es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1",
-      "Hallar en cm, el 10% de la diferencia entre los 5/8 de 0,7412 km y los 4/5 de 28310 m.",
-      "2 218,475",
-      "22 184,75",
-      "221 847,5"
-    ],
-    "correctAnswer": "1"
-  },
-  {
-    "id": "math_norm_489",
-    "question": "Dos canillas pueden llenar un depósito en 3 horas y 5 horas respectivamente, y un desagüe puede vaciarlo en 15 horas, estando lleno. Si estando el depósito vacío, se abren ambas canillas y el desagüe simultáneamente, el depósito se llenará en:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "11/20 hs",
-      "7/18 hs",
-      "7 hs",
-      "15/7 hs",
-      "20/11 hs"
-    ],
-    "correctAnswer": "11/20 hs"
-  },
-  {
     "id": "math_norm_490",
     "question": "Tres cuadrillas de obreros han realizado un trabajo por e que sea pagado 516 Gs. La primera cuadrilla constaba de 10 hombres y trabajó durante 12 días; la segunda, de 6 hombres trabajó 8 días y la tercera, de 5 hombres trabajó 18 días. ¿Cuánto debe recibir la tercera cuadrilla?",
     "subject": "Matemáticas",
@@ -4894,34 +2754,6 @@
     "correctAnswer": "122,8 Gs"
   },
   {
-    "id": "math_norm_491",
-    "question": "Hallando previamente la fracción generatriz de los decimales, efectuar:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "2/15",
-      "23/15",
-      "3/15",
-      "23/5"
-    ],
-    "correctAnswer": "2/15"
-  },
-  {
-    "id": "math_norm_492",
-    "question": "Ana, Shirley y Liz trabajando juntas pueden hacer una obra en tres días. Ana, trabajando sola, puede hacerla en 18 días y Shirley trabajando sola, la hubiera hecho en 14 días. ¿En cuántos días puede hacer Liz la Obra?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "En una sala de cine hay 500 personas entre niños/as y adultos viendo la película ‘’Corazón Valiente’’. Sabiendo que cada adulto pagó 20 Gs y casa niño/a 8Gs. A recaudación total obtenido es de 5200 Gs. ¿Cuántos niños/as participaron de la función?",
-      "125",
-      "100",
-      "400"
-    ],
-    "correctAnswer": "En una sala de cine hay 500 personas entre niños/as y adultos viendo la película ‘’Corazón Valiente’’. Sabiendo que cada adulto pagó 20 Gs y casa niño/a 8Gs. A recaudación total obtenido es de 5200 Gs. ¿Cuántos niños/as participaron de la función?"
-  },
-  {
     "id": "math_norm_494",
     "question": "Se han comprado dos automóviles por 3 400 Gs y se ha pagado en razón directa a la velocidad que pueden desarrollar, que es proporcional a los números 60 y 70 e inversamente proporcional a su tiempo de servicio, 3 y 5 años, respectivamente. ¿Cuánto se ha pagado por el automóvil más caro?",
     "subject": "Matemáticas",
@@ -4935,111 +2767,6 @@
       "1 400 Gs"
     ],
     "correctAnswer": "3 000Gs"
-  },
-  {
-    "id": "math_norm_495",
-    "question": "El cociente de una división exacta es  y el dividendo es  Hallar el divisor:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "85 cm",
-      "75 cm",
-      "65 cm",
-      "55 cm",
-      "45 cm"
-    ],
-    "correctAnswer": "85 cm"
-  },
-  {
-    "id": "math_norm_496",
-    "question": "En un club hay una cantidad de alumnos de natación tal que si se forman grupos de 3 sobran 2, y si se formas grupos de 5 sobran 3, y si se forman grupos de 4, sobran 2. ¿Cuántos alumnos hay como mínimo?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "60 \tb. 38\tc. 48 \td. 63 \te. 62",
-      "La fracción generatriz de: , \tes igual a a/b, por tanto, el MCD entre los números (a – b) y (a + b) es igual:",
-      "1 + b",
-      "1",
-      "b"
-    ],
-    "correctAnswer": "60 \tb. 38\tc. 48 \td. 63 \te. 62"
-  },
-  {
-    "id": "math_norm_497",
-    "question": "Al simplificar la expresión  se obtiene:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "0",
-      "a",
-      "1/a+b",
-      "1/a-b",
-      "1/a-c"
-    ],
-    "correctAnswer": "0"
-  },
-  {
-    "id": "math_norm_499",
-    "question": "El valor de la fracción  es equivalente a un polinomio cuya suma de coeficientes es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "-2",
-      "2",
-      "-1",
-      "4",
-      "1"
-    ],
-    "correctAnswer": "-2"
-  },
-  {
-    "id": "math_norm_500",
-    "question": "Simplifica la expresión  e indica el grado del polinomio que resulta en el denominador:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "2°",
-      "1°",
-      "0",
-      "3°",
-      "4°"
-    ],
-    "correctAnswer": "2°"
-  },
-  {
-    "id": "math_norm_502",
-    "question": "El resultado de simplificar  es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1x",
-      "1n+5",
-      "1n",
-      "1",
-      "T.S.C."
-    ],
-    "correctAnswer": "1x"
-  },
-  {
-    "id": "math_norm_503",
-    "question": "El resto de dividir  entre  es el mismo resto que resulta de dividir  entre . Por lo tanto, el valor de K es un número.",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Primo",
-      "Natural",
-      "Decimal periódico",
-      "Compuesto",
-      "Decimal Exacto"
-    ],
-    "correctAnswer": "Primo"
   },
   {
     "id": "math_norm_504",
@@ -5072,36 +2799,6 @@
     "correctAnswer": "La 120"
   },
   {
-    "id": "math_norm_506",
-    "question": "Sea , determina la suma de las cifras del número que resulta al efectuar la operación A – B, expresando el minuendo y el sustraendo en metros.",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "3451",
-      "10",
-      "3415",
-      "13",
-      "8"
-    ],
-    "correctAnswer": "3451"
-  },
-  {
-    "id": "math_norm_507",
-    "question": "La alternativa incorrecta es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Factor común es sinónimo de MCD",
-      "Factor común es la expresión de menor exponente capaz de dividir exactamente a cada término",
-      "Factor común es la expresión común a cada término con su menor exponente",
-      "Factor común es siempre necesariamente divisor exacto para cada término en la expresión.",
-      "Repartir 67 620 Gs en partes directamente proporcionales a 1001; 5929; 462; 5005. Calcular el 10% del capital menor."
-    ],
-    "correctAnswer": "Factor común es sinónimo de MCD"
-  },
-  {
     "id": "math_norm_508",
     "question": "Repartir 67 620 Gs en partes directamente proporcionales a 1001; 5929; 462; 5005. Calcular el 10% del capital menor.",
     "subject": "Matemáticas",
@@ -5130,20 +2827,6 @@
       "1004,32 g"
     ],
     "correctAnswer": "1004,82 g"
-  },
-  {
-    "id": "math_norm_511",
-    "question": "Al efectuar:  da como resultado…",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "a",
-      "26b",
-      "Al multiplicar la expresión , el producto es igual a:",
-      "Al dividir  obtenemos:"
-    ],
-    "correctAnswer": "a"
   },
   {
     "id": "math_norm_513",
@@ -5206,36 +2889,6 @@
     "correctAnswer": "4"
   },
   {
-    "id": "math_norm_517",
-    "question": "Dos números son entre sí como 18 es a 24. El máximo común divisor de los mismos es 42. Hallar los números:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "126 y 168",
-      "128 y 170",
-      "130 y 172",
-      "132 y 174",
-      "13 y 17"
-    ],
-    "correctAnswer": "126 y 168"
-  },
-  {
-    "id": "math_norm_518",
-    "question": "Un depósito, de 3815 litros de capacidad, contiene 185 litros de agua. Se abren simultáneamente dos grifos y un desagüe. Los grifos suministran  litros por minuto y  litros por minuto y el desagüe descarga  litros por minuto.",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "¿Cuántos litros de agua habrá en el depósito luego de una hora y veinticuatro minutos?",
-      "¿En cuánto tiempo se llenará el depósito?",
-      "425 lts y 20 h",
-      "427 lts y 21 h",
-      "429 lts y 22 h"
-    ],
-    "correctAnswer": "¿Cuántos litros de agua habrá en el depósito luego de una hora y veinticuatro minutos?"
-  },
-  {
     "id": "math_norm_519",
     "question": "Un obrero cavó un pozo en 14 días. Si hubiera trabajado 3 horas menos por día, hubiera empleado 66 días más para realizar el mismo trabajo. ¿Cuántas horas por día trabajó el obrero?",
     "subject": "Matemáticas",
@@ -5281,81 +2934,6 @@
     "correctAnswer": "61"
   },
   {
-    "id": "math_norm_522",
-    "question": "Al multiplicar , se obtiene un polinomio cuyo grado absoluto coincide con el opuesto del triple del término independiente. ¿Cuánto vale N?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "3",
-      "1",
-      "0",
-      "-1",
-      "2"
-    ],
-    "correctAnswer": "3"
-  },
-  {
-    "id": "math_norm_523",
-    "question": "El resultado del producto  tiene como exponente de la variable ‘’x’’ al binomio.",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "El cociente y el resto de dividir  son respectivamente:",
-      "Si  y el valor de ‘’x’’ es un número entero positivo, entonces el grado absoluto de A + B + C + D es:",
-      "Al hallar el valor numérico de la expresión se obtiene un número fraccionario. La diferencia entre el numerador menos denominador es un número",
-      "Compuesto",
-      "Negativo"
-    ],
-    "correctAnswer": "El cociente y el resto de dividir  son respectivamente:"
-  },
-  {
-    "id": "math_norm_524",
-    "question": "La expresión simplificada de , es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "De la división  su cociente es:",
-      "Dos obreros, trabajando juntos, terminan una obra en 2 días. Si trabajan c/u por separada termina la obra en un mismo tiempo estimado en:",
-      "1 día",
-      "1,5 días",
-      "2 días"
-    ],
-    "correctAnswer": "De la división  su cociente es:"
-  },
-  {
-    "id": "math_norm_527",
-    "question": "Si de 100 se resta el % del mismo, entonces se obtiene:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "0",
-      "99",
-      "98",
-      "99,01",
-      "99,99"
-    ],
-    "correctAnswer": "0"
-  },
-  {
-    "id": "math_norm_529",
-    "question": "Vendí una heladera en 792 000 Gs, operación en la cual perdí el 12% de la inversión inicial. Para perder el 20% del costo habría tenido que venderla en:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "90 000 Gs",
-      "95 000 Gs",
-      "709 632 Gs",
-      "887 040 Gs",
-      "872 000 Gs"
-    ],
-    "correctAnswer": "90 000 Gs"
-  },
-  {
     "id": "math_norm_532",
     "question": "a, b, c, y d son primos relativos.",
     "subject": "Matemáticas",
@@ -5384,36 +2962,6 @@
       "3000"
     ],
     "correctAnswer": "2000"
-  },
-  {
-    "id": "math_norm_534",
-    "question": "Dos hombres ganan juntos 2,40 Gs por día. Después de ciertos números de días el primero recibe 21,60 Gs y el segundo 16,80 Gs. El jornal en Gs, del primer hombre es:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "2.25",
-      "3,05",
-      "1,35",
-      "0,25",
-      "1,05"
-    ],
-    "correctAnswer": "2.25"
-  },
-  {
-    "id": "math_norm_535",
-    "question": "Al dividir un polinomio F por  se obtiene como cociente  y resto  ¿cuál es el resto de la división del polinomio F por x – 1?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "2",
-      "20",
-      "10",
-      "2x",
-      "En una división el residuo por defecto es 7 y por exceso es13, el cociente es la mitad del divisor. Calcular el dividendo."
-    ],
-    "correctAnswer": "2"
   },
   {
     "id": "math_norm_536",
@@ -5521,66 +3069,6 @@
     "correctAnswer": "10 000 Gs"
   },
   {
-    "id": "math_norm_547",
-    "question": "Teniendo en cuenta el número 2710, se puede decir que:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Posee cinco divisores primos",
-      "Sus factores primos son primos absolutos consecutivos",
-      "Posee 4 divisores compuestos",
-      "Los divisores simples y compuestos son primos relativos",
-      "De las sentencias anteriores se deduce que:"
-    ],
-    "correctAnswer": "Posee cinco divisores primos"
-  },
-  {
-    "id": "math_norm_548",
-    "question": "De las sentencias anteriores se deduce que:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Una es verdadera",
-      "Dos so verdaderas",
-      "Tres son verdaderas",
-      "Todas son verdaderas",
-      "Todas son falsas"
-    ],
-    "correctAnswer": "Una es verdadera"
-  },
-  {
-    "id": "math_norm_549",
-    "question": "Dividendo  obtenemos como cociente",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "257,01 hm",
-      "25,701 hm",
-      "2,5701 hm",
-      "25,715 hm",
-      "2570,1 hm"
-    ],
-    "correctAnswer": "257,01 hm"
-  },
-  {
-    "id": "math_norm_550",
-    "question": "Si dos números son primos entre sí, las potencias de ambos números son siempre:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Pares",
-      "Impares",
-      "Múltiplos de 3",
-      "Primos entre sí",
-      "Indique cuál de los siguientes pares de razones forman una proporción geométrica"
-    ],
-    "correctAnswer": "Pares"
-  },
-  {
     "id": "math_norm_551",
     "question": "Indique cuál de los siguientes pares de razones forman una proporción geométrica",
     "subject": "Matemáticas",
@@ -5594,51 +3082,6 @@
       "17"
     ],
     "correctAnswer": "La expresión que hay que añadir a  para que la suma se 3x, es igual a:"
-  },
-  {
-    "id": "math_norm_552",
-    "question": "El valor numérico de: se obtiene un número:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Que representa el producto de dos números primos absolutos",
-      "Cuyas cifras son primos relativos",
-      "Cuya suma es valor absoluto de sus cifras es divisible entre cuatro",
-      "Cuya diferencia en valor absoluto de sus cifras es múltiplo de un número par primo",
-      "De las afirmaciones anteriores, se deduce que:"
-    ],
-    "correctAnswer": "Que representa el producto de dos números primos absolutos"
-  },
-  {
-    "id": "math_norm_553",
-    "question": "De las afirmaciones anteriores, se deduce que:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Una es verdadera",
-      "Dos son verdaderas",
-      "Tres son verdaderas",
-      "Todas son verdaderas",
-      "Todas son falsas"
-    ],
-    "correctAnswer": "Una es verdadera"
-  },
-  {
-    "id": "math_norm_554",
-    "question": "Si  entonces el valor de",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "0",
-      "1",
-      "-1",
-      "El valor A corresponde al máximo común divisor entre  y el valor de B corresponde al mínimo común múltiplo entre .Entonces el máximo común divisor entre A y B es:",
-      "N.d.a."
-    ],
-    "correctAnswer": "0"
   },
   {
     "id": "math_norm_555",
@@ -5669,21 +3112,6 @@
       "5"
     ],
     "correctAnswer": "1"
-  },
-  {
-    "id": "math_norm_557",
-    "question": "2 000 excede en 788 a la diferencia de dos números y en 1 995 a su cociente. Hallar los números.",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1 414 y 606",
-      "1 717 y 505",
-      "1 616 y 404",
-      "1 515 y 303",
-      "N.d.a."
-    ],
-    "correctAnswer": "1 414 y 606"
   },
   {
     "id": "math_norm_558",
@@ -5731,21 +3159,6 @@
     "correctAnswer": "10 hs"
   },
   {
-    "id": "math_norm_565",
-    "question": "En una multiplicación , no se verifica que.",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Si b=1, entonces p=a",
-      "Si b ˃ 1, entonces p ˂ a",
-      "Si b ˂ 1, entonces p = 0",
-      "Si b = 0, entonces p = 0",
-      "Si b = a, entonces p = a²"
-    ],
-    "correctAnswer": "Si b=1, entonces p=a"
-  },
-  {
     "id": "math_norm_567",
     "question": "Una baldosa pesa 4 kg más media baldosa. ¿Cuánto pesan dos baldosas y media?",
     "subject": "Matemáticas",
@@ -5759,125 +3172,6 @@
       "Una decena del doble de 10 kg"
     ],
     "correctAnswer": "El doble de 20 kg"
-  },
-  {
-    "id": "math_norm_568",
-    "question": "Una decena del doble de 10 kg",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Un caminante marcha a una rapidez media de 5 km en 1 hora. Por lo tanto, para caminar ‘’n’’ (km) las horas empleadas son:",
-      "0,2 n",
-      "5/n",
-      "5n",
-      "1+n/5"
-    ],
-    "correctAnswer": "Un caminante marcha a una rapidez media de 5 km en 1 hora. Por lo tanto, para caminar ‘’n’’ (km) las horas empleadas son:"
-  },
-  {
-    "id": "math_norm_569",
-    "question": "Un patrón, ayudado de un obrero y un aprendiz, han hecho un trabajo por 360 000 guaraníes. Repartir esta suma de modo que la parte del patrón valga tres veces la del obrero, y éste 2 veces la del aprendiz. El obrero recibe:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "50 000 Gs",
-      "200 000 Gs",
-      "40 000 Gs",
-      "80 000 Gs",
-      "240 000 Gs"
-    ],
-    "correctAnswer": "50 000 Gs"
-  },
-  {
-    "id": "math_norm_570",
-    "question": "22 personas iban a comprar una finca que vale 429 000 Gs, contribuyendo por partes iguales. Se suman otros amigos y deciden formar pare de la sociedad, con lo cual cada uno aporta 3 000 Gs menos que antes. ¿Cuántos fueron los que se sumaron a los primeros?",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "1",
-      "5",
-      "2",
-      "4",
-      "3"
-    ],
-    "correctAnswer": "1"
-  },
-  {
-    "id": "math_norm_571",
-    "question": "En la cancha las entradas de hombres cuestan 60 000 Gs y la de las damas la tercera parte que la de los hombres. Concurrieron 752 personas a un partido amistoso y se recaudó 36 480 000 Gs. La cantidad de damas que asistieron a la cancha es de:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "536",
-      "216",
-      "200",
-      "206",
-      "210"
-    ],
-    "correctAnswer": "536"
-  },
-  {
-    "id": "math_norm_572",
-    "question": "De los números del 1 al 20 se encuentra que:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Hay mayor cantidad de números primos que números pares",
-      "Hay un número impar de números primos",
-      "Hay un número igual de números pares e impares",
-      "Hay menor cantidad de números compuestos que primos",
-      "Hay un número impar de números divisibles por 3"
-    ],
-    "correctAnswer": "Hay mayor cantidad de números primos que números pares"
-  },
-  {
-    "id": "math_norm_573",
-    "question": "Hay un número impar de números divisibles por 3",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Una persona muy metódica, preocupada por su salud, organizó una agenda de asistencia al dentista, clínico y oftalmólogo. Habiéndose hecho todos los exámenes en las tres especialidades en enero de 2001, tiene pensado ir al dentista cada 4 meses, al clínico cada 6 meses y al oftalmólogo cada 8 meses. ¿En qué mes y año visitará a los tres especialistas simultáneamente?",
-      "Enero de 2003",
-      "Marzo de 2004",
-      "Marzo de 2003"
-    ],
-    "correctAnswer": "Una persona muy metódica, preocupada por su salud, organizó una agenda de asistencia al dentista, clínico y oftalmólogo. Habiéndose hecho todos los exámenes en las tres especialidades en enero de 2001, tiene pensado ir al dentista cada 4 meses, al clínico cada 6 meses y al oftalmólogo cada 8 meses. ¿En qué mes y año visitará a los tres especialistas simultáneamente?"
-  },
-  {
-    "id": "math_norm_574",
-    "question": "El producto de dos números es 80 920 y su mayor común es 34. El menor común múltiplo de dichos números es igual a:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "2380",
-      "3280",
-      "4800",
-      "2840",
-      "3500"
-    ],
-    "correctAnswer": "2380"
-  },
-  {
-    "id": "math_norm_575",
-    "question": "Dos personas, una de 38 años y otra de 60, preguntan a una tercera la edad de ella; y responde: mi edad está comprendida entre las vuestras y si dividís el número de mis años por 2, 3 y 4 hallaréis constantemente un resto igual a 1. La edad de esa persona representa un número:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Primo",
-      "Múltiplo de 13",
-      "Divisible entre 19",
-      "Divisible entre 11",
-      "Múltiplo de 7"
-    ],
-    "correctAnswer": "Primo"
   },
   {
     "id": "math_norm_578",
@@ -5895,21 +3189,6 @@
     "correctAnswer": "1 há es igual a 1 m²"
   },
   {
-    "id": "math_norm_579",
-    "question": "10 mm es igual a 0,01 dm",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "Al sumar a los 2/3 de 0,3 há y 30 m²; los 1/5 de 10 Dm² se obtiene como resultado en m²",
-      "2020",
-      "2220",
-      "3330",
-      "1820"
-    ],
-    "correctAnswer": "Al sumar a los 2/3 de 0,3 há y 30 m²; los 1/5 de 10 Dm² se obtiene como resultado en m²"
-  },
-  {
     "id": "math_norm_580",
     "question": "Cierto trabajo es ejecutado en 10 días de 7 horas por 16 máquinas. Si se descomponen 6 de ellas, determinar cuántos días de 8 horas deberán trabajar las restantes para hacer el doble de trabajo.",
     "subject": "Matemáticas",
@@ -5923,36 +3202,6 @@
       "36"
     ],
     "correctAnswer": "7"
-  },
-  {
-    "id": "math_norm_581",
-    "question": "3 obreros emplean 8 días de 5 horas diarias en hacer 150 m de una obra, entonces la cantidad de tiempo que deberán trabajar estos 3 obreros para otra obra 4 veces mayor que la primera, sabiendo que la dificultad de la primera y la segunda están en relación de 5 a 2 es igual a:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "64 hs",
-      "25 hs",
-      "4 hs",
-      "16 hs",
-      "8 hs"
-    ],
-    "correctAnswer": "64 hs"
-  },
-  {
-    "id": "math_norm_582",
-    "question": "Un empleado gasta la mitad de su sueldo en comer, la mitad de lo que le queda en una habitación, la mitad de lo que le queda en movilización y el resto en gastos varios. Entonces en movilización gasta de su sueldo:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "6 %",
-      "1/8%",
-      "8%",
-      "12,5%",
-      "6,25%"
-    ],
-    "correctAnswer": "6 %"
   },
   {
     "id": "math_norm_583",
@@ -5970,21 +3219,6 @@
     "correctAnswer": "10%"
   },
   {
-    "id": "math_norm_584",
-    "question": "Vendí un caballo por 792 Gs, perdiendo el 12% del costo. Para ganar el 8% del costo debo venderlo por Gs:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "892",
-      "983",
-      "972",
-      "987",
-      "878"
-    ],
-    "correctAnswer": "892"
-  },
-  {
     "id": "math_norm_585",
     "question": "En una granja se tiene gallinas, patos, pavos, vacas y cerdos, en relación de 1:2:3:4:5 respectivamente. Si todos los animales fueran pavos, se tendrían 2160 patas menos que si todos fueran cerdos. ¿Cuántas vacas se tiene en la granja?",
     "subject": "Matemáticas",
@@ -5998,21 +3232,6 @@
       "72"
     ],
     "correctAnswer": "1 080"
-  },
-  {
-    "id": "math_norm_586",
-    "question": "Se desea cortar una tabla de 25 cm de largo, en dos partes. La parte más larga es 1 cm más grande que el doble de la parte más corta. La parte más larga, mide:",
-    "subject": "Matemáticas",
-    "difficulty": 1,
-    "explanation": "",
-    "options": [
-      "8 cm",
-      "24 cm",
-      "15 cm",
-      "17 cm",
-      "6 cm"
-    ],
-    "correctAnswer": "8 cm"
   },
   {
     "id": "math_norm_588",
@@ -6102,49 +3321,5 @@
       "5 763 Gs"
     ],
     "correctAnswer": "5 637 Gs"
-  },
-  {
-    "id": "math_gen_609",
-    "question": "¿Cuánto Gs costó lo que al venderse en 12517 Gs deja una pérdida de 1318 Gs?",
-    "subject": "Examen General Matemáticas",
-    "difficulty": 2,
-    "explanation": "",
-    "options": [
-      "13 538\tb.     13 835     \tc.     13 853\td.     13 358\t\t\te.     13 385",
-      "634",
-      "463",
-      "364"
-    ],
-    "correctAnswer": "13 538\tb.     13 835     \tc.     13 853\td.     13 358\t\t\te.     13 385"
-  },
-  {
-    "id": "math_gen_620",
-    "question": "Los alumnos de un curso no llegan a 45. En el salón de clase el profesor siempre puede distribuir en grupos de 4, 5 y 8 alumnos sin que sobren o falten alumnos. ¿Cuántos alumnos hay en el salón de clase?",
-    "subject": "Examen General Matemáticas",
-    "difficulty": 2,
-    "explanation": "",
-    "options": [
-      "45\t\tb.     90\t\tc.     80\t\td.     40\t\te.    32",
-      "Una rueda de 27 dientes engrana con otra de 12 dientes. Dando la primera 836 vueltas por minuto. ¿Cuántas vueltas dará, por hora, la segunda?",
-      "1 881",
-      "8 881",
-      "121 860"
-    ],
-    "correctAnswer": "45\t\tb.     90\t\tc.     80\t\td.     40\t\te.    32"
-  },
-  {
-    "id": "math_gen_631",
-    "question": "Si los números A, B y C son primos relativos, pero no son primos dos a dos, entonces el MCD entre ellos necesariamente es:",
-    "subject": "Examen General Matemáticas",
-    "difficulty": 2,
-    "explanation": "",
-    "options": [
-      "1",
-      "0",
-      "2",
-      "A, B, C",
-      "N.d.a."
-    ],
-    "correctAnswer": "1"
   }
 ]
