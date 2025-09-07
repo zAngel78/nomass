@@ -169,6 +169,9 @@ class ExamPartsManager {
             const config = this.getSubjectConfig(subject);
             const accuracy = score / totalQuestions; // Usar totalQuestions de la parte para accuracy
             
+            // Definir questionsForCalculation temprano para usarlo en todo el método
+            const questionsForCalculation = totalQuestionsInSubject || totalQuestions;
+            
             console.log('🔍 Cálculo de accuracy:');
             console.log('   score:', score);
             console.log('   totalQuestions (de la parte):', totalQuestions);  
@@ -218,8 +221,7 @@ class ExamPartsManager {
             console.log('   totalQuestionsInSubject (total materia):', totalQuestionsInSubject);
             console.log('   subject:', subject);
             
-            // Usar totalQuestionsInSubject para calcular partes totales, o fallback a totalQuestions
-            const questionsForCalculation = totalQuestionsInSubject || totalQuestions;
+            // Calcular partes totales usando questionsForCalculation ya definido arriba
             const totalParts = this.calculateTotalParts(questionsForCalculation, subject);
             console.log('   totalParts calculadas:', totalParts, 'usando', questionsForCalculation, 'preguntas');
             
