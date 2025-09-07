@@ -10,15 +10,15 @@ class QuestionLoader {
         general: 'questions_matematicas_general_final.json'
       },
       castellano: {
-        normal: 'questions_castellano_normal_agresivo.json',
+        normal: 'questions_castellano_guarani.json',
         general: 'questions_castellano_general_completo.json'
       },
       historia: {
-        normal: 'questions_historia_geografia_normal_mejorado.json',
+        normal: 'questions_historia_geografia.json',
         general: 'questions_historia_geografia_general.json'
       },
       legislacion: {
-        normal: 'questions_legislacion_normal.json',
+        normal: 'questions_legislacion.json',
         general: 'questions_legislacion_general.json'
       }
     };
@@ -46,7 +46,7 @@ class QuestionLoader {
         id: `${subject}_normal_${index + 1}`,
         question: q.question,
         options: Array.isArray(q.options) ? q.options : [q.options.a, q.options.b, q.options.c, q.options.d, q.options.e].filter(Boolean),
-        correct_answer: q.answer || q.correct_answer,
+        correct_answer: q.correctAnswer || q.answer || q.correct_answer,
         subject: this.getSubjectDisplayName(subject),
         type: 'normal',
         difficulty: 1,
@@ -61,7 +61,7 @@ class QuestionLoader {
         id: `${subject}_general_${index + 1}`,
         question: q.question,
         options: Array.isArray(q.options) ? q.options : [q.options.a, q.options.b, q.options.c, q.options.d, q.options.e].filter(Boolean),
-        correct_answer: q.answer || q.correct_answer,
+        correct_answer: q.correctAnswer || q.answer || q.correct_answer,
         subject: this.getSubjectDisplayName(subject),
         type: 'general',
         difficulty: 2,
