@@ -155,7 +155,17 @@ router.post('/complete', async (req, res) => {
         }
 
         // Completar la parte y actualizar progreso
+        console.log('🎯 Llamando a examPartsManager.completePart con:');
+        console.log('   userId:', `"${userId}"`);
+        console.log('   subject:', `"${subject}"`);
+        console.log('   examType:', `"${examType}"`);
+        console.log('   partNumber:', partNumber);
+        console.log('   score:', score);
+        console.log('   totalQuestions:', totalQuestions);
+        
         const result = await examPartsManager.completePart(userId, subject, examType, partNumber, score, totalQuestions);
+        
+        console.log('🎯 Resultado de completePart:', JSON.stringify(result, null, 2));
 
         // Obtener información actualizada de las partes
         const allQuestions = await questionLoader.getQuestionsBySubjectAndType(subject, examType);

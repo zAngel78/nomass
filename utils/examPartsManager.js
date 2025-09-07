@@ -122,16 +122,30 @@ class ExamPartsManager {
     // Completar una parte y actualizar progreso
     async completePart(userId, subject, examType, partNumber, score, totalQuestions) {
         try {
+            console.log('🔍 examPartsManager.completePart iniciado');
+            console.log('🔍 Parámetros recibidos:');
+            console.log('   userId:', typeof userId, `"${userId}"`);
+            console.log('   subject:', typeof subject, `"${subject}"`);
+            console.log('   examType:', typeof examType, `"${examType}"`);
+            console.log('   partNumber:', typeof partNumber, partNumber);
+            console.log('   score:', typeof score, score);
+            console.log('   totalQuestions:', typeof totalQuestions, totalQuestions);
+            
             // Validar que el userId no sea undefined o null
             if (!userId) {
+                console.error('❌ Error: userId es requerido pero está vacío');
                 throw new Error('Usuario no autenticado: userId es requerido');
             }
+            
+            console.log('✅ Validación de userId pasada');
 
             let progressData;
             try {
+                console.log('🔍 Intentando leer archivo user_progress...');
                 progressData = await fileStorage.readFile('user_progress');
+                console.log('✅ Archivo user_progress leído correctamente, contiene:', progressData.length, 'registros');
             } catch (error) {
-                console.log('Creando archivo de progreso nuevo...');
+                console.log('⚠️ Archivo user_progress no existe, creando nuevo...');
                 progressData = [];
             }
             
