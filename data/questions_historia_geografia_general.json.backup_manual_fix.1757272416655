@@ -1,10 +1,6 @@
 [
   {
-    "id": "history_1757272416659_1",
     "question": "Son los momentos en que el Sol se posicione en perpendicular en el hemisferio Sur (verano austral) o norte (verano boreal)",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Los equinoccios",
       "Capricornio sur y norte",
@@ -12,14 +8,13 @@
       "Circulo ártico",
       "Los solsticios"
     ],
-    "correctAnswer": "Los solsticios"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_2",
     "question": "Las líneas horizontales denominadas _______ se computan desde la línea equinoccial",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Paralelos",
       "Meridianos",
@@ -27,14 +22,13 @@
       "Trópicos",
       "Círculos polares"
     ],
-    "correctAnswer": "Paralelos"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_3",
     "question": "Teniendo como referencia ¨la línea del Ecuador¨ el Paraguay se encuentra Ubicado",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Entre los paralelos 19° 18’ y 27° 36’ latitud sur",
       "Entre los meridianos 54° 15’ y 62° 38’ oeste de Greenwich",
@@ -42,14 +36,13 @@
       "Entre los paralelos 54° 15’ y 62° 38’ oeste de Greenwich",
       "Entre los meridianos 19° 18’ y 27° 36’ latitud Norte"
     ],
-    "correctAnswer": "Entre los paralelos 19° 18’ y 27° 36’ latitud sur"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_4",
     "question": "El hito V que se encuentra en la frontera con Bolivia",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Tripartito",
       "10 de octubre",
@@ -57,14 +50,13 @@
       "12 de junio",
       "Cerrito Jara"
     ],
-    "correctAnswer": "Cerro Coronel Félix Cabrera"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_5",
     "question": "Los astrolabios y sextantes permitieron determinar con exactitud los puntos cardinales y la latitud respecto a",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La línea equinoccial",
       "La línea del ecuador",
@@ -72,14 +64,13 @@
       "Los paralelos",
       "Los periecos"
     ],
-    "correctAnswer": "Los meridianos"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_6",
     "question": "Comparten la misma estación del año, pero experimentan 12 horas de diferencia",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Anteco",
       "Perieco",
@@ -87,14 +78,13 @@
       "Anteco y perieco",
       "Perieco y Antípodas"
     ],
-    "correctAnswer": "Perieco"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_7",
     "question": "Existen zonas donde el Sol no se oculta durante el día o, por el contrario, se oculta totalmente",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Los Equinoccios",
       "Los Solsticios",
@@ -102,14 +92,13 @@
       "Capricornio Sur y Norte",
       "Circulo ártico"
     ],
-    "correctAnswer": "Los Solsticios"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_8",
     "question": "Acotó que el nombre (Paraguay) se debía a un Cacique llamado ¨paraguaio¨",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Félix de Azara",
       "Sebastián De Yegros",
@@ -117,14 +106,13 @@
       "Ruy Diaz de Melgarejo",
       "Hernando Arias de Saavedra"
     ],
-    "correctAnswer": "Félix de Azara"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_9",
     "question": "Bolivia (región occidental), Brasil y Argentina (región oriental)",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Argentina (ambas regiones) y Bolivia (región occidental)",
       "Bolivia (región occidental) y Brasil y Argentina (Región oriental)",
@@ -132,14 +120,13 @@
       "Ninguna es correcta",
       "Las líneas horizontales denominadas paralelos se computan desde la línea"
     ],
-    "correctAnswer": "Argentina (ambas regiones) y Bolivia (región occidental)"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_10",
     "question": "La fundación de la Casa Fuerte de Asunción acontecida el",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "25 de octubre de 1537",
       "15 de agosto de 1537",
@@ -147,14 +134,13 @@
       "25 de agosto de 1547",
       "15 de agosto de 1547"
     ],
-    "correctAnswer": "15 de agosto de 1537"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_11",
     "question": "El movimiento de la Tierra sobre su propio eje se denomina",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Traslación",
       "Interacción",
@@ -162,14 +148,13 @@
       "Rotación",
       "Solo D es correcta"
     ],
-    "correctAnswer": "Solo D es correcta"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_12",
     "question": "Ha sido el impulsor de todos los avances en la materia (referente al geoposicionamiento)",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Las matemáticas",
       "La Geometría",
@@ -177,14 +162,13 @@
       "La matemática y la geometría",
       "La matemática, la geometría y la Física"
     ],
-    "correctAnswer": "La matemática y la geometría"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_13",
     "question": "El Paraguay es un territorio con gobierno autóctono independiente desde _____ y republicano desde _____",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "1811 – 1813",
       "1811 – 1814",
@@ -192,14 +176,13 @@
       "1811 – 1811",
       "1811 – 1812"
     ],
-    "correctAnswer": "1811 – 1813"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_14",
     "question": "Teniendo en cuenta como referencia ¨El continente Americano¨ el territorio Paraguayo se encuentra ubicado",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "En la cuenca del Río de la Plata",
       "Entre los meridianos 54° 15’ y 62° 38’ oeste de Greenwich",
@@ -207,14 +190,13 @@
       "En el Subcontinente Sudamericano",
       "En el Hemisferio sur del mismo"
     ],
-    "correctAnswer": "En el Subcontinente Sudamericano"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_15",
     "question": "El Paraguay se encuentra ubicado ‘’Entre los paralelos 19° 18’ Y 27° 36’ latitud sur’’ teniendo como referencia",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La totalidad del planeta Tierra",
       "El meridiano de Greenwich",
@@ -222,14 +204,13 @@
       "Las Antillas en el mar caribe",
       "La Isla Formosa (Taiwán)"
     ],
-    "correctAnswer": "La línea del Ecuador"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_16",
     "question": "Teniendo en cuenta ¨la Isla Formosa (Taiwán)¨ el Paraguay se encuentra ubicado",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "En su Antípodas",
       "En su Anteco",
@@ -237,14 +218,13 @@
       "Solo B es correcta",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "En su Antípodas"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_17",
     "question": "Cuanto más cercano se encuentra un paralelo a los polos su circunferencia es",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Mayor",
       "Medio",
@@ -252,14 +232,13 @@
       "Infinita",
       "Todas son incorrectas"
     ],
-    "correctAnswer": "Menor"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_18",
     "question": "El movimiento de la Tierra en torno al Sol es llamado",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Rotación",
       "Traslación",
@@ -267,14 +246,13 @@
       "Rotación continua",
       "Solo A es correcta"
     ],
-    "correctAnswer": "Rotación"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_19",
     "question": "Las cúspides de las Cordilleras de Amambay y Mbaracayú",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Río Paraná",
       "Ygatimi",
@@ -282,14 +260,13 @@
       "Paraguay – Paraná; Uruguay; Tietẽ - Paraná",
       "Paraguay – Uruguay; Uruguay; Paraguay"
     ],
-    "correctAnswer": "Río Paraná"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_20",
     "question": "El Paraguay cuenta con reservas de aguas en su subsuelo en la región oriental",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Acuífero Patiño",
       "Acuífero Guaraní",
@@ -297,14 +274,13 @@
       "A y B son correctas",
       "Solo C es correcta"
     ],
-    "correctAnswer": "A y B son correctas"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_21",
     "question": "Es un río que se encuentra en la margen derecha del Río Paraná",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Río Jejui Guazú",
       "Río Limoy",
@@ -312,14 +288,13 @@
       "Río Salado",
       "Río Melo"
     ],
-    "correctAnswer": "Río Limoy"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_22",
     "question": "Unas de las principales cordilleras de la región occidental son",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Amambay",
       "Concepción",
@@ -327,14 +302,13 @@
       "Sierra de San Luis",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Amambay"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_23",
     "question": "El Paraguay se encuentra dividido de manera natural en dos regiones mediante su río",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Homónimo",
       "Paraná",
@@ -342,14 +316,27 @@
       "Ñacunday",
       "Acaray"
     ],
-    "correctAnswer": "Homónimo"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_25",
-    "question": "El Hito IV que se encuentra en la frontera con Bolivia",
+    "question": "Es un río que se encuentra en la margen derecha del Río Paraná",
+    "options": [
+      "Río Tebicuary",
+      "Río Siete Puntas",
+      "Río Negro",
+      "Río Melo",
+      "Río Ñacunday"
+    ],
+    "correctAnswer": 4,
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "El Hito IV que se encuentra en la frontera con Bolivia",
     "options": [
       "Esmeralda",
       "12 de junio",
@@ -357,14 +344,27 @@
       "Fortín Aspirante Gabino Mendoza",
       "Ybycuí"
     ],
-    "correctAnswer": "Fortín Aspirante Gabino Mendoza"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_27",
-    "question": "Es un río que se encuentra en la margen derecha del Río Paraguay",
+    "question": "Las cúspides de las Cordilleras de Amambay y Mbaracayú",
+    "options": [
+      "Ninguna es correcta",
+      "Los principales hitos de la frontera seca con el Brasil son o es",
+      "Testigo de la cabecera del Arroyo Estrella",
+      "Cerrito Jara",
+      "Yvycuí"
+    ],
+    "correctAnswer": 0,
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Es un río que se encuentra en la margen derecha del Río Paraguay",
     "options": [
       "Río Melo",
       "Río Aquidaban",
@@ -372,14 +372,13 @@
       "Río Acaray",
       "Río Monday"
     ],
-    "correctAnswer": "Río Melo"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_28",
     "question": "Es un río que se encuentra en la margen izquierda del Río Paraguay",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Río Confuso",
       "Río Salado",
@@ -387,14 +386,13 @@
       "Río Tembey",
       "Río San Carlos"
     ],
-    "correctAnswer": "Río Confuso"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_29",
     "question": "El cerro que ocupa el décimo puesto entre los cerros más altos del Paraguay es",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Cerro Tres Kandú",
       "Cerro Amor",
@@ -402,14 +400,13 @@
       "Cerro Perõ",
       "Cerro Pytã"
     ],
-    "correctAnswer": "Cerro Pytã"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_30",
     "question": "Las primaveras, los veranos y los otoños suelen ser muy cálidos o calurosos y lluviosos especialmente entre los meses de",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Julio a agosto",
       "Junio a agosto",
@@ -417,14 +414,13 @@
       "Septiembre a mayo",
       "Octubre a marzo"
     ],
-    "correctAnswer": "Octubre a marzo"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_31",
     "question": "El cerro que ocupa el primer puesto entre los cerros más altos del Paraguay es",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Cerro Capii",
       "Cerro Tres Kandú",
@@ -432,14 +428,13 @@
       "Cerro Acahay",
       "Cerro Perõ"
     ],
-    "correctAnswer": "Cerro Capii"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_32",
     "question": "Permite que los ríos puedan ser utilizados para crear embalses artificiales para la generación de energía eléctrica",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La forma de los valles elevados del Litoral del Paraná",
       "La forma de los valles elevados del litoral de Altos",
@@ -447,14 +442,13 @@
       "La forma de valles elevados del litoral de Mbaracayú",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "La forma de los valles elevados del Litoral del Paraná"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_33",
     "question": "Los dos principales Ríos del Paraguay, por su importancia económica, son",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Paraguay y Uruguay",
       "+Paraguay y Paraná",
@@ -462,14 +456,13 @@
       "Tietẽ y Paraná",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Homónimo y el Paraná"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_34",
     "question": "Las áreas silvestres protegidas se establecen por ley según las siguientes categorías",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Parques Protegidos",
       "Paisajes Nacionales",
@@ -477,14 +470,27 @@
       "Solo A es correcta",
       "Las vías terrestres se conectan al sur y oeste con"
     ],
-    "correctAnswer": "Reserva de Recursos Manejados"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_36",
-    "question": "Parques Nacionales que se encuentra en el departamento de Alto Paraná",
+    "question": "Las áreas Silvestres protegidas se establecen por ley según las siguientes categorías",
+    "options": [
+      "Parques Nacionales",
+      "Parques Protegidos",
+      "Parque Biológica",
+      "Refugio de Recursos Manejados",
+      "Todas son correctas"
+    ],
+    "correctAnswer": 0,
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Parques Nacionales que se encuentra en el departamento de Alto Paraná",
     "options": [
       "Ñacunday",
       "Chovoreca",
@@ -492,14 +498,13 @@
       "A y C son correctas",
       "A y B son correctos"
     ],
-    "correctAnswer": "Ñacunday"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_37",
     "question": "Todo el movimiento fluvial de la cuenca (Hidrovía Paraguay – Paraná) lo convierte en",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El primero en mayor flota fluvial a nivel mundial",
       "El segundo mayor a nivel mundial",
@@ -507,14 +512,13 @@
       "El primero en mayor flota fluvial a nivel mundial",
       "El tercer mayor flota fluvial a nivel mundial"
     ],
-    "correctAnswer": "El tercer mayor flota fluvial a nivel mundial"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_38",
     "question": "Son las vías de comunicación por medio de las cuales el país rompe con su mediterraneidad pues conducen al océano Atlántico",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Hidrovía Uruguay",
       "Hidrovía Tietẽ – Paraná",
@@ -522,14 +526,13 @@
       "A y B son correctas",
       "A B C son correctas"
     ],
-    "correctAnswer": "A B C son correctas"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_39",
     "question": "Administración regional de Navegación y Puertos de Villeta",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Terport S.A",
       "Puerco Alcón",
@@ -537,14 +540,13 @@
       "Todas son incorrectas",
       "El símbolo Kilómetro Cero se encuentra frente"
     ],
-    "correctAnswer": "Todas son incorrectas"
+    "correctAnswer": "Todas son incorrectas",
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_40",
     "question": "Las vías férreas llegaron a Encarnación recién en ____ conectándose con el sistema ferroviario ____",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "1911 – Argentino",
       "1913 – Argentino",
@@ -552,14 +554,13 @@
       "1911 – Brasilero",
       "1913 – Boliviano"
     ],
-    "correctAnswer": "1913 – Argentino"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_41",
     "question": "El año en que se inaugura la ruta de Caaguazú a Vaquería como la decimotercer Ruta Nacional",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "2017",
       "2019",
@@ -567,14 +568,13 @@
       "2020",
       "1962"
     ],
-    "correctAnswer": "2018"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_42",
     "question": "En 2019 se realizó una actualización del sistema (rutas) clasificándolo en",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "20 rutas nacionales y 96 rutas departamentales",
       "21 rutas nacionales y 97 rutas departamentales",
@@ -582,14 +582,13 @@
       "22 rutas nacionales y 96 rutas departamentales",
       "12 rutas nacionales y 97 rutas departamentales"
     ],
-    "correctAnswer": "22 rutas nacionales y 96 rutas departamentales"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_43",
     "question": "En _____ comenzaron a operar los tranvías eléctricos, siendo un servicio regular hasta que a mediados de la década de ____ inició su decadencia. Su desaparición total se dio en ____",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "1913 – 1971 – 1998",
       "1912 – 1980 – 1996",
@@ -597,14 +596,13 @@
       "1912 – 1981 – 1999",
       "1911 – 1971 – 1998"
     ],
-    "correctAnswer": "1913 – 1970 – 1997"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_44",
     "question": "De forma paralela al ferrocarril, tras la Guerra del 70, en la Capital, inició un servicio de tranvías en _____ a tracción de Sangre",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "1872",
       "1871",
@@ -612,14 +610,13 @@
       "1874",
       "1873"
     ],
-    "correctAnswer": "1872"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_45",
     "question": "Administración Nacional de Navegación y Puertos de Ciudad del Este",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Terport. S.A",
       "Puerto Fénix",
@@ -627,14 +624,27 @@
       "Caacupemí",
       "De carácter privado, se encuentra ubicada en el barrio Zeballos Cué de Asunción"
     ],
-    "correctAnswer": "Puerto Fénix"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_47",
-    "question": "Administración Nacional de Navegación de villa rica",
+    "question": "Administración Nacional de Navegación y Puertos de Ciudad del Este",
+    "options": [
+      "Puerto Fénix",
+      "Administración Nacional de Navegación y Puertos de Villeta",
+      "Principales puertos en Paraguay en la actualidad",
+      "Caacupemí",
+      "Administración Nacional de Navegación de encarnación"
+    ],
+    "correctAnswer": 0,
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Administración Nacional de Navegación de villa rica",
     "options": [
       "Todas son correctas",
       "Parques Nacionales que se encuentran en los departamentos de Alto Paraguay y Boquerón",
@@ -642,14 +652,13 @@
       "Lago Ypacaraí",
       "San Rafael"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_48",
     "question": "Parque Nacional que se encuentra en el departamento de Boquerón",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Tte. Agripino Enciso",
       "Saltos del Guairá",
@@ -657,14 +666,41 @@
       "Ybycuí",
       "Paso Bravo"
     ],
-    "correctAnswer": "Tte. Agripino Enciso"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_51",
-    "question": "Parques Nacionales que se encuentran en los departamentos de Itapúa y Caazapá",
+    "question": "Las áreas silvestres protegidas se establecen por ley según las siguientes categorías",
+    "options": [
+      "Reserva Biológica",
+      "Refugio Biológico",
+      "Reserva de Biosfera",
+      "A B C son correctas",
+      "B y C son correctas"
+    ],
+    "correctAnswer": 4,
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Las Áreas Silvestres protegidas se establecen por ley según las siguientes categorías",
+    "options": [
+      "Reservas Naturales",
+      "Paisajes protegidos",
+      "Parques de Recursos Manejados",
+      "Reserva Nacional",
+      "Todas son correctas"
+    ],
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Parques Nacionales que se encuentran en los departamentos de Itapúa y Caazapá",
     "options": [
       "Médanos del Chaco",
       "Lago Ypacaraí",
@@ -672,14 +708,13 @@
       "Lago Ypoá",
       "Defensores del Chaco"
     ],
-    "correctAnswer": "Lago Ypoá"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_52",
     "question": "La pista más larga dentro del Paraguay se encuentra en",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Mariscal Solano López",
       "Mariscal Estigarribia",
@@ -687,14 +722,13 @@
       "Concepción",
       "Ciudad del Este"
     ],
-    "correctAnswer": "Mariscal Estigarribia"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_53",
     "question": "En tiempos del Gobernador Melo de Portugal también se fundaron",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Villa del Rosario e Itacurubí del Rosario",
       "Belén y Horqueta",
@@ -702,14 +736,13 @@
       "Paso Barreto y Arroyito",
       "Azote’y y Loreto"
     ],
-    "correctAnswer": "Villa del Rosario e Itacurubí del Rosario"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_54",
     "question": "Coronel Oviedo (antiguamente Nuestra Señora del Valle de Ajos) fue fundado por orden del Gobernador",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Pedro Melo de Portugal",
       "Fray Francisco Luis de Bolaños",
@@ -717,14 +750,13 @@
       "Jaime Sanjust",
       "Roque González de Santa Cruz"
     ],
-    "correctAnswer": "Jaime Sanjust"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_55",
     "question": "El famoso distrito de Ykua Bolaños se encuentra en el distrito de",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Abaí",
       "Tava’i",
@@ -732,14 +764,13 @@
       "Caazapá",
       "Buena Vista"
     ],
-    "correctAnswer": "Caazapá"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_56",
     "question": "El Puente San Ignacio de Loyola une las localidades de",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Mariano Roque Alonso – Villa Hayes",
       "Encarnación – Posadas",
@@ -747,14 +778,27 @@
       "Concepción – Villa Hayes",
       "José Falcón – Clorinda"
     ],
-    "correctAnswer": "Mariano Roque Alonso – Villa Hayes"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_58",
-    "question": "El Paraguay depende principalmente del sistema fluvial conocida como Hidrovía Paraguay – Paraná, de",
+    "question": "Las vías férreas llegaron a Encarnación recién en ____ conectándose con el sistema ferroviario ____",
+    "options": [
+      "1911 – Argentino",
+      "1913 – Argentino",
+      "1912 – Brasilero",
+      "1911 – Brasilero",
+      "1913 – Boliviano"
+    ],
+    "correctAnswer": 1,
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "El Paraguay depende principalmente del sistema fluvial conocida como Hidrovía Paraguay – Paraná, de",
     "options": [
       "3442 km en total",
       "3424 km en total",
@@ -762,14 +806,13 @@
       "3244 km en total",
       "2442 km en total"
     ],
-    "correctAnswer": "3442 km en total"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_59",
     "question": "Durante el tiempo del Dr. Francia el único puerto abierto para el comercio con el Brasil era",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Misiones",
       "Amambay",
@@ -777,14 +820,13 @@
       "Concepción",
       "Itapúa"
     ],
-    "correctAnswer": "Misiones"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_60",
     "question": "Hasta la decisión territorial de 1945 fue jurisdicción militar",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Alto Paraná",
       "Canindeyú",
@@ -792,14 +834,13 @@
       "Concepción",
       "Presidente Hayes"
     ],
-    "correctAnswer": "Presidente Hayes"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_61",
     "question": "La casa fuerte de Nuestra Señora de la Asunción es fundada en el paraje denominado por la etnia guaraní Cario denominada paragua’y, de ahí que desde los primeros años de la conquista se la conocía como",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Paragua’y",
       "Gran Asunción",
@@ -807,14 +848,13 @@
       "Asunción del Paraguay",
       "Asunción"
     ],
-    "correctAnswer": "Asunción del Paraguay"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_62",
     "question": "La casa fuerte de Nuestra Señora de la Asunción es fundada el",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "25 de agosto de 1537",
       "25 de octubre de 1536",
@@ -822,14 +862,13 @@
       "15 de octubre de 153",
       "15 de agosto de 1536"
     ],
-    "correctAnswer": "15 de agosto de 1537"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_63",
     "question": "Rebautizó el establecimiento ‘‘Fuerte Bordón’’ como Fuerte Olimpo",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Domingo Martínez de Irala",
       "Bernardino Caballero",
@@ -837,14 +876,13 @@
       "Joaquín de Alos Brú",
       "Rodríguez de Francia"
     ],
-    "correctAnswer": "Rodríguez de Francia"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_64",
     "question": "En tiempos coloniales fue una zona de extracción de yerba silvestre de gran importancia, será recién tras la guerra de la triple alianza que tendrá un incremento de actividad, son una intensiva explotación forestal y yerbatera",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Caazapá",
       "Amambay",
@@ -852,14 +890,13 @@
       "Alto Paraná",
       "Canindeyú"
     ],
-    "correctAnswer": "Caazapá"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_65",
     "question": "Durante los tiempos coloniales, el área que hoy comprende este departamento estuvo dominada exclusivamente por nativos americanos",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Concepción",
       "Caaguazú",
@@ -867,14 +904,13 @@
       "Ñeembucú",
       "Amambay"
     ],
-    "correctAnswer": "Concepción"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_66",
     "question": "Los padres jesuitas Marcial de Lorenzano y Juan del Castillo",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Don Patricio Aquino",
       "José Gaspar Rodríguez de Francia",
@@ -882,14 +918,27 @@
       "Domingo Martínez de Irala",
       "La Cantidad de distritos del departamento de Caazapá es"
     ],
-    "correctAnswer": "Don Patricio Aquino"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_68",
-    "question": "Asunción pasa a ser ciudad en el esquema español gracias a la instalación",
+    "question": "Las cúspides de las Cordilleras de Amambay y Mbaracayú",
+    "options": [
+      "Ninguna es correcta",
+      "El cargo de la municipalidad fue creado en",
+      "1891",
+      "1883",
+      "1991"
+    ],
+    "correctAnswer": "1991",
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Asunción pasa a ser ciudad en el esquema español gracias a la instalación",
     "options": [
       "De un Cabildo",
       "De una municipalidad",
@@ -897,14 +946,13 @@
       "Un distrito",
       "De una ordenanza"
     ],
-    "correctAnswer": "De un Cabildo"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_69",
     "question": "Cada Aldea (guaraní) contaba con varias chozas comunes denominadas",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Tekohá",
       "Tava",
@@ -912,14 +960,13 @@
       "Tapyî",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Guará"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416659_70",
     "question": "En los Guaraníes: sus decisiones debían ser acatadas incluso por el ruvichá",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Consejo de Ancianos",
       "Cacique",
@@ -927,14 +974,13 @@
       "Chamán",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Consejo de Ancianos"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_71",
     "question": "La labor de los misioneros _______ será crucial para consolidar como idioma con la aparición de las primeras gramáticas del guaraní",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Primero los Franciscanos y luego los Jesuitas",
       "Primero los Jesuitas y luego los Dominicos",
@@ -942,14 +988,27 @@
       "Primero los Dominicos y Luego los Jesuitas",
       "Primero los Dominicos y Luego los Franciscanos"
     ],
-    "correctAnswer": "Primero los Franciscanos y luego los Jesuitas"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_73",
-    "question": "Los Guaraníes poseían un ________ como líder del pueblo, que demostraba su valor en combate y habilidades en la caza",
+    "question": "La labor de los misioneros _______ será crucial para consolidar como idioma con la aparición de las primeras gramáticas del guaraní",
+    "options": [
+      "Primero los Franciscanos y luego los Jesuitas",
+      "Primero los Jesuitas y luego los Dominicos",
+      "Primero los Franciscanos y luego los Dominicos",
+      "Primero los Dominicos y Luego los Jesuitas",
+      "Primero los Dominicos y Luego los Franciscanos"
+    ],
+    "correctAnswer": 0,
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Los Guaraníes poseían un ________ como líder del pueblo, que demostraba su valor en combate y habilidades en la caza",
     "options": [
       "Guerrero",
       "Consejo de ancianos",
@@ -957,14 +1016,13 @@
       "Paje",
       "Ruvichá"
     ],
-    "correctAnswer": "Ruvichá"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_74",
     "question": "El año en que Cristóbal Colón comandó la mayor expedición de su tiempo y con ella prácticamente conquistó el caribe fue en",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "1502",
       "1490",
@@ -972,14 +1030,13 @@
       "1498",
       "1493"
     ],
-    "correctAnswer": "1493"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_75",
     "question": "Virrey, Adelantado, Capitán General y Justicia Mayor",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Rey, Adelantado, Justicia mayor",
       "Virrey, Adelantado, Justicia Mayor",
@@ -987,14 +1044,13 @@
       "Adelantado, Capitán General y Justicia Mayor",
       "Según su contrato (de Pedro de Mendoza y la corona) le correspondía"
     ],
-    "correctAnswer": "Adelantado, Capitán General y Justicia Mayor"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_76",
     "question": "100 leguas al norte de la otorgada a Diego de Almagro",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "200 leguas al sur de la otorgada a Diego de Almagro",
       "400 leguas al norte del a otorgada a Diego de Almagro",
@@ -1002,14 +1058,13 @@
       "Asunción fue fundado por",
       "Juan de Salazar y Espinoza"
     ],
-    "correctAnswer": "200 leguas al sur de la otorgada a Diego de Almagro"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_77",
     "question": "Domingo Martínez de Irala traslada todos los conquistadores a Asunción despoblando los fuertes del sur, en",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "1537",
       "1541",
@@ -1017,14 +1072,13 @@
       "1540",
       "1538"
     ],
-    "correctAnswer": "1539"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_78",
     "question": "Asunción sería la única población de españoles en el Río de la Plata, y base de las operaciones y conquista por un espacio de",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "10 años",
       "5 años",
@@ -1032,14 +1086,13 @@
       "20 años",
       "25 años"
     ],
-    "correctAnswer": "15 años"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_79",
     "question": "Correspondía a los descendientes de hombres europeos con mujeres africanos o sus descendientes Americanos",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Zambos",
       "Criollos",
@@ -1047,14 +1100,13 @@
       "Nativos",
       "Mestizos"
     ],
-    "correctAnswer": "Mulatos"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_80",
     "question": "La llegada de 50 mujeres españolas con Mencia Calderón de Sanabria, esposa de Juan de Sanabria, con elementos para la catedral y un toro y siete vacas sucedió en el gobierno de",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Alvar Núñez Cabeza de Vaca",
       "Pedro de Mendoza",
@@ -1062,14 +1114,13 @@
       "Domingo Martínez de Irala",
       "Juan Torres de Vera y Aragón"
     ],
-    "correctAnswer": "Alvar Núñez Cabeza de Vaca"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_81",
     "question": "Antes de marchar preso a España, Alvar Núñez Cabeza de Vaca dejó un poder nombrado teniente gobernador a",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Juan de Salazar",
       "Alonso Cabrera",
@@ -1077,14 +1128,13 @@
       "Francisco Ruíz de Galán",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Juan de Salazar"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_82",
     "question": "En época colonial las clases sociales en el Paraguay eran",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Españoles, Criollos, Mestizos, mulatos, Nativos, Zambos y Africanos",
       "Españoles, Mestizos, Criollos, Mulatos, Nativos, Zambos y Africanos",
@@ -1092,14 +1142,13 @@
       "Españoles, Criollos, Mestizos, Nativos, Mulatos, Africanos y Zambos",
       "Españoles, Criollos, Mestizos, Nativos, Mulatos, Zambos y Africanos"
     ],
-    "correctAnswer": "Españoles, Criollos, Mestizos, Nativos, Mulatos, Zambos y Africanos"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_83",
     "question": "Cristóbal Colón murió en _______ sin conocer la magnitud de sus hazañas",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "20 de agosto de 1502",
       "20 de mayo de 1506",
@@ -1107,14 +1156,13 @@
       "20 de septiembre de 1508",
       "20 de noviembre de 1510"
     ],
-    "correctAnswer": "20 de agosto de 1502"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_84",
     "question": "El segundo viaje de Cristóbal Colón a América fue en el año",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "1494",
       "1490",
@@ -1122,14 +1170,13 @@
       "1491",
       "1493"
     ],
-    "correctAnswer": "1493"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_85",
     "question": "La capital del Paraguay colinda con los distritos de",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Lambaré",
       "Fernando de la Mora",
@@ -1137,14 +1184,13 @@
       "Villa Elisa",
       "Todas son correctas"
     ],
-    "correctAnswer": "Lambaré"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_86",
     "question": "Parques Nacionales que se encuentran en los departamentos de Alto Paraguay y Boquerón",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Médanos del Chaco",
       "Lago Ypacaraí",
@@ -1152,14 +1198,13 @@
       "Defensores del Chaco",
       "Lago Ypoá"
     ],
-    "correctAnswer": "Lago Ypoá"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_87",
     "question": "Poseen estaciones de año diferentes y experimentan 12 horas de diferencia en el huso horario",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Anteco y antípodas",
       "Antípodas y perieco",
@@ -1167,14 +1212,13 @@
       "Antecos",
       "Antípodas"
     ],
-    "correctAnswer": "Perieco"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_88",
     "question": "Fue el primer criollo en ocupar tan alto cargo (gobernador) en Indias",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Domingo Martínez de Irala",
       "Cabeza de Vaca",
@@ -1182,14 +1226,13 @@
       "Francisco de Alfaro",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Hernandarias"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_89",
     "question": "Uno de los más sobresalientes sacerdotes Franciscanos fue",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Fray Luis de Bolaños",
       "Ray Alonso Lebrón",
@@ -1197,14 +1240,13 @@
       "Fray Bernardo de Armento",
       "Fray Rivandereira"
     ],
-    "correctAnswer": "Fray Luis de Bolaños"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_90",
     "question": "La protesta del obispo Fray Bernardino de CARDENAS CONTRA LOS Jesuitas con el lema ‘Vox pupuli, vox Des’ que daba a entender",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Que los gobernadores deben escuchar el reclamo del pueblo pues Dios Habla mediante ellos",
       "Que los pueblos deben escuchar al gobernador, pues Dios habla mediante él",
@@ -1212,14 +1254,13 @@
       "Que los pueblos deben escuchar al Padre pues Dios habla mediante él",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Que los gobernadores deben escuchar el reclamo del pueblo pues Dios Habla mediante ellos"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_91",
     "question": "Luego de la muerte de Ruyloba, el pueblo elige a _________ como gobernador",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Antequera",
       "Juan de Mena",
@@ -1227,14 +1268,13 @@
       "José de Armendáriz",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Juan de Arregui"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_92",
     "question": "Los comuneros decidieron crear una Junta Gubernativa eligiendo a ________ como cabeza",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Miguel Garay",
       "Juan de Mena",
@@ -1242,14 +1282,13 @@
       "Antequera",
       "Bernardino de Cárdenas"
     ],
-    "correctAnswer": "José Luis Bareiro"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_93",
     "question": "Portugal devolvía a España un extenso territorio comprendido entre el océano Atlántico y el río Uruguay",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "España cedía a Portugal parte de la laguna Merín y tierras del Amazonas y devolvía Santa Catalina",
       "Solo A es correcta",
@@ -1257,14 +1296,41 @@
       "El tratado de San Ildefonso fue firmado el",
       "10 de febrero de 1756"
     ],
-    "correctAnswer": "B y C son correctas"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_96",
-    "question": "La Junta de Buenos Aires envía al _____ en su intento de que el Paraguay forme parte de su jurisdicción",
+    "question": "Administración Nacional de Navegación y Puertos de Ciudad del Este",
+    "options": [
+      "Administración Nacional de Navegación y Puertos de Villeta",
+      "B y C son correctas",
+      "A B C son correctas",
+      "El Paraguay depende principalmente del sistema fluvial conocida como Hidrovía Paraguay – Paraná, de",
+      "3442 km en total"
+    ],
+    "correctAnswer": 2,
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Parques Nacionales que se encuentran en los departamentos de Itapúa y Caazapá",
+    "options": [
+      "Médanos del Chaco",
+      "Lago Ypacaraí",
+      "San Rafael",
+      "Lago Ypoá",
+      "Defensores del Chaco"
+    ],
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "La Junta de Buenos Aires envía al _____ en su intento de que el Paraguay forme parte de su jurisdicción",
     "options": [
       "Velazco",
       "Gral. Manuel Belgrano",
@@ -1272,14 +1338,13 @@
       "Fulgencio Yegros",
       "Manuel Gamarra"
     ],
-    "correctAnswer": "Gral. Manuel Belgrano"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_97",
     "question": "Sólo los peninsulares podían ocupar cargos públicos, y tenían todos los derechos y privilegios",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La instauración del Puerto Preciso de Santa Fe",
       "A B C son correctas",
@@ -1287,14 +1352,13 @@
       "En su gobierno se firma el tratado San Ildefonso",
       "Agustín Fernando de Pinedo"
     ],
-    "correctAnswer": "A B C son correctas"
+    "correctAnswer": "A B C son correctas",
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_98",
     "question": "La noticia del ajusticiamiento de Antequera y Mena llegó a Asunción en __________ y como consecuencia una multitud volvió a expulsar a los jesuitas",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Febrero de 1732",
       "Julio de 1731",
@@ -1302,28 +1366,26 @@
       "Julio de 1721",
       "1721"
     ],
-    "correctAnswer": "Febrero de 1732"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_99",
     "question": "La muerte por horca y descuartizamientos de varios comuneros",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La obligación de todas las personas que debían acatar, respetar y reverenciar las ordenes civiles",
       "Declaró que la Real Provisión de 1537 ya no estaba en vigencia",
       "A B C son correctas",
       "A y C son correctas"
     ],
-    "correctAnswer": "A B C son correctas"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_100",
     "question": "García Ros es derrotado por los paraguayos sublevados a orillas del Tebicuary, comandaron el ejército Paraguayo",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Juan de Mena",
       "José de Armendáriz",
@@ -1331,14 +1393,13 @@
       "A B C son correctas",
       "A y C son correctas"
     ],
-    "correctAnswer": "A B C son correctas"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_101",
     "question": "Era un rico comerciante y poseía una flotilla de barcas, se hallaba establecido en Asunción y estaba casado con una criolla paraguaya, llamada Francisco Gonzales, emparentada con los sacerdotes de la orden jesuitas",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Obispo Fray Bernardino de Cárdenas",
       "Fernando de Mompox",
@@ -1346,14 +1407,13 @@
       "Diego Reyes de Balmaceda",
       "Marqués de Castelfuerte"
     ],
-    "correctAnswer": "Diego Reyes de Balmaceda"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_102",
     "question": "El orden de llegada de las órdenes religiosas al Paraguay es",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Mercedarios, Jerónimos, Franciscanos, Dominicos, Jesuitas",
       "Jerónimos, Franciscanos, Mercedarios, Jesuitas, Dominicos",
@@ -1361,14 +1421,13 @@
       "Jesuitas, Franciscanos, Jerónimos, Dominicos, Mercedarios",
       "Jerónimos, Mercedarios, Franciscanos, Jesuitas, Dominicos"
     ],
-    "correctAnswer": "Jerónimos, Mercedarios, Franciscanos, Jesuitas, Dominicos"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_103",
     "question": "Hernandarias propuso en ______ la creación de un gobierno aparte en el Guairá con las ciudades de Villa Rica del Espíritu Santo, Ciudad Real y Santiago de Xeréz",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "1617",
       "1579",
@@ -1376,14 +1435,13 @@
       "1607",
       "1609"
     ],
-    "correctAnswer": "1617"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_104",
     "question": "En Asunción le nombra teniente Gobernador y Capitán General a Hernandarias",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Rey",
       "El Virrey",
@@ -1391,14 +1449,13 @@
       "Domingo Martínez de Irala",
       "Juan Ramírez y Velazco"
     ],
-    "correctAnswer": "Juan Ramírez y Velazco"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_105",
     "question": "Propuso por primera vez a la corona la formación de tres gobernaciones en la Provincia Gigante de Indias, idea que no gustó en la provincia",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Hernandarias en 1607",
       "Hernando Montalvo en 1579",
@@ -1406,14 +1463,13 @@
       "Ramírez de Velazco en 1607",
       "Juan Torres de Vera y Aragón en 1592"
     ],
-    "correctAnswer": "Hernando Montalvo en 1579"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_106",
     "question": "Son los momentos en el que el Sol se encuentra perpendicular el Ecuador terrestre",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Los solsticios",
       "Los trópicos",
@@ -1421,14 +1477,13 @@
       "Los Círculos polares",
       "Los solsticios y equinoccios"
     ],
-    "correctAnswer": "Los solsticios"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_107",
     "question": "El Gobernador Velazco y el Gral. Manuel Belgrano se enfrentan en una Batalla llamada",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Paraguarí",
       "Yaguarón",
@@ -1436,14 +1491,27 @@
       "Cerro Corá",
       "Cerro Porteño"
     ],
-    "correctAnswer": "Cerro Porteño"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_109",
-    "question": "Dr. Francia, Capitán Pedro Juan Cavallero y Mariano Roque Alonso",
+    "question": "Que los miembros debían ser destituidos y puestos en prisión",
+    "options": [
+      "Había que cerrar la Casa de Gobierno y el Cabildo",
+      "Debían separarse del lado del Gobernador a su sobrino y al ministro tesorero",
+      "A B C son correctas",
+      "B y C son correctas",
+      "Presidieron el primer congreso nacional"
+    ],
+    "correctAnswer": 5,
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Dr. Francia, Capitán Pedro Juan Cavallero y Mariano Roque Alonso",
     "options": [
       "Dr. Fernando de la Mora, Capitán Zevallos y Mariano Roque Alonso",
       "Dr. Francia, Capitán Zevallos y Mariano Roque Alonso",
@@ -1451,14 +1519,13 @@
       "En el primer congreso nacional se decretó que",
       "Se formase un Triunvirato"
     ],
-    "correctAnswer": "Dr. Fernando de la Mora, Capitán Zevallos y Mariano Roque Alonso"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_110",
     "question": "El gobierno fuera sustituido por una junta compuesta de cuatro vocales y un presidente",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Se destituya al Dr. Francia",
       "Todas son correctas",
@@ -1466,14 +1533,13 @@
       "09 de julio de 1811",
       "19 de junio de 1811"
     ],
-    "correctAnswer": "Se destituya al Dr. Francia"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_111",
     "question": "La prohibición de contraer matrimonio a los europeos con mujeres blancas ocurrió en el",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Triunvirato",
       "Segundo Triunvirato",
@@ -1481,14 +1547,13 @@
       "Segundo congreso nacional",
       "Primer Congreso nacional"
     ],
-    "correctAnswer": "Consulado de Dr. Francia y Yegros"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_112",
     "question": "Se le declara Dictador Perpetuo de la República al Dr. Francia en el",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Tercer congreso nacional",
       "Primer congreso nacional",
@@ -1496,14 +1561,13 @@
       "Cuarto congreso nacional",
       "Segundo congreso nacional"
     ],
-    "correctAnswer": "Cuarto congreso nacional"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_113",
     "question": "El segundo país en reconocer la Independencia del Paraguay fue",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Brasil",
       "Argentina",
@@ -1511,14 +1575,13 @@
       "Uruguay",
       "Solo B es correcta"
     ],
-    "correctAnswer": "Argentina"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_114",
     "question": "El primer trayecto del ferrocarril fue desde _______ hasta _________",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Asunción – Trinidad",
       "Trinidad – Asunción",
@@ -1526,14 +1589,27 @@
       "Puerto – Plaza San Francisco",
       "Asunción – Luque"
     ],
-    "correctAnswer": "La plaza San Francisco – Puerto"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_116",
-    "question": "Argentina reconoce la independencia del Paraguay el",
+    "question": "Las primaveras, los veranos y los otoños suelen ser muy cálidos o calurosos y lluviosos especialmente entre los meses de",
+    "options": [
+      "Julio a agosto",
+      "Junio a agosto",
+      "Octubre a mayo",
+      "Septiembre a mayo",
+      "Octubre a marzo"
+    ],
+    "correctAnswer": 4,
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Argentina reconoce la independencia del Paraguay el",
     "options": [
       "14 de septiembre de 1844",
       "17 de julio de 1852",
@@ -1541,14 +1617,13 @@
       "19 de marzo de 1844",
       "22 de enero de 1841"
     ],
-    "correctAnswer": "17 de julio de 1852"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_117",
     "question": "‘’Ley que establece la administración política de la República del Paraguay’’ fue redactada por",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Carlos Antonio López",
       "Yegros y Dr. Francia",
@@ -1556,14 +1631,13 @@
       "Juan Andrés Gill",
       "A y D son correctas"
     ],
-    "correctAnswer": "A y D son correctas"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_118",
     "question": "La Junta provisional, que se conformó tras la muerte del Dr. Francia, fue derrocada por",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Romualdo Duré",
       "Carlos Antonio López",
@@ -1571,14 +1645,13 @@
       "Francisco Solano López",
       "Solo C es correcta"
     ],
-    "correctAnswer": "Romualdo Duré"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_119",
     "question": "Mariano Antonio Ortiz – Capitán Agustín Cañete y los tenientes Ramón Maldonado, Pablo Pereira y Gabino Arroyo",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Ninguna de las anteriores",
       "El Dr. Francia muere el",
@@ -1586,14 +1659,13 @@
       "20 de septiembre de 1840",
       "10 de setiembre de 1841"
     ],
-    "correctAnswer": "20 de septiembre de 1840"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_120",
     "question": "El Dr. Francia, disgustado por el actual de ciertos vocales, se alejó y se retira a su quinta de",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Ybyray",
       "Paraguarí",
@@ -1601,14 +1673,13 @@
       "Arroyito",
       "Itacua"
     ],
-    "correctAnswer": "Ybyray"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_121",
     "question": "El Gobernador Velazco con su ejército se enfrenta al Gral. Manuel Belgrano en",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Asunción",
       "Yaguaron",
@@ -1616,14 +1687,13 @@
       "Paraguarí",
       "Buenos Aires"
     ],
-    "correctAnswer": "Guairá"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_122",
     "question": "50 km en torno a los límites en territorio Nacional",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "50 km en torno a los límites en territorio internacional",
       "La Triple Alianza se constituyó el",
@@ -1631,14 +1701,13 @@
       "05 de marzo de 1864",
       "01 de mayo de 1864"
     ],
-    "correctAnswer": "01 de mayo de 1865"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_123",
     "question": "Que cualquier ocupación del territorio paraguayo por las fuerzas Argentinas sería considerada atentatoria contra el Paraguay",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Que Argentina dejara Misiones en manos del Estado Paraguayo",
       "Ninguna es Correcta",
@@ -1646,14 +1715,13 @@
       "En 1856",
       "El 26 de octubre de 1850"
     ],
-    "correctAnswer": "En 1856"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_124",
     "question": "Las Campañas Defensivas de la Guerra de la Triple Alianza Incluye",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Campaña de Pikysyry",
       "Campaña de Mato Grosso",
@@ -1661,14 +1729,13 @@
       "Campaña de Uruguayana",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Campaña de Pikysyry"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_125",
     "question": "Batallas de Boquerón y Sauce ocurrió en la fecha de",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "11/12/1868",
       "16/08/1869",
@@ -1676,14 +1743,13 @@
       "16, 17 y 18/07/1866",
       "21 – 27/12/1868"
     ],
-    "correctAnswer": "16, 17 y 18/07/1866"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_126",
     "question": "Abdujo que ‘‘la victoria no da derechos’’ a los aliados a imponer límites, y que éstos debían ser negociados con los poderes constituidos por la soberanía popular",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Cirilo Antonio Rivarola",
       "José Díaz de Bedoya",
@@ -1691,14 +1757,13 @@
       "José María da Silva Paranhos",
       "Mariano Varela"
     ],
-    "correctAnswer": "Mariano Varela"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_127",
     "question": "José María da Silva Paranhos, Carlos Loizaga y José Díaz de Bedoya",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Mariano Varela, Carlos Loizaga y Cirilo Antonio Rivarola",
       "Cirilo Antonio Rivarola, Carlos Loizaga y José Díaz de Bedoya",
@@ -1706,14 +1771,13 @@
       "Ninguna es correcta",
       "La Policía Paraguaya comenzó a organizarse como tal durante el gobierno de"
     ],
-    "correctAnswer": "Cirilo Antonio Rivarola, Carlos Loizaga y José Díaz de Bedoya"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_128",
     "question": "Cónsules Carlos Antonio López y Mariano Roque Alonso",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Dictadura Temporal del Dr. Francia",
       "El tratado Miranda – Sienrra Carranza se firmó entre los países",
@@ -1721,14 +1785,13 @@
       "Paraguay – Bolivia",
       "Paraguay – Uruguay"
     ],
-    "correctAnswer": "Dictadura Temporal del Dr. Francia"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_129",
     "question": "En la Constitución de 1870 se procedió a su jura el",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "25 de noviembre",
       "25 de diciembre",
@@ -1736,14 +1799,13 @@
       "28 de octubre",
       "18 de noviembre"
     ],
-    "correctAnswer": "25 de diciembre"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_130",
     "question": "Cirilo Antonio Rivarola Acosta y Salvador Silvestre del Rosario Jovellanos Guanes",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Juan Bautista Luis Egusquiza Isasi",
       "Cecilio Báez González",
@@ -1751,14 +1813,13 @@
       "C y D son correctas",
       "La primera Hegemonía Colorada termina en"
     ],
-    "correctAnswer": "Juan Bautista Luis Egusquiza Isasi"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_131",
     "question": "El levantamiento producido en agosto de 1904 fue encabezado por",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Gral. Ferreira",
       "Manuel Gondra",
@@ -1766,14 +1827,13 @@
       "Juan Antonio Escurra",
       "A y B son correctas"
     ],
-    "correctAnswer": "A y B son correctas"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_132",
     "question": "El Gral. José Eduvigis Díaz como cuarto comandante del cuerpo policial, el mismo alcanzaría la inmortalidad en los anales de la historia con la batalla de",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Humaitá",
       "Curupayty",
@@ -1781,14 +1841,13 @@
       "Corrientes",
       "Tuyutí"
     ],
-    "correctAnswer": "Curupayty"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_133",
     "question": "Luego de la guerra de la Triple Alianza se perdieron unos ________km2 en la región del Mato Grosso",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "62.000",
       "52.000",
@@ -1796,14 +1855,13 @@
       "92.000",
       "94.000"
     ],
-    "correctAnswer": "94.000"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_134",
     "question": "Las Campañas Ofensivas de la Guerra de la Triple Alianza incluye",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Campaña de Humaitá",
       "Campaña de Cordillera",
@@ -1811,14 +1869,27 @@
       "Solo B es correcta",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Campaña de Pikysyry"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_136",
-    "question": "El Pueblo más antiguo del departamento de Misiones es",
+    "question": "Los comuneros decidieron crear una Junta Gubernativa eligiendo a ________ como cabeza",
+    "options": [
+      "Miguel Garay",
+      "Juan de Mena",
+      "José Luis Bareiro",
+      "Antequera",
+      "Bernardino de Cárdenas"
+    ],
+    "correctAnswer": 2,
     "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "El Pueblo más antiguo del departamento de Misiones es",
     "options": [
       "Santa Rosa",
       "Ayolas",
@@ -1826,14 +1897,13 @@
       "San Ignacio",
       "San Juan Bautista de las Misiones"
     ],
-    "correctAnswer": "Santa Rosa"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_137",
     "question": "El sector comprendido entre los dos trópicos se conoce como",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Zona tropical",
       "Zona cálida",
@@ -1841,14 +1911,13 @@
       "A B C son correctas",
       "Solo A es correcta"
     ],
-    "correctAnswer": "A B C son correctas"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_138",
     "question": "José Félix Estigarribia Insaurralde e Higinio Morínigo",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Manuel Franco y José Pedro Montero de Candia",
       "Eusebio Ayala",
@@ -1856,14 +1925,13 @@
       "C y D son correctas",
       "La revolución de 1904 fue producida en contra de"
     ],
-    "correctAnswer": "Manuel Franco y José Pedro Montero de Candia"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_139",
     "question": "Los acuerdos que intentaban definir límites con Bolivia fueron",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Aceval – Tamayo",
       "Machain – Irigoyen",
@@ -1871,14 +1939,13 @@
       "A B C son correctas",
       "B y C son correctas"
     ],
-    "correctAnswer": "B y C son correctas"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_140",
     "question": "El Tratado de Paz, amistad y límites firmado con Bolivia requería la aprobación del congreso, pero se optó por la realización de un plebiscito popular el",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "10 de octubre de 1938",
       "14 de junio de 1935",
@@ -1886,14 +1953,13 @@
       "10 de agosto de 1938",
       "21 de julio de 1935"
     ],
-    "correctAnswer": "10 de agosto de 1938"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_141",
     "question": "Con su mandato retorna al poder el Partido Colorado",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Higinio Morínigo Martínez",
       "Fernando Armindo Lugo Méndez",
@@ -1901,14 +1967,13 @@
       "Horacio Manuel Cartes Jara",
       "Santiago Peña Palacios"
     ],
-    "correctAnswer": "Horacio Manuel Cartes Jara"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_142",
     "question": "Garantiza un sistema Bidipartidista, permitió un ejecutivo fuerte, hasta su enmienda el cual dio lugar a la capacidad de reelección indefinida",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Constitución de 1992",
       "Constitución de 1940",
@@ -1916,14 +1981,13 @@
       "Constitución de 1970",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Constitución de 1967"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_143",
     "question": "El golpe contra Alfredo Stroessner fue comandado por",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Andrés Rodríguez",
       "Nicanor Frutos",
@@ -1931,14 +1995,13 @@
       "José María Argaña",
       "Lino Cesar Oviedo"
     ],
-    "correctAnswer": "Andrés Rodríguez"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_144",
     "question": "El actual emblema de la Policía Nacional fue establecido en",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "1993",
       "1990",
@@ -1946,14 +2009,13 @@
       "1996",
       "2000"
     ],
-    "correctAnswer": "1993"
+    "correctAnswer": 0,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_145",
     "question": "La constitución considerada Presidencialista fue la de",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "1992",
       "1970",
@@ -1961,14 +2023,13 @@
       "1967",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "1940"
+    "correctAnswer": 2,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_146",
     "question": "El Tratado de Paz, amistad y límites con Bolivia fue firmado el",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "14 de junio de 1935",
       "21 de julio de 1935",
@@ -1976,14 +2037,13 @@
       "10 de agosto de 1938",
       "10 de octubre de 1938"
     ],
-    "correctAnswer": "10 de agosto de 1938"
+    "correctAnswer": 3,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_147",
     "question": "Los Bolivianos atacaron el Fortín paraguayo de Carlos Antonio López",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Todas son correctas",
       "El Acuerdo Benítez – Ichazo se firmó en",
@@ -1991,14 +2051,13 @@
       "1887",
       "1907"
     ],
-    "correctAnswer": "1907"
+    "correctAnswer": 4,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_148",
     "question": "Durante su presidencia se cambia la Constitución y termina la Hegemonía liberal",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Higinio Morínigo Martínez",
       "José Félix Estigarribia Insaurralde",
@@ -2006,20 +2065,22 @@
       "Manuel Franco",
       "Félix Paiva"
     ],
-    "correctAnswer": "José Félix Estigarribia Insaurralde"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "history_1757272416660_149",
     "question": "Comprendido entre los ríos Manduvirá hasta el Tebicuary, al occidente el río Paraguay",
-    "subject": "Historia y Geografía",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Comprendido entre los ríos Tebicuary hasta el Jejuí, al occidente el Río Paraguay",
       "Comprendido entre los ríos Blanco hasta el Miranda en el Mato Grosso",
       "En las sierras del Mbaracayú y Amambay",
       "Comprendía entre los ríos Mbaracayú y Amambay"
     ],
-    "correctAnswer": "Comprendido entre los ríos Blanco hasta el Miranda en el Mato Grosso"
+    "correctAnswer": 1,
+    "subject": "Historia y Geografía",
+    "difficulty": "general",
+    "category": "General"
   }
 ]

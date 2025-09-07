@@ -84,7 +84,8 @@
       "Efectúa:",
       "N.d.a.",
       "Efectúa: 5.",
-      "Ninguna de las anteriores"
+      "Efectuar:",
+      "Efectuar:"
     ],
     "correctAnswer": "Efectúa:"
   },
@@ -128,6 +129,7 @@
       "10 kg\tb.     5 kg\t\tc.     20 kg\t\td.     25 kg\t\te.     15 kg",
       "¿Cuánto Gs costó lo que al venderse en 12517 Gs deja una pérdida de 1318 Gs?",
       "13 538\tb.     13 853\tc.     13 358\td.     13 385\te.     13 835",
+      "Roberto acabó el Bachillerato a los 15 años; se graduó de abogado 6 años después; se casó 5 años después; se embarcó para México 7 años después y 12 años después obtuvo una Cátedra. Si Roberto tuviera 12 años más habría nacido en 1909. ¿En qué año obtuvo su Cátedra?",
       "1967\tb.     1968\t\tc.     1969\t\td.     1970\t\te.     1966"
     ],
     "correctAnswer": "10 kg\tb.     5 kg\t\tc.     20 kg\t\td.     25 kg\t\te.     15 kg"
@@ -140,6 +142,7 @@
     "explanation": "",
     "options": [
       "Un auto abierto costó 984 Gs, uno cerrado 195 Gs más que el abierto, y un camión tanto, como los dos autos juntos. En chapas se gastaron 56 Gs y en bocinas 35 Gs más que en las chapas. ¿En cuánto se vendieron si se obtuvo una ganancia de 1200 Gs?",
+      "5 637 Gs",
       "5 663 Gs",
       "5 376 Gs",
       "5 673 Gs"
@@ -619,6 +622,7 @@
     "explanation": "",
     "options": [
       "16 Gs\tb.     18 Gs\t\tc.     20 Gs\t\td.     22 Gs\t\te.     24 Gs",
+      "Un capataz contrata un obrero ofreciéndole 70 Gs por cada día que trabaje y 40 Gs por cada día que, sin culpa suya, no pueda trabajar. Al cabo de 35 días el obrero ha recibido 2 000 Gs. ¿Cuántos días trabajó?",
       "5",
       "10",
       "15\td.    20\t\te.     25"
@@ -828,6 +832,7 @@
     "explanation": "",
     "options": [
       "Se sabe que una persona consulta con un oftalmólogo cada 90 días y con el odontólogo cada 30 días. Si el 10 de enero coincidió sus citas con ambos profesionales, determina la fecha más próxima en que coinciden nuevamente las citas.",
+      "10 de IV",
       "10 de VI",
       "9 de VII",
       "Otra fecha"
@@ -844,6 +849,7 @@
       "2850\tb.     3195\t\tc.     3201\t\td.     3553\t\te.     3550",
       "Al dividir 203; 502 y 1104 entre un mismo número se obtienen los restos respectivos 3, 2 y 4. Determine el mayor número que cumple con esa condición.",
       "25\tb.     50\t\tc.     100\t\td.     10 \t\te.      Otro valor",
+      "En las instrucciones de un automóvil se especifica que debe cambiarse el aceite del motor cada 7500 km, el filtro de aire cada 15 000 km y las bujías cada 30 000 km. ¿Cada cuánto km, como mínimo se deben hacer todos los cambios a la vez?",
       "30 000 km\t\tb.     60 000 km\tc.     7 500 km\td.     15 000 km\te.     10 000 km"
     ],
     "correctAnswer": "2850\tb.     3195\t\tc.     3201\t\td.     3553\t\te.     3550"
@@ -856,6 +862,7 @@
     "explanation": "",
     "options": [
       "Una página de diario dedicada a los avisos clasificados mide 36 cm. de largo y 24 cm. de ancho. Se desea dividirla en cuadrados de la mayor medida posible, para llenar cada uno de ellos con un aviso. Averigua cuanto debe medir el lado de cada cuadrado y cuántos avisos se podrán publicar en esa página.",
+      "12 cuadrados de 6 cm de lado",
       "72 cuadrados de 2 cm de lado",
       "6 cuadrados de 12 cm de lado",
       "36 cuadrados de 24 cm de lado"
@@ -870,6 +877,7 @@
     "explanation": "",
     "options": [
       "N.d.a.",
+      "Los alumnos de un curso no llegan a 45. En el salón de clase el profesor siempre puede distribuir en grupos de 4, 5 y 8 alumnos sin que sobren o falten alumnos. ¿Cuántos alumnos hay en el salón de clase?",
       "45\t\tb.     90\t\tc.     80\t\td.     40\t\te.    32",
       "La Prof. De Carolina le pide que escriba todos los números comprendidos entre 210 y 900 que sean divisibles al mismo tiempo por 4, 5, 8. ¿Cuántos números escribió Carolina?",
       "16\t\tb.     15\t\tc.     40\t\td.     17\t\te.     20"
@@ -915,8 +923,8 @@
     "options": [
       "5",
       "11",
-      "0",
-      "Ninguna de las anteriores"
+      "5",
+      "0"
     ],
     "correctAnswer": "11"
   },
@@ -1018,6 +1026,7 @@
     "explanation": "",
     "options": [
       "El resultado obtenido al efectuar las operaciones indicadas:",
+      "5/4",
       "35/32",
       "175/184",
       "95/92"
@@ -1167,6 +1176,7 @@
     "explanation": "",
     "options": [
       "Decimal periódico\t    b.  Compuesto\tc.  2 son correctas\t      d.  Primo\te.  Par",
+      "El opuesto de la fracción reducida al máximo, resultado de efectuar la expresión:",
       "; tiene como numerador y denominador, respectivamente, a:",
       "Un número impar y a un número par",
       "Un número primo absoluto y un número compuesto"
@@ -1527,6 +1537,7 @@
     "options": [
       "56 hm 651 dam 250 m",
       "560 hm³ 651 dam³ 250 m³",
+      "560 hm³ 651 dam³ 250 m³",
       "56 hm³ 651 dam³ 250 m³",
       "566 hm³ 512 dam³ 500 m³"
     ],
@@ -1555,6 +1566,7 @@
     "explanation": "",
     "options": [
       "Un depósito de agua de 10 m3 está vacío. ¿En qué tiempo se llenará hasta su octava parte si se abriesen al mismo tiempo 3 grifos que vierten, el primero 45 litro en 9 min, el segundo 25 litros en 5 min y el tercero 100 litros en 10 min?",
+      "1 h 2 min 30 s\t\tb.  8 h 20 min\t c.  7 h 17 min\td.  7 h\t\te..1,5 h",
       "Si A= 9 hg 8 dag 7 g y B= 1 hg 34 g; entonces A+B es igual a:",
       "11,21 hg\t\tb.  1 121 kg\tc.  110,21 g\td.  11 210 g\te.  1,121 dag",
       "De un terreno de 10 há 60 á 50 cá, se venden el 66,66…% se alquila el 20% y el resto se destina a la construcción de una clínica. El número de m2 destinado a la clínica es:"
@@ -1779,6 +1791,7 @@
     "explanation": "",
     "options": [
       ".",
+      ".",
       "N.d.a.",
       "Dieciocho obreros realizaron los 2/7 de una obra en 20 días. Se retiran 3 obreros y los que quedan terminarán el trabajo en un número de días. Calcular el número de días.",
       "30 días"
@@ -1840,6 +1853,7 @@
       "160",
       "1,6",
       "5,6\t\td.  0,8\t\te.  10",
+      "Se emplean 10 hombres durante 5 días, trabajando 4 horas diarias, para cavar una zanja de 10 m. de largo; 6 m de ancho y 4 m de profundidad. ¿Cuántos días necesitarán 6 hombres, trabajando 3 horas diarias, para cavar otra zanja de 15 m de largo, 3 m de ancho y 8 m de profundidad, en un terreno de doble dificultad?",
       "56 días"
     ],
     "correctAnswer": "160"
@@ -2377,9 +2391,10 @@
     "explanation": "",
     "options": [
       "Efectuar:",
+      "Efectuar:",
       "ab",
-      "Divide aplicando el método de Ruffini:",
-      "Ninguna de las anteriores"
+      "Efectuar:",
+      "Divide aplicando el método de Ruffini:"
     ],
     "correctAnswer": "Efectuar:"
   },
@@ -2390,6 +2405,7 @@
     "difficulty": 1,
     "explanation": "",
     "options": [
+      "c= \tr= -6",
       "c= \tr= -6",
       "c= \tr= 6",
       "c= \t\tr= 6",
@@ -2467,7 +2483,8 @@
       "Al resolver la división  se obtiene:",
       "c=x^4+2x^3+x^2+2x+8;   r= -10",
       "c=x^4+2x^3-x^2+2x-8;    r=10",
-      "c=x^4-2x^3+x^2-2x+8;    r=10"
+      "c=x^4-2x^3+x^2-2x+8;    r=10",
+      "c=x^4+2x^3-x^2+2x-8;    r=10"
     ],
     "correctAnswer": "Al resolver la división  se obtiene:"
   },
@@ -2525,6 +2542,7 @@
     "options": [
       "1",
       "Hallar el mínimo común múltiplo de los polinomios:",
+      "1",
       "El cociente de la división entre el MCM y el MCD de los siguientes polinomios: P(1)= \t\tP(2)= \t\tP(3)=  es:",
       "N.d.a."
     ],
@@ -2540,7 +2558,8 @@
       "0",
       "1",
       "Al sumar:  resulta:",
-      "2/ab"
+      "2/ab",
+      "0"
     ],
     "correctAnswer": "0"
   },
@@ -2552,6 +2571,7 @@
     "explanation": "",
     "options": [
       "N.d.a.",
+      "Simplificar:",
       "Simplificar:",
       "Resolviendo  se obtiene:",
       "Simplificar"
@@ -2566,9 +2586,10 @@
     "explanation": "",
     "options": [
       "Al efectuar la operación indicada y simplificar",
+      "Efectuar:",
       "Multiplicar:",
-      "d.a.",
-      "Ninguna de las anteriores"
+      "Al efectuar:  se obtiene:",
+      "d.a."
     ],
     "correctAnswer": "Al efectuar la operación indicada y simplificar"
   },
@@ -2580,9 +2601,10 @@
     "explanation": "",
     "options": [
       "N.d.a.",
-      "8",
-      "Ninguna de las anteriores",
-      "No se puede determinar"
+      "Efectuar:",
+      "Efectuar:",
+      "Al efectuar se obtiene la raíz cuadrada de:",
+      "8"
     ],
     "correctAnswer": "N.d.a."
   },
@@ -2595,8 +2617,9 @@
     "options": [
       "N.d.a.",
       "Efectuando:",
-      "(a+b)/ab",
-      "Ninguna de las anteriores"
+      "Al efectuar las operaciones indicadas en la expresión se obtiene una fracción cuyo numerador es:",
+      "Efectuando:",
+      "(a+b)/ab"
     ],
     "correctAnswer": "N.d.a."
   },
@@ -2955,7 +2978,8 @@
       "1414 y 606",
       "1717 y 505",
       "1616 y 404",
-      "1515 y 303"
+      "1515 y 303",
+      "Efectuar:"
     ],
     "correctAnswer": "1414 y 606"
   },
@@ -2982,6 +3006,7 @@
     "explanation": "",
     "options": [
       "Un padre da a su hijo 160 Gs, a otro 150 Gs y a otro 120 Gs, para repartir entre los pobres, de modo que todos den a cada pobre la misma cantidad. ¿Cuál es la mayor cantidad que podrán dar a cada pobre y cuántos pobres serán socorridos?",
+      "5 Gs y 45 pobres",
       "10 Gs y 43 pobres",
       "15 Gs y 35 pobres",
       "43 Gs y 10 pobres"
@@ -3011,6 +3036,7 @@
     "explanation": "",
     "options": [
       "Un meteorito de 80 000 kg de peso entra en la atmósfera terrestre. Al entrar, la cuarta parte del meteorito se desprende y rebota en la atmósfera retomando al espacio (no entrando en la atmósfera). Lo restante entra en la atmósfera y llega a la tierra. ¿Cuánto pesa la parte del meteorito que colisiona con la Tierra?",
+      "60 000 Kg",
       "50 000 Kg",
       "40 000 Kg",
       "30 000 kg"
@@ -3144,12 +3170,13 @@
     "difficulty": 1,
     "explanation": "",
     "options": [
+      "La tercera parte de las cucharas de la casa estaban en el lavaplatos y las restantes en el cajón. Pero la mitad de las cucharas del cajón, 15, se llevan a la mesa. ¿Cuántas cucharas hay en el lavaplatos?",
       "12",
       "13",
       "14",
       "15"
     ],
-    "correctAnswer": "15"
+    "correctAnswer": "La tercera parte de las cucharas de la casa estaban en el lavaplatos y las restantes en el cajón. Pero la mitad de las cucharas del cajón, 15, se llevan a la mesa. ¿Cuántas cucharas hay en el lavaplatos?"
   },
   {
     "id": "math_norm_325",
@@ -3654,6 +3681,7 @@
     "explanation": "",
     "options": [
       "En una venta por liquidación, los muebles se venden al 40% de su precio regular, además los artículos para dormitorios tienen un descuento de 20 Gs adicionales. Si una cama se adquiere en 120 Gs, el precio regular mencionado es:",
+      "375",
       "350",
       "325",
       "275"
@@ -4102,12 +4130,13 @@
     "difficulty": 1,
     "explanation": "",
     "options": [
+      "Se emplean 12 obreros durante 5 días, trabajando 4 horas diarias para cavar una zanja de 240 m³. ¿Cuántos días necesitarán 6 obreros, trabajando 3 horas diarias, para cavar otra zanja de 360 m³ en un terreno de triple dificultad?",
       "50",
       "60",
       "70",
       "80"
     ],
-    "correctAnswer": "60"
+    "correctAnswer": "Se emplean 12 obreros durante 5 días, trabajando 4 horas diarias para cavar una zanja de 240 m³. ¿Cuántos días necesitarán 6 obreros, trabajando 3 horas diarias, para cavar otra zanja de 360 m³ en un terreno de triple dificultad?"
   },
   {
     "id": "math_norm_400",
@@ -4134,7 +4163,8 @@
       "1 915 200 Gs",
       "3 009 600 Gs",
       "6 292 800 Gs",
-      "5 789 980 Gs"
+      "5 789 980 Gs",
+      "Una obra fue construida por tres cuadrillas de obreros. La primera que estaba compuesta por 10 hombres, trabajó 6 días, a razón de 8 horas diarias; la segunda de 9 hombres, trabajó 5 días a razón de 6 horas diarias y la tercera de 7 hombres, trabajó 3 días a razón de 5 horas diarias. Si la obra costó en total 4 275 000 Gs. ¿Cuántos guaraníes correspondió a la segunda cuadrilla?"
     ],
     "correctAnswer": "1 915 200 Gs"
   },
@@ -4701,6 +4731,7 @@
     "explanation": "",
     "options": [
       "(y-2z)(y-3z)",
+      "Ocho personas realizan un viaje, cuyos gastos convienen en pagar por partes iguales. Al término del mismo, tres de ellos no pudieron hacerlo y entonces cada uno de los restantes tuyo que pagar 180 Gs más. El costo en Gs el viaje es:",
       "2 400",
       "1 800",
       "1 200"
@@ -4837,7 +4868,8 @@
       "11 000 000 gs",
       "100 000 000 gs",
       "10 500 000 gs",
-      "9 500 000 gs"
+      "9 500 000 gs",
+      "Un operario puede hacer un trabajo en 12 días, trabajando 5 horas diarias. Otro operario puede hacerlo en 15 días, trabajando 6 horas diarias. ¿En cuánto tiempo, expresado en días y horas, lo harían los dos juntos si trabajaran 8 horas diarias?"
     ],
     "correctAnswer": "11 000 000 gs"
   },
@@ -4851,7 +4883,8 @@
       "4 días 4 horas",
       "5 días 5 horas",
       "6 días 6 horas",
-      "7 días 7 horas"
+      "7 días 7 horas",
+      "Dos obreros A y B, trabajando juntos, emplearán 3 días para hacer una obra. Después del primer día de trabajo, B continúa solo y termina la obra en 6 días más. ¿En cuántos días haría la obra en obrero A trabajando solo?"
     ],
     "correctAnswer": "4 días 4 horas"
   },
@@ -5180,7 +5213,8 @@
       "2/15",
       "23/15",
       "3/15",
-      "23/5"
+      "23/5",
+      "Ana, Shirley y Liz trabajando juntas pueden hacer una obra en tres días. Ana, trabajando sola, puede hacerla en 18 días y Shirley trabajando sola, la hubiera hecho en 14 días. ¿En cuántos días puede hacer Liz la Obra?"
     ],
     "correctAnswer": "2/15"
   },
@@ -5192,6 +5226,7 @@
     "explanation": "",
     "options": [
       "En una sala de cine hay 500 personas entre niños/as y adultos viendo la película ‘’Corazón Valiente’’. Sabiendo que cada adulto pagó 20 Gs y casa niño/a 8Gs. A recaudación total obtenido es de 5200 Gs. ¿Cuántos niños/as participaron de la función?",
+      "250",
       "125",
       "100",
       "400"
@@ -5265,12 +5300,13 @@
     "difficulty": 1,
     "explanation": "",
     "options": [
+      "Si 20 hombres cavaron un pozo en 10 días trabajando 8 horas diarias, 40 hombres cavaron otro pozo igual en 8 días trabajando 5 horas diarias. ¿Era la dificultad de la segunda obra mayor o menor que la primera?",
       "Mayor",
       "Menor",
       "Igual",
       "Faltan datos"
     ],
-    "correctAnswer": "Mayor"
+    "correctAnswer": "Si 20 hombres cavaron un pozo en 10 días trabajando 8 horas diarias, 40 hombres cavaron otro pozo igual en 8 días trabajando 5 horas diarias. ¿Era la dificultad de la segunda obra mayor o menor que la primera?"
   },
   {
     "id": "math_norm_499",
@@ -5430,6 +5466,7 @@
     "explanation": "",
     "options": [
       "a",
+      "26b",
       "26b",
       "Al multiplicar la expresión , el producto es igual a:",
       "Al dividir  obtenemos:"
@@ -6149,6 +6186,7 @@
     "explanation": "",
     "options": [
       "Una persona muy metódica, preocupada por su salud, organizó una agenda de asistencia al dentista, clínico y oftalmólogo. Habiéndose hecho todos los exámenes en las tres especialidades en enero de 2001, tiene pensado ir al dentista cada 4 meses, al clínico cada 6 meses y al oftalmólogo cada 8 meses. ¿En qué mes y año visitará a los tres especialistas simultáneamente?",
+      "Febrero de 2003",
       "Enero de 2003",
       "Marzo de 2004",
       "Marzo de 2003"
@@ -6330,6 +6368,7 @@
       "5/16",
       "7/16",
       "13/16",
+      "13/16",
       "11/16"
     ],
     "correctAnswer": "5/16"
@@ -6432,6 +6471,7 @@
     "explanation": "",
     "options": [
       "13 538\tb.     13 835     \tc.     13 853\td.     13 358\t\t\te.     13 385",
+      "Efectuar:",
       "634",
       "463",
       "364"

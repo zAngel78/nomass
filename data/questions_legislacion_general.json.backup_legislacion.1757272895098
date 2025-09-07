@@ -1,10 +1,6 @@
 [
   {
-    "id": "legislacion_1757272895097_1",
     "question": "Sólo será dictada cuando fuese indispensable en las diligencias del juicio",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La prisión preventiva",
       "La prisión",
@@ -12,14 +8,13 @@
       "El arresto",
       "El delito"
     ],
-    "correctAnswer": "La prisión preventiva"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_2",
     "question": "´´Que ofrezca, practique, controle e impugne pruebas´´ corresponde al artículo:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "18",
       "17",
@@ -27,14 +22,13 @@
       "20",
       "21"
     ],
-    "correctAnswer": "17"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_3",
     "question": "Según el artículo 19 ´´En ningún caso la misma se prolongará por un tiempo mayor al de la pena ………. Establecida para igual delito:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Máxima",
       "Mínima",
@@ -42,14 +36,13 @@
       "Menor",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Mínima"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_4",
     "question": "Según el artículo 24 ´´Tendrá carácter oficial’’",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Ninguna confesión",
       "La confesión",
@@ -57,14 +50,13 @@
       "La religión",
       "La constitución"
     ],
-    "correctAnswer": "Ninguna confesión"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_5",
     "question": "La ley no ordena y privado de lo que ella no prohíbe",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "No hacer lo que la ley no ordena ni privado de lo que ella no prohíbe",
       "Hacer lo que la ley si ordena ni privado de lo que ella no prohíbe",
@@ -72,14 +64,13 @@
       "Hacer lo que la ley no ordena ni privado de lo que ella no prohíbe",
       "Los actos lícitos o la deshonra de los imputado no afectan a:"
     ],
-    "correctAnswer": "Solo C es correcta"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_6",
     "question": "Según el artículo 12 ¿quién tiene derecho a disponer de un intérprete si fuere necesario?",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Nadie",
       "Ninguna persona",
@@ -87,14 +78,13 @@
       "La persona",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Toda persona"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_7",
     "question": "El pueblo ejerce el Poder Público por medio:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "De la ley",
       "Del Gobierno",
@@ -102,14 +92,13 @@
       "De la constitución",
       "De la soberanía"
     ],
-    "correctAnswer": "Del Sufragio"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_8",
     "question": "En la República del Paraguay la soberanía reside:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "En la sociedad",
       "En el pueblo",
@@ -117,14 +106,13 @@
       "En la comunidad",
       "En el gobierno"
     ],
-    "correctAnswer": "En el pueblo"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_9",
     "question": "Atribuirse, ni otorgar a otro ni a persona alguna, individual o colectivamente, facultades extraordinarias o la resta del Poder Público",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Solo B es correcta",
       "Ninguna es correcta",
@@ -132,14 +120,13 @@
       "El derecho",
       "La vida"
     ],
-    "correctAnswer": "Ninguna es correcta"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_10",
     "question": "Tiene derecho a habitar en un ambiente saludable y ecológicamente equilibrado",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La sociedad",
       "Las personas",
@@ -147,14 +134,13 @@
       "Nadie",
       "Solo D es correcta"
     ],
-    "correctAnswer": "Las personas"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_11",
     "question": "´´Se prohíbe la fabricación, el montaje, la importación, la comercialización, la posesión o el uso de armas nucleares, químicas y biológicas, así como la introducción al país de residuos tóxicos´´ Corresponde al artículo:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "7",
       "9",
@@ -162,14 +148,13 @@
       "10",
       "8"
     ],
-    "correctAnswer": "8"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_12",
     "question": "´´No están proscriptas la esclavitud, las servidumbres personales y la trata de personas´´ Corresponde al artículo:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "10",
       "9",
@@ -177,14 +162,13 @@
       "11",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "8"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_13",
     "question": "La calidad de vida será promovida por el estado mediante planes y políticas que reconozcan los factores condicionantes tales como:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La riqueza y los impedimentos de la discapacidad o de la edad",
       "La pobreza y la riqueza",
@@ -192,14 +176,13 @@
       "La extrema riqueza y los impedimentos de la discapacidad o de la edad",
       "La extrema pobreza y los impedimentos de la discapacidad o de la edad"
     ],
-    "correctAnswer": "La extrema pobreza y los impedimentos de la discapacidad o de la edad"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_14",
     "question": "Tiene el derecho a ser protegida en su libertad y en su seguridad:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La persona",
       "Toda Persona",
@@ -207,14 +190,13 @@
       "Nadie",
       "Todos"
     ],
-    "correctAnswer": "Toda Persona"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_15",
     "question": "´´Que la detención sea inmediatamente comunicada a sus familiares o personas que el detenido indique´´ Corresponde al artículo:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "10",
       "12",
@@ -222,14 +204,13 @@
       "9",
       "14"
     ],
-    "correctAnswer": "12"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_16",
     "question": "En el acto de la detención la autoridad está obligada a:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Exhibir la orden escrita que la dispuso",
       "No exhibir la orden escrita que la dispuso",
@@ -237,14 +218,13 @@
       "Exhibir la orden oral que la dispuso",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Ninguna es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_17",
     "question": "Toda persona detenida tiene derecho a:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Que se le informe, luego del hecho, de la causa que la motiva",
       "Que la detención sea comunicada luego a sus familiares",
@@ -252,14 +232,13 @@
       "Que disponga de un intérprete en todo momento",
       "Que sea puesta, en un plazo no mayor a veinticuatro horas a disposición del magistrado judicial competente"
     ],
-    "correctAnswer": "Que sea puesta, en un plazo no mayor a veinticuatro horas a disposición del magistrado judicial competente"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_18",
     "question": "Podrá hacer justicia por sí mismo",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Ninguna persona",
       "La persona",
@@ -267,14 +246,13 @@
       "Nadie",
       "Todas son correctas"
     ],
-    "correctAnswer": "Toda persona"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_19",
     "question": "Tiene derecho a reunirse y a manifestarse pacíficamente, sin armas y con fines lícitos",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Las personas",
       "Toda persona",
@@ -282,14 +260,13 @@
       "Nadie",
       "Todos"
     ],
-    "correctAnswer": "Toda persona"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_20",
     "question": "Las fuentes públicas de comunicación son",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Privadas",
       "Públicas",
@@ -297,14 +274,13 @@
       "Privada para todos",
       "Públicas para todos"
     ],
-    "correctAnswer": "Libre para todos"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_21",
     "question": "Puede ser molestado, indagado u obligado a declarar por causa de sus creencias o de su ideología",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Toda persona",
       "Ninguna persona",
@@ -312,14 +288,13 @@
       "Solo C es correcta",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Nadie"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_22",
     "question": "Tiene derecho a la libre expresión de su personalidad, a la creatividad y a la formación de su propia identidad",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Nadie",
       "Ninguna persona",
@@ -327,14 +302,13 @@
       "Solo C es correcta",
       "Toda persona"
     ],
-    "correctAnswer": "Solo C es correcta"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_23",
     "question": "Individual o colectivamente y sin requisitos especiales, tienen derecho a peticionar a las autoridades",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Toda persona",
       "Ninguna persona",
@@ -342,14 +316,13 @@
       "Ninguna es correcta",
       "Todas son correctas"
     ],
-    "correctAnswer": "Las personas"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_24",
     "question": "Según el artículo 28 ¨…. Y en las condiciones que haya sido divulgada, sin perjuicio de los¨",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Derechos",
       "Deberes",
@@ -357,14 +330,13 @@
       "Demás derechos personales",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Demás derechos compensatorios"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_25",
     "question": "Se constituye en un estado social de derecho unitario, indivisible y descentralizado en la forma que establece:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La ley",
       "Esta constitución",
@@ -372,14 +344,13 @@
       "Esta constitución y las leyes",
       "Ninguna de las anteriores"
     ],
-    "correctAnswer": "El estado"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_26",
     "question": "Que se le juzgue más de una vez por el mismo hecho",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Que no se le juzgue más de dos veces por el mismo hecho",
       "Que se defienda por un defensor privado",
@@ -387,14 +358,13 @@
       "´´No están proscriptas la esclavitud, las servidumbres personales y la trata de personas´´ Corresponde al artículo:",
       "10"
     ],
-    "correctAnswer": "Ninguna es correcta"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_27",
     "question": "Las relaciones del Estado con la Iglesia Católica se basan en la",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Independencia y contribución",
       "Independencia, cooperación y autonomía",
@@ -402,14 +372,13 @@
       "Independencia, contribución y autonomía",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Independencia, cooperación y autonomía"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_28",
     "question": "Todo recinto privado es inviolable. Solo podrá ser allanado o clausurado por",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Orden judicial y con sejución a la ley",
       "Orden ejecutivo y con sejución a la ley",
@@ -417,14 +386,13 @@
       "Todas son correctas",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_29",
     "question": "La familia es el fundamento de la sociedad. Se promoverá y se garantizará",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Su protección integral",
       "Su integridad",
@@ -432,14 +400,13 @@
       "Sus obligaciones",
       "Todas son correctas"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_30",
     "question": "El hombre y la mujer tienen iguales derechos",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Nacionales, políticos, sociales y culturales",
       "Civiles, políticos, sociales, económicos y culturales",
@@ -447,14 +414,13 @@
       "Solo A es correcta",
       "Solo C es correcta"
     ],
-    "correctAnswer": "Civiles, políticos, sociales, económicos y culturales"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_31",
     "question": "Toda persona tiene derecho a ser juzgada por tribunales y jueces",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Competentes y parciales",
       "Incompetente, independientes e imparciales",
@@ -462,14 +428,13 @@
       "Imparciales, competentes y dependientes",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Competentes, independientes e imparciales"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_32",
     "question": "Pueden transitar libremente por el territorio nacional, cambiar de domicilio o de residencia, ausentarse de la República o volver a ella",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Toda persona",
       "La persona",
@@ -477,14 +442,13 @@
       "Los habitantes",
       "Los ciudadanos"
     ],
-    "correctAnswer": "Todo paraguayo"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_33",
     "question": "De la República son iguales en dignidad y derechos",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Todos los habitantes",
       "Los ciudadanos",
@@ -492,14 +456,13 @@
       "Solo A es correcta",
       "Todo paraguayo"
     ],
-    "correctAnswer": "Las personas"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_34",
     "question": "Serán penados por la ley en caso de incumplimiento de sus deberes de asistencia alimentaria",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La madre",
       "El padre",
@@ -507,14 +470,13 @@
       "La familia",
       "Toda persona"
     ],
-    "correctAnswer": "Los padres"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_35",
     "question": "Tiene derecho a constituir familia",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La persona",
       "Los ciudadanos",
@@ -522,14 +484,13 @@
       "El hombre y la mujer",
       "Nadie"
     ],
-    "correctAnswer": "Toda persona"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_36",
     "question": "De acuerdo al artículo 4 del derecho a peticionar a las autoridades ¨Se reputarán denegada toda petición que¨",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Han sobrepasado 15 días",
       "No obtuviese respuesta en dicho plazo",
@@ -537,14 +498,13 @@
       "Han sobrepasado 3 días",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "No obtuviese respuesta en dicho plazo"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_37",
     "question": "Tienen iguales derechos civiles, políticos, sociales, económicos y culturales",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El hombre y la mujer",
       "Todo ciudadano",
@@ -552,14 +512,13 @@
       "Las personas",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Todo paraguayo"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_38",
     "question": "Las protecciones que se establezcan sobre desigualdades injustas",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Serán consideradas como factores discriminatorios sino igualitarios",
       "No serán considerados como factores discriminatorios sino igualitarios",
@@ -567,14 +526,13 @@
       "No sean considerados como factores justos",
       "Todas son incorrectas"
     ],
-    "correctAnswer": "No serán considerados como factores discriminatorios sino igualitarios"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_39",
     "question": "Tiene derecho a residir en su Patria",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Toda persona",
       "La persona",
@@ -582,14 +540,13 @@
       "Ninguna persona",
       "Todas son incorrectas"
     ],
-    "correctAnswer": "Todo paraguayo"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_40",
     "question": "Según el art. 54 Puede exigir a la autoridad competente el cumplimiento de tales garantías y la sanción de los infractores",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Toda persona",
       "La persona",
@@ -597,14 +554,13 @@
       "Los ciudadanos",
       "Cualquier persona"
     ],
-    "correctAnswer": "Todo paraguayo"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_41",
     "question": "En caso de conflicto, tienen carácter prevaleciente",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Los derechos del niño",
       "Los derechos del bebe",
@@ -612,14 +568,13 @@
       "Los derechos de las personas",
       "Los derechos de los infantes"
     ],
-    "correctAnswer": "Los derechos del niño"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_42",
     "question": "Estará obligada a someterse a las medidas sanitarias",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La persona",
       "Todo paraguayo",
@@ -627,14 +582,13 @@
       "Toda persona",
       "Ninguna persona"
     ],
-    "correctAnswer": "Todo paraguayo"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_43",
     "question": "Se garantiza la independencia y la autonomía de las iglesias y confesiones religiosas sin más limitaciones que las impuestas por",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La constitución",
       "La ley",
@@ -642,14 +596,27 @@
       "Solo A es correcta",
       "Solo B es correcta"
     ],
-    "correctAnswer": "La ley"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_45",
-    "question": "Los documentos identificatorios, licencias o constancias de las personas",
+    "question": "Puede ser molestado, indagado u obligado a declarar por causa de sus creencias o de su ideología",
+    "options": [
+      "Toda persona",
+      "Ninguna persona",
+      "Nadie",
+      "Solo C es correcta",
+      "Ninguna es correcta"
+    ],
+    "correctAnswer": 2,
     "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Los documentos identificatorios, licencias o constancias de las personas",
     "options": [
       "Podrán ser incautados",
       "Podrán ser retenidos",
@@ -657,14 +624,13 @@
       "No podrán ser incautados ni detenidos por las autoridades",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Ninguna es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_46",
     "question": "Podrán ser objeto de referéndum",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Las expropiaciones",
       "La defensa nacional",
@@ -672,14 +638,13 @@
       "Las relaciones internacionales, tratados, convenios o acuerdos internacionales",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Ninguna es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_47",
     "question": "En virtud del cual toda persona, en trance inminente de ser privada ilegalmente de su libertad física, podrá recabar el examen de la legitimidad de circunstancias que, a criterio del afectado, amenacen su libertad, así como una orden de cesación de dichas restricciones",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Habeas corpus preventivo",
       "Habeas corpus genérico",
@@ -687,14 +652,13 @@
       "Amparo",
       "Solo A es correcta"
     ],
-    "correctAnswer": "Habeas corpus genérico"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_48",
     "question": "Esta garantía podrá interponerse en casos de violencia física, psíquica o moral que agraven las condiciones de personas legalmente privadas de su libertad",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Habeas corpus preventivo",
       "Habeas corpus reparador",
@@ -702,14 +666,13 @@
       "Amparo",
       "Solo B es correcta"
     ],
-    "correctAnswer": "Habeas corpus genérico"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_49",
     "question": "Está obligada al cumplimiento de la ley, la crítica a las leyes libre",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La persona",
       "Los ciudadanos",
@@ -717,14 +680,13 @@
       "Toda persona",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Todo paraguayo"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_50",
     "question": "El ingreso de los extranjeros sin radicación definitiva en el país será regulado por la ley considerando",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Las leyes",
       "Los convenios internacionales sobre la materia",
@@ -732,14 +694,27 @@
       "Los convenios nacionales sobre la materia",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Los convenios internacionales sobre la materia"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_52",
-    "question": "Toda persona tiene derecho a constituir familia, en cuya formación y desenvolvimiento la mujer y el hombre tendrán",
+    "question": "La familia es el fundamento de la sociedad. Se promoverá y se garantizará",
+    "options": [
+      "Su protección integral",
+      "Su integridad",
+      "Sus derechos",
+      "Sus obligaciones",
+      "Todas son correctas"
+    ],
+    "correctAnswer": 4,
     "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Toda persona tiene derecho a constituir familia, en cuya formación y desenvolvimiento la mujer y el hombre tendrán",
     "options": [
       "Libertades",
       "Derechos",
@@ -747,14 +722,13 @@
       "Derechos y obligaciones",
       "Derechos y libertades"
     ],
-    "correctAnswer": "Derechos y obligaciones"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_53",
     "question": "Tiene derecho a una educación integral y permanente, que como sistema y proceso se realiza en el contexto de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Todo paraguayo",
       "Los ciudadanos",
@@ -762,14 +736,13 @@
       "Toda persona",
       "Ninguna persona"
     ],
-    "correctAnswer": "Toda persona"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_54",
     "question": "Determinará las profesiones que necesiten títulos universitarios para su ejercicio",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La constitución",
       "La ley",
@@ -777,14 +750,13 @@
       "El ministerio de educación",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "La ley"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_55",
     "question": "La educación es responsabilidad de la sociedad y recae en particular en",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La familia",
       "El municipio",
@@ -792,14 +764,13 @@
       "A B C son correctas",
       "A C son correctas"
     ],
-    "correctAnswer": "El estado"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_56",
     "question": "Los derechos de huelga y de paro no alcanzan a los",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Miembros de las fuerzas armadas de la Nación",
       "Ni a los de las policiales",
@@ -807,14 +778,13 @@
       "Los miembros del congreso",
       "A y B son correctas"
     ],
-    "correctAnswer": "A y B son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_57",
     "question": "Podrá acceder a la información y a los datos que sobre sí misma, o sobre sus bienes, obren en registros oficiales o privados de carácter público",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Todo paraguayo",
       "Los ciudadanos",
@@ -822,14 +792,13 @@
       "La persona",
       "Ninguna persona"
     ],
-    "correctAnswer": "Toda persona"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_58",
     "question": "Quienquiera que intente cambiar dicho orden, al margen de los procedimientos previstos en esta constitución incurrirá en los delitos que",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Se tipificarán y se penarán en la constitución",
       "Se tipificarán y se penarán en la ley",
@@ -837,14 +806,13 @@
       "Se tipificarán y se penarán en el Paraguay",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Se tipificarán y se penarán en la ley"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_59",
     "question": "El gobierno es ejercido por los poderes Legislativo, ejecutivo y judicial en un sistema de:",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Independencia, equilibrio, coordinación",
       "Independencia, equilibrio, coordinación y recíproco control",
@@ -852,14 +820,13 @@
       "Coordinación y control",
       "Dependencia, equilibrio, coordinación y reciproco control"
     ],
-    "correctAnswer": "Independencia, equilibrio, coordinación y recíproco control"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_60",
     "question": "La República del Paraguay en sus relaciones Internaciones, no acepta el derecho Internacional y se ajusta a los siguientes principios",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La independencia Nacional",
       "La no intervención",
@@ -867,14 +834,27 @@
       "La autodeterminación de los pueblos",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Ninguna es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_62",
-    "question": "Tendrá facultad para salvaguardar el derecho o garantía, o para restablecer inmediatamente la situación jurídica infringida",
+    "question": "Tiene derecho a la libre expresión de su personalidad, a la creatividad y a la formación de su propia identidad",
+    "options": [
+      "Nadie",
+      "Ninguna persona",
+      "La persona",
+      "Solo C es correcta",
+      "Toda persona"
+    ],
+    "correctAnswer": 3,
     "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Tendrá facultad para salvaguardar el derecho o garantía, o para restablecer inmediatamente la situación jurídica infringida",
     "options": [
       "El juez",
       "El ministerio público",
@@ -882,14 +862,13 @@
       "El magistrado",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "El magistrado"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_63",
     "question": "Que, por acto u omisión, manifiestamente ilegítimo, de una autoridad o de un particular, se considere lesionada gravemente, o en peligro inminente de serlo en derechos o garantías",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Toda persona",
       "Todo paraguayo",
@@ -897,14 +876,13 @@
       "La persona",
       "Ninguna persona"
     ],
-    "correctAnswer": "Todo paraguayo"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_64",
     "question": "De acuerdo al artículo 40 del derecho a peticionar a las autoridades ¨Se reputarán denegada toda petición que¨",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Han sobrepasado 15 días",
       "No obtuviese respuesta en dicho plazo",
@@ -912,14 +890,13 @@
       "Han sobrepasado 3 días",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "No obtuviese respuesta en dicho plazo"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_65",
     "question": "La Fuerza Pública está integrada por",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Fuerzas armadas y policiales",
       "Fuerzas armadas y militares",
@@ -927,14 +904,13 @@
       "Fuerzas policiales",
       "Fuerzas militares y policiales"
     ],
-    "correctAnswer": "Fuerzas militares y policiales"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_66",
     "question": "La proporción correspondiente de impuestos, tasas y contribuciones que se definan y regulen por esta Constitución y por la Ley",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El dictado de ordenanzas, reglamentos y resoluciones",
       "Las rentas propias determinadas por ley, así como las donaciones y los legados",
@@ -942,14 +918,13 @@
       "A y C son correctas",
       "Se les reconocerá el disfrute de los derechos que esta constitución otorga a"
     ],
-    "correctAnswer": "A y C son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_67",
     "question": "Todos los habitantes de la Nación",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Todo ciudadano",
       "Todos los habitantes de la República",
@@ -957,14 +932,13 @@
       "La persona",
       "Los ciudadanos"
     ],
-    "correctAnswer": "Todos los habitantes de la República"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_68",
     "question": "La República del Paraguay, en sus relaciones internacionales acepta el derecho internacional y se ajusta a los siguientes principios",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La igualdad jurídica",
       "La protección nacional de los derechos humanos",
@@ -972,14 +946,13 @@
       "A B C son correctas",
       "A C son correctas"
     ],
-    "correctAnswer": "A B C son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_69",
     "question": "Jamás podrá ser cedido, trasferido, arrendado, ni en forma alguna enajenado, aun temporalmente, a ninguna potencia extranjera",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El territorio nacional",
       "El territorio paraguayo",
@@ -987,14 +960,13 @@
       "La nación",
       "La República"
     ],
-    "correctAnswer": "El territorio nacional"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_70",
     "question": "Según el artículo 79 ¨Se garantiza¨",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La libertad de enseñanza y la de catedra",
       "La investigación científica y tecnológica",
@@ -1002,14 +974,13 @@
       "B y C son correctas",
       "Solo A es correcta"
     ],
-    "correctAnswer": "B y C son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_71",
     "question": "¿Cuáles son los objetivos permanentes del sistema educativo?",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La afirmación del compromiso con la patria",
       "La erradicación del analfabetismo",
@@ -1017,14 +988,13 @@
       "La formación intelectual, moral y cívica",
       "El respeto a los derechos humanos"
     ],
-    "correctAnswer": "La erradicación del analfabetismo"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_72",
     "question": "Cuando se formase causa contra un senador o un diputado ante los tribunales ordinarios, el juez comunicará, con copia de los antecedentes, a la cámara respectiva, la cual examinará el mérito del sumario, y por_________ resolverá si ha lugar o no al desafuero para ser sometido a ________",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Mayoría de dos tercios - Proceso",
       "Mayoría simple - sentencia",
@@ -1032,14 +1002,13 @@
       "Mayoría de dos tercios – la cárcel",
       "Ninguna es correcta - Proceso"
     ],
-    "correctAnswer": "Mayoría de dos tercios - Proceso"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_73",
     "question": "Si el citado no concurriese a la Cámara respectiva o ella considerará insatisfactorias sus declaraciones, ambas cámaras del congreso, por __________ podrán emitir un voto de censura en su contra",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Mayoría de dos tercios",
       "Mayoría absoluta de dos tercios",
@@ -1047,14 +1016,13 @@
       "La cuarta parte de integrantes",
       "Mayoría absoluta"
     ],
-    "correctAnswer": "Mayoría absoluta de dos tercios"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_74",
     "question": "Puede formar parte de empresas que explotan servicios públicos o tengan concesiones del Estado, ni ejercer la asesoría jurídica o la representación de aquellos, por sí o por interpósita persona",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Nadie",
       "Ningún miembro del congreso",
@@ -1062,14 +1030,13 @@
       "Ningún diputado",
       "C y D son correctas"
     ],
-    "correctAnswer": "C y D son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_75",
     "question": "Se prohíbe la remoción o traslado de su hábitat",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Con el expreso consentimiento de los mismos",
       "Sin el expreso consentimientos de la ley",
@@ -1077,14 +1044,13 @@
       "Con el expreso consentimiento de la constitución",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Sin el expreso consentimiento de los mismos"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_76",
     "question": "El procedimiento del amparo será",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Breve, sumario",
       "Gratuito y de acción popular",
@@ -1092,14 +1058,13 @@
       "A y C es correcta",
       "A y B es correcta"
     ],
-    "correctAnswer": "A y B es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_77",
     "question": "Los senadores y diputados perderán su investidura por las siguientes causas",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La violación del régimen de inhabilidades o incompatibilidades previstas en esta constitución",
       "El uso indebido de influencias, fehacientemente comprobado",
@@ -1107,14 +1072,13 @@
       "A y B son correctas",
       "A B C son correctas"
     ],
-    "correctAnswer": "A y B son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_78",
     "question": "¿Quién aprueba o rechaza la contratación de empréstitos?",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El congreso",
       "El senado",
@@ -1122,14 +1086,13 @@
       "El juez",
       "El ministerio público"
     ],
-    "correctAnswer": "El Presidente de la República"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_79",
     "question": "¿Cómo son elegidos los senadores?",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Por simple mayoría de votos",
       "Directamente por el pueblo en una sola circunscripción nacional",
@@ -1137,14 +1100,13 @@
       "Directamente por el pueblo en colegios electorales",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Directamente por el pueblo en una sola circunscripción nacional"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_80",
     "question": "No podrá promoverse en la tramitación de causas judiciales, ni contra actos de órganos judiciales, ni en el proceso de formación, sanción y promulgación de leyes",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El amparo",
       "El sufragio",
@@ -1152,14 +1114,13 @@
       "El habeas data",
       "Las garantías"
     ],
-    "correctAnswer": "El amparo"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_81",
     "question": "Forman parte del ordenamiento legal interno con la jerarquía que determina el artículo 137",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Los tratados internacionales",
       "Los tratados nacionales",
@@ -1167,14 +1128,13 @@
       "Los pactos internacionales",
       "Los tratados"
     ],
-    "correctAnswer": "Los tratados internacionales"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_82",
     "question": "¿Cuál es la misión de las fuerzas armadas?",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Defender a las autoridades legítimamente constituidas",
       "Custodiar la integridad del ciudadano",
@@ -1182,14 +1142,13 @@
       "A y C son correctas",
       "Todas son correctas"
     ],
-    "correctAnswer": "A y C son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_83",
     "question": "Tiene la misión de preservar el orden público legalmente establecido, así como los derechos y la seguridad de las personas y entidades y de sus bienes",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Las Fuerzas Armadas",
       "Las Fuerzas Militares",
@@ -1197,14 +1156,13 @@
       "La policía nacional",
       "Las fuerzas aéreas"
     ],
-    "correctAnswer": "La policía nacional"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_84",
     "question": "Las Fuerzas Armadas será organizada con",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Carácter permanente, profesional, deliberante",
       "Carácter permanente, profesional, no deliberante",
@@ -1212,14 +1170,27 @@
       "La constitución",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Carácter permanente, profesional, no deliberante"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_86",
-    "question": "¿Por quiénes será electo el gobernador?",
+    "question": "Jamás podrá ser cedido, trasferido, arrendado, ni en forma alguna enajenado, aun temporalmente, a ninguna potencia extranjera",
+    "options": [
+      "El territorio nacional",
+      "El territorio paraguayo",
+      "La República Nacional",
+      "La nación",
+      "La República"
+    ],
+    "correctAnswer": 0,
     "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "¿Por quiénes será electo el gobernador?",
     "options": [
       "Por voto indirecto de ciudadanos radicados en los respectivos municipios",
       "Por voto simple de ciudadanos radicados en los respectivos departamentos",
@@ -1227,14 +1198,13 @@
       "Por voto popular",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Por voto directo de ciudadanos radicados en los respectivos departamentos"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_87",
     "question": "El gobernador representa al ______ en la ejecución de la política nacional",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Poder Legislativo",
       "Al presidente de la república",
@@ -1242,14 +1212,13 @@
       "Poder Judicial",
       "Al gobierno municipal"
     ],
-    "correctAnswer": "Poder ejecutivo"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_88",
     "question": "Ambas cámaras del congreso se reunirán anualmente en sesiones ordinarias desde",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El primero de junio de cada año hasta el 30 de julio siguiente",
       "El primero de julio de cada año hasta el treinta de junio siguiente",
@@ -1257,14 +1226,13 @@
       "Solo B es correcta",
       "Solo A es correcta"
     ],
-    "correctAnswer": "Solo B es correcta"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_89",
     "question": "Según el artículo 184 ¨El presidente del congreso o el de la comisión permanente deberán convocarlas en término perentorio de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "48 horas",
       "48 días",
@@ -1272,14 +1240,13 @@
       "24 días",
       "15 días"
     ],
-    "correctAnswer": "48 horas"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_90",
     "question": "Los miembros titulares y suplentes de ambas Cámaras serán elegidos",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Por voto directo",
       "Por voto indirecto",
@@ -1287,14 +1254,13 @@
       "Por mayoría de votos",
       "Por simple mayoría de votos"
     ],
-    "correctAnswer": "Directamente por el pueblo"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_91",
     "question": "En virtud del cual toda persona que se hallase ilegalmente privada de su libertad podrá recabar la rectificación de las circunstancias del caso",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Habeas Corpus preventivo",
       "Habeas Corpus reparador",
@@ -1302,14 +1268,13 @@
       "Amparo",
       "Solo C es correcta"
     ],
-    "correctAnswer": "Habeas Corpus reparador"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_92",
     "question": "La Cámara de senadores de componen de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "45 miembros titulares y 30 suplentes",
       "80 miembros titulares y 40 suplentes",
@@ -1317,14 +1282,13 @@
       "40 miembros titulares y 30 suplentes",
       "Solo B es correcta"
     ],
-    "correctAnswer": "Solo B es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_93",
     "question": "Son atribuciones exclusivas de la Cámara de Diputados",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Prestar acuerdo para la intervención de los gobiernos departamentales y municipales",
       "Iniciar a consideración de los proyectos de ley relativos a la legislación departamental y a la municipal",
@@ -1332,14 +1296,13 @@
       "Todas son correctas",
       "A y B son correctas"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_94",
     "question": "Son deberes y atribuciones del Congreso",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Decidir el traslado de la capital de la República a otro punto del territorio nacional",
       "Prestar acuerdos para designación de los directores paraguayos en los entes binacionales",
@@ -1347,14 +1310,13 @@
       "Todas son correctas",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_95",
     "question": "Según el artículo 250 ¨los integrantes de los demás tribunales y de los juzgados lo harán ante¨",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Congreso",
       "La Corte Suprema de Justicia",
@@ -1362,14 +1324,13 @@
       "El Poder Legislativo",
       "El Poder Judicial"
     ],
-    "correctAnswer": "La Corte Suprema de Justicia"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_96",
     "question": "Los Magistrados que hubiesen sido confirmados por dos periodos siguientes al de su elección, adquirirán la inamovilidad en el cargo hasta el límite de edad establecido para los",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Diputados",
       "Senadores",
@@ -1377,14 +1338,13 @@
       "Presidente de la República",
       "Fiscal General del Estado"
     ],
-    "correctAnswer": "Ministros de la Corte Suprema de Justicia"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_97",
     "question": "Estará integrado por dos ministros de la Corte Suprema de Justicia, Dos miembros del Consejo de la Magistratura, dos senadores y dos diputados; estos cuatro últimos deberán ser abogados",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Jurado de Enjuiciamiento de Magistrados",
       "Jurado de enjuiciamiento",
@@ -1392,14 +1352,13 @@
       "Contraloría General de la República",
       "Ministerio Público"
     ],
-    "correctAnswer": "Jurado de Enjuiciamiento de Magistrados"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_98",
     "question": "Pierden la nacionalidad en virtud de ausencia injustificada de la República por más de dos años",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Los paraguayos naturalizados",
       "Los paraguayos naturales",
@@ -1407,14 +1366,13 @@
       "Los extranjeros",
       "Nadie"
     ],
-    "correctAnswer": "Nadie"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_99",
     "question": "¿Desde cuándo empiezan a ejercer sus funciones el Presidente de la República y el Vicepresidente?",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El primero de agosto siguiente a las elecciones",
       "El quince de agosto siguiente al as elecciones",
@@ -1422,14 +1380,13 @@
       "El primero de julio siguiente a las elecciones",
       "El uno de junio siguiente a las elecciones"
     ],
-    "correctAnswer": "El quince de agosto siguiente al as elecciones"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_100",
     "question": "El Presidente de la República y el Vicepresidente tomarán posesión de sus cargos ante el",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Senado",
       "Cámara de Diputados",
@@ -1437,14 +1394,13 @@
       "Congreso",
       "Corte suprema de Justicia"
     ],
-    "correctAnswer": "Congreso"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_101",
     "question": "No podrá ser electo Vicepresidente de la República",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Presidente de la República",
       "Quien haya ejercido la presidencia por más de 6 meses",
@@ -1452,14 +1408,13 @@
       "Quien haya ejercido la presidencia por más de 12 meses",
       "Solo B es correcta"
     ],
-    "correctAnswer": "Quien haya ejercido la presidencia por más de 12 meses"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_102",
     "question": "Presidirán las reuniones del congreso en carácter de Presidente y Vicepresidente respectivamente",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El presidente y Vicepresidente",
       "El presidente de la cámara de diputados y el de la cámara de senadores",
@@ -1467,14 +1422,13 @@
       "Solo B es correcta",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "El presidente de la cámara de senadores y el de la cámara de diputados"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_103",
     "question": "El periodo de receso del congreso es desde",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El veintiuno de diciembre al primero de marzo",
       "El veinticinco de diciembre al primero de mayo",
@@ -1482,14 +1436,13 @@
       "El veintiuno de diciembre al primero de mayo",
       "Solo A es correcta"
     ],
-    "correctAnswer": "Solo A es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_104",
     "question": "Para ser gobernador se requiere",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Tener 30 años cumpliendo",
       "Tener 25 años cumpliendo",
@@ -1497,14 +1450,13 @@
       "Solo B es correcta",
       "Solo C es correcta"
     ],
-    "correctAnswer": "Solo B es correcta"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_105",
     "question": "El Procurador General de la República es nombrado y removido por",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El congreso",
       "La cámara de senadores",
@@ -1512,14 +1464,13 @@
       "La Cámara de Diputados",
       "El Presidente de la República"
     ],
-    "correctAnswer": "El Presidente de la República"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_106",
     "question": "Queda garantizada la independencia del",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Poder Ejecutivo",
       "Poder Judicial",
@@ -1527,14 +1478,13 @@
       "Poder Ejecutivo y Judicial",
       "Poder Judicial y Legislativo"
     ],
-    "correctAnswer": "Poder Judicial"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_107",
     "question": "El Procurador General de la República debe reunir los mismos requisitos exigidos para",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Ministro del Interior",
       "Procurador General",
@@ -1542,14 +1492,13 @@
       "Fiscal General del Estado",
       "Presidente de la República"
     ],
-    "correctAnswer": "Fiscal General del Estado"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_108",
     "question": "¿A partir de que fecha asumen su mandato los legisladores?",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El primero de junio y podrán ser reelectos",
       "El primero de junio y no podrán ser reelectos",
@@ -1557,14 +1506,13 @@
       "El primero de julio y no podrán ser reelectos",
       "Solo A es correcta"
     ],
-    "correctAnswer": "El primero de julio y podrán ser reelectos"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_109",
     "question": "El mando de la policía nacional será ejercido por un",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Comisario de su cuadro permanente",
       "Oficial superior de su cuadro permanente",
@@ -1572,14 +1520,13 @@
       "Oficial primero de su cuadro permanente",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Oficial superior de su cuadro permanente"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_110",
     "question": "Las dos cámaras se convocarán a sesiones extraordinarias o prorrogarán sus sesiones por decisión de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La cuarta parte de los miembros de cualquiera de ellas",
       "Por resolución de los dos tercios de integrantes de la comisión permanente del congreso",
@@ -1587,14 +1534,13 @@
       "A y B son correctos",
       "A B C son correctos"
     ],
-    "correctAnswer": "A B C son correctos"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_111",
     "question": "Se limitará, durante el tiempo que duren sus deliberaciones, a sus labores de reforma, con exclusión de cualquier otra tarea¨",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Los convencionales",
       "La convención Nacional Constituyente",
@@ -1602,14 +1548,13 @@
       "Fiscal General del Estado",
       "Contralor General de la República"
     ],
-    "correctAnswer": "La convención Nacional Constituyente"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_112",
     "question": "Que tenga conocimiento de una violación a los derechos y garantías del niño o adolescente, debe comunicarla inmediatamente a la CODENI o, a su defecto, al Ministerio Público o al Defensor Público",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La persona",
       "El ciudadano",
@@ -1617,14 +1562,13 @@
       "El padre",
       "La madre"
     ],
-    "correctAnswer": "Toda persona"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_113",
     "question": "Toda medida que se adopte respecto al niño o adolescente, estará fundada en",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Los derechos humanos",
       "Su interés superior",
@@ -1632,14 +1576,13 @@
       "La ley",
       "La constitución y la ley"
     ],
-    "correctAnswer": "Su interés superior"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_114",
     "question": "Según el artículo 192 ¨Los afectados estarán obligados a responder a los pedidos de informe dentro de plazo que se les señale, el cual no podrá ser",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Menor de quince días",
       "Mayor de quince días",
@@ -1647,14 +1590,13 @@
       "Mayor de 30 días",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Ninguna es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_115",
     "question": "El Defensor del Pueblo no podrá ejercer",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La docencia",
       "Actividad político partidaria alguna",
@@ -1662,14 +1604,13 @@
       "La investigación científica y tecnológica",
       "A y D son correctas"
     ],
-    "correctAnswer": "Actividad político partidaria alguna"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_116",
     "question": "Los convencionales tendrán las mismas inmunidades establecidas para",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Los miembros del Senado",
       "El Presidente de la República",
@@ -1677,14 +1618,13 @@
       "El contralor General de la República",
       "El Defensor del Pueblo"
     ],
-    "correctAnswer": "El Presidente de la República"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_117",
     "question": "Si la enmienda es derogatoria, no podrá promoverse otra sobre el mismo tema antes de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Dos años",
       "Tres años",
@@ -1692,14 +1632,13 @@
       "Cinco años",
       "Un año"
     ],
-    "correctAnswer": "Tres años"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_118",
     "question": "Antes de cada elección y de acuerdo con el número de electores de cada departamento, establecerá el número de bancas que corresponda a cada uno de ellos",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Ministerio Público",
       "El Tribunal Superior de Justicia Electoral",
@@ -1707,14 +1646,13 @@
       "La cámara de diputados",
       "La cámara de senadores"
     ],
-    "correctAnswer": "El Tribunal Superior de Justicia Electoral"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_119",
     "question": "Elegirá de su seno, cada año, a su Presidente. Sus miembros llevarán el título de Ministro",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Congreso",
       "Ministerio Público",
@@ -1722,14 +1660,13 @@
       "Corte Suprema de Justicia",
       "Consejo de la Magistratura"
     ],
-    "correctAnswer": "Corte Suprema de Justicia"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_120",
     "question": "Haber ejercido efectivamente durante el término de diez años, cuanto menos, la profesión, la magistratura judicial o la cátedra universitaria en materia jurídica, conjunta, separada o sucesivamente",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Requisitos para la Corte Suprema de justicia",
       "Requisitos para Presidente de la República",
@@ -1737,14 +1674,13 @@
       "Requisitos para Gobernador",
       "Requisitos para Fiscal General del Estado"
     ],
-    "correctAnswer": "Requisitos para la Corte Suprema de justicia"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_121",
     "question": "Los ministros de la Corte Suprema de Justicia sólo podrán ser removidos por",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Mal desempeño de sus funciones",
       "Por juicio político",
@@ -1752,14 +1688,13 @@
       "Ministerio de Justicia",
       "Todos son correctos"
     ],
-    "correctAnswer": "Por juicio político"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_122",
     "question": "Si el día señalado el congreso no alcanzara el quórum para reunirse, la ceremonia se cumplirá ante",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Senado",
       "La Cámara de Diputados",
@@ -1767,14 +1702,13 @@
       "La Corte Suprema de Justicia",
       "El Tribunal Superior de Justicia"
     ],
-    "correctAnswer": "El Congreso"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_123",
     "question": "El Vicepresidente sólo podrá ser electo Presidente para el periodo posterior, si",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Hubiese cesado a su cargo 12 meses antes de los comicios generales",
       "Hubiese entregado su cargo 6 meses antes de los comicios generales",
@@ -1782,14 +1716,13 @@
       "Hubiese entregado su cargo",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Hubiese cesado en su cargo 6 meses antes de los comicios generales"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_124",
     "question": "Según el artículo 231 ¨el presidente cesante entregará el mando a",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Presidente del Tribunal Superior de Justicia",
       "Presidente del Congreso",
@@ -1797,14 +1730,13 @@
       "Presidente del Senado",
       "Todas son correctas"
     ],
-    "correctAnswer": "Presidente de la Corte Suprema De Justicia"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_125",
     "question": "No podrá ser detenido o arrestado sino en caso de flagrante delito que merezca pena corporal",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Presidente de la República",
       "Vicepresidente de la República",
@@ -1812,14 +1744,13 @@
       "Magistrado Judicial",
       "El Juez"
     ],
-    "correctAnswer": "Magistrado Judicial"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_126",
     "question": "La Corte Suprema De Justicia estará integrada por",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Nueve miembros",
       "Ocho miembros",
@@ -1827,14 +1758,13 @@
       "Siete miembros",
       "Solo B es correcta"
     ],
-    "correctAnswer": "Solo B es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_127",
     "question": "Los Magistrados son designador por periodos de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Cinco años a contar desde el primero de julio",
       "Cinco años a contar desde su nombramiento",
@@ -1842,14 +1772,13 @@
       "Cinco años a contar desde el 21 de diciembre",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Cinco años a contar desde su nombramiento"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_128",
     "question": "______Los miembros de otros poderes, ni otros funcionarios podrán arrogarse atribuciones judiciales",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Nunca",
       "Podrán",
@@ -1857,14 +1786,13 @@
       "En ningún caso",
       "Solo C es correcta"
     ],
-    "correctAnswer": "En ningún caso"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_129",
     "question": "Sólo éste puede conocer y decidir en actos de carácter contencioso",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Poder Legislativo",
       "Poder Ejecutivo",
@@ -1872,14 +1800,13 @@
       "El Juez",
       "La Corte Suprema De Justicia"
     ],
-    "correctAnswer": "Poder Judicial"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_130",
     "question": "Es el custodio de esta constitución",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Poder Legislativo",
       "Poder Ejecutivo",
@@ -1887,14 +1814,13 @@
       "Policía Nacional",
       "Fuerzas Armadas de la Nación"
     ],
-    "correctAnswer": "Poder Judicial"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_131",
     "question": "Según el art. 27 de la ley 1680 ¨la violación de esta norma será sancionada conforme a",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La legislación penal",
       "La ley",
@@ -1902,14 +1828,13 @@
       "La justicia",
       "La ley de la CODENI"
     ],
-    "correctAnswer": "La ley"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_132",
     "question": "Según el art. 33 de la ley 1680 ¨deberá establecer un sistema de clasificación de los locales afectados por este artículo y ejercerá sobre los mismo el control respectivo a dicho efecto",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La ley",
       "El estado",
@@ -1917,14 +1842,13 @@
       "La CODENI",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "El estado"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_133",
     "question": "El niño y el adolescente tienen derecho a una educación que les garantice el desarrollo armónico e integral de su persona, y que les prepare para",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El ejercicio de la ciudadanía",
       "La vida diaria",
@@ -1932,14 +1856,13 @@
       "El ejercicio de la ley",
       "La vida"
     ],
-    "correctAnswer": "El ejercicio de la ciudadanía"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_134",
     "question": "Los ministros de la Corte Suprema de Justicia prestarán juramento o promesa ante",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Congreso",
       "El Presidente de la República",
@@ -1947,14 +1870,13 @@
       "El Senado",
       "Solo B es correcta"
     ],
-    "correctAnswer": "El Presidente de la República"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_135",
     "question": "¨Coordinar los programas y acciones emprendidas por las instituciones públicas y con las instituciones privadas orientadas a los niños y adolescentes¨ son funciones de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Consejo Municipal de la Niñez y Adolescencia",
       "El Consejo Nacional de la Niñez y Adolescencia",
@@ -1962,14 +1884,13 @@
       "La CODENI",
       "El Consejo"
     ],
-    "correctAnswer": "La CODENI"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_136",
     "question": "Según el art. 94 de la ley 1680 ¨El juzgado convocará a los padres a una audiencia a llevarse a cabo en un plazo máximo de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Tres días",
       "Dos días",
@@ -1977,14 +1898,13 @@
       "Cuatro días",
       "Cinco Días"
     ],
-    "correctAnswer": "Tres días"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_137",
     "question": "¨En caso de que uno de los padres arrebate el hijo al otro¨ corresponde a",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "De la Controversia entre el padre y la madre",
       "De la convivencia Familiar",
@@ -1992,14 +1912,13 @@
       "De la Obligación de Proporcionar Asistencia Alimentaria",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "De la Restitución"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_138",
     "question": "Según el artículo 255 ¨si así ocurriese la autoridad interviniente debe ponerlo bajo custodia en su residencia y comunicar de inmediato el hecho a¨",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Cámara de Diputados",
       "Cámara de Senadores",
@@ -2007,14 +1926,13 @@
       "Cámara Respectiva",
       "La Corte Suprema de Justicia"
     ],
-    "correctAnswer": "La Corte Suprema de Justicia"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_139",
     "question": "La medida es excepcional y provisoria y se ordena solo, cuando la aplicación de una medida señalada en el artículo 35, incisos H e I de este Código (ley 1680)",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Abrigo",
       "Adopción",
@@ -2022,14 +1940,13 @@
       "Sistema de protección integral",
       "Secretaría Nacional"
     ],
-    "correctAnswer": "El Abrigo"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_140",
     "question": "Con rango ministerial, dependiente del Poder ejecutivo",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Abrigo",
       "El Sistema",
@@ -2037,14 +1954,13 @@
       "La CODENI",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "El Sistema"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_141",
     "question": "El consejo Nacional estará integrado por un representante de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La gobernación",
       "EL ministerio Público",
@@ -2052,14 +1968,13 @@
       "A B C son correctas",
       "A y C son correctas"
     ],
-    "correctAnswer": "EL ministerio Público"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_142",
     "question": "Proponer en ternas a la Corte Suprema de Justicia, Los nombres de candidatos para los cargos de los tribunales inferiores",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Participar de las deliberaciones del consejo de ministros",
       "Todas son correctas",
@@ -2067,14 +1982,13 @@
       "Atender a la mujer embarazada indígena",
       "Incorporará al niño en un instituto de educación"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_143",
     "question": "Promover y difundir sus derechos",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Facilitar el relacionamiento y coordinación con sus padres",
       "Todas son correctas",
@@ -2082,14 +1996,13 @@
       "Un registro de los nacidos vivos y muertos",
       "Un registro de los nacidos muertos"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_144",
     "question": "Según el art. 19 de la ley 1680 ¨un ejemplar de dicho registro se expedirá en forma gratuita a los efectos de su inscripción en",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Registro Civil",
       "La CODENI",
@@ -2097,14 +2010,13 @@
       "La ley",
       "La constitución"
     ],
-    "correctAnswer": "La CODENI"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_145",
     "question": "Una vez decidida la necesidad de la reforma, el Tribunal Superior de Justicia Electoral llamará a elecciones dentro del plazo de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "120 a 90 días",
       "120 a 80 días",
@@ -2112,14 +2024,13 @@
       "120 días",
       "180 días"
     ],
-    "correctAnswer": "180 días"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_146",
     "question": "La declaración de la necesidad de la reforma sólo será aprobada por",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Mayoría absoluta de los miembros de cada cámara del congreso",
       "Mayoría absoluta de la cámara de senadores",
@@ -2127,14 +2038,13 @@
       "La cuarta parte de los miembros del congreso",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Mayoría absoluta de dos tercios de los miembros de cada cámara del congreso"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_147",
     "question": "Exhibirán en lugares públicos y visibles los datos concernientes a personas o instituciones a la que podrá recurrir el niño, sus padres, tutores o responsables",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Las instituciones de Salud",
       "Las de educación",
@@ -2142,14 +2052,13 @@
       "A y B son correctas",
       "A B C son correctas"
     ],
-    "correctAnswer": "A y B son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_148",
     "question": "Este principio estará dirigido a asegurar el desarrollo integral del niño o adolescente",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La Presunción de la niñez, adolescencia o adultez",
       "De la obligación de denunciar",
@@ -2157,14 +2066,13 @@
       "Del objeto de este código",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Principio de interés superior"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_149",
     "question": "Según el artículo 4 de la ley 1680 ¨puede requerir a la autoridad competente que exija a los obligados principales y al Estado el cumplimiento de sus obligaciones¨",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La ley",
       "Cualquier persona",
@@ -2172,14 +2080,13 @@
       "La persona",
       "Ninguna persona"
     ],
-    "correctAnswer": "Cualquier persona"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_150",
     "question": "El Consejo Municipal de la niñez y adolescencia estará integrado en cada Municipio por un representante de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Gobernador",
       "La Secretaría Nacional de la Niñez y Adolescencia",
@@ -2187,14 +2094,13 @@
       "Los Consejos Municipales",
       "Todas son correctas"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_151",
     "question": "Son deberes y atribuciones de quien ejerce la Vicepresidencia de la República",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Sustituir de inmediato al Presidente de la República, en los casos previstos por la ley",
       "Sustituir de inmediato al Presidente de la República, en los casos previstos por esta Constitución",
@@ -2202,14 +2108,13 @@
       "Indultar o conmutar las penas impuestas por los Jueces y Tribunales de la República",
       "Todas son Correctas"
     ],
-    "correctAnswer": "Sustituir de inmediato al Presidente de la República, en los casos previstos por esta Constitución"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_152",
     "question": "El estado implementará programas permanentes de prevención del uso ilícito del",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Tabaco, bebidas alcohólicas",
       "Sustancias estupefacientes psicotrópicas",
@@ -2217,14 +2122,13 @@
       "A y B son correctas",
       "A B C son correctas"
     ],
-    "correctAnswer": "A y B son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_153",
     "question": "No pueden ser candidatos a senadores ni a diputados",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Los militares y policías en servicio activo",
       "Los propietarios o copropietarios de los medios masivos de comunicación social",
@@ -2232,14 +2136,13 @@
       "A B C son correctas",
       "A B son correctas"
     ],
-    "correctAnswer": "A B C son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_154",
     "question": "El Estado establecerá las condiciones para hacer efectivo este derecho, y promoverá planes de vivienda de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Interés departamental",
       "Interés Nacional",
@@ -2247,14 +2150,13 @@
       "Interés Municipal",
       "Interés comunitario"
     ],
-    "correctAnswer": "Interés social"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_155",
     "question": "Las funciones del Defensor del Pueblo son",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Protección de los intereses comunitarios",
       "Deliberar sobre todos los asuntos de intereses público",
@@ -2262,14 +2164,13 @@
       "Asesorar jurídicamente a la administración pública",
       "Todas son correctas"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_156",
     "question": "Toda persona tiene derecho a la educación integral y permanente, que como sistema y proceso se realiza en el contexto de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La Vida",
       "La sociedad",
@@ -2277,14 +2178,13 @@
       "La cultura",
       "La cultura de la comunidad"
     ],
-    "correctAnswer": "La cultura de la comunidad"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_157",
     "question": "Será financiado con recursos previstos en el Presupuesto General de la Nación",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Sistema",
       "CODENI",
@@ -2292,14 +2192,13 @@
       "La Secretaría",
       "Solo D es correcta"
     ],
-    "correctAnswer": "El Abrigo"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_158",
     "question": "Se garantizará a las personas excepcionales la atención de su",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Salud, de su educación, de su libertad y de su formación profesional",
       "Salud, de su libertad, de su recreación y de su formación profesional",
@@ -2307,14 +2206,13 @@
       "Ninguna es correcta",
       "Todas son correctas"
     ],
-    "correctAnswer": "Salud, de su educación, de su recreación y de su formación profesional"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_159",
     "question": "El niño o adolescente tiene el derecho a la convivencia con sus padres, a menos que sea lesiva a su interés o convivencia, lo cual será determinado por",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Juez",
       "La CODENI",
@@ -2322,14 +2220,13 @@
       "El Consejo Municipal",
       "El Consejo Departamental"
     ],
-    "correctAnswer": "La CODENI"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_160",
     "question": "La mujer embarazada será sujeto de las medidas de asistencia establecida en este Artículo, aun cuando el niño",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Naciere muerto",
       "Muriese durante el periodo neonatal",
@@ -2337,14 +2234,13 @@
       "Solo B es correcta",
       "A y B son correctas"
     ],
-    "correctAnswer": "Solo B es correcta"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_161",
     "question": "La creación, la fusión o la modificación de los departamentos y sus capitales, de los municipios y de los distritos, en su caso, serán determinados por la ley atendiendo a las condiciones",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Socioeconómicas",
       "Económicas",
@@ -2352,14 +2248,13 @@
       "A B C son correctas",
       "A y C son correctas"
     ],
-    "correctAnswer": "A B C son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_162",
     "question": "En todos los casos de conflicto, el Juez deberá oír la opinión del niño o adolescente y valorarla teniendo en cuenta",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Su madurez y grado de desarrollo",
       "Su grado de madurez",
@@ -2367,14 +2262,13 @@
       "La Salud Física y Mental del mismo",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Ninguna es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_163",
     "question": "Son deberes y atribuciones del Ministerio Público",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Cumplir y hacer cumplir esta constitución",
       "Promover acción penal pública para defender el patrimonio público y social",
@@ -2382,14 +2276,27 @@
       "Velar por la observancia de esta constitución y de las leyes",
       "Todas son correctas"
     ],
-    "correctAnswer": "Promover acción penal pública para defender el patrimonio público y social"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_165",
-    "question": "El estado establecerá las condiciones para hacer efectivo este derecho, y promoverá planes de vivienda de interés social, especialmente las destinadas a familias de escasos recursos, mediante",
+    "question": "No pueden ser candidatos a senadores ni a diputados",
+    "options": [
+      "Los ministros o religiosos de cualquier credo",
+      "Los militares retirados",
+      "Los policías retirados",
+      "Los propietarios de los medios rurales de comunicación",
+      "A y D son correctas"
+    ],
+    "correctAnswer": 0,
     "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "El estado establecerá las condiciones para hacer efectivo este derecho, y promoverá planes de vivienda de interés social, especialmente las destinadas a familias de escasos recursos, mediante",
     "options": [
       "Financiamientos",
       "Presupuesto general",
@@ -2397,14 +2304,13 @@
       "Sistemas de financiamiento privados",
       "Sistemas de financiamientos adecuados"
     ],
-    "correctAnswer": "Sistemas de financiamientos adecuados"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_166",
     "question": "La Secretaría Nacional de la Niñez estará a cargo de un Secretario ejecutivo, el cual será nombrado por",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La CODENI",
       "El poder judicial",
@@ -2412,14 +2318,13 @@
       "El poder ejecutivo",
       "El Presidente de la República"
     ],
-    "correctAnswer": "El poder ejecutivo"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_167",
     "question": "Toda persona que, por un acto de omisión, manifiestamente ilegítimo, de una autoridad o de un particular, se considere lesionada gravemente, o en peligro inminente de serlo en derechos o garantías consagradas en",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La ley",
       "Esta constitución o en la ley",
@@ -2427,14 +2332,13 @@
       "Solo A es correcta",
       "Solo C es correcta"
     ],
-    "correctAnswer": "Esta constitución o en la ley"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_168",
     "question": "Las instituciones de salud y las de educación exhibirán en lugares___________ los datos concernientes a personas o instituciones",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Públicos",
       "Privados",
@@ -2442,14 +2346,13 @@
       "A y B son correctas",
       "A C son correctas"
     ],
-    "correctAnswer": "A y B son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_169",
     "question": "Establecerá las condiciones para hacer efectivo este derecho, y promoverá planes de vivienda de interés social",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La Ley",
       "El estado",
@@ -2457,14 +2360,13 @@
       "La república",
       "Esta constitución y la ley"
     ],
-    "correctAnswer": "El estado"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_170",
     "question": "La protección de las personas por nacer se ejerce mediante la atención a la embarazada desde la concepción hasta",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "30 días posterior al parto",
       "45 semanas posterior al parto",
@@ -2472,14 +2374,13 @@
       "40 semanas posterior al parto",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "45 días posterior al parto"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_171",
     "question": "La corte suprema de justicia tiene facultad para declarar la inconstitucionalidad de las normas jurídicas y de las resoluciones judiciales, en la forma y con los alcances establecidos en",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La ley",
       "La constitución",
@@ -2487,14 +2388,13 @@
       "El ministerio público",
       "Esta constitución y la ley"
     ],
-    "correctAnswer": "El estado"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_172",
     "question": "Prestar anualmente, una memoria sore las gestiones realizadas, el estado y las necesidades de justicia nacional a los poderes ejecutivo y legislativo",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "A y B son correctas",
       "A y C son correctas",
@@ -2502,14 +2402,13 @@
       "El Abrigo",
       "La Secretaría"
     ],
-    "correctAnswer": "A y C son correctas"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_173",
     "question": "Consejo Nacional de la Niñez y la Adolescencia",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El Sistema",
       "El estado protegerá y promoverá la salud",
@@ -2517,14 +2416,13 @@
       "En interés de la comunidad",
       "En interés de la sociedad"
     ],
-    "correctAnswer": "Como derecho fundamental de la persona"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_174",
     "question": "Como derecho fundamental del ciudadano",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "A y B son correctas",
       "Los magistrados no pueden ejercer mientras duren en sus funciones",
@@ -2532,14 +2430,13 @@
       "Actividad profesional o política",
       "Movimientos políticos"
     ],
-    "correctAnswer": "A y B son correctas"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_175",
     "question": "Esta constitución reconoce la existencia de los pueblos indígenas, definidos como grupos de cultura anteriores a la formación y a la organización",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "De la República del Paraguay",
       "De la Nación Paraguaya",
@@ -2547,14 +2444,13 @@
       "Ninguna es correcta",
       "Todas son correctas"
     ],
-    "correctAnswer": "Del estado paraguayo"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_176",
     "question": "Tienen igualmente derecho a un nombre que se inscribirá n los registros respectivos, a conocer y permanecer con sus padres y a promover ante",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La Justicia",
       "La ley",
@@ -2562,14 +2458,13 @@
       "La CODENI",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "La ley"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_177",
     "question": "El Consejo Municipal de la Niñez y la Adolescencia fijaran su domicilio en",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La Capital del Departamento",
       "Dentro del radio del Municipio",
@@ -2577,14 +2472,13 @@
       "Fuera del Radio del departamento",
       "Dentro del radio del departamento"
     ],
-    "correctAnswer": "Dentro del radio del Municipio"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_178",
     "question": "Alos entes autónomos, autárquicos y descentralizados",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "A B C son correctas",
       "B y C son correctas",
@@ -2592,14 +2486,13 @@
       "Arrogarse atribuciones legislativas",
       "Arrogarse atribuciones ejecutivas"
     ],
-    "correctAnswer": "B y C son correctas"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_179",
     "question": "Las instituciones Públicas o privadas de salud, según las normas del Código Sanitario, estarán obligadas a llevar un registro de los nacidos vivos en el que se dejará impresa la identificación",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Dactilar de la madre y la identificación palmatocópica del recién nacido",
       "Dactilar del recién nacido",
@@ -2607,14 +2500,13 @@
       "Dactilar del recién nacido y palmatocópica de la madre",
       "Solo A es correcta"
     ],
-    "correctAnswer": "Solo A es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_180",
     "question": "Tiene derecho a una vivienda digna",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Todos los habitantes",
       "Todos los habitantes de la República",
@@ -2622,14 +2514,13 @@
       "Los ciudadanos",
       "Los paraguayos"
     ],
-    "correctAnswer": "Todos los habitantes de la República"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_181",
     "question": "No podrán ser objeto de referéndum",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Las elecciones internacionales, departamentales y las municipales",
       "Las relaciones nacionales, tratados, convenios o acuerdos internacionales",
@@ -2637,14 +2528,13 @@
       "La contratación de empréstitos",
       "Todas son correctas"
     ],
-    "correctAnswer": "Las relaciones nacionales, tratados, convenios o acuerdos internacionales"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_182",
     "question": "En el caso del niño menor de cinco años de edad, éste debe quedar preferentemente a cargo de la madre. No obstante, los acuerdos establecidos entre los padres deberán",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Ser desconsiderados",
       "Ser considerados",
@@ -2652,14 +2542,13 @@
       "Ser privados",
       "Ser anulados"
     ],
-    "correctAnswer": "Ser considerados"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_183",
     "question": "El estado respetará las peculiaridades culturales de los pueblos indígenas especialmente lo relativo a",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La cultura",
       "La educación",
@@ -2667,14 +2556,13 @@
       "Solo B es correcta",
       "La educación formal"
     ],
-    "correctAnswer": "Solo B es correcta"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_184",
     "question": "El secretario ejecutivo tendrá las siguientes funciones y atribuciones",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Cumplir con las políticas elaboradas por el Sistema",
       "Elaborar el anteproyecto de presupuesto anual de la Secretaría",
@@ -2682,14 +2570,13 @@
       "Autorizar, registrar y fiscalizar el funcionamiento de entidades del abrigo",
       "Todas son correctas"
     ],
-    "correctAnswer": "Elaborar el anteproyecto de presupuesto anual de la Secretaría"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_185",
     "question": "La administración de justicia está a cargo del Poder judicial ejercido por",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La corte suprema de justicia",
       "Por tribunales y por los juzgados",
@@ -2697,14 +2584,13 @@
       "A y C son correctas",
       "A y B son correctas"
     ],
-    "correctAnswer": "A y C son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_186",
     "question": "Se promueven las condiciones para la activa participación de la juventud en el desarrollo político, social, económico y cultural",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "De la República",
       "De la nación",
@@ -2712,14 +2598,13 @@
       "De la Ciudad",
       "Del departamento"
     ],
-    "correctAnswer": "Del país"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_187",
     "question": "La familia, la sociedad y los poderes públicos promoverán su bienestar mediante servicios de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Alimentación",
       "Salud",
@@ -2727,14 +2612,13 @@
       "Cultura y ocio",
       "Todas son correctas"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_188",
     "question": "No poder ser candidatos a senadores ni a diputados",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Los empleados a sueldo del estado",
       "Los asesores de reparticiones públicas",
@@ -2742,14 +2626,13 @@
       "Miembros de la Justicia Electoral",
       "C y D son correctas"
     ],
-    "correctAnswer": "C y D son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_189",
     "question": "Según el art. 266 lo ejercen el Fiscal General del Estado y los agentes fiscales, en la forma determinada",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Por la ley",
       "En esta constitución",
@@ -2757,14 +2640,13 @@
       "En el estado",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Ninguna es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_190",
     "question": "La Secretaría con rango ministerial depende",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Del poder judicial",
       "Del poder ejecutivo",
@@ -2772,14 +2654,13 @@
       "De los poderes del Estado",
       "Todas son correctas"
     ],
-    "correctAnswer": "Del poder ejecutivo"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_191",
     "question": "El estado les proveerá gratuitamente de estas tierras, las cuales serán inembargables, indivisibles, intransferibles, imprescriptibles, no susceptibles de garantizar obligaciones contractuales ni de ser arrendadas, asimismo, estarán",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Dentro de la ley",
       "Exentas de tributo",
@@ -2787,14 +2668,13 @@
       "Exentas de la ley",
       "Fuera de la constitución"
     ],
-    "correctAnswer": "Exentas de tributo"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_192",
     "question": "¿Cuándo los paraguayos naturalizados pierden la nacionalidad?",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "En virtud de ausencia injustificada de la República por más de dos años",
       "En virtud de ausencia injustificada de la República por más de tres años",
@@ -2802,14 +2682,13 @@
       "Por la adquisición voluntaria de otra nacionalidad",
       "B y D son correctas"
     ],
-    "correctAnswer": "B y D son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_193",
     "question": "El estado establecerá las condiciones para hacer efectivo este derecho, y promoverá planes de vivienda de interés social, especialmente las destinadas a",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Familias pobres",
       "Los pobres",
@@ -2817,14 +2696,13 @@
       "Familias de escasos recursos",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Familias de escasos recursos"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_194",
     "question": "Los ministros de la Corte Suprema de Justicia cesarán en el cargo cumplida la edad de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "85 años",
       "65 años",
@@ -2832,14 +2710,13 @@
       "45 años",
       "35 años"
     ],
-    "correctAnswer": "75 años"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_195",
     "question": "El niño o adolescente tiene derecho a la atención de su salud física y mental, a recibir la asistencia médica necesaria y a acceder en igualdad de condiciones a los servicios y acciones de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Promoción",
       "Información",
@@ -2847,14 +2724,27 @@
       "Tratamiento oportuno",
       "Todas son correctas"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_197",
-    "question": "Entender en las contiendas de competencia entre el Poder Ejecutivo y los gobiernos departamentales y entre éstos y los municipios",
+    "question": "El Secretario Ejecutivo tendrá las siguientes funciones y atribuciones",
+    "options": [
+      "Dictar todas las resoluciones que sean necesarias para la consecución de los fines de la Secretaría",
+      "Elaborar el anteproyecto del presupuesto anual de la Secretaría",
+      "Presidir el Consejo Nacional de la Niñez y la Adolescencia",
+      "Conferir competencias específicas a funcionarios de la Institución",
+      "Todas son correctas"
+    ],
+    "correctAnswer": 4,
     "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Entender en las contiendas de competencia entre el Poder Ejecutivo y los gobiernos departamentales y entre éstos y los municipios",
     "options": [
       "Decidir sobre la inconstitucionalidad de las sentencias definitivas o interlocutorias",
       "Proponer las ternas de candidatos para integrar la Corte Suprema de Justicia",
@@ -2862,14 +2752,13 @@
       "A y C son correctas",
       "En caso de que uno de los padres arrebate al hijo al otro, aquél puede pedir"
     ],
-    "correctAnswer": "A y B son correctas"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_198",
     "question": "Al Fiscal la restitución del mismo",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "A la CODENI la restitución del mismo",
       "Al Consejo Nacional la Restitución del mismo",
@@ -2877,14 +2766,13 @@
       "Ninguna es correcta",
       "La ley reglamentará la ayuda que se debe prestar a"
     ],
-    "correctAnswer": "Ninguna es correcta"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_199",
     "question": "La familia de prole numerosa y las mujeres cabeza de familia",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Ninguna es correcta",
       "A B C son correctas",
@@ -2892,14 +2780,13 @@
       "Resguardar su identidad cuando corresponda",
       "Exponer su identidad cuando corresponda"
     ],
-    "correctAnswer": "A B C son correctas"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_200",
     "question": "Según el art. 191 ¨en este caso la autoridad interviniente lo pondrá bajo custodia en su residencia, dará cuenta de inmediato del hecho a¨",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Ministerio Público",
       "A la cámara de senadores",
@@ -2907,14 +2794,13 @@
       "A la Cámara respectiva",
       "A la cámara respectiva y al juez competente"
     ],
-    "correctAnswer": "A la cámara respectiva y al juez competente"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_201",
     "question": "Son deberes y atribuciones del Procurador General de la República",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Dictaminar en los casos y con los efectos señalados en las leyes",
       "Conocer y resolver en los recursos ordinarios que la ley determine",
@@ -2922,14 +2808,13 @@
       "A y C son correctas",
       "Todas son correctas"
     ],
-    "correctAnswer": "A y C son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_202",
     "question": "El Juez deberá oír la opinión del niño o adolescente y resolverá teniendo en cuenta",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Su grado de madurez",
       "La edad",
@@ -2937,14 +2822,13 @@
       "Su madurez",
       "B y C son correctas"
     ],
-    "correctAnswer": "B y C son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_203",
     "question": "Según el art. 134 el procedimiento será breve, sumario, gratuito y de acción popular para los casos previstos en",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La constitución",
       "La constitución y la ley",
@@ -2952,14 +2836,13 @@
       "Ninguna es correcta",
       "Todas son correctas"
     ],
-    "correctAnswer": "La constitución y la ley"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_204",
     "question": "Será responsabilidad del estado",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Promover lactancia materna",
       "Atender a la embarazada insolvente",
@@ -2967,14 +2850,13 @@
       "A B son correctas",
       "A B C son correctas"
     ],
-    "correctAnswer": "A B son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_205",
     "question": "Las organizaciones no gubernamentales d bien público y sin fines de lucro del departamento que realicen acciones dirigidas a los sujetos de este código",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Las organizaciones de niños del departamento",
       "El Gobernador",
@@ -2982,14 +2864,13 @@
       "Todas son correctas",
       "Son deberes y atribuciones del Congreso"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_206",
     "question": "Toda persona que tenga conocimiento de una violación a los derecho y garantías del niño o adolescente, debe comunicarla inmediatamente a",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La CODENI",
       "La justicia",
@@ -2997,14 +2878,13 @@
       "La Secretaría",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "La Secretaría"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_207",
     "question": "Los ciudadanos, sin distinción de sexo, tienen el derecho a participar en los asuntos públicos, directamente o por medio de sus representantes en la forma que determine",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La ley",
       "La Constitución",
@@ -3012,14 +2892,13 @@
       "Solo A es correcta",
       "Solo B es correcta"
     ],
-    "correctAnswer": "En la constitución y la ley"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_208",
     "question": "Se prohíbe la venta i suministro al niño o adolescente de",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Revistas y materiales pornográficos",
       "Bebidas de todo tipo",
@@ -3027,14 +2906,27 @@
       "Explosiones",
       "Todas son correctas"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_210",
-    "question": "Los órganos del estado se subordinan a los dictados de la ley, y las personas que ejercen funciones al servicio del mismo están obligadas a prestar a la administración de justicia",
+    "question": "El Consejo Nacional estará integrado por un representante de",
+    "options": [
+      "Los consejos departamentales",
+      "El ministerio de Educación y Cultura",
+      "La Secretaría Nacional de la Niñez y Adolescencia",
+      "El ministerio de defensa pública",
+      "Todas son correctas"
+    ],
+    "correctAnswer": 4,
     "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
+    "difficulty": "general",
+    "category": "General"
+  },
+  {
+    "question": "Los órganos del estado se subordinan a los dictados de la ley, y las personas que ejercen funciones al servicio del mismo están obligadas a prestar a la administración de justicia",
     "options": [
       "Toda la cooperación que ella requiera",
       "Todos los recursos que ella requiera",
@@ -3042,14 +2934,13 @@
       "A B C son correctas",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "A B C son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_211",
     "question": "El estado organizará una política de prevención, tratamiento, rehabilitación e integración de los discapacitados",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Físicos",
       "Psíquicos",
@@ -3057,14 +2948,13 @@
       "A B C son correctas",
       "Físicos y Psíquicos"
     ],
-    "correctAnswer": "A B C son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_212",
     "question": "Aprobada la enmienda por ambas Cámaras del Congreso, se remitirá el texto al Tribunal Superior de Justicia Electoral para que, dentro del plazo de_______ se convoque a un referéndum",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "180 días",
       "80 días",
@@ -3072,14 +2962,13 @@
       "90 días",
       "15 días"
     ],
-    "correctAnswer": "180 días"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_213",
     "question": "Los miembros titulares y suplentes de ambas Cámaras serán elegidos directamente por el pueblo; de conformidad con",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "El estado",
       "La constitución",
@@ -3087,14 +2976,13 @@
       "La constitución y la ley",
       "El presidente de la república"
     ],
-    "correctAnswer": "La ley"
+    "correctAnswer": 2,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_214",
     "question": "Presidir el Consejo Nacional de la Niñez y la Adolescencia",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Gestionar asistencia Técnica y financiera de instituciones nacionales, extranjeras e internacionales",
       "Elaborar el anteproyecto de presupuesto anual de la Secretaría",
@@ -3102,14 +2990,13 @@
       "A y B son correctas",
       "La familia, la sociedad y el estado tienen la obligación de garantizar al niño su desarrollo"
     ],
-    "correctAnswer": "Elaborar el anteproyecto de presupuesto anual de la Secretaría"
+    "correctAnswer": 1,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_215",
     "question": "En la familia, la sociedad y en el estado",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Son deberes y atribuciones del Ministerio Público",
       "Expedir leyes de emergencia en los casos de desastre o de calamidad pública",
@@ -3117,14 +3004,13 @@
       "Recibir a Jefes de Estado o de Gobierno de otros países",
       "Ejercer acción penal en los casos en que, para iniciarla o proseguirla no fuese necesaria instancia de parte"
     ],
-    "correctAnswer": "Ejercer acción penal en los casos en que, para iniciarla o proseguirla no fuese necesaria instancia de parte"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_216",
     "question": "Dictado de ordenanzas, reglamentos y resoluciones",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Será financiado con recursos previstos en el Presupuesto General de la Nación y en los respectivos",
       "Departamentos y Municipios",
@@ -3132,14 +3018,13 @@
       "Presupuestos municipales",
       "Municipios"
     ],
-    "correctAnswer": "Será financiado con recursos previstos en el Presupuesto General de la Nación y en los respectivos"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_217",
     "question": "Los juicios podrán ser orales y públicos, en la forma y en la medida que",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La ley determine",
       "La constitución determine",
@@ -3147,14 +3032,13 @@
       "El estado determine",
       "Ninguna es correcta"
     ],
-    "correctAnswer": "Ninguna es correcta"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_218",
     "question": "Cuando el niño o el adolescente se encuentre en situaciones que señalen la necesidad de protección o apoyo, se aplicarán las siguientes medidas de protección",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La ubicación del niño o adolescente en un hogar",
       "El abrigo",
@@ -3162,14 +3046,13 @@
       "A y B son correctas",
       "A B C son correctas"
     ],
-    "correctAnswer": "A y B son correctas"
+    "correctAnswer": 3,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_219",
     "question": "Consejo Departamental de la niñez y adolescencia",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Toda persona está obligada al cumplimiento de la ley, la crítica a las leyes es libre, pero",
       "Está permitido predicar su desobediencia",
@@ -3177,14 +3060,13 @@
       "No está permitido predicar su obediencia",
       "Está permitido predicar su obediencia"
     ],
-    "correctAnswer": "Toda persona está obligada al cumplimiento de la ley, la crítica a las leyes es libre, pero"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_220",
     "question": "Además, tienen la obligación de obedecer a su padre, madre o responsable de prestar ayuda comunitaria en las condiciones establecidas en",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La ley",
       "CODENI",
@@ -3192,14 +3074,13 @@
       "El Código de la Niñez y la Adolescencia",
       "La institución"
     ],
-    "correctAnswer": "La ley"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_221",
     "question": "Están obligados a guardar secreto sobre los casos en que intervengan y conozcan los que se considerará siempre como rigurosamente",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Privados y reservados",
       "Privados y confidenciales",
@@ -3207,14 +3088,13 @@
       "Confidenciales y archivados",
       "Archivados y privados"
     ],
-    "correctAnswer": "Privados y reservados"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_222",
     "question": "El sistema educativo garantizará al niño y al adolescente, en concordancia con lo dispuesto en la ley general de educación",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "La promoción y difusión de sus derechos",
       "El respeto a su dignidad",
@@ -3222,14 +3102,13 @@
       "El derecho a ser respetados por sus educadores",
       "Todas son correctas"
     ],
-    "correctAnswer": "Todas son correctas"
+    "correctAnswer": 4,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   },
   {
-    "id": "legislacion_1757272895098_223",
     "question": "Son deberes y atribuciones del Presidente de la República",
-    "subject": "Legislación",
-    "difficulty": 2,
-    "explanation": "",
     "options": [
       "Convocar a sesiones extraordinarias al Congreso",
       "Coordinar las relaciones entre el Poder Ejecutivo y el Legislativo",
@@ -3237,6 +3116,9 @@
       "Supervisar los institutos de detención y reclusión",
       "Recabar información de los funcionarios públicos para el mejor cumplimiento de sus funciones"
     ],
-    "correctAnswer": "Convocar a sesiones extraordinarias al Congreso"
+    "correctAnswer": 0,
+    "subject": "Legislación",
+    "difficulty": "general",
+    "category": "General"
   }
 ]

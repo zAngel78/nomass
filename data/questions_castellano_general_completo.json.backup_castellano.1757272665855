@@ -1,867 +1,635 @@
 [
   {
-    "id": "castellano_1757272665855_1",
     "question": "¿Cuál es la oración correctamente escrita?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "el Sol brilla",
     "options": [
       "el Sol brilla",
       "El sol brilla",
       "El Sol brilla",
       "El sol Brilla"
-    ]
+    ],
+    "answer": "el Sol brilla"
   },
   {
-    "id": "castellano_1757272665855_2",
     "question": "¿Qué tipo de oración es “¡Qué hermosa mañana!”?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Exclamativa",
     "options": [
       "Declarativa",
       "Exclamativa",
       "Interrogativa",
       "Imperativa"
-    ]
+    ],
+    "answer": "Exclamativa"
   },
   {
-    "id": "castellano_1757272665855_3",
     "question": "¿Cuál es un verbo en tiempo presente?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Comía",
     "options": [
       "Comeré",
       "Comí",
       "Como",
       "Comía"
-    ]
+    ],
+    "answer": "Comía"
   },
   {
-    "id": "castellano_1757272665855_4",
     "question": "¿Qué palabra es un sustantivo?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Mesa",
     "options": [
       "Bello",
       "Alegre",
       "Mesa",
       "Rápido"
-    ]
+    ],
+    "answer": "Mesa"
   },
   {
-    "id": "castellano_1757272665855_5",
     "question": "¿Cuál es un adjetivo calificativo?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Alegre",
     "options": [
       "Alegre",
       "Mesa",
       "Rápido",
       "Jugar ✅ Respuesta correcta: a"
-    ]
+    ],
+    "answer": "Alegre"
   },
   {
-    "id": "castellano_1757272665855_6",
     "question": "El folklore guaraní incluye principalmente:",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Elementos culturales como leyendas, música y comidas",
     "options": [
       "Códigos legales",
       "Textos escolares",
       "Elementos culturales como leyendas, música y comidas",
       "Reglas matemáticas",
       "Noticias actuales"
-    ]
+    ],
+    "answer": "Elementos culturales como leyendas, música y comidas"
   },
   {
-    "id": "castellano_1757272665855_7",
     "question": "¿Qué elemento del folklore se manifiesta con música y danza?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Jeroky",
     "options": [
       "Mombe’urä",
       "Jerovia",
       "Jeroky",
       "Ñe’ẽndy",
       "Ka’avo"
-    ]
+    ],
+    "answer": "Jeroky"
   },
   {
-    "id": "castellano_1757272665855_8",
     "question": "¿Qué es un mombe’ugua’u?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Un cuento ficticio o de fantasía",
     "options": [
       "Un texto escolar",
       "Un cuento ficticio o de fantasía",
       "Una fórmula mágica",
       "Un himno nacional",
       "Una oración"
-    ]
+    ],
+    "answer": "Un cuento ficticio o de fantasía"
   },
   {
-    "id": "castellano_1757272665855_9",
     "question": "¿Qué es jerovia según la cultura guaraní?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Una creencia",
     "options": [
       "Un ritual",
       "Una creencia",
       "Una comida",
       "Un tipo de baile",
       "Una forma de saludo"
-    ]
+    ],
+    "answer": "Una creencia"
   },
   {
-    "id": "castellano_1757272665855_10",
     "question": "¿Cuál es una característica de las jerovia guaraníes?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Son creencias sin base científica",
     "options": [
       "Son textos legales",
       "Son danzas religiosas",
       "Son creencias sin base científica",
       "Son himnos patrióticos",
       "Son teorías matemáticas"
-    ]
+    ],
+    "answer": "Son creencias sin base científica"
   },
   {
-    "id": "castellano_1757272665855_11",
     "question": "¿Qué característica tienen los mombe’ugua’u?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Son cuentos de fantasía o ficción",
     "options": [
       "Son verdaderos y científicos",
       "Relatan hechos históricos",
       "Son cuentos de fantasía o ficción",
       "Solo se transmiten por escrito",
       "Solo los niños pueden contarlos"
-    ]
+    ],
+    "answer": "Son cuentos de fantasía o ficción"
   },
   {
-    "id": "castellano_1757272665855_12",
     "question": "El Mombe’urã se transmite principalmente por:",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Tradición oral",
     "options": [
       "Escritos",
       "Televisión",
       "Tradición oral",
       "Mensajes de texto",
       "Redes sociales"
-    ]
+    ],
+    "answer": "Tradición oral"
   },
   {
-    "id": "castellano_1757272665855_13",
     "question": "¿Qué función tiene el mombe’urä en la cultura guaraní?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Reforzar la memoria histórica con moralejas",
     "options": [
       "Relatar hechos ficticios solamente",
       "Reforzar la memoria histórica con moralejas",
       "Enseñar gramática",
       "Promover bailes",
       "Elaborar platos típicos"
-    ]
+    ],
+    "answer": "Reforzar la memoria histórica con moralejas"
   },
   {
-    "id": "castellano_1757272665855_14",
     "question": "¿Qué personaje es típico en los mombe’urã?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Tau y Keraná",
     "options": [
       "San Juan",
       "Tau y Keraná",
       "Messi",
       "Artigas",
       "Goku"
-    ]
+    ],
+    "answer": "Tau y Keraná"
   },
   {
-    "id": "castellano_1757272665855_15",
     "question": "¿Qué elemento folklórico se refiere a la transmisión oral de cuentos fantásticos?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Mombe’ugua’u",
     "options": [
       "Jeroky",
       "Mombe’ugua’u",
       "Tembi’u",
       "Purahéi",
       "Ka’avo"
-    ]
+    ],
+    "answer": "Mombe’ugua’u"
   },
   {
-    "id": "castellano_1757272665855_16",
     "question": "¿Qué significa jeroky en el contexto folklórico?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Baile",
     "options": [
       "Canto",
       "Juego",
       "Baile",
       "Rezo",
       "Comida"
-    ]
+    ],
+    "answer": "Baile"
   },
   {
-    "id": "castellano_1757272665855_17",
     "question": "¿Cuál de los siguientes nombres es una parte del cuerpo masculino o animal?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Továi",
     "options": [
       "Tesa",
       "Akã",
       "Jyva",
       "Tetyma",
       "Továi"
-    ]
+    ],
+    "answer": "Továi"
   },
   {
-    "id": "castellano_1757272665855_18",
     "question": "¿Qué palabra es propia del vocabulario de aula?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Aranduka",
     "options": [
       "Pirevai",
       "Jasy",
       "Ka’i",
       "Ñati’ũ",
       "Aranduka"
-    ]
+    ],
+    "answer": "Aranduka"
   },
   {
-    "id": "castellano_1757272665855_19",
     "question": "¿Cuál de las siguientes palabras es un “papapy” (número cardinal)?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Mokoĩ",
     "options": [
       "Paha",
       "Mokoĩ",
       "Mbohapyha",
       "Poteĩha",
       "Jasykõi"
-    ]
+    ],
+    "answer": "Mokoĩ"
   },
   {
-    "id": "castellano_1757272665855_20",
     "question": "¿Cuál es un nombre de un animal silvestre en guaraní?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Jaguarete",
     "options": [
       "Jaguarete",
       "Ñati’ũ",
       "Kapi’i",
       "Pirevai",
       "Továi"
-    ]
+    ],
+    "answer": "Jaguarete"
   },
   {
-    "id": "castellano_1757272665855_21",
     "question": "“Jasyapýte” indica el mes de:",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Agosto",
     "options": [
       "Julio",
       "Agosto",
       "Septiembre",
       "Octubre",
       "Noviembre"
-    ]
+    ],
+    "answer": "Agosto"
   },
   {
-    "id": "castellano_1757272665855_22",
     "question": "¿Qué palabra hace referencia a una planta medicinal?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Kapi’i katî",
     "options": [
       "Karumbe",
       "Kapi’i katî",
       "Jaguarete",
       "Guasu",
       "Ñati’ũ"
-    ]
+    ],
+    "answer": "Kapi’i katî"
   },
   {
-    "id": "castellano_1757272665855_23",
     "question": "“Ryguasurape” se traduce como:",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Huevo de gallina",
     "options": [
       "Huevo de gallina",
       "Gallina enferma",
       "Nido de gallina",
       "Alas de gallina",
       "Pico de gallina"
-    ]
+    ],
+    "answer": "Huevo de gallina"
   },
   {
-    "id": "castellano_1757272665855_24",
     "question": "¿Qué palabra forma parte del vocabulario de enfermedades?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Tĩsyry",
     "options": [
       "Pyta",
       "Piru",
       "Tĩsyry",
       "Kavaju",
       "Kuriu"
-    ]
+    ],
+    "answer": "Tĩsyry"
   },
   {
-    "id": "castellano_1757272665855_25",
     "question": "“Kurusu” es ejemplo de:",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Vocabulario religioso",
     "options": [
       "Vocabulario de clase",
       "Vocabulario religioso",
       "Vocabulario de enfermedad",
       "Vocabulario de partes del cuerpo",
       "Ninguna de las anteriores"
-    ]
+    ],
+    "answer": "Vocabulario religioso"
   },
   {
-    "id": "castellano_1757272665855_26",
     "question": "¿Qué palabra está relacionada con el vocabulario de clase?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Mbo’ehára",
     "options": [
       "Amandaje",
       "Mbo’ehára",
       "Yva",
       "Ñati’ũ",
       "Ñe’ẽngatu"
-    ]
+    ],
+    "answer": "Mbo’ehára"
   },
   {
-    "id": "castellano_1757272665855_27",
     "question": "El mes “jasypo” corresponde a:",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Octubre",
     "options": [
       "Abril",
       "Junio",
       "Agosto",
       "Octubre",
       "Noviembre"
-    ]
+    ],
+    "answer": "Octubre"
   },
   {
-    "id": "castellano_1757272665855_28",
     "question": "¿Qué número representa “poteĩ”?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Seis",
     "options": [
       "Cuatro",
       "Cinco",
       "Seis",
       "Siete",
       "Ocho"
-    ]
+    ],
+    "answer": "Seis"
   },
   {
-    "id": "castellano_1757272665855_29",
     "question": "¿Cuál es el ordinal de “peteĩ”?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Peteĩha",
     "options": [
       "Poteĩ",
       "Mokoĩha",
       "Peteĩha",
       "Irundyha",
       "Papy"
-    ]
+    ],
+    "answer": "Peteĩha"
   },
   {
-    "id": "castellano_1757272665855_30",
     "question": "Ejapo peteĩ sinónimo de “he’ẽ”:",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Heko porã",
     "options": [
       "Haku",
       "Ro’y",
       "Ryguasu",
       "Heko porã",
       "Hovy"
-    ]
+    ],
+    "answer": "Heko porã"
   },
   {
-    "id": "castellano_1757272665855_31",
     "question": "Peteĩ ñe’ẽriregua ha’e:",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Rupi",
     "options": [
       "Gueteri",
       "Ha",
       "Rupi",
       "Rehe",
       "Umi"
-    ]
+    ],
+    "answer": "Rupi"
   },
   {
-    "id": "castellano_1757272665855_32",
     "question": "¿Mba’épa ñe’ẽndýi?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ñe’ẽ oje’éva opu’ãhápe ñande remiandu.",
     "options": [
       "Ñe’ẽ oipytyvõva mba’e rehe.",
       "Ñe’ẽ oñembohasa tero.",
       "Ñe’ẽ oñembohasa tekove.",
       "Ñe’ẽ oje’éva opu’ãhápe ñande remiandu.",
       "Ñe’ẽ ogueraháva teroja."
-    ]
+    ],
+    "answer": "Ñe’ẽ oje’éva opu’ãhápe ñande remiandu."
   },
   {
-    "id": "castellano_1757272665855_33",
     "question": "Ñe’ẽtéva ha’e:",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ñe’ẽ ojapóva peteĩ tembiapo.",
     "options": [
       "Ñe’ẽ oñembohasáva.",
       "Ñe’ẽ ojapóva peteĩ tembiapo.",
       "Ñe’ẽ ogueraháva tero.",
       "Ñe’ẽ oñembojoajúva teroja.",
       "Ñe’ẽ ojeporúva techapyrã."
-    ]
+    ],
+    "answer": "Ñe’ẽ ojapóva peteĩ tembiapo."
   },
   {
-    "id": "castellano_1757272665855_34",
     "question": "Mba’épa terarangue?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ñe’ẽ ohechauka mávapa oñe’ẽ rehe.",
     "options": [
       "Ñe’ẽ ohendúva.",
       "Ñe’ẽ omombe’u tero.",
       "Ñe’ẽ ohechauka mávapa oñe’ẽ rehe.",
       "Ñe’ẽ omombe’u araka’épa.",
       "Ñe’ẽ oiporúva ñe’ẽtéva."
-    ]
+    ],
+    "answer": "Ñe’ẽ ohechauka mávapa oñe’ẽ rehe."
   },
   {
-    "id": "castellano_1757272665855_35",
     "question": "¿Mba’eichagua terokuéra oĩ?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Teroete ha terova.",
     "options": [
       "Teroetéva, teroñe’ẽme’ẽva.",
       "Teroete ha terova.",
       "Tero oñembohérava, tero oñembohapéva.",
       "Tero, teroja, ñe’ẽtéva.",
       "Tero, ñe’ẽñemi, posposición."
-    ]
+    ],
+    "answer": "Teroete ha terova."
   },
   {
-    "id": "castellano_1757272665855_36",
     "question": "Mba’éichapa ikatu jahechakuaa peteĩ ñe’ẽjoaju?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Oguereko sujeto ha predicado.",
     "options": [
       "Oguereko tero ha teroja.",
       "Oguereko mba’e ha oñe’ẽ ñe’ẽ.",
       "Oguereko sujeto ha predicado.",
       "Oguereko mboyvegua.",
       "Oguereko tero ha posposición."
-    ]
+    ],
+    "answer": "Oguereko sujeto ha predicado."
   },
   {
-    "id": "castellano_1757272665855_37",
     "question": "¿Mba’éichapa jaikuaa peteĩ ñe’ẽ omoheñóiva pytuvẽ?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ñe’ẽndýi",
     "options": [
       "Ñe’ẽ ombojoajúva ñe’ẽ",
       "Ñe’ẽ ojeipurúva ñemomarandu rehe",
       "Ñe’ẽndýi",
       "Ñe’ẽriregua",
       "Ñe’ẽ he’iséva tero rehegua"
-    ]
+    ],
+    "answer": "Ñe’ẽndýi"
   },
   {
-    "id": "castellano_1757272665855_38",
     "question": "¿Mba’épa ojapo peteĩ ñe’ẽjoajuha?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ombojoaju ñe’ẽnguéra apytépe",
     "options": [
       "Ombojoaju ñe’ẽnguéra apytépe",
       "Omoherakuã mba’eporã",
       "Oipytyvõ ñe’ẽtéva rehe",
       "Ombopuku ñe’ẽ",
       "Ohechaukáva mba’e rehegua"
-    ]
+    ],
+    "answer": "Ombojoaju ñe’ẽnguéra apytépe"
   },
   {
-    "id": "castellano_1757272665855_39",
     "question": "¿Mba’épa hína peteĩ ñe’ẽtéva?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ñe’ẽ ojapóva térã ohechaukáva tembiapo",
     "options": [
       "Ñe’ẽ ombojoajúva tero",
       "Ñe’ẽ ojapóva térã ohechaukáva tembiapo",
       "Ñe’ẽ ohechaukáva pytuve",
       "Ñe’ẽ omoha’angáva yvoty",
       "Ñe’ẽ ombojoajúva aravo rehe"
-    ]
+    ],
+    "answer": "Ñe’ẽ ojapóva térã ohechaukáva tembiapo"
   },
   {
-    "id": "castellano_1757272665855_40",
     "question": "¿Mba’épa hína peteĩ ñe’ẽndýi (interjección)?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ñe’ẽ omyesakãva tembipota, pytuve, térã vy’apavẽ",
     "options": [
       "Ñe’ẽ ojepurúva oñembojoaju hag̃ua",
       "Ñe’ẽ omombe’úva mba’e",
       "Ñe’ẽ ohechaukáva mba’embojoja",
       "Ñe’ẽ omyesakãva tembipota, pytuve, térã vy’apavẽ",
       "Ñe’ẽ ombojoaju tero rehe"
-    ]
+    ],
+    "answer": "Ñe’ẽ omyesakãva tembipota, pytuve, térã vy’apavẽ"
   },
   {
-    "id": "castellano_1757272665855_41",
     "question": "¿Mba’épa he’ise ñe’ẽhe’i’avýva (antónimo)?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ñe’ẽ he’iséva ambueichagua térã he’iséva ijeroviaha",
     "options": [
       "Ñe’ẽ ohechaukáva mba’eporã",
       "Ñe’ẽ oguereko peteĩchagua he’iséva",
       "Ñe’ẽ ojeipuru vy’apavẽme",
       "Ñe’ẽ he’iséva ambueichagua térã he’iséva ijeroviaha",
       "Ñe’ẽ omyesakãva tero rehegua"
-    ]
+    ],
+    "answer": "Ñe’ẽ he’iséva ambueichagua térã he’iséva ijeroviaha"
   },
   {
-    "id": "castellano_1757272665855_42",
     "question": "¿Mba’épa hína peteĩ ñe’ẽjoajuha (conjunción)?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ñe’ẽ omoingóva joaju ñe’ẽnguéra apytépe",
     "options": [
       "Ñe’ẽ oñembojoajúva tembiapo rehe",
       "Ñe’ẽ oñemohenda hag̃ua ñe’ẽme’ẽ",
       "Ñe’ẽ ohechaukáva pytuvẽ",
       "Ñe’ẽ ojepurúva arapokõindy rehegua",
       "Ñe’ẽ omoingóva joaju ñe’ẽnguéra apytépe"
-    ]
+    ],
+    "answer": "Ñe’ẽ omoingóva joaju ñe’ẽnguéra apytépe"
   },
   {
-    "id": "castellano_1757272665855_43",
     "question": "¿Mba’éichapa oñemboja’ó umi ñe’ẽtéva?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ára rupi: añetegua, ramo ha jeikuaa’ỹ",
     "options": [
       "Ojuehegua ha techapyrã",
       "Momarandu ha ñemomarandu",
       "Ára rupi: añetegua, ramo ha jeikuaa’ỹ",
       "Peteĩ ha mokõi ñe’ẽ",
       "Teroja ha teroite"
-    ]
+    ],
+    "answer": "Ára rupi: añetegua, ramo ha jeikuaa’ỹ"
   },
   {
-    "id": "castellano_1757272665855_44",
     "question": "¿Mba’épa hína peteĩ terarangue?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ñe’ẽ ohechaukáva mávapa térã mávapa rehegua",
     "options": [
       "Ñe’ẽ ohechaukáva pytu",
       "Ñe’ẽ ohechaukáva tembiapo",
       "Ñe’ẽ ohechaukáva mávapa térã mávapa rehegua",
       "Ñe’ẽ ohechaukáva ñe’ẽme’ẽ",
       "Ñe’ẽ ohechaukáva pytuvẽ"
-    ]
+    ],
+    "answer": "Ñe’ẽ ohechaukáva mávapa térã mávapa rehegua"
   },
   {
-    "id": "castellano_1757272665855_45",
     "question": "¿Mba’épa hína peteĩ tero?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ñe’ẽ omoherakuãva mba’e térã tapicha réra",
     "options": [
       "Ñe’ẽ omoheñóiva tembiapo",
       "Ñe’ẽ omoherakuãva mba’e térã tapicha réra",
       "Ñe’ẽ ombojoajúva ñe’ẽnguéra",
       "Ñe’ẽ ohechauka aravópe tembiapo",
       "Ñe’ẽ omyesakã pytuvẽ"
-    ]
+    ],
+    "answer": "Ñe’ẽ omoherakuãva mba’e térã tapicha réra"
   },
   {
-    "id": "castellano_1757272665855_46",
     "question": "¿Qué tipo de pu’ã se presenta en la palabra “ndaha’éi”?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Tïgua",
     "options": [
       "Kangy",
       "Jurugua",
       "Tïgua",
       "Atã",
       "Ñe’ẽpoty"
-    ]
+    ],
+    "answer": "Tïgua"
   },
   {
-    "id": "castellano_1757272665855_47",
     "question": "¿Qué es un pu’ã atã?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Sonido fuerte",
     "options": [
       "Sonido breve",
       "Sonido suave",
       "Sonido fuerte",
       "Letra nasal",
       "Vocal larga"
-    ]
+    ],
+    "answer": "Sonido fuerte"
   },
   {
-    "id": "castellano_1757272665855_48",
     "question": "¿Cuál de los siguientes grupos contiene únicamente letras del achegety guaraní?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ch, Ñ, G̃, Y, Ĩ",
     "options": [
       "A, E, I, C, Ñ",
       "G, Q, Ñ, R, O",
       "Ch, Ñ, G̃, Y, Ĩ",
       "L, M, C, Y, E",
       "P, F, J, Ñ, W"
-    ]
+    ],
+    "answer": "Ch, Ñ, G̃, Y, Ĩ"
   },
   {
-    "id": "castellano_1757272665855_49",
     "question": "¿En qué palabra se observa el uso del pu’ã jurugua?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Guata",
     "options": [
       "Guata",
       "Pyhare",
       "Sy",
       "Aña",
       "Ñe’ẽ"
-    ]
+    ],
+    "answer": "Guata"
   },
   {
-    "id": "castellano_1757272665855_50",
     "question": "¿Qué es un pundie en guaraní?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Una vocal aislada",
     "options": [
       "Un conjunto de consonantes",
       "Un sonido nasal",
       "Una sílaba",
       "Una vocal aislada",
       "Una palabra aguda"
-    ]
+    ],
+    "answer": "Una vocal aislada"
   },
   {
-    "id": "castellano_1757272665855_51",
     "question": "El pundiekõi tïgua se forma con:",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Dos vocales nasales tïgua",
     "options": [
       "Dos consonantes",
       "Una vocal y una consonante",
       "Una vocal fuerte y una vocal débil, nasalizadas",
       "Dos vocales nasales tïgua",
       "Una nasal y una atã"
-    ]
+    ],
+    "answer": "Dos vocales nasales tïgua"
   },
   {
-    "id": "castellano_1757272665855_52",
     "question": "¿Cuál de estas palabras contiene un pundiekõi tïgua?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Ñe’ẽ x",
     "options": [
       "Aña",
       "Ñe’ẽ x",
       "Mbopi",
       "Porã",
       "G̃uahẽ"
-    ]
+    ],
+    "answer": "Ñe’ẽ x"
   },
   {
-    "id": "castellano_1757272665855_53",
     "question": "El puso (’) se utiliza para:",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Representar una pausa glotal o corte de voz",
     "options": [
       "Separar palabras",
       "Enfatizar sílabas",
       "Representar una pausa glotal o corte de voz",
       "Formar plurales",
       "Indicar preguntas"
-    ]
+    ],
+    "answer": "Representar una pausa glotal o corte de voz"
   },
   {
-    "id": "castellano_1757272665855_54",
     "question": "¿Qué significa “Tembiapo rapete” en el contexto de maitei?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Saludo respetuoso y educado",
     "options": [
       "Saludo fuerte y directo",
       "Forma rápida de despedirse",
       "Expresión de enfado",
       "Saludo respetuoso y educado",
       "Saludo humorístico"
-    ]
+    ],
+    "answer": "Saludo respetuoso y educado"
   },
   {
-    "id": "castellano_1757272665855_55",
     "question": "¿Qué función cumple el maitei arapegua?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Saludo para festividades o fechas especiales",
     "options": [
       "Saludar con ironía",
       "Saludo para festividades o fechas especiales",
       "Despedirse con enojo",
       "Saludo para llamadas",
       "Ninguna de las anteriores"
-    ]
+    ],
+    "answer": "Saludo para festividades o fechas especiales"
   },
   {
-    "id": "castellano_1757272665855_56",
     "question": "¿Cuántas letras tiene el achegety guaraní (alfabeto)?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "27",
     "options": [
       "23",
       "27",
       "28",
       "25",
       "26"
-    ]
+    ],
+    "answer": "27"
   },
   {
-    "id": "castellano_1757272665855_57",
     "question": "¿Qué tipo de maitei expresa cariño y cercanía emocional?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Maitei porãite ndéve",
     "options": [
       "Mba’éichapa",
       "Maitei porãite ndéve",
       "Tapeguata",
       "Jepohecháta",
       "Ñañomoirũ"
-    ]
+    ],
+    "answer": "Maitei porãite ndéve"
   },
   {
-    "id": "castellano_1757272665855_58",
     "question": "¿Cuál es el propósito principal del maitei en la cultura guaraní?",
-    "subject": "Castellano y Guaraní",
-    "difficulty": 2,
-    "explanation": "",
-    "correctAnswer": "Establecer comunicación y respeto",
     "options": [
       "Despedirse con rapidez",
       "Empezar una oración",
       "Establecer comunicación y respeto",
       "Llamar la atención",
       "Cambiar de tema"
-    ]
+    ],
+    "answer": "Establecer comunicación y respeto"
   }
 ]

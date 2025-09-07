@@ -1,6 +1,5 @@
 [
   {
-    "id": "math_1757270437630_jo2cmt7e1",
     "question": "Efectuar: 564+987-123-45-908+321+398",
     "subject": "Matemáticas",
     "difficulty": "general",
@@ -15,7 +14,6 @@
     "correctAnswer": "1194"
   },
   {
-    "id": "math_1757270437630_5496s9gco",
     "question": "Efectuar: 12+(23-18)+(27-12+31)+3-(16+21-54)",
     "subject": "Matemáticas",
     "difficulty": "general",
