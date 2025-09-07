@@ -136,7 +136,16 @@ router.post('/generate', async (req, res) => {
 // POST /api/parts/complete - Completar una parte y actualizar progreso
 router.post('/complete', async (req, res) => {
     try {
+        console.log('🎯 POST /api/parts/complete recibido');
+        console.log('🎯 Body completo:', JSON.stringify(req.body, null, 2));
+        
         const { userId, subject, examType, partNumber, score, totalQuestions, answers, timeSpent } = req.body;
+        
+        console.log('🎯 Datos extraídos:');
+        console.log('   userId:', typeof userId, `"${userId}"`);
+        console.log('   subject:', typeof subject, `"${subject}"`);
+        console.log('   examType:', typeof examType, `"${examType}"`);
+        console.log('   partNumber:', typeof partNumber, partNumber);
 
         if (!userId || !subject || !examType || !partNumber || score === undefined || !totalQuestions) {
             return res.status(400).json({
