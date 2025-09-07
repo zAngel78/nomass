@@ -75,6 +75,35 @@
     "correctAnswer": "35"
   },
   {
+    "id": "math_norm_015",
+    "question": "Efectúa:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "Efectúa:",
+      "N.d.a.",
+      "Efectúa: 5.",
+      "Ninguna de las anteriores"
+    ],
+    "correctAnswer": "Efectúa:"
+  },
+  {
+    "id": "math_norm_026",
+    "question": "Efectuar: 4",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "21",
+      "482",
+      "4",
+      "428",
+      "12"
+    ],
+    "correctAnswer": "4"
+  },
+  {
     "id": "math_norm_032",
     "question": "Si recibiera 157 000 gs, pagaría una deuda de 293 000 gs y aún me quedaría   90 000. ¿Cuántos gs Tengo?",
     "subject": "Matemáticas",
@@ -965,6 +994,21 @@
       "20"
     ],
     "correctAnswer": "5/6"
+  },
+  {
+    "id": "math_norm_116",
+    "question": "Calcular el quíntuplo de:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "13\t\tb.  13/5\t\tc.   1/5\t\td.   5\t\te.   1/13",
+      "Resta 1/3 de ½; ¼ de 1/5 y 1/5 de 1/6. Suma las diferencias y halla el duplo",
+      "6\t\tb.   1/3\t\tc.   1/12\t\td.   1/6\t\te.   12",
+      "Una persona tiene un capital de 950 000 Gs, gasta en el supermercado 216 750 Gs y compra ropas por los 9/10 de lo que le queda. ¿Cuántos Gs es su saldo?",
+      "733 250\t\tb.   659 925   \t c.   53 325\t\td.   73 325\t\te.   216 750"
+    ],
+    "correctAnswer": "13\t\tb.  13/5\t\tc.   1/5\t\td.   5\t\te.   1/13"
   },
   {
     "id": "math_norm_118",
@@ -2252,6 +2296,21 @@
     "correctAnswer": "28 000 Gs"
   },
   {
+    "id": "math_norm_246",
+    "question": "Resolviendo:  se obtiene:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "-b",
+      "Dado P(x) = 4 + 2x + x² - 7x³ y Q(x) = x² - 7x + 2, calcula: P(x) – Q(x)",
+      "Al restar , la diferencia es un polinomio cuyo coeficiente del término lineal es una fracción cuyo denominador es:",
+      "Par",
+      "Negativo"
+    ],
+    "correctAnswer": "-b"
+  },
+  {
     "id": "math_norm_249",
     "question": "Al sumar algebraicamente , se obtiene:",
     "subject": "Matemáticas",
@@ -2265,6 +2324,21 @@
       "4"
     ],
     "correctAnswer": "Resta  de  y suma la diferencia con el resultado de restar  de , se tiene:"
+  },
+  {
+    "id": "math_norm_251",
+    "question": "El cociente de , es:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "El área de un terreno rectangular es de . Si uno de sus lados es igual a (x + 4) m, ¿Cuánto mide el otro lado?",
+      "Un jardín triangular tiene (2x² + 12x +18)m². ¿Cuánto mide su base si su altura mide (x + 3)m?",
+      "(4x + 12)m",
+      "(2x + 6)m",
+      "(8x + 24)m"
+    ],
+    "correctAnswer": "El área de un terreno rectangular es de . Si uno de sus lados es igual a (x + 4) m, ¿Cuánto mide el otro lado?"
   },
   {
     "id": "math_norm_257",
@@ -2427,6 +2501,20 @@
       "N.d.a."
     ],
     "correctAnswer": "1"
+  },
+  {
+    "id": "math_norm_274",
+    "question": "Simplificar:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "N.d.a.",
+      "Simplificar:",
+      "Resolviendo  se obtiene:",
+      "Simplificar"
+    ],
+    "correctAnswer": "N.d.a."
   },
   {
     "id": "math_norm_276",
@@ -2980,6 +3068,35 @@
     "correctAnswer": "4; 8 y 44"
   },
   {
+    "id": "math_norm_324",
+    "question": "La expresión  es igual a:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correctAnswer": "15"
+  },
+  {
+    "id": "math_norm_325",
+    "question": "Marca la opción falsa:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "Al simplificar la expresión  se obtiene como numerador:",
+      "-m",
+      "-n",
+      "Considerar las siguientes afirmaciones:",
+      "Si x=0 entonces x°- 0ᵡ es igual cero"
+    ],
+    "correctAnswer": "Al simplificar la expresión  se obtiene como numerador:"
+  },
+  {
     "id": "math_norm_327",
     "question": "Se emplean 14 hombres en hacer 45 m de una obra, trabajando durante 20 días. ¿Cuánto tiempo empleará la mitad de esos hombres en hacer 16 m de la misma obra, habiendo en esta otra triple dificultad y cuádruple motivación para realizar el trabajo?",
     "subject": "Matemáticas",
@@ -3323,6 +3440,21 @@
       "6,5 m"
     ],
     "correctAnswer": "13 m"
+  },
+  {
+    "id": "math_norm_356",
+    "question": "El valor de  es igual a:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "N.d.a.",
+      "Dos números pares consecutivos positivos no pueden ser:",
+      "Números enteros",
+      "Números racionales",
+      "Primos relativos"
+    ],
+    "correctAnswer": "N.d.a."
   },
   {
     "id": "math_norm_357",
@@ -3879,6 +4011,21 @@
     "correctAnswer": "No perdió ni ganó"
   },
   {
+    "id": "math_norm_398",
+    "question": "De las adiciones siguientes:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "La(s) suma(s) correcta(s) es o son:",
+      "Solo I",
+      "I y II",
+      "Sólo III",
+      "Sólo II"
+    ],
+    "correctAnswer": "La(s) suma(s) correcta(s) es o son:"
+  },
+  {
     "id": "math_norm_399",
     "question": "Se han empleado 8 días para cavar una zanja. Si la dificultad de otro terreno guarda con la dificultad del anterior la relación 4 a 3. ¿Cuántos días llevará cavar una zanja igual en el nuevo terreno?",
     "subject": "Matemáticas",
@@ -4327,6 +4474,36 @@
     "correctAnswer": "Un trinomio cuadrado perfecto"
   },
   {
+    "id": "math_norm_437",
+    "question": "De las siguientes igualdades:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "Se deduce que es (son) falsa (s):",
+      "Una",
+      "Dos",
+      "Tres",
+      "Todas"
+    ],
+    "correctAnswer": "Se deduce que es (son) falsa (s):"
+  },
+  {
+    "id": "math_norm_438",
+    "question": "Se afirma que:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "De estas afirmaciones es o son falsas:",
+      "Sólo I",
+      "Sólo II",
+      "Sólo III",
+      "Sólo I y II"
+    ],
+    "correctAnswer": "De estas afirmaciones es o son falsas:"
+  },
+  {
     "id": "math_norm_439",
     "question": "Si dos números son primos entre sí, necesariamente:",
     "subject": "Matemáticas",
@@ -4355,6 +4532,21 @@
       "Ninguno"
     ],
     "correctAnswer": "Uno"
+  },
+  {
+    "id": "math_norm_441",
+    "question": "Al efectuar:  se obtiene:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "Un número par",
+      "El múltiplo del producto de dos números consecutivos",
+      "Cuatro decenas y ocho unidades",
+      "Un número primo",
+      "De las sentencias anteriores son falsas:"
+    ],
+    "correctAnswer": "Un número par"
   },
   {
     "id": "math_norm_442",
@@ -4789,6 +4981,21 @@
     "correctAnswer": "Para que el polinomio  sea divisible por  el valor de ‘’m’’ debe ser igual a:"
   },
   {
+    "id": "math_norm_482",
+    "question": "La solución de , es:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "5",
+      "4",
+      "-3",
+      "-4",
+      "-5"
+    ],
+    "correctAnswer": "5"
+  },
+  {
     "id": "math_norm_483",
     "question": "Por regla de Ruffini hallar el coeficiente del término lineal de la división entre",
     "subject": "Matemáticas",
@@ -4982,6 +5189,20 @@
     "correctAnswer": "0"
   },
   {
+    "id": "math_norm_498",
+    "question": "Efectuando ; resulta:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "Mayor",
+      "Menor",
+      "Igual",
+      "Faltan datos"
+    ],
+    "correctAnswer": "Mayor"
+  },
+  {
     "id": "math_norm_499",
     "question": "El valor de la fracción  es equivalente a un polinomio cuya suma de coeficientes es:",
     "subject": "Matemáticas",
@@ -5144,6 +5365,21 @@
       "Al dividir  obtenemos:"
     ],
     "correctAnswer": "a"
+  },
+  {
+    "id": "math_norm_512",
+    "question": "Al dividir  obtenemos:",
+    "subject": "Matemáticas",
+    "difficulty": 1,
+    "explanation": "",
+    "options": [
+      "Siendo  hallar el valor numérico de la expresión algebraica",
+      "456",
+      "146",
+      "17 099",
+      "416"
+    ],
+    "correctAnswer": "Siendo  hallar el valor numérico de la expresión algebraica"
   },
   {
     "id": "math_norm_513",
@@ -6102,6 +6338,21 @@
       "5 763 Gs"
     ],
     "correctAnswer": "5 637 Gs"
+  },
+  {
+    "id": "math_gen_608",
+    "question": "Efectúa: 5.",
+    "subject": "Examen General Matemáticas",
+    "difficulty": 2,
+    "explanation": "",
+    "options": [
+      "((abc)³)4",
+      "a7b7c7",
+      "(abc)7",
+      "abc",
+      "a12b12c12"
+    ],
+    "correctAnswer": "((abc)³)4"
   },
   {
     "id": "math_gen_609",
