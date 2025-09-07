@@ -168,7 +168,7 @@ router.post('/complete', async (req, res) => {
         console.log('   totalQuestions (de la parte):', totalQuestions);
         console.log('   totalQuestionsInSubject (total materia):', totalQuestionsInSubject);
         
-        const result = await examPartsManager.completePart(userId, subject, examType, partNumber, score, totalQuestionsInSubject);
+        const result = await examPartsManager.completePart(userId, subject, examType, partNumber, score, totalQuestions, totalQuestionsInSubject);
         
         console.log('🎯 Resultado de completePart:', JSON.stringify(result, null, 2));
 
@@ -213,7 +213,11 @@ router.post('/complete', async (req, res) => {
             message += ` 🎉 ¡Completaste todas las partes de ${subject}! Total: 20 puntos ganados.`;
         }
 
-        res.json({
+        console.log('🎯 Enviando respuesta exitosa al cliente...');
+        console.log('🎯 Status Code: 200');
+        console.log('🎯 Message:', message);
+        
+        const responseData = {
             success: true,
             message: message,
             data: {
@@ -226,7 +230,10 @@ router.post('/complete', async (req, res) => {
                 completedParts: result.completedParts,
                 nextAction: result.nextPartUnlocked ? 'next_part_available' : 'retry_or_continue'
             }
-        });
+        };
+        
+        console.log('🎯 Response completa:', JSON.stringify(responseData, null, 2));
+        res.json(responseData);
 
     } catch (error) {
         console.error('Error completando parte:', error);

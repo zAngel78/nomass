@@ -120,7 +120,7 @@ class ExamPartsManager {
     }
 
     // Completar una parte y actualizar progreso
-    async completePart(userId, subject, examType, partNumber, score, totalQuestions) {
+    async completePart(userId, subject, examType, partNumber, score, totalQuestions, totalQuestionsInSubject = null) {
         try {
             console.log('🔍 examPartsManager.completePart iniciado');
             console.log('🔍 Parámetros recibidos:');
@@ -167,7 +167,13 @@ class ExamPartsManager {
             
             const partKey = `parte${partNumber}`;
             const config = this.getSubjectConfig(subject);
-            const accuracy = score / totalQuestions;
+            const accuracy = score / totalQuestions; // Usar totalQuestions de la parte para accuracy
+            
+            console.log('🔍 Cálculo de accuracy:');
+            console.log('   score:', score);
+            console.log('   totalQuestions (de la parte):', totalQuestions);  
+            console.log('   accuracy calculada:', accuracy, `(${Math.round(accuracy * 100)}%)`);
+            console.log('   threshold requerido:', config.unlockThreshold, `(${Math.round(config.unlockThreshold * 100)}%)`);
             
             // Actualizar progreso de la parte actual
             if (!userProgress.progress[partKey]) {
@@ -189,9 +195,9 @@ class ExamPartsManager {
             // Si completó con éxito, desbloquear siguiente parte
             if (currentPart.completed) {
                 const nextPartKey = `parte${partNumber + 1}`;
-                const totalParts = this.calculateTotalParts(totalQuestions, subject);
+                const totalPartsForUnlock = this.calculateTotalParts(questionsForCalculation, subject);
                 
-                if (partNumber < totalParts) {
+                if (partNumber < totalPartsForUnlock) {
                     if (!userProgress.progress[nextPartKey]) {
                         userProgress.progress[nextPartKey] = {
                             completed: false,
@@ -208,11 +214,14 @@ class ExamPartsManager {
             
             // Calcular puntos ganados
             console.log('🔍 Calculando puntos:');
-            console.log('   totalQuestions (del parámetro):', totalQuestions);
+            console.log('   totalQuestions (de la parte):', totalQuestions);
+            console.log('   totalQuestionsInSubject (total materia):', totalQuestionsInSubject);
             console.log('   subject:', subject);
             
-            const totalParts = this.calculateTotalParts(totalQuestions, subject);
-            console.log('   totalParts calculadas:', totalParts);
+            // Usar totalQuestionsInSubject para calcular partes totales, o fallback a totalQuestions
+            const questionsForCalculation = totalQuestionsInSubject || totalQuestions;
+            const totalParts = this.calculateTotalParts(questionsForCalculation, subject);
+            console.log('   totalParts calculadas:', totalParts, 'usando', questionsForCalculation, 'preguntas');
             
             const pointsPerPart = 20 / totalParts; // 20 puntos total dividido entre todas las partes
             console.log('   pointsPerPart:', pointsPerPart);
