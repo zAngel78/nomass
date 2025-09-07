@@ -2,8 +2,37 @@ const fileStorage = require('./fileStorage');
 
 class ExamPartsManager {
     constructor() {
-        this.QUESTIONS_PER_PART = 20;
-        this.UNLOCK_THRESHOLD = 0.7; // 70% para desbloquear siguiente parte
+        // Configuración específica por materia
+        this.SUBJECT_CONFIG = {
+            'Matemáticas': {
+                questionsPerPart: 12,  // 240 preguntas ÷ 12 = 20 partes
+                unlockThreshold: 0.7
+            },
+            'Historia y Geografía': {
+                questionsPerPart: 20,  // Mantener configuración original
+                unlockThreshold: 0.7
+            },
+            'Castellano y Guaraní': {
+                questionsPerPart: 20,  // Mantener configuración original
+                unlockThreshold: 0.7
+            },
+            'Legislación': {
+                questionsPerPart: 20,  // Mantener configuración original
+                unlockThreshold: 0.7
+            }
+        };
+        
+        // Configuración por defecto para materias no especificadas
+        this.DEFAULT_QUESTIONS_PER_PART = 20;
+        this.DEFAULT_UNLOCK_THRESHOLD = 0.7;
+    }
+    
+    // Obtener configuración específica de una materia
+    getSubjectConfig(subject) {
+        return this.SUBJECT_CONFIG[subject] || {
+            questionsPerPart: this.DEFAULT_QUESTIONS_PER_PART,
+            unlockThreshold: this.DEFAULT_UNLOCK_THRESHOLD
+        };
     }
 
     // Obtener progreso de un usuario en una materia específica
@@ -46,21 +75,24 @@ class ExamPartsManager {
     }
 
     // Calcular total de partes disponibles para una materia
-    calculateTotalParts(totalQuestions) {
-        return Math.ceil(totalQuestions / this.QUESTIONS_PER_PART);
+    calculateTotalParts(totalQuestions, subject) {
+        const config = this.getSubjectConfig(subject);
+        return Math.ceil(totalQuestions / config.questionsPerPart);
     }
 
     // Obtener preguntas para una parte específica
-    getQuestionsForPart(allQuestions, partNumber) {
-        const startIndex = (partNumber - 1) * this.QUESTIONS_PER_PART;
-        const endIndex = startIndex + this.QUESTIONS_PER_PART;
+    getQuestionsForPart(allQuestions, partNumber, subject) {
+        const config = this.getSubjectConfig(subject);
+        const startIndex = (partNumber - 1) * config.questionsPerPart;
+        const endIndex = startIndex + config.questionsPerPart;
         return allQuestions.slice(startIndex, endIndex);
     }
 
     // Obtener información de todas las partes disponibles
     async getPartsInfo(userId, subject, examType, totalQuestions) {
         const userProgress = await this.getUserProgress(userId, subject, examType);
-        const totalParts = this.calculateTotalParts(totalQuestions);
+        const config = this.getSubjectConfig(subject);
+        const totalParts = this.calculateTotalParts(totalQuestions, subject);
         
         const partsInfo = [];
         
@@ -78,8 +110,8 @@ class ExamPartsManager {
                 partNumber: i,
                 partKey,
                 title: `Parte ${i}`,
-                questionsRange: `${((i-1) * this.QUESTIONS_PER_PART) + 1}-${Math.min(i * this.QUESTIONS_PER_PART, totalQuestions)}`,
-                totalQuestions: Math.min(this.QUESTIONS_PER_PART, totalQuestions - ((i-1) * this.QUESTIONS_PER_PART)),
+                questionsRange: `${((i-1) * config.questionsPerPart) + 1}-${Math.min(i * config.questionsPerPart, totalQuestions)}`,
+                totalQuestions: Math.min(config.questionsPerPart, totalQuestions - ((i-1) * config.questionsPerPart)),
                 ...partProgress
             });
         }
@@ -108,6 +140,7 @@ class ExamPartsManager {
             }
             
             const partKey = `parte${partNumber}`;
+            const config = this.getSubjectConfig(subject);
             const accuracy = score / totalQuestions;
             
             // Actualizar progreso de la parte actual
@@ -125,12 +158,12 @@ class ExamPartsManager {
             currentPart.attempts += 1;
             currentPart.score = score;
             currentPart.bestScore = Math.max(currentPart.bestScore, score);
-            currentPart.completed = accuracy >= this.UNLOCK_THRESHOLD;
+            currentPart.completed = accuracy >= config.unlockThreshold;
             
             // Si completó con éxito, desbloquear siguiente parte
             if (currentPart.completed) {
                 const nextPartKey = `parte${partNumber + 1}`;
-                const totalParts = this.calculateTotalParts(totalQuestions);
+                const totalParts = this.calculateTotalParts(totalQuestions, subject);
                 
                 if (partNumber < totalParts) {
                     if (!userProgress.progress[nextPartKey]) {
@@ -154,7 +187,7 @@ class ExamPartsManager {
             
             return {
                 partCompleted: currentPart.completed,
-                nextPartUnlocked: partNumber < this.calculateTotalParts(totalQuestions) && currentPart.completed,
+                nextPartUnlocked: partNumber < this.calculateTotalParts(totalQuestions, subject) && currentPart.completed,
                 accuracy: Math.round(accuracy * 100),
                 attempts: currentPart.attempts,
                 bestScore: currentPart.bestScore

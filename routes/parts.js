@@ -29,6 +29,7 @@ router.get('/:subject/:examType', async (req, res) => {
 
         // Obtener información de las partes
         const partsInfo = await examPartsManager.getPartsInfo(userId, subject, examType, allQuestions.length);
+        const subjectConfig = examPartsManager.getSubjectConfig(subject);
 
         res.json({
             success: true,
@@ -36,8 +37,8 @@ router.get('/:subject/:examType', async (req, res) => {
                 subject,
                 examType,
                 totalQuestions: allQuestions.length,
-                questionsPerPart: examPartsManager.QUESTIONS_PER_PART,
-                unlockThreshold: Math.round(examPartsManager.UNLOCK_THRESHOLD * 100),
+                questionsPerPart: subjectConfig.questionsPerPart,
+                unlockThreshold: Math.round(subjectConfig.unlockThreshold * 100),
                 parts: partsInfo
             }
         });
@@ -87,7 +88,7 @@ router.post('/generate', async (req, res) => {
         }
 
         // Obtener preguntas para la parte específica
-        const partQuestions = examPartsManager.getQuestionsForPart(allQuestions, partNumber);
+        const partQuestions = examPartsManager.getQuestionsForPart(allQuestions, partNumber, subject);
 
         if (partQuestions.length === 0) {
             return res.status(404).json({
