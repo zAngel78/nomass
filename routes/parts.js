@@ -175,21 +175,32 @@ router.post('/complete', async (req, res) => {
 
         // Guardar resultado (opcional, para histórico)
         try {
-            const { appendToFile } = require('../utils/fileStorage');
-            await appendToFile('part_results', partResult);
+            const fileStorage = require('../utils/fileStorage');
+            await fileStorage.appendToFile('part_results', partResult);
         } catch (error) {
             console.warn('No se pudo guardar el resultado de la parte:', error.message);
         }
 
+        // Crear mensaje con información de puntos
+        let message = result.partCompleted ? 
+            `¡Parte ${partNumber} completada exitosamente! +${result.pointsEarned} puntos` : 
+            `Parte ${partNumber} completada. Necesitas 70% para desbloquear la siguiente.`;
+            
+        if (result.allPartsCompleted) {
+            message += ` 🎉 ¡Completaste todas las partes de ${subject}! Total: 20 puntos ganados.`;
+        }
+
         res.json({
             success: true,
-            message: result.partCompleted ? 
-                `¡Parte ${partNumber} completada exitosamente!` : 
-                `Parte ${partNumber} completada. Necesitas ${Math.round(examPartsManager.UNLOCK_THRESHOLD * 100)}% para desbloquear la siguiente.`,
+            message: message,
             data: {
                 result: partResult,
                 progress: result,
                 updatedParts: partsInfo,
+                pointsEarned: result.pointsEarned,
+                allPartsCompleted: result.allPartsCompleted,
+                totalParts: result.totalParts,
+                completedParts: result.completedParts,
                 nextAction: result.nextPartUnlocked ? 'next_part_available' : 'retry_or_continue'
             }
         });

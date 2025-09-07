@@ -122,7 +122,19 @@ class ExamPartsManager {
     // Completar una parte y actualizar progreso
     async completePart(userId, subject, examType, partNumber, score, totalQuestions) {
         try {
-            let progressData = await fileStorage.readFile('user_progress');
+            // Validar que el userId no sea undefined o null
+            if (!userId) {
+                throw new Error('Usuario no autenticado: userId es requerido');
+            }
+
+            let progressData;
+            try {
+                progressData = await fileStorage.readFile('user_progress');
+            } catch (error) {
+                console.log('Creando archivo de progreso nuevo...');
+                progressData = [];
+            }
+            
             let userProgressIndex = progressData.findIndex(p => 
                 p.userId === userId && 
                 p.subject === subject && 
@@ -180,6 +192,20 @@ class ExamPartsManager {
                 }
             }
             
+            // Calcular puntos ganados
+            const totalParts = this.calculateTotalParts(totalQuestions, subject);
+            const pointsPerPart = 20 / totalParts; // 20 puntos total dividido entre todas las partes
+            let pointsEarned = 0;
+            let allPartsCompleted = false;
+            
+            if (currentPart.completed) {
+                pointsEarned = Math.round(pointsPerPart * 100) / 100; // Redondear a 2 decimales
+                
+                // Verificar si completó todas las partes de la materia
+                const completedPartsCount = Object.values(userProgress.progress).filter(p => p.completed).length;
+                allPartsCompleted = completedPartsCount === totalParts;
+            }
+            
             userProgress.updated_at = new Date().toISOString();
             progressData[userProgressIndex] = userProgress;
             
@@ -187,10 +213,14 @@ class ExamPartsManager {
             
             return {
                 partCompleted: currentPart.completed,
-                nextPartUnlocked: partNumber < this.calculateTotalParts(totalQuestions, subject) && currentPart.completed,
+                nextPartUnlocked: partNumber < totalParts && currentPart.completed,
                 accuracy: Math.round(accuracy * 100),
                 attempts: currentPart.attempts,
-                bestScore: currentPart.bestScore
+                bestScore: currentPart.bestScore,
+                pointsEarned: pointsEarned,
+                allPartsCompleted: allPartsCompleted,
+                totalParts: totalParts,
+                completedParts: Object.values(userProgress.progress).filter(p => p.completed).length
             };
             
         } catch (error) {
