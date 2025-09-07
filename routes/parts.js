@@ -324,4 +324,38 @@ function hasTimeLimitForSubject(subject) {
     return timeEnabledSubjects[subject] || true;
 }
 
+// GET /api/parts/user/:userId/total-points - Obtener puntos totales del usuario
+router.get('/user/:userId/total-points', async (req, res) => {
+    try {
+        const { userId } = req.params;
+
+        if (!userId) {
+            return res.status(400).json({
+                success: false,
+                error: 'Se requiere userId como parámetro'
+            });
+        }
+
+        // Obtener todos los puntos de partes del usuario
+        const totalPoints = await examPartsManager.getUserTotalPoints(userId);
+
+        res.json({
+            success: true,
+            data: {
+                userId,
+                totalPoints,
+                lastUpdated: new Date().toISOString()
+            }
+        });
+
+    } catch (error) {
+        console.error('Error obteniendo puntos totales:', error);
+        res.status(500).json({
+            success: false,
+            error: 'Error interno del servidor',
+            message: error.message
+        });
+    }
+});
+
 module.exports = router;

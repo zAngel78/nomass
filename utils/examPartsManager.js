@@ -358,6 +358,38 @@ class ExamPartsManager {
             return false;
         }
     }
+
+    // Obtener puntos totales de todas las partes completadas por un usuario
+    async getUserTotalPoints(userId) {
+        try {
+            const progressData = await fileStorage.readFile('user_progress');
+            const userProgressList = progressData.filter(p => p.userId === userId);
+            
+            let totalPoints = 0;
+            
+            for (const progress of userProgressList) {
+                const completedParts = Object.values(progress.progress).filter(p => p.completed);
+                
+                // Obtener total de preguntas para calcular partes totales
+                const allQuestions = await require('./questionLoader').getQuestionsBySubjectAndType(progress.subject, progress.examType);
+                const totalParts = this.calculateTotalParts(allQuestions.length, progress.subject);
+                const pointsPerPart = 20 / totalParts;
+                
+                // Sumar puntos de partes completadas
+                const subjectPoints = completedParts.length * pointsPerPart;
+                totalPoints += subjectPoints;
+                
+                console.log(`📊 ${progress.subject}: ${completedParts.length}/${totalParts} partes = ${subjectPoints.toFixed(2)} puntos`);
+            }
+            
+            console.log(`📊 Total de puntos del usuario ${userId}: ${totalPoints.toFixed(2)}`);
+            return Math.round(totalPoints * 100) / 100; // Redondear a 2 decimales
+            
+        } catch (error) {
+            console.error('Error calculando puntos totales:', error);
+            return 0;
+        }
+    }
 }
 
 module.exports = new ExamPartsManager();
