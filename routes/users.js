@@ -372,7 +372,7 @@ router.post('/:id/quiz-result', async (req, res) => {
     // Verificar si puede elegir materia y tomar examen general
     user.canChooseSubject = user.dailyPoints >= 100; // Requiere 100 puntos diarios
     // Usuarios VIP tienen acceso sin requisitos, otros necesitan 180 puntos y 3 días de racha
-    user.canTakeGeneralExam = user.hasVipAccess || (user.totalPoints >= 180 && user.loginStreak >= 3);
+    user.canTakeGeneralExam = (user.hasVipAccess === true) || (user.totalPoints >= 180 && user.loginStreak >= 3);
 
     users[userIndex] = user;
     await fileStorage.writeFile('users', users);
