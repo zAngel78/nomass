@@ -1,5 +1,6 @@
 const express = require('express');
 const { v4: uuidv4 } = require('uuid');
+const bcrypt = require('bcrypt');
 const fileStorage = require('../utils/fileStorage');
 
 const router = express.Router();
@@ -39,7 +40,7 @@ router.post('/register', async (req, res) => {
     const newUser = {
       id: uuidv4(),
       username: username.trim(),
-      password: password, // En producción deberías hashear esto
+      password: await bcrypt.hash(password, 10), // Hash de la contraseña
       name: name.trim(),
       avatar: avatar || '👤',
       gender: gender || 'other',
@@ -89,9 +90,19 @@ router.post('/login', async (req, res) => {
 
     // Buscar usuario
     const users = await fileStorage.readFile('users');
-    const user = users.find(u => u.username === username && u.password === password);
-
+    const user = users.find(u => u.username === username);
+    
     if (!user) {
+      return res.status(401).json({
+        success: false,
+        error: 'Credenciales incorrectas'
+      });
+    }
+    
+    // Verificar contraseña con bcrypt
+    const isValidPassword = await bcrypt.compare(password, user.password);
+
+    if (!isValidPassword) {
       return res.status(401).json({
         success: false,
         error: 'Credenciales incorrectas'
@@ -228,15 +239,16 @@ router.put('/change-password/:id', async (req, res) => {
     const user = users[userIndex];
 
     // Verificar contraseña actual
-    if (user.password !== currentPassword) {
+    const isCurrentPasswordValid = await bcrypt.compare(currentPassword, user.password);
+    if (!isCurrentPasswordValid) {
       return res.status(401).json({
         success: false,
         error: 'Contraseña actual incorrecta'
       });
     }
 
-    // Actualizar contraseña
-    user.password = newPassword;
+    // Actualizar contraseña con hash
+    user.password = await bcrypt.hash(newPassword, 10);
     user.updated_at = new Date().toISOString();
 
     users[userIndex] = user;

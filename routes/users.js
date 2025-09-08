@@ -53,10 +53,10 @@ router.post('/', async (req, res) => {
   try {
     const { name, avatar, gender, email, canTakeGeneralExam, passwordOption, customPassword, username } = req.body;
 
-    if (!name || !avatar || !passwordOption) {
+    if (!name || !avatar) {
       return res.status(400).json({
         success: false,
-        error: 'Faltan campos requeridos: name, avatar, passwordOption'
+        error: 'Faltan campos requeridos: name, avatar'
       });
     }
 
@@ -82,26 +82,35 @@ router.post('/', async (req, res) => {
 
     // Generar o usar contraseña
     let plainPassword;
-    if (passwordOption === 'auto') {
-      plainPassword = generateRandomPassword();
-    } else if (passwordOption === 'custom') {
-      if (!customPassword || customPassword.length < 6) {
+    let hashedPassword = null;
+    
+    if (passwordOption) {
+      // Creación desde dashboard admin - con contraseña
+      if (passwordOption === 'auto') {
+        plainPassword = generateRandomPassword();
+      } else if (passwordOption === 'custom') {
+        if (!customPassword || customPassword.length < 6) {
+          return res.status(400).json({
+            success: false,
+            error: 'La contraseña personalizada debe tener al menos 6 caracteres'
+          });
+        }
+        plainPassword = customPassword;
+      } else {
         return res.status(400).json({
           success: false,
-          error: 'La contraseña personalizada debe tener al menos 6 caracteres'
+          error: 'passwordOption debe ser "auto" o "custom"'
         });
       }
-      plainPassword = customPassword;
+      
+      // Hash de la contraseña
+      const saltRounds = 10;
+      hashedPassword = await bcrypt.hash(plainPassword, saltRounds);
     } else {
-      return res.status(400).json({
-        success: false,
-        error: 'passwordOption debe ser "auto" o "custom"'
-      });
+      // Creación desde app Flutter - sin contraseña (sistema sin login)
+      plainPassword = null;
+      hashedPassword = null;
     }
-
-    // Hash de la contraseña
-    const saltRounds = 10;
-    const hashedPassword = await bcrypt.hash(plainPassword, saltRounds);
 
     const newUser = {
       id: uuidv4(),
