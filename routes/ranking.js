@@ -13,32 +13,53 @@ router.get('/', async (req, res) => {
     
     if (subject) {
       // Ranking por materia específica basado en sistema de partes
-      sortedUsers = users
-        .filter(user => {
-          // Filtrar usuarios que tengan partes completadas en esta materia
-          if (!user.parts || !user.parts[subject]) return false;
-          const partsData = user.parts[subject];
-          const completedParts = Object.values(partsData).filter(part => part.completed);
-          return completedParts.length > 0;
-        })
-        .map(user => {
-          const partsData = user.parts[subject];
-          const completedParts = Object.values(partsData).filter(part => part.completed);
-          const totalScore = completedParts.reduce((sum, part) => sum + (part.bestScore || 0), 0);
-          const totalQuestions = completedParts.reduce((sum, part) => sum + (part.totalQuestions || 0), 0);
-          const totalCorrect = completedParts.reduce((sum, part) => sum + (part.bestScore || 0), 0);
+      try {
+        const userProgress = await fileStorage.readFile('user_progress');
+        
+        // Crear mapa de usuarios con progreso en la materia
+        const userProgressMap = new Map();
+        
+        userProgress.forEach(progress => {
+          if (progress.subject === subject) {
+            const completedParts = Object.values(progress.progress).filter(part => part.completed);
+            if (completedParts.length > 0) {
+              const totalScore = completedParts.reduce((sum, part) => sum + (part.bestScore || 0), 0);
+              const totalAttempts = completedParts.reduce((sum, part) => sum + (part.attempts || 0), 0);
+              
+              userProgressMap.set(progress.userId, {
+                completedParts: completedParts.length,
+                totalScore,
+                bestScore: Math.max(...completedParts.map(part => part.bestScore || 0), 0),
+                totalAttempts,
+                // Estimar total de preguntas (asumiendo 12 por parte)
+                totalQuestions: completedParts.length * 12,
+                accuracy: completedParts.length > 0 ? Math.round((totalScore / (completedParts.length * 12)) * 100) : 0
+              });
+            }
+          }
+        });
+        
+        // Filtrar y mapear usuarios que tienen progreso
+        sortedUsers = users
+          .filter(user => userProgressMap.has(user.id))
+          .map(user => {
+            const progressData = userProgressMap.get(user.id);
+            return {
+              id: user.id,
+              name: user.name,
+              avatar: user.avatar || '👤',
+              score: progressData.totalScore,
+              gamesPlayed: progressData.completedParts,
+              bestScore: progressData.bestScore,
+              accuracy: progressData.accuracy
+            };
+          })
+          .sort((a, b) => b.score - a.score);
           
-          return {
-            id: user.id,
-            name: user.name,
-            avatar: user.avatar || '👤',
-            score: totalScore,
-            gamesPlayed: completedParts.length,
-            bestScore: Math.max(...completedParts.map(part => part.bestScore || 0), 0),
-            accuracy: totalQuestions > 0 ? Math.round((totalCorrect / totalQuestions) * 100) : 0
-          };
-        })
-        .sort((a, b) => b.score - a.score);
+      } catch (error) {
+        console.error('Error cargando progreso de usuarios:', error);
+        sortedUsers = [];
+      }
     } else {
       // Ranking global por puntos totales
       sortedUsers = users
