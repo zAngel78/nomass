@@ -51,7 +51,7 @@ router.get('/:id', async (req, res) => {
 // POST /api/users - Crear nuevo usuario
 router.post('/', async (req, res) => {
   try {
-    const { name, avatar, gender, email, canTakeGeneralExam, passwordOption, customPassword, username } = req.body;
+    const { name, avatar, gender, email, canTakeGeneralExam, hasVipAccess, passwordOption, customPassword, username } = req.body;
 
     if (!name || !avatar) {
       return res.status(400).json({
@@ -129,6 +129,7 @@ router.post('/', async (req, res) => {
       loginStreak: 1,
       canChooseSubject: true,
       canTakeGeneralExam: canTakeGeneralExam || false,
+      hasVipAccess: hasVipAccess || false,
       dailyWheelSpins: 0,
       hasSubscription: false,
       subscriptionExpiry: null,
@@ -370,7 +371,8 @@ router.post('/:id/quiz-result', async (req, res) => {
 
     // Verificar si puede elegir materia y tomar examen general
     user.canChooseSubject = user.dailyPoints >= 100; // Requiere 100 puntos diarios
-    user.canTakeGeneralExam = user.totalPoints >= 180 && user.loginStreak >= 3; // Requiere 180 puntos totales y 3 días de racha
+    // Usuarios VIP tienen acceso sin requisitos, otros necesitan 180 puntos y 3 días de racha
+    user.canTakeGeneralExam = user.hasVipAccess || (user.totalPoints >= 180 && user.loginStreak >= 3);
 
     users[userIndex] = user;
     await fileStorage.writeFile('users', users);

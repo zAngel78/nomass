@@ -51,6 +51,7 @@ router.post('/register', async (req, res) => {
       loginStreak: 1,
       canChooseSubject: true, // Sin restricciones
       canTakeGeneralExam: false,
+      hasVipAccess: false, // Los usuarios normales no tienen acceso VIP
       achievements: [],
       badges: [],
       created_at: new Date().toISOString(),
@@ -125,7 +126,8 @@ router.post('/login', async (req, res) => {
 
     user.lastLogin = now.toISOString();
     user.canChooseSubject = user.dailyPoints >= 100; // Requiere 100 puntos diarios
-    user.canTakeGeneralExam = user.totalPoints >= 180 && user.loginStreak >= 3; // Requiere 180 puntos totales y 3 días de racha
+    // Usuarios VIP tienen acceso sin requisitos, otros necesitan 180 puntos y 3 días de racha
+    user.canTakeGeneralExam = user.hasVipAccess || (user.totalPoints >= 180 && user.loginStreak >= 3);
     user.updated_at = now.toISOString();
 
     // Actualizar usuario en archivo

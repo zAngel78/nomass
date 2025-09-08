@@ -215,7 +215,7 @@ function renderUsersTable() {
     
     if (!users || users.length === 0) {
         const row = elements.usersTable.insertRow();
-        row.innerHTML = '<td colspan="8" class="text-center">No hay usuarios registrados</td>';
+        row.innerHTML = '<td colspan="9" class="text-center">No hay usuarios registrados</td>';
         return;
     }
     
@@ -225,6 +225,9 @@ function renderUsersTable() {
         const canTakeGeneral = user.canTakeGeneralExam ? 
             '<span class="badge badge-success">Sí</span>' : 
             '<span class="badge badge-warning">No</span>';
+        const isVip = user.hasVipAccess ? 
+            '<span class="badge badge-premium">🌟 VIP</span>' : 
+            '<span class="badge badge-normal">Normal</span>';
         
         row.innerHTML = `
             <td class="user-avatar">${user.avatar || '👤'}</td>
@@ -234,6 +237,7 @@ function renderUsersTable() {
             <td>${user.level || 1}</td>
             <td>${lastLogin}</td>
             <td>${canTakeGeneral}</td>
+            <td>${isVip}</td>
             <td>
                 <button class="btn-secondary edit-user-btn" data-user-id="${user.id}">
                     <i class="fas fa-edit"></i> Editar
@@ -364,6 +368,7 @@ async function handleCreateUser(event) {
         gender: document.getElementById('userGender').value,
         avatar: document.getElementById('userAvatar').value,
         canTakeGeneralExam: document.getElementById('canTakeGeneralExam').checked,
+        hasVipAccess: document.getElementById('hasVipAccess').checked,
         passwordOption: passwordOption,
         customPassword: passwordOption === 'custom' ? customPassword : undefined
     };
