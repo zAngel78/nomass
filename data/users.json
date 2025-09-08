@@ -243,5 +243,425 @@
     "created_at": "2025-08-22T21:05:35.294Z",
     "updated_at": "2025-08-22T21:06:48.926Z",
     "dailyWheelSpins": 3
+  },
+  {
+    "id": "ef69cc43-2a98-4da5-9280-8c1437d5475f",
+    "username": "carlos_rodriguez",
+    "password": "$2b$10$wbevozvnKWe1XEQ42aMQeOkvPmPPgBpWpAJnJCHN9nzuxTom5wzVi",
+    "name": "Carlos Rodríguez",
+    "avatar": "👨",
+    "gender": "male",
+    "subjectScores": {
+      "Matemáticas": {
+        "score": 420,
+        "gamesPlayed": 15,
+        "correctAnswers": 128,
+        "bestScore": 45
+      },
+      "Castellano y Guaraní": {
+        "score": 380,
+        "gamesPlayed": 12,
+        "correctAnswers": 102,
+        "bestScore": 38
+      },
+      "Historia y Geografía": {
+        "score": 290,
+        "gamesPlayed": 10,
+        "correctAnswers": 78,
+        "bestScore": 32
+      },
+      "Legislación": {
+        "score": 160,
+        "gamesPlayed": 8,
+        "correctAnswers": 45,
+        "bestScore": 25
+      }
+    },
+    "totalPoints": 1250,
+    "dailyPoints": 85,
+    "loginStreak": 12,
+    "lastLogin": "2025-09-08T03:05:11.096Z",
+    "hasVipAccess": false,
+    "canTakeGeneralExam": true,
+    "created_at": "2025-09-08T03:05:11.096Z",
+    "updated_at": "2025-09-08T03:05:11.096Z"
+  },
+  {
+    "id": "b2653e54-eba6-47c8-b3ec-605818735413",
+    "username": "maria_gonzalez",
+    "password": "$2b$10$.rje55.G9kCPW00.564LTOKAYeooqPM6yWUKC6OyQ/pr/XiDYydYG",
+    "name": "María González",
+    "avatar": "👩",
+    "gender": "female",
+    "subjectScores": {
+      "Matemáticas": {
+        "score": 350,
+        "gamesPlayed": 14,
+        "correctAnswers": 115,
+        "bestScore": 42
+      },
+      "Castellano y Guaraní": {
+        "score": 440,
+        "gamesPlayed": 16,
+        "correctAnswers": 135,
+        "bestScore": 41
+      },
+      "Historia y Geografía": {
+        "score": 310,
+        "gamesPlayed": 11,
+        "correctAnswers": 85,
+        "bestScore": 35
+      },
+      "Legislación": {
+        "score": 80,
+        "gamesPlayed": 5,
+        "correctAnswers": 22,
+        "bestScore": 18
+      }
+    },
+    "totalPoints": 1180,
+    "dailyPoints": 72,
+    "loginStreak": 8,
+    "lastLogin": "2025-09-08T03:05:11.096Z",
+    "hasVipAccess": false,
+    "canTakeGeneralExam": true,
+    "created_at": "2025-09-08T03:05:11.096Z",
+    "updated_at": "2025-09-08T03:05:11.096Z"
+  },
+  {
+    "id": "a2bc8d76-0a97-4a5f-8532-53c93b650556",
+    "username": "luis_martinez",
+    "password": "$2b$10$0W8gtlmjurzryvb9Ktl5.OxGyCt.gseKXsmkj89I7X9LFHsevytKu",
+    "name": "Luis Martínez",
+    "avatar": "🧑",
+    "gender": "male",
+    "subjectScores": {
+      "Matemáticas": {
+        "score": 280,
+        "gamesPlayed": 12,
+        "correctAnswers": 92,
+        "bestScore": 35
+      },
+      "Castellano y Guaraní": {
+        "score": 320,
+        "gamesPlayed": 13,
+        "correctAnswers": 98,
+        "bestScore": 33
+      },
+      "Historia y Geografía": {
+        "score": 260,
+        "gamesPlayed": 9,
+        "correctAnswers": 71,
+        "bestScore": 30
+      },
+      "Legislación": {
+        "score": 120,
+        "gamesPlayed": 6,
+        "correctAnswers": 35,
+        "bestScore": 22
+      }
+    },
+    "totalPoints": 980,
+    "dailyPoints": 45,
+    "loginStreak": 5,
+    "lastLogin": "2025-09-08T03:05:11.096Z",
+    "hasVipAccess": false,
+    "canTakeGeneralExam": true,
+    "created_at": "2025-09-08T03:05:11.096Z",
+    "updated_at": "2025-09-08T03:05:11.096Z"
+  },
+  {
+    "id": "3f5d1db1-45a5-4d4c-9c8b-1d03811cb86a",
+    "username": "ana_silva",
+    "password": "$2b$10$OMp7atsl82m3VmcqPmzRQevou9WR9EEiv9aB6u6m.QZp2M2PO3nKu",
+    "name": "Ana Silva",
+    "avatar": "👱‍♀️",
+    "gender": "female",
+    "subjectScores": {
+      "Matemáticas": {
+        "score": 480,
+        "gamesPlayed": 18,
+        "correctAnswers": 152,
+        "bestScore": 48
+      },
+      "Castellano y Guaraní": {
+        "score": 390,
+        "gamesPlayed": 14,
+        "correctAnswers": 118,
+        "bestScore": 39
+      },
+      "Historia y Geografía": {
+        "score": 350,
+        "gamesPlayed": 13,
+        "correctAnswers": 98,
+        "bestScore": 38
+      },
+      "Legislación": {
+        "score": 200,
+        "gamesPlayed": 9,
+        "correctAnswers": 58,
+        "bestScore": 28
+      }
+    },
+    "totalPoints": 1420,
+    "dailyPoints": 95,
+    "loginStreak": 15,
+    "lastLogin": "2025-09-08T03:05:11.096Z",
+    "hasVipAccess": false,
+    "canTakeGeneralExam": true,
+    "created_at": "2025-09-08T03:05:11.096Z",
+    "updated_at": "2025-09-08T03:05:11.096Z"
+  },
+  {
+    "id": "d806a4ad-ec2a-417e-b13a-69755b63a9d9",
+    "username": "pedro_lopez",
+    "password": "$2b$10$EZkU0XPrduAYcWatg8dtQ.FQJCWAKQwSIf2ENh7DFba5FZbaJC.9a",
+    "name": "Pedro López",
+    "avatar": "👨‍💼",
+    "gender": "male",
+    "subjectScores": {
+      "Matemáticas": {
+        "score": 240,
+        "gamesPlayed": 10,
+        "correctAnswers": 78,
+        "bestScore": 30
+      },
+      "Castellano y Guaraní": {
+        "score": 290,
+        "gamesPlayed": 11,
+        "correctAnswers": 82,
+        "bestScore": 32
+      },
+      "Historia y Geografía": {
+        "score": 220,
+        "gamesPlayed": 8,
+        "correctAnswers": 61,
+        "bestScore": 28
+      },
+      "Legislación": {
+        "score": 100,
+        "gamesPlayed": 5,
+        "correctAnswers": 28,
+        "bestScore": 20
+      }
+    },
+    "totalPoints": 850,
+    "dailyPoints": 32,
+    "loginStreak": 3,
+    "lastLogin": "2025-09-08T03:05:11.096Z",
+    "hasVipAccess": false,
+    "canTakeGeneralExam": true,
+    "created_at": "2025-09-08T03:05:11.096Z",
+    "updated_at": "2025-09-08T03:05:11.096Z"
+  },
+  {
+    "id": "ff719bf1-4934-4f64-bf1d-5f08da230846",
+    "username": "sofia_mendez",
+    "password": "$2b$10$laANFEabpcq014sNnlWw/eQDNzWJYc6OshoS6uvPG2LbGRA4el93C",
+    "name": "Sofia Méndez",
+    "avatar": "👩‍🎓",
+    "gender": "female",
+    "subjectScores": {
+      "Matemáticas": {
+        "score": 410,
+        "gamesPlayed": 16,
+        "correctAnswers": 132,
+        "bestScore": 44
+      },
+      "Castellano y Guaraní": {
+        "score": 460,
+        "gamesPlayed": 17,
+        "correctAnswers": 142,
+        "bestScore": 46
+      },
+      "Historia y Geografía": {
+        "score": 290,
+        "gamesPlayed": 10,
+        "correctAnswers": 82,
+        "bestScore": 34
+      },
+      "Legislación": {
+        "score": 160,
+        "gamesPlayed": 7,
+        "correctAnswers": 48,
+        "bestScore": 26
+      }
+    },
+    "totalPoints": 1320,
+    "dailyPoints": 88,
+    "loginStreak": 11,
+    "lastLogin": "2025-09-08T03:05:11.096Z",
+    "hasVipAccess": false,
+    "canTakeGeneralExam": true,
+    "created_at": "2025-09-08T03:05:11.096Z",
+    "updated_at": "2025-09-08T03:05:11.096Z"
+  },
+  {
+    "id": "ce81c21d-a000-4dff-993d-56e62a448337",
+    "username": "diego_herrera",
+    "password": "$2b$10$VU0loy0UCHtjVbRYmw/ypOT37fpqBOItwcWaFy6ZyJzWVEWMSJTJC",
+    "name": "Diego Herrera",
+    "avatar": "🧑‍💻",
+    "gender": "male",
+    "subjectScores": {
+      "Matemáticas": {
+        "score": 200,
+        "gamesPlayed": 9,
+        "correctAnswers": 65,
+        "bestScore": 28
+      },
+      "Castellano y Guaraní": {
+        "score": 250,
+        "gamesPlayed": 10,
+        "correctAnswers": 72,
+        "bestScore": 29
+      },
+      "Historia y Geografía": {
+        "score": 180,
+        "gamesPlayed": 7,
+        "correctAnswers": 52,
+        "bestScore": 26
+      },
+      "Legislación": {
+        "score": 90,
+        "gamesPlayed": 4,
+        "correctAnswers": 25,
+        "bestScore": 23
+      }
+    },
+    "totalPoints": 720,
+    "dailyPoints": 28,
+    "loginStreak": 2,
+    "lastLogin": "2025-09-08T03:05:11.096Z",
+    "hasVipAccess": false,
+    "canTakeGeneralExam": false,
+    "created_at": "2025-09-08T03:05:11.096Z",
+    "updated_at": "2025-09-08T03:05:11.096Z"
+  },
+  {
+    "id": "1248e4ba-a74e-4374-8f5c-c8168c4fffb9",
+    "username": "valentina_ruiz",
+    "password": "$2b$10$Rdredx9/ZGI8L/ydt1KT5eeB/r2C9VcNgadskCjOWTkGYsM.7GFey",
+    "name": "Valentina Ruiz",
+    "avatar": "👩‍🏫",
+    "gender": "female",
+    "subjectScores": {
+      "Matemáticas": {
+        "score": 330,
+        "gamesPlayed": 13,
+        "correctAnswers": 108,
+        "bestScore": 38
+      },
+      "Castellano y Guaraní": {
+        "score": 420,
+        "gamesPlayed": 15,
+        "correctAnswers": 128,
+        "bestScore": 42
+      },
+      "Historia y Geografía": {
+        "score": 280,
+        "gamesPlayed": 9,
+        "correctAnswers": 78,
+        "bestScore": 31
+      },
+      "Legislación": {
+        "score": 120,
+        "gamesPlayed": 6,
+        "correctAnswers": 36,
+        "bestScore": 24
+      }
+    },
+    "totalPoints": 1150,
+    "dailyPoints": 65,
+    "loginStreak": 7,
+    "lastLogin": "2025-09-08T03:05:11.096Z",
+    "hasVipAccess": false,
+    "canTakeGeneralExam": true,
+    "created_at": "2025-09-08T03:05:11.096Z",
+    "updated_at": "2025-09-08T03:05:11.096Z"
+  },
+  {
+    "id": "ae263832-d0b7-4cb3-8e7b-eb752ab9039f",
+    "username": "ricardo_torres",
+    "password": "$2b$10$onS9AIfU92bX45L2WKxE5OSsV1KxDGuWroRxU6sv7QVEEps5FRaXm",
+    "name": "Ricardo Torres",
+    "avatar": "👨‍⚖️",
+    "gender": "male",
+    "subjectScores": {
+      "Matemáticas": {
+        "score": 360,
+        "gamesPlayed": 15,
+        "correctAnswers": 118,
+        "bestScore": 40
+      },
+      "Castellano y Guaraní": {
+        "score": 340,
+        "gamesPlayed": 12,
+        "correctAnswers": 105,
+        "bestScore": 36
+      },
+      "Historia y Geografía": {
+        "score": 380,
+        "gamesPlayed": 14,
+        "correctAnswers": 112,
+        "bestScore": 41
+      },
+      "Legislación": {
+        "score": 300,
+        "gamesPlayed": 12,
+        "correctAnswers": 88,
+        "bestScore": 35
+      }
+    },
+    "totalPoints": 1380,
+    "dailyPoints": 92,
+    "loginStreak": 14,
+    "lastLogin": "2025-09-08T03:05:11.096Z",
+    "hasVipAccess": false,
+    "canTakeGeneralExam": true,
+    "created_at": "2025-09-08T03:05:11.096Z",
+    "updated_at": "2025-09-08T03:05:11.096Z"
+  },
+  {
+    "id": "3204c594-228b-4de1-a615-5f0226f33f47",
+    "username": "camila_castro",
+    "password": "$2b$10$1MlNm8oVZfeMtJQ2zeKhberlsHWlonebMhLqMnn3SdzBdE7dTzm1a",
+    "name": "Camila Castro",
+    "avatar": "👩‍⚕️",
+    "gender": "female",
+    "subjectScores": {
+      "Matemáticas": {
+        "score": 270,
+        "gamesPlayed": 11,
+        "correctAnswers": 88,
+        "bestScore": 33
+      },
+      "Castellano y Guaraní": {
+        "score": 310,
+        "gamesPlayed": 12,
+        "correctAnswers": 95,
+        "bestScore": 34
+      },
+      "Historia y Geografía": {
+        "score": 250,
+        "gamesPlayed": 8,
+        "correctAnswers": 68,
+        "bestScore": 32
+      },
+      "Legislación": {
+        "score": 130,
+        "gamesPlayed": 6,
+        "correctAnswers": 38,
+        "bestScore": 25
+      }
+    },
+    "totalPoints": 960,
+    "dailyPoints": 55,
+    "loginStreak": 6,
+    "lastLogin": "2025-09-08T03:05:11.096Z",
+    "hasVipAccess": false,
+    "canTakeGeneralExam": true,
+    "created_at": "2025-09-08T03:05:11.096Z",
+    "updated_at": "2025-09-08T03:05:11.096Z"
   }
 ]

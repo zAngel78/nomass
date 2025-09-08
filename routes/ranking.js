@@ -14,14 +14,14 @@ router.get('/', async (req, res) => {
     if (subject) {
       // Ranking por materia específica
       sortedUsers = users
-        .filter(user => user.subjectScores[subject])
+        .filter(user => user.subjectScores && user.subjectScores[subject])
         .map(user => ({
           id: user.id,
           name: user.name,
           avatar: user.avatar,
-          score: user.subjectScores[subject].score,
-          gamesPlayed: user.subjectScores[subject].gamesPlayed,
-          bestScore: user.subjectScores[subject].bestScore,
+          score: user.subjectScores[subject].score || 0,
+          gamesPlayed: user.subjectScores[subject].gamesPlayed || 0,
+          bestScore: user.subjectScores[subject].bestScore || 0,
           accuracy: user.subjectScores[subject].gamesPlayed > 0 
             ? (user.subjectScores[subject].correctAnswers / (user.subjectScores[subject].gamesPlayed * 10)) * 100
             : 0
@@ -33,13 +33,13 @@ router.get('/', async (req, res) => {
         .map(user => ({
           id: user.id,
           name: user.name,
-          avatar: user.avatar,
-          totalPoints: user.totalPoints,
-          dailyPoints: user.dailyPoints,
-          loginStreak: user.loginStreak,
+          avatar: user.avatar || '👤',
+          totalPoints: user.totalPoints || 0,
+          dailyPoints: user.dailyPoints || 0,
+          loginStreak: user.loginStreak || 0,
           lastLogin: user.lastLogin
         }))
-        .sort((a, b) => b.totalPoints - a.totalPoints);
+        .sort((a, b) => (b.totalPoints || 0) - (a.totalPoints || 0));
     }
 
     // Agregar posición en el ranking
@@ -83,13 +83,13 @@ router.get('/user/:id', async (req, res) => {
 
     if (subject) {
       const subjectUsers = users
-        .filter(u => u.subjectScores[subject])
-        .sort((a, b) => b.subjectScores[subject].score - a.subjectScores[subject].score);
+        .filter(u => u.subjectScores && u.subjectScores[subject])
+        .sort((a, b) => (b.subjectScores[subject]?.score || 0) - (a.subjectScores[subject]?.score || 0));
       
       position = subjectUsers.findIndex(u => u.id === req.params.id) + 1;
       totalUsers = subjectUsers.length;
     } else {
-      const sortedUsers = users.sort((a, b) => b.totalPoints - a.totalPoints);
+      const sortedUsers = users.sort((a, b) => (b.totalPoints || 0) - (a.totalPoints || 0));
       position = sortedUsers.findIndex(u => u.id === req.params.id) + 1;
       totalUsers = users.length;
     }
@@ -143,17 +143,17 @@ router.get('/stats', async (req, res) => {
 
     subjects.forEach(subject => {
       const subjectQuestions = questions.filter(q => q.subject === subject);
-      const usersWithSubject = users.filter(u => u.subjectScores[subject]);
+      const usersWithSubject = users.filter(u => u.subjectScores && u.subjectScores[subject]);
       
       subjectStats[subject] = {
         questions: subjectQuestions.length,
         playersCount: usersWithSubject.length,
         totalGamesPlayed: usersWithSubject.reduce((sum, user) => {
-          return sum + (user.subjectScores[subject]?.gamesPlayed || 0);
+          return sum + (user.subjectScores && user.subjectScores[subject]?.gamesPlayed || 0);
         }, 0),
         averageScore: usersWithSubject.length > 0 
           ? usersWithSubject.reduce((sum, user) => {
-              return sum + (user.subjectScores[subject]?.score || 0);
+              return sum + (user.subjectScores && user.subjectScores[subject]?.score || 0);
             }, 0) / usersWithSubject.length
           : 0
       };
@@ -183,7 +183,7 @@ router.get('/leaderboard/:subject', async (req, res) => {
     const users = await fileStorage.readFile('users');
 
     const leaderboard = users
-      .filter(user => user.subjectScores[subject])
+      .filter(user => user.subjectScores && user.subjectScores[subject])
       .map(user => {
         const subjectScore = user.subjectScores[subject];
         return {
