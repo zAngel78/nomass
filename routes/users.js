@@ -427,7 +427,9 @@ router.post('/:id/check-login', async (req, res) => {
     // Si han pasado menos de 24 horas, no cambiar racha
 
     user.lastLogin = now.toISOString();
-    user.canTakeGeneralExam = user.loginStreak >= 4;
+    // Usuarios VIP tienen acceso sin requisitos, otros necesitan 180 puntos y 3 días de racha
+    user.canTakeGeneralExam = (user.hasVipAccess === true) || (user.totalPoints >= 180 && user.loginStreak >= 3);
+    console.log(`✅ check-login FINAL canTakeGeneralExam = ${user.canTakeGeneralExam}`);
     user.updated_at = now.toISOString();
 
     users[userIndex] = user;

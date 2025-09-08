@@ -287,4 +287,62 @@ router.post('/import', async (req, res) => {
   }
 });
 
+// GET /api/questions/general-stats - Obtener estadísticas de exámenes generales
+router.get('/general-stats', async (req, res) => {
+  try {
+    const generalStats = {
+      'Matemáticas': await getGeneralQuestionCount('matematicas'),
+      'Castellano y Guaraní': await getGeneralQuestionCount('castellano'), 
+      'Historia y Geografía': await getGeneralQuestionCount('historia'),
+      'Legislación': await getGeneralQuestionCount('legislacion')
+    };
+
+    res.json({
+      success: true,
+      data: generalStats
+    });
+  } catch (error) {
+    res.status(500).json({
+      success: false,
+      error: 'Error obteniendo estadísticas de exámenes generales',
+      message: error.message
+    });
+  }
+});
+
+async function getGeneralQuestionCount(subject) {
+  try {
+    let filename;
+    switch (subject) {
+      case 'matematicas':
+        filename = 'questions_matematicas_general_final';
+        break;
+      case 'castellano':
+        filename = 'questions_castellano_general_completo';
+        break;
+      case 'historia':
+        filename = 'questions_historia_geografia_general';
+        break;
+      case 'legislacion':
+        filename = 'questions_legislacion_general';
+        break;
+      default:
+        return { questions: 0, parts: 0 };
+    }
+
+    const questions = await fileStorage.readFile(filename);
+    const questionCount = questions.length;
+    const parts = Math.ceil(questionCount / 20); // 20 preguntas por parte
+
+    return {
+      questions: questionCount,
+      parts: parts,
+      questionsPerPart: 20
+    };
+  } catch (error) {
+    console.error(`Error loading ${subject} general questions:`, error);
+    return { questions: 0, parts: 0 };
+  }
+}
+
 module.exports = router;
