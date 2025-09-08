@@ -99,7 +99,15 @@ router.post('/submit', async (req, res) => {
         };
       }
 
-      const isCorrect = answer.selectedAnswer === question.correct_answer;
+      // Manejar tanto índice como texto de respuesta
+      let isCorrect = false;
+      if (typeof answer.selectedAnswer === 'number') {
+        // Flutter envía índice (número)
+        isCorrect = answer.selectedAnswer === question.correct_answer_index;
+      } else {
+        // Texto de respuesta directo
+        isCorrect = answer.selectedAnswer === question.correct_answer;
+      }
       const points = isCorrect ? calculatePoints(question.difficulty || 1, timeSpent) : 0;
       
       if (isCorrect) {
