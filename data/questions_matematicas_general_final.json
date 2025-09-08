@@ -28,5 +28,875 @@
       "11"
     ],
     "correctAnswer": "83"
+  },
+  {
+    "id": "math_1757299780532_8fs8668r3",
+    "question": "Resolver: ∛(8×27) + √(144) - ∜(16)",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "14",
+      "16",
+      "12",
+      "18",
+      "20"
+    ],
+    "correctAnswer": "16"
+  },
+  {
+    "id": "math_1757299780532_pl2xf8adz",
+    "question": "Si log₂(x) = 5, entonces x es igual a:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "16",
+      "64",
+      "10",
+      "25",
+      "32"
+    ],
+    "correctAnswer": "32"
+  },
+  {
+    "id": "math_1757299780532_1kmw991sb",
+    "question": "La derivada de f(x) = 3x² + 2x - 5 es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "3x + 2",
+      "3x² + 2",
+      "6x - 5",
+      "6x + 2",
+      "6x + 2x"
+    ],
+    "correctAnswer": "6x + 2"
+  },
+  {
+    "id": "math_1757299780532_itxdl0cza",
+    "question": "Resolver el sistema: 2x + 3y = 12, x - y = 1. El valor de x es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "3",
+      "1"
+    ],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "math_1757299780532_y4eo8ibp1",
+    "question": "El área de un círculo con radio 5 cm es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "50π cm²",
+      "25π cm²",
+      "5π cm²",
+      "15π cm²",
+      "10π cm²"
+    ],
+    "correctAnswer": "25π cm²"
+  },
+  {
+    "id": "math_1757299780532_dtlfknmpg",
+    "question": "Si sen(θ) = 3/5 y θ está en el primer cuadrante, entonces cos(θ) =",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "3/4",
+      "5/4",
+      "4/5",
+      "2/5",
+      "5/3"
+    ],
+    "correctAnswer": "4/5"
+  },
+  {
+    "id": "math_1757299780532_g6l88zz0m",
+    "question": "La integral de ∫2x dx es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "2x² + C",
+      "x² + C",
+      "2x + C",
+      "x + C",
+      "x²/2 + C"
+    ],
+    "correctAnswer": "x² + C"
+  },
+  {
+    "id": "math_1757299780532_zjvk495sg",
+    "question": "Factorizar: x² - 9x + 18",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "(x-3)(x-6)",
+      "(x-2)(x-9)",
+      "(x-1)(x-18)",
+      "(x+3)(x-6)",
+      "(x-4)(x-5)"
+    ],
+    "correctAnswer": "(x-3)(x-6)"
+  },
+  {
+    "id": "math_1757299780532_l9bvthlvj",
+    "question": "Una progresión aritmética tiene a₁ = 5 y d = 3. El término a₁₀ es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "30",
+      "32",
+      "29",
+      "38",
+      "35"
+    ],
+    "correctAnswer": "32"
+  },
+  {
+    "id": "math_1757299780532_ruyrh0mze",
+    "question": "El determinante de la matriz [[2,1],[3,4]] es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5",
+      "11"
+    ],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "math_1757299780532_p1jg1nwji",
+    "question": "Resolver: 2^(x+1) = 32",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "6",
+      "5"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "id": "math_1757299780532_h337jujpv",
+    "question": "El límite de (x²-4)/(x-2) cuando x→2 es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "∞",
+      "4",
+      "No existe",
+      "2",
+      "0"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "id": "math_1757299780532_2q2dvvhm6",
+    "question": "La ecuación de la recta que pasa por (2,3) y (4,7) es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "y = 2x + 1",
+      "y = x - 1",
+      "y = 3x - 3",
+      "y = 2x - 1",
+      "y = x + 1"
+    ],
+    "correctAnswer": "y = 2x - 1"
+  },
+  {
+    "id": "math_1757299780532_qnq1f7lfn",
+    "question": "El volumen de un cilindro con radio 3 y altura 8 es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "96π",
+      "36π",
+      "72π",
+      "48π",
+      "24π"
+    ],
+    "correctAnswer": "72π"
+  },
+  {
+    "id": "math_1757299780532_d3rjbl0ng",
+    "question": "Si f(x) = x³ - 2x + 1, entonces f'(2) =",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "14",
+      "8"
+    ],
+    "correctAnswer": "10"
+  },
+  {
+    "id": "math_1757299780532_3kswl3hmv",
+    "question": "La probabilidad de obtener al menos un 6 en dos lanzamientos de un dado es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "5/36",
+      "2/6",
+      "11/36",
+      "7/36",
+      "1/6"
+    ],
+    "correctAnswer": "11/36"
+  },
+  {
+    "id": "math_1757299780532_fpnsgc59r",
+    "question": "Resolver: |2x - 6| = 8",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "x = 6 o x = 2",
+      "x = 5 o x = 1",
+      "x = 7 o x = -1",
+      "x = 8 o x = -2",
+      "x = 4 o x = 0"
+    ],
+    "correctAnswer": "x = 7 o x = -1"
+  },
+  {
+    "id": "math_1757299780532_a0c4achdb",
+    "question": "La suma de los ángulos interiores de un hexágono es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "600°",
+      "1080°",
+      "720°",
+      "900°",
+      "540°"
+    ],
+    "correctAnswer": "720°"
+  },
+  {
+    "id": "math_1757299780532_cvksgksyc",
+    "question": "Si z = 3 + 4i, entonces |z| =",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "4",
+      "3"
+    ],
+    "correctAnswer": "5"
+  },
+  {
+    "id": "math_1757299780532_fudl6x9q7",
+    "question": "La ecuación x² + y² - 4x + 6y = -9 representa:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Un punto",
+      "Un círculo con centro (2,-3) y radio 2",
+      "Una parábola",
+      "Una hipérbola",
+      "Una elipse"
+    ],
+    "correctAnswer": "Un círculo con centro (2,-3) y radio 2"
+  },
+  {
+    "id": "math_1757299780532_h19ld5m7k",
+    "question": "La transformada de Laplace de f(t) = e^(2t) es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "1/(s+2)",
+      "s/(s-2)",
+      "2/s",
+      "2/(s-2)",
+      "1/(s-2)"
+    ],
+    "correctAnswer": "1/(s-2)"
+  },
+  {
+    "id": "math_1757299780532_cg41z701f",
+    "question": "El radio de convergencia de la serie ∑(x^n/n!) es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "1",
+      "∞",
+      "e",
+      "π",
+      "0"
+    ],
+    "correctAnswer": "∞"
+  },
+  {
+    "id": "math_1757299780532_l1nxl26cz",
+    "question": "La ecuación diferencial y' + 2y = e^(-x) tiene solución general:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "y = Ce^(-2x) + e^(-x)",
+      "y = Ce^(2x) + xe^(-x)",
+      "y = Ce^(-2x) - xe^(-x)",
+      "y = Ce^(-2x) + xe^(-x)",
+      "y = Ce^(-x) + xe^(-2x)"
+    ],
+    "correctAnswer": "y = Ce^(-2x) + xe^(-x)"
+  },
+  {
+    "id": "math_1757299780532_ag7dy6e9u",
+    "question": "El gradiente de f(x,y) = x²y + y³ en el punto (1,2) es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "(4, 11)",
+      "(2, 7)",
+      "(3, 12)",
+      "(5, 14)",
+      "(4, 13)"
+    ],
+    "correctAnswer": "(4, 13)"
+  },
+  {
+    "id": "math_1757299780532_9rgypee4r",
+    "question": "La integral doble ∬(xy) dA sobre R=[0,2]×[0,1] es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "1/2",
+      "1",
+      "2",
+      "4",
+      "3/2"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": "math_1757299780532_0royo1jzq",
+    "question": "Los valores propios de la matriz [[3,1],[0,2]] son:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "3 y 0",
+      "3 y 2",
+      "3 y 1",
+      "2 y 0",
+      "1 y 2"
+    ],
+    "correctAnswer": "3 y 2"
+  },
+  {
+    "id": "math_1757299780532_7bvnw7mvj",
+    "question": "La serie de Fourier de f(x) = x en [-π,π] tiene coeficientes bn =",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "1/n",
+      "0",
+      "(-1)^n/n",
+      "π/n",
+      "2(-1)^(n+1)/n"
+    ],
+    "correctAnswer": "2(-1)^(n+1)/n"
+  },
+  {
+    "id": "math_1757299780532_1i843xp6a",
+    "question": "La divergencia del campo vectorial F = (x²,y²,z²) es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "2xyz",
+      "2(x+y+z)",
+      "x²+y²+z²",
+      "2x+2y+2z",
+      "6xyz"
+    ],
+    "correctAnswer": "2(x+y+z)"
+  },
+  {
+    "id": "math_1757299780532_hbftobt60",
+    "question": "La función generatriz de la sucesión de Fibonacci es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "(1+x)/(1-x-x²)",
+      "1/(1-x-x²)",
+      "x²/(1-x-x²)",
+      "1/(1-x)²",
+      "x/(1-x-x²)"
+    ],
+    "correctAnswer": "x/(1-x-x²)"
+  },
+  {
+    "id": "math_1757299780532_vn032bhqv",
+    "question": "El teorema de Green relaciona una integral de línea con:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Una serie infinita",
+      "Una integral doble",
+      "Un límite",
+      "Una integral simple",
+      "Una integral triple"
+    ],
+    "correctAnswer": "Una integral doble"
+  },
+  {
+    "id": "math_1757299780532_dyja0eaei",
+    "question": "La transformada de Fourier de δ(t) (delta de Dirac) es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "0",
+      "δ(ω)",
+      "∞",
+      "1",
+      "2π"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": "math_1757299780532_1hpif50ng",
+    "question": "El teorema del valor medio para integrales establece que existe c tal que:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "f(c) = 0",
+      "f(c) = f(a)+f(b)",
+      "f(c) = (1/(b-a))∫f(x)dx",
+      "f''(c) = 0",
+      "f'(c) = (f(b)-f(a))/(b-a)"
+    ],
+    "correctAnswer": "f(c) = (1/(b-a))∫f(x)dx"
+  },
+  {
+    "id": "math_1757299780532_tul88e6r0",
+    "question": "La convolución de f*g se define como:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "∫f(τ)g(t-τ)dτ",
+      "∫f(t-τ)g(τ)dτ",
+      "f(t)×g(t)",
+      "f(t)+g(t)",
+      "∫f(t)g(t)dt"
+    ],
+    "correctAnswer": "∫f(τ)g(t-τ)dτ"
+  },
+  {
+    "id": "math_1757299780533_14duiamaq",
+    "question": "El laplaciano de f(x,y,z) = x²+y²+z² es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "6",
+      "2",
+      "x²+y²+z²",
+      "2(x+y+z)",
+      "0"
+    ],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "math_1757299780533_4wqklqjvo",
+    "question": "La ecuación de Euler para el cálculo de variaciones es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "F = 0",
+      "∂F/∂y - d/dx(∂F/∂y') = 0",
+      "∂F/∂x = 0",
+      "dF/dx = 0",
+      "∂²F/∂y² = 0"
+    ],
+    "correctAnswer": "∂F/∂y - d/dx(∂F/∂y') = 0"
+  },
+  {
+    "id": "math_1757299780533_j8mt6lpfp",
+    "question": "El número de permutaciones de n objetos tomados r a la vez es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "n!/(n-r)!",
+      "n!/r!",
+      "n^r",
+      "n!/(r!(n-r)!)",
+      "r^n"
+    ],
+    "correctAnswer": "n!/(n-r)!"
+  },
+  {
+    "id": "math_1757299780533_onx77tq8p",
+    "question": "La distribución normal estándar tiene media y varianza:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "μ=π, σ²=e",
+      "μ=0, σ²=0",
+      "μ=1, σ²=1",
+      "μ=0, σ²=1",
+      "μ=1, σ²=0"
+    ],
+    "correctAnswer": "μ=0, σ²=1"
+  },
+  {
+    "id": "math_1757299780533_znr36sd5e",
+    "question": "El criterio de convergencia de Cauchy establece que una serie converge si:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "lim|an+p - an| = 0",
+      "lim|an| = 0",
+      "∑an < ∞",
+      "Todas las anteriores",
+      "an → 0"
+    ],
+    "correctAnswer": "lim|an+p - an| = 0"
+  },
+  {
+    "id": "math_1757299780533_ufi2wbssn",
+    "question": "La función zeta de Riemann ζ(2) es igual a:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "π²/6",
+      "π/4",
+      "π",
+      "e",
+      "1"
+    ],
+    "correctAnswer": "π²/6"
+  },
+  {
+    "id": "math_1757299780533_d42q58zja",
+    "question": "El teorema de Stokes relaciona una integral de superficie con:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Una integral doble",
+      "Una integral de línea",
+      "Una integral triple",
+      "Un producto",
+      "Una suma"
+    ],
+    "correctAnswer": "Una integral de línea"
+  },
+  {
+    "id": "math_1757299780533_7hae0c962",
+    "question": "El grupo fundamental del toro es isomorfo a:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Z",
+      "R",
+      "Z×Z",
+      "S₁",
+      "Z/2Z"
+    ],
+    "correctAnswer": "Z×Z"
+  },
+  {
+    "id": "math_1757299780533_pxvl6runm",
+    "question": "La característica de Euler del plano proyectivo real es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "3",
+      "-1"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "id": "math_1757299780533_c6btyj166",
+    "question": "El anillo de polinomios Z[x] es un dominio de ideales principales:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Verdadero",
+      "Solo si x es primo",
+      "Depende de x",
+      "Solo para grado ≤ 2",
+      "Falso"
+    ],
+    "correctAnswer": "Falso"
+  },
+  {
+    "id": "math_1757299780533_eprjb2a7t",
+    "question": "La dimensión de Hausdorff del conjunto de Cantor es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "1/2",
+      "0",
+      "log(2)/log(3)",
+      "2",
+      "1"
+    ],
+    "correctAnswer": "log(2)/log(3)"
+  },
+  {
+    "id": "math_1757299780533_igu2pwj7k",
+    "question": "El lema de Zorn es equivalente a:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "El teorema de Cantor",
+      "El axioma de elección",
+      "Ninguna de las anteriores",
+      "La hipótesis del continuo",
+      "El teorema de Gödel"
+    ],
+    "correctAnswer": "El axioma de elección"
+  },
+  {
+    "id": "math_1757299780533_qar3y56hd",
+    "question": "La conjetura de Goldbach afirma que todo número par > 2 es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Primo",
+      "Potencia de un primo",
+      "Producto de dos primos",
+      "Compuesto",
+      "Suma de dos primos"
+    ],
+    "correctAnswer": "Suma de dos primos"
+  },
+  {
+    "id": "math_1757299780533_et5qgmr7b",
+    "question": "El grupo de Galois de x⁴ - 2 sobre Q es isomorfo a:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "A₄",
+      "D₄",
+      "Z₄",
+      "S₄",
+      "V₄"
+    ],
+    "correctAnswer": "D₄"
+  },
+  {
+    "id": "math_1757299780533_t9v1bgbjz",
+    "question": "La función modulor j es invariante bajo la acción de:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "PSL₂(Z)",
+      "O(n)",
+      "GL₂(R)",
+      "U(1)",
+      "SL₂(C)"
+    ],
+    "correctAnswer": "PSL₂(Z)"
+  },
+  {
+    "id": "math_1757299780533_vhwzkzzns",
+    "question": "El teorema de Atiyah-Singer relaciona:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Homología con cohomología",
+      "Geometría con álgebra",
+      "Índice analítico con topológico",
+      "Análisis con topología",
+      "Todas las anteriores"
+    ],
+    "correctAnswer": "Índice analítico con topológico"
+  },
+  {
+    "id": "math_1757299780533_efmecloqq",
+    "question": "La hipótesis de Riemann se refiere a los ceros de:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Todas las L-funciones",
+      "ζ(s)",
+      "Γ(s)",
+      "L(s,χ)",
+      "θ(s)"
+    ],
+    "correctAnswer": "ζ(s)"
+  },
+  {
+    "id": "math_1757299780533_sxmwwchxa",
+    "question": "El número de clases del cuerpo Q(√-5) es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "id": "math_1757299780533_fe8h2ouvy",
+    "question": "La categoría de espacios topológicos es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Solo completa",
+      "Abeliana",
+      "Ni completa ni cocompleta",
+      "Completa y cocompleta",
+      "Solo cocompleta"
+    ],
+    "correctAnswer": "Completa y cocompleta"
+  },
+  {
+    "id": "math_1757299780533_xpoxlbvjh",
+    "question": "El teorema de clasificación de superficies dice que toda superficie compacta es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Suma conexa de toros o planos proyectivos",
+      "Orientable",
+      "Simplemente conexa",
+      "De género finito",
+      "Homeomorfa a S²"
+    ],
+    "correctAnswer": "Suma conexa de toros o planos proyectivos"
+  },
+  {
+    "id": "math_1757299780533_7u4zlh5oa",
+    "question": "La constante de Euler-Mascheroni γ es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "e",
+      "√2",
+      "φ",
+      "lim(Hₙ - ln n)",
+      "π"
+    ],
+    "correctAnswer": "lim(Hₙ - ln n)"
+  },
+  {
+    "id": "math_1757299780533_r9kvywnud",
+    "question": "El último teorema de Fermat fue demostrado usando:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Geometría algebraica",
+      "Teoría de números algebraicos",
+      "Lógica matemática",
+      "Curvas elípticas y formas modulares",
+      "Análisis complejo"
+    ],
+    "correctAnswer": "Curvas elípticas y formas modulares"
+  },
+  {
+    "id": "math_1757299780533_bdb4emo8h",
+    "question": "La conjetura de Poincaré se refiere a la caracterización de:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "La botella de Klein",
+      "El disco",
+      "El toro",
+      "La 3-esfera",
+      "El plano proyectivo"
+    ],
+    "correctAnswer": "La 3-esfera"
+  },
+  {
+    "id": "math_1757299780533_11byqbtfa",
+    "question": "El teorema de los cuatro colores se refiere a:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Teoría de grafos",
+      "Partición de números",
+      "Coloreo de mapas planares",
+      "Topología algebraica",
+      "Geometría diferencial"
+    ],
+    "correctAnswer": "Coloreo de mapas planares"
+  },
+  {
+    "id": "math_1757299780533_eo4p3n23r",
+    "question": "La medida de Lebesgue en R es:",
+    "subject": "Matemáticas",
+    "difficulty": "general",
+    "explanation": "",
+    "options": [
+      "Solo invariante por rotaciones",
+      "Singular",
+      "Discreta",
+      "Finita",
+      "σ-finita y invariante por traslaciones"
+    ],
+    "correctAnswer": "σ-finita y invariante por traslaciones"
   }
 ]
