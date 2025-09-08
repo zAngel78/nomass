@@ -27,7 +27,7 @@ const SYSTEM_CHALLENGES = [
   {
     id: 'quiz_master',
     name: 'Maestro del Quiz',
-    description: 'Completa 20 quizzes con 80% de precisión o más',
+    description: 'Completa 20 partes con 80% de precisión o más',
     type: 'performance',
     difficulty: 'medium',
     status: 'active',
@@ -48,7 +48,7 @@ const SYSTEM_CHALLENGES = [
   {
     id: 'perfect_week',
     name: 'Semana Perfecta',
-    description: 'Obtén 100% de aciertos en al menos 5 quizzes esta semana',
+    description: 'Obtén 100% de aciertos en al menos 5 partes esta semana',
     type: 'performance',
     difficulty: 'hard',
     status: 'active',
@@ -69,7 +69,7 @@ const SYSTEM_CHALLENGES = [
   {
     id: 'subject_specialist',
     name: 'Especialista en Matemáticas',
-    description: 'Completa 15 quizzes de Matemáticas con 90% de precisión',
+    description: 'Completa 15 partes de Matemáticas con 90% de precisión',
     type: 'subject',
     difficulty: 'medium',
     status: 'active',
@@ -91,7 +91,7 @@ const SYSTEM_CHALLENGES = [
   {
     id: 'speed_demon',
     name: 'Demonio de la Velocidad',
-    description: 'Completa 3 quizzes en menos de 2 minutos cada uno con 70% de precisión',
+    description: 'Completa 3 partes con alta precisión (70% o más)',
     type: 'speed',
     difficulty: 'hard',
     status: 'active',
@@ -113,7 +113,7 @@ const SYSTEM_CHALLENGES = [
   {
     id: 'knowledge_explorer',
     name: 'Explorador del Conocimiento',
-    description: 'Completa al menos 1 quiz en cada materia',
+    description: 'Completa al menos 1 parte en cada materia',
     type: 'exploration',
     difficulty: 'easy',
     status: 'active',
@@ -449,46 +449,80 @@ async function applyChallengeRewards(userId, rewards) {
 }
 
 async function getUserStats(userId) {
-  const allResults = await fileStorage.readFile('quiz_results');
-  const userResults = allResults.filter(result => result.userId === userId);
+  // Leer progreso de partes en lugar de quiz_results
+  const allProgressData = await fileStorage.readFile('user_progress');
+  const userProgressData = allProgressData.filter(progress => progress.userId === userId);
   
-  // Estadísticas básicas
-  const totalQuizzes = userResults.length;
-  const totalCorrectAnswers = userResults.reduce((sum, r) => sum + (r.correctAnswers || 0), 0);
-  const totalQuestions = userResults.reduce((sum, r) => sum + (r.totalQuestions || 10), 0);
-  const averageAccuracy = totalQuestions > 0 ? totalCorrectAnswers / totalQuestions : 0;
-  
-  // Quiz perfectos
-  const perfectQuizzes = userResults.filter(r => 
-    (r.correctAnswers || 0) === (r.totalQuestions || 10)
-  ).length;
-  
-  // Quizzes rápidos (menos de 2 minutos con 70% precisión)
-  const fastQuizzes = userResults.filter(r => 
-    (r.timeSpent || 0) < 120 && 
-    ((r.correctAnswers || 0) / (r.totalQuestions || 10)) >= 0.7
-  ).length;
+  let totalPartsCompleted = 0;
+  let totalScore = 0;
+  let totalPossibleScore = 0;
+  let perfectParts = 0;
+  let fastParts = 0; // Partes completadas con alta precisión rápidamente
   
   // Estadísticas por materia
   const subjects = ['Matemáticas', 'Castellano y Guaraní', 'Historia y Geografía', 'Legislación'];
   const subjectStats = {};
   
   subjects.forEach(subject => {
-    const subjectResults = userResults.filter(r => r.subject === subject);
-    const correctAnswers = subjectResults.reduce((sum, r) => sum + (r.correctAnswers || 0), 0);
-    const totalQuestions = subjectResults.reduce((sum, r) => sum + (r.totalQuestions || 10), 0);
-    
     subjectStats[subject] = {
-      quizzesCompleted: subjectResults.length,
-      averageAccuracy: totalQuestions > 0 ? correctAnswers / totalQuestions : 0
+      quizzesCompleted: 0,
+      averageAccuracy: 0,
+      totalScore: 0,
+      totalPossibleScore: 0
     };
   });
   
+  // Procesar cada entrada de progreso
+  userProgressData.forEach(progressEntry => {
+    const { subject, progress } = progressEntry;
+    
+    // Contar partes completadas por entrada
+    Object.values(progress).forEach(partData => {
+      if (partData.completed) {
+        totalPartsCompleted++;
+        const partScore = partData.score || 0;
+        // Obtener configuración dinámica por materia
+        const maxPossibleScore = getQuestionsPerPart(subject);
+        
+        totalScore += partScore;
+        totalPossibleScore += maxPossibleScore;
+        
+        // Actualizar estadísticas de materia
+        if (subjectStats[subject]) {
+          subjectStats[subject].quizzesCompleted++;
+          subjectStats[subject].totalScore += partScore;
+          subjectStats[subject].totalPossibleScore += maxPossibleScore;
+        }
+        
+        // Parte perfecta (100% de aciertos)
+        if (partScore === maxPossibleScore) {
+          perfectParts++;
+        }
+        
+        // Parte "rápida" (alta precisión - >70%)
+        const accuracy = partScore / maxPossibleScore;
+        if (accuracy >= 0.7) {
+          fastParts++;
+        }
+      }
+    });
+  });
+  
+  // Calcular promedios por materia
+  subjects.forEach(subject => {
+    const stats = subjectStats[subject];
+    stats.averageAccuracy = stats.totalPossibleScore > 0 
+      ? stats.totalScore / stats.totalPossibleScore 
+      : 0;
+  });
+  
+  const averageAccuracy = totalPossibleScore > 0 ? totalScore / totalPossibleScore : 0;
+  
   return {
-    totalQuizzes,
+    totalQuizzes: totalPartsCompleted, // Equivale a partes completadas
     averageAccuracy,
-    perfectQuizzes,
-    fastQuizzes,
+    perfectQuizzes: perfectParts,
+    fastQuizzes: fastParts,
     subjectStats
   };
 }
@@ -516,6 +550,18 @@ async function checkForCompletedChallenges(userId) {
   }
   
   return completedChallenges;
+}
+
+// Obtener número de preguntas por parte según la materia
+function getQuestionsPerPart(subject) {
+  const subjectConfig = {
+    'Matemáticas': 12,  // 240 preguntas ÷ 20 partes = 12 preguntas/parte
+    'Castellano y Guaraní': 20,
+    'Historia y Geografía': 20,
+    'Legislación': 20
+  };
+  
+  return subjectConfig[subject] || 20; // Default 20 si no está configurado
 }
 
 module.exports = router;
