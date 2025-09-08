@@ -12,20 +12,32 @@ router.get('/', async (req, res) => {
     let sortedUsers;
     
     if (subject) {
-      // Ranking por materia específica
+      // Ranking por materia específica basado en sistema de partes
       sortedUsers = users
-        .filter(user => user.subjectScores && user.subjectScores[subject])
-        .map(user => ({
-          id: user.id,
-          name: user.name,
-          avatar: user.avatar,
-          score: user.subjectScores[subject].score || 0,
-          gamesPlayed: user.subjectScores[subject].gamesPlayed || 0,
-          bestScore: user.subjectScores[subject].bestScore || 0,
-          accuracy: user.subjectScores[subject].gamesPlayed > 0 
-            ? (user.subjectScores[subject].correctAnswers / (user.subjectScores[subject].gamesPlayed * 10)) * 100
-            : 0
-        }))
+        .filter(user => {
+          // Filtrar usuarios que tengan partes completadas en esta materia
+          if (!user.parts || !user.parts[subject]) return false;
+          const partsData = user.parts[subject];
+          const completedParts = Object.values(partsData).filter(part => part.completed);
+          return completedParts.length > 0;
+        })
+        .map(user => {
+          const partsData = user.parts[subject];
+          const completedParts = Object.values(partsData).filter(part => part.completed);
+          const totalScore = completedParts.reduce((sum, part) => sum + (part.bestScore || 0), 0);
+          const totalQuestions = completedParts.reduce((sum, part) => sum + (part.totalQuestions || 0), 0);
+          const totalCorrect = completedParts.reduce((sum, part) => sum + (part.bestScore || 0), 0);
+          
+          return {
+            id: user.id,
+            name: user.name,
+            avatar: user.avatar || '👤',
+            score: totalScore,
+            gamesPlayed: completedParts.length,
+            bestScore: Math.max(...completedParts.map(part => part.bestScore || 0), 0),
+            accuracy: totalQuestions > 0 ? Math.round((totalCorrect / totalQuestions) * 100) : 0
+          };
+        })
         .sort((a, b) => b.score - a.score);
     } else {
       // Ranking global por puntos totales

@@ -172,6 +172,28 @@ router.post('/complete', async (req, res) => {
         
         console.log('🎯 Resultado de completePart:', JSON.stringify(result, null, 2));
 
+        // Actualizar totalPoints del usuario si la parte fue completada exitosamente
+        if (result.partCompleted && result.pointsEarned > 0) {
+            try {
+                const fileStorage = require('../utils/fileStorage');
+                const users = await fileStorage.readFile('users');
+                const userIndex = users.findIndex(u => u.id === userId);
+                
+                if (userIndex !== -1) {
+                    users[userIndex].totalPoints = (users[userIndex].totalPoints || 0) + result.pointsEarned;
+                    users[userIndex].dailyPoints = (users[userIndex].dailyPoints || 0) + result.pointsEarned;
+                    users[userIndex].updated_at = new Date().toISOString();
+                    
+                    await fileStorage.writeFile('users', users);
+                    console.log(`✅ Usuario ${userId} actualizado: +${result.pointsEarned} puntos (total: ${users[userIndex].totalPoints})`);
+                } else {
+                    console.warn(`⚠️ Usuario ${userId} no encontrado para actualizar puntos`);
+                }
+            } catch (error) {
+                console.error('❌ Error actualizando totalPoints del usuario:', error);
+            }
+        }
+
         // Obtener información actualizada de las partes (reutilizamos allQuestions)
         const partsInfo = await examPartsManager.getPartsInfo(userId, subject, examType, allQuestions.length);
 
