@@ -127,7 +127,9 @@ router.post('/login', async (req, res) => {
     user.lastLogin = now.toISOString();
     user.canChooseSubject = user.dailyPoints >= 100; // Requiere 100 puntos diarios
     // Usuarios VIP tienen acceso sin requisitos, otros necesitan 180 puntos y 3 días de racha
+    console.log(`🔍 Usuario ${user.username}: hasVipAccess=${user.hasVipAccess}, totalPoints=${user.totalPoints}, loginStreak=${user.loginStreak}`);
     user.canTakeGeneralExam = (user.hasVipAccess === true) || (user.totalPoints >= 180 && user.loginStreak >= 3);
+    console.log(`✅ canTakeGeneralExam = ${user.canTakeGeneralExam}`);
     user.updated_at = now.toISOString();
 
     // Actualizar usuario en archivo
